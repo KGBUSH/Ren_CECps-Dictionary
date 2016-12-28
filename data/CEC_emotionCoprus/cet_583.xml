@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.8</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.8</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>雪 </Topic>
+    <title T="看雪">
+        <Segmented_S>看/v  雪/n</Segmented_S>
+        <S_Length>2</S_Length>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.9</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>雪 打雪仗</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="冬天的雪是美丽的。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>冬天/t  的/u  雪/n  是/v  美丽/a  的/u  。</Segmented_S>
+            <S_Length>9</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="清晨起来，看到点点雪花在天空中飞舞，下雪了，突然快乐得象个孩子，忍不住跑到院中，用手去接，化了，捧在手心象一颗颗晶莹闪亮的珍珠。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 清晨/t  起来/v  ，/w  看到/v  点点/q  雪花/n  在天/v  空中/s  飞舞/v  ，/w  下雪/v  了/y  ，/w  突然/ad  快乐/a  得/u  象/Ng  个/q  孩子/n  ，/w  忍/v  不/d  住/v  跑/v  到/v  院中/n  ，/w  用/p  手/n  去/v  接/v  ，/w  化/v  了/u  ，/w  捧/v  在/p  手心/n  象/Ng  一颗颗/m  晶莹/a  闪亮/v  的/u  珍珠/n  。</Segmented_S>
+            <S_Length>64</S_Length>
+            <Keywords start="-1" position="22" end="-1" Surprise="0.7" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">突然</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">快乐</Keywords>
+            <Keywords start="32" position="32" end="34" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">忍</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">晶莹</Keywords>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">闪亮</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">珍珠</Keywords>
+            <Rhetoric E_type="高兴">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="仰起头，任雪花飘落在脸上，凉凉的，似乎还在脸上停留了一会儿，化成了水才往下淌，淌进嘴里，甜甜的，别样的一种滋味。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 仰/v  起头/n  ，/w  任/nr  雪花/nr  飘落/v  在/p  脸/n  上/f  ，/w  凉凉的/v  ，/w  似乎/d  还/d  在/p  脸上/s  停留/v  了/u  一会儿/m  ，/w  化/v  成/v  了/u  水/n  才/d  往/p  下/f  淌/v  ，/w  淌/v  进/v  嘴里/s  ，/w  甜甜的/v  ，/w  别样/r  的/u  一/m  种/q  滋味/n  。</Segmented_S>
+            <S_Length>56</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">凉凉的</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">甜甜的</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="记得小时候在雪地里打雪仗，伙伴们相互追赶着掷雪球，雪球掷到身上就炸开了，一身一脸都是，但并不疼，被击中的伙伴还愣呵呵地傻笑着，一点也不责怪。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 记得/v  小时候/t  在/p  雪地/n  里/f  打雪仗/v  ，/w  伙伴/n  们/k  相互/d  追赶/v  着/u  掷/v  雪球/n  ，/w  雪球/v  掷/n  到/v  身上/s  就/d  炸开/v  了/u  ，/w  一身/n  一脸/n  都/d  是/v  ，/w  但/c  并不/d  疼/v  ，/w  被/p  击中/v  的/u  伙伴/n  还/d  愣/v  呵/n  呵/y  地/u  傻笑/v  着/u  ，/w  一点/m  也/d  不/d  责怪/v  。</Segmented_S>
+            <S_Length>70</S_Length>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">炸开</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">疼</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">傻笑</Keywords>
+            <Keywords start="-1" position="67" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.8">责怪</Keywords>
+            <degree_adv start="-1" position="40" modifier_word_position="41" modifier_word_length="1" end="-1">都</degree_adv>
+            <degree_adv start="63" position="63" modifier_word_position="66" modifier_word_length="3" end="65">一点</degree_adv>
+            <noword start="-1" position="44" modifier_word_position="46" modifier_word_length="1" end="-1">并不</noword>
+            <noword start="-1" position="66" modifier_word_position="67" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="43" next_position="0" modifier_word_position="44" modifier_word_length="3" end="-1">但</E_conjunction>
+            <E_phrase start="55" position="55" end="60" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">愣</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="脸和手都冻得通红，但并不冷，乡下许多人，开始玩雪时，专门用手搓雪，直到把手搓红了，就感觉不冷了。">
+            <S_no>第1段第5句标注</S_no>
+            <Segmented_S> 脸/n  和/c  手/n  都/d  冻/v  得/u  通红/z  ，/w  但/c  并不/d  冷/a  ，/w  乡下/s  许多/m  人/n  ，/w  开始/v  玩/v  雪/n  时/Ng  ，/w  专门/d  用/v  手/n  搓/v  雪/n  ，/w  直到/v  把手/n  搓/v  红/a  了/u  ，/w  就/d  感觉/v  不/d  冷/a  了/y  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">冻</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0.4" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">冷</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0.3" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">冷</Keywords>
+            <noword start="-1" position="10" modifier_word_position="12" modifier_word_length="1" end="-1">并不</noword>
+            <noword start="-1" position="44" modifier_word_position="45" modifier_word_length="1" end="-1">不</noword>
+            <E_conjunction start="-1" position="9" next_position="9" modifier_word_position="10" modifier_word_length="3" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="相互奔跑起来运动，身上反而热烘烘的，只是当时并不觉得，一旦歇下来，雪沾在身上化了，特别是裤腿和鞋，湿漉漉，风一吹刺骨的疼，回到家，少不了受父母的骂。">
+            <S_no>第1段第6句标注</S_no>
+            <Segmented_S> 相互/d  奔跑/v  起来/v  运动/n  ，/w  身上/s  反而/d  热烘烘/v  的/u  ，/w  只是/c  当时/t  并/d  不/d  觉得/v  ，/w  一旦/d  歇/v  下/v  来/v  ，/w  雪/n  沾/v  在身/v  上/f  化/v  了/u  ，/w  特别/d  是/v  裤腿/n  和/c  鞋/n  ，/w  湿漉漉/v  ，/w  风/n  一/m  吹/v  刺骨/v  的/u  疼/n  ，/w  回到/v  家/n  ，/w  少不了/l  受/v  父母/n  的/u  骂/n  。</Segmented_S>
+            <S_Length>74</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">热烘烘</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">湿漉漉</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">刺骨</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">疼</Keywords>
+            <Keywords start="-1" position="72" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.8">骂</Keywords>
+            <noword start="-1" position="23" modifier_word_position="24" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="18" next_position="18" modifier_word_position="20" modifier_word_length="6" end="-1">只是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="小时候为了不让父母骂，就穿在身上不回去，母亲知道既心疼又难过，这孩子怎么这么呆呢？">
+            <S_no>第1段第7句标注</S_no>
+            <Segmented_S> 小时候/t  为了/p  不/d  让/v  父母/n  骂/v  ，/w  就/d  穿/v  在/p  身上/s  不/d  回去/v  ，/w  母亲/n  知道/v  既/c  心疼/v  又/d  难过/a  ，/w  这/r  孩子/n  怎么/r  这么/r  呆/v  呢/y  ？</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.8">骂</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">心疼</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0.8" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">难过</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">呆</Keywords>
+            <noword start="-1" position="5" modifier_word_position="6" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="16" modifier_word_position="17" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="冻坏了怎么办呵！">
+            <S_no>第1段第8句标注</S_no>
+            <Segmented_S> 冻/v  坏/a  了/u  怎么办/r  呵/v  ！</Segmented_S>
+            <S_Length>8</S_Length>
+            <E_phrase start="0" position="0" end="2" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">冻</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <punctuation E_type="焦虑">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.9</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>雪人 捉麻雀 打猎</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="最开心的是和大人一起滚雪球，做雪人，做好了，给他鼻子上插一根胡萝卜，戴一顶破毡帽，围一条破围巾，然后在他手上插一根破扫帚，多少天不化，麻雀们以为是赶它们，吓得几天不敢来，惹得我们哈哈大笑。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>最/d  开心/a  的/u  是/v  和/p  大人/n  一/m  起/q  滚雪球/v  ，/w  做/v  雪人/n  ，/w  做好/v  了/y  ，/w  给/p  他/r  鼻子/n  上/f  插/v  一/m  根/q  胡萝卜/n  ，/w  戴/nr  一/nr  顶/m  破/v  毡帽/a  ，/w  围/v  一/m  条/q  破/v  围巾/n  ，/w  然后/c  在/p  他/r  手上/s  插/v  一/m  根/q  破/a  扫帚/n  ，/w  多少/r  天/q  不/d  化/v  ，/w  麻雀/n  们/k  以为/v  是/v  赶/v  它们/r  ，/w  吓得/v  几/m  天/q  不/d  敢/v  来/v  ，/w  惹/v  得/u  我们/r  哈哈大笑/v  。</Segmented_S>
+            <S_Length>94</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="1.0" Hate="0" Expect="0" Anxiety="0" Anger="0">开心</Keywords>
+            <Keywords start="-1" position="73" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">赶</Keywords>
+            <Keywords start="-1" position="77" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">吓得</Keywords>
+            <Keywords start="-1" position="89" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.9" Hate="0" Expect="0" Anxiety="0" Anger="0">哈哈大笑</Keywords>
+            <degree_adv start="-1" position="0" modifier_word_position="1" modifier_word_length="2" end="-1">最</degree_adv>
+            <noword start="-1" position="64" modifier_word_position="65" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="81" modifier_word_position="82" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="48" next_position="48" modifier_word_position="50" modifier_word_length="10" end="-1">然后</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.9</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="捉麻雀也是件快乐的事情，这要很大的耐心，在家门口的院中扫出一块空地，一块很大的匾或筛子，用一根木条支撑着，在匾或筛子底下放些稻谷，然后用一根长长的绳子系在木条上，躲得远远的，看到小鸟们左右徘徊，终于禁不住诱惑，跑进里面吃食。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 捉/v  麻雀/n  也/d  是/v  件/q  快乐/a  的/u  事情/n  ，/w  这要/v  很/d  大/a  的/u  耐心/a  ，/w  在/p  家门口/s  的/u  院中/n  扫/v  出/v  一/m  块/q  空地/n  ，/w  一/m  块/q  很/d  大/a  的/u  匾/n  或/c  筛子/n  ，/w  用/p  一/m  根/q  木条/n  支撑/v  着/u  ，/w  在/p  匾/n  或/c  筛子/n  底下/f  放/v  些/q  稻谷/n  ，/w  然后/c  用/p  一/m  根/q  长长的/z  绳子/n  系/v  在/p  木条/n  上/f  ，/w  躲/v  得/u  远远/d  的/u  ，/w  看到/v  小鸟/n  们/k  左右/m  徘徊/v  ，/w  终于/d  禁不住/v  诱惑/v  ，/w  跑/v  进/v  里面/f  吃/v  食/v  。</Segmented_S>
+            <S_Length>112</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.9" Hate="0" Expect="0" Anxiety="0" Anger="0">快乐</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">耐心</Keywords>
+            <Keywords start="-1" position="99" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">禁不住</Keywords>
+            <Keywords start="-1" position="102" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">诱惑</Keywords>
+            <degree_adv start="-1" position="14" modifier_word_position="15" modifier_word_length="1" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="36" modifier_word_position="37" modifier_word_length="1" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="65" next_position="65" modifier_word_position="67" modifier_word_length="13" end="-1">然后</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="当它们吃得正欢的时候，一拉绳，照住了，那种兴奋不言于表。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 当/p  它们/r  吃/v  得/u  正/d  欢/a  的/u  时候/n  ，/w  一/m  拉/v  绳/Ng  ，/w  照/p  住/v  了/u  ，/w  那种/r  兴奋/a  不/d  言/Vg  于/p  表/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">欢</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.9" Hate="0" Expect="0" Anxiety="0" Anger="0">兴奋</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.9</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="年青的人喜欢打鸟，冬天许多鸟站在树上或电线上一动不动，是最好的目标。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 年青/a  的/u  人/n  喜欢/v  打/v  鸟/n  ，/w  冬天/t  许多/m  鸟/n  站/n  在/p  树上/s  或/c  电线/n  上/f  一动不动/v  ，/w  是/v  最/d  好/a  的/u  目标/n  。</Segmented_S>
+            <S_Length>34</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜欢</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <degree_adv start="-1" position="28" modifier_word_position="29" modifier_word_length="1" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="人们捕鱼，在河中的冰块砸一个洞，鱼就跑过来透气，看得清清楚楚，一叉就叉住了。">
+            <S_no>第2段第5句标注</S_no>
+            <Segmented_S> 人们/n  捕鱼/v  ，/w  在/p  河/n  中/f  的/u  冰块/n  砸/v  一个/m  洞/n  ，/w  鱼/n  就/d  跑/v  过来/v  透气/v  ，/w  看/v  得/u  清清楚楚/z  ，/w  一叉/v  就/d  叉/v  住/v  了/u  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="猎人捕野兔等小动物，它们总是在雪地上留下痕迹。">
+            <S_no>第2段第6句标注</S_no>
+            <Segmented_S> 猎人/n  捕/v  野兔/n  等/u  小/a  动物/n  ，/w  它们/r  总是/d  在/p  雪地/n  上/f  留下/v  痕迹/n  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <degree_adv start="-1" position="12" modifier_word_position="14" modifier_word_length="8" end="-1">总是</degree_adv>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.3</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="而我们在雪地上跑，看到树就摇，鸟一轰而散，树上的积雪一倾而下，躲闪不及浑身都是，我们拍去身上的雪，又去摇另外一棵树。">
+            <S_no>第2段第7句标注</S_no>
+            <Segmented_S> 而/c  我们/r  在/p  雪地/n  上/f  跑/v  ，/w  看到/v  树/n  就/d  摇/v  ，/w  鸟/n  一轰/n  而/c  散/v  ，/w  树上/s  的/u  积雪/n  一/m  倾/v  而/c  下/v  ，/w  躲闪/v  不/d  及/v  浑身/c  都/d  是/v  ，/w  我们/r  拍/v  去/v  身上/s  的/u  雪/n  ，/w  又去/v  摇/n  另外/v  一棵树/r  。</Segmented_S>
+            <S_Length>58</S_Length>
+            <Keywords start="16" position="16" end="19" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">一轰</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="7" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="童年总是快乐的，雪没有带给我们寒冷，尽是美好的记忆。">
+            <S_no>第2段第8句标注</S_no>
+            <Segmented_S> 童年/t  总是/d  快乐/a  的/u  ，/w  雪/n  没有/d  带/v  给/p  我们/r  寒冷/a  ，/w  尽/v  是/v  美好/a  的/u  记忆/n  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.9" Hate="0" Expect="0" Anxiety="0" Anger="0">快乐</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.8" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">寒冷</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.9" Joy="0.9" Hate="0" Expect="0" Anxiety="0" Anger="0">美好</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="4" modifier_word_length="3" end="-1">总是</degree_adv>
+            <noword start="-1" position="9" modifier_word_position="15" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.9</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>雪</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="天空很灰暗，雪不大，它们斜飞着象一个个小精灵，落到地上都没了，好象有魔力，神奇般消失。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>天空/n  很/d  灰暗/a  ，/w  雪/n  不/d  大/a  ，/w  它们/r  斜/v  飞/v  着/u  象/Ng  一个个/m  小精灵/n  ，/w  落/v  到/v  地上/s  都/d  没/d  了/y  ，/w  好/a  象/Ng  有/v  魔力/n  ，/w  神奇/a  般/u  消失/v  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0.4" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">灰暗</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">小精灵</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="3" modifier_word_length="2" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="27" modifier_word_position="28" modifier_word_length="2" end="-1">都</degree_adv>
+            <noword start="-1" position="7" modifier_word_position="8" modifier_word_length="1" end="-1">不</noword>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="倒盼望着下大一点，覆盖住整个大地，那种白茫茫气势和雄伟，简直是一种奇观。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 倒/v  盼望/v  着/u  下/f  大/a  一/m  点/q  ，/w  覆盖住/v  整个/b  大地/n  ，/w  那种/r  白茫茫/n  气势/n  和/c  雄伟/a  ，/w  简直/d  是/v  一/m  种/q  奇观/n  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.9" Anxiety="0" Anger="0">盼望</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">雄伟</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">奇观</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我觉得冬天最美的应该是雪，如果能观赏到这样的美景，所受到的寒冷我认为还是值得的。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 我/r  觉得/v  冬天/t  最/d  美/a  的/u  应该/v  是/v  雪/n  ，/w  如果/c  能/v  观赏/v  到/v  这样/r  的/u  美景/n  ，/w  所/u  受到/v  的/u  寒冷/a  我/r  认为/v  还是/d  值得/v  的/u  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美景</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0.4" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">寒冷</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">值得</Keywords>
+            <degree_adv start="-1" position="5" modifier_word_position="6" modifier_word_length="1" end="-1">最</degree_adv>
+            <E_conjunction start="-1" position="13" next_position="13" modifier_word_position="15" modifier_word_length="9" end="-1">如果</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="许多的伟大都要经受艰苦的磨难，才会成功。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 许多/m  的/u  伟大/a  都/d  要/v  经受/v  艰苦/a  的/u  磨难/n  ，/w  才/c  会/v  成功/a  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.9" Anger="0">艰苦</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">磨难</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">成功</Keywords>
+            <degree_adv start="-1" position="5" modifier_word_position="6" modifier_word_length="1" end="-1">都</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="害怕寒冷的人，不会看到雪，或者象候鸟一样长途跋涉，去越冬。">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> 害怕/v  寒冷/a  的/u  人/n  ，/w  不会/v  看到/v  雪/n  ，/w  或者/c  象/v  候鸟/n  一样/a  长途跋涉/i  ，/w  去/v  越冬/v  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.9" Anger="0">害怕</Keywords>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0.8" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">寒冷</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">长途跋涉</Keywords>
+            <noword start="-1" position="7" modifier_word_position="9" modifier_word_length="3" end="-1">不会</noword>
+            <Rhetoric E_type="焦虑">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="没有这样坚强的性格，爱情也不可靠，不能患难与共，何况挺过了冬天，就是美丽的春天。">
+            <S_no>第3段第6句标注</S_no>
+            <Segmented_S> 没有/v  这样/r  坚强/a  的/u  性格/n  ，/w  爱情/n  也/d  不/d  可靠/a  ，/w  不/d  能/v  患难与共/v  ，/w  何况/c  挺/v  过/d  了/u  冬天/t  ，/w  就/d  是/v  美丽/a  的/u  春天/t  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">坚强</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">可靠</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">患难与共</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <noword start="-1" position="0" modifier_word_position="4" modifier_word_length="2" end="-1">没有</noword>
+            <noword start="-1" position="13" modifier_word_position="14" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="17" modifier_word_position="19" modifier_word_length="4" end="-1">不</noword>
+            <E_conjunction start="-1" position="24" next_position="24" modifier_word_position="26" modifier_word_length="5" end="-1">何况</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="要想走进春天，必定要走过冬天。">
+            <S_no>第3段第7句标注</S_no>
+            <Segmented_S> 要/v  想/v  走/v  进/v  春天/t  ，/w  必定/d  要/v  走过/v  冬天/t  。</Segmented_S>
+            <S_Length>15</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">想</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="在冬天的日子里，我们去看雪。">
+            <S_no>第3段第8句标注</S_no>
+            <Segmented_S> 在/p  冬天/t  的/u  日子/n  里/f  ，/w  我们/r  去/v  看/v  雪/n  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

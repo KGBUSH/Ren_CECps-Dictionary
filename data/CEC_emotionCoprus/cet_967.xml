@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <title T="吃圣诞大餐　观巴黎夜景">
+        <Segmented_S>吃/v  圣诞/n  大餐　观/v  巴黎/ns  夜景/n</Segmented_S>
+        <S_Length>11</S_Length>
+        <Keywords start="3" position="3" end="4" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大餐　观</Keywords>
+        <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">夜景</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="每年圣诞节，两儿都买圣诞礼物，回家吃圣诞大餐。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>每年/r  圣诞节/v  ，/w  两/m  儿/Ng  都/d  买/v  圣诞/n  礼物/n  ，/w  回家/v  吃/v  圣诞/n  大餐/v  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">礼物</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大餐</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们不是教徒，但也入乡随俗。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 我们/r  不/d  是/v  教徒/n  ，/w  但/c  也/d  入乡随俗/v  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">入乡随俗</Keywords>
+            <noword start="-1" position="2" modifier_word_position="4" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="7" next_position="7" modifier_word_position="8" modifier_word_length="5" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>晚餐</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="今年因为大儿子要去德国去与其妻过圣诞节，所以小儿决定提前于２０号星期六晚上到高级法国餐馆吃晚餐。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>今年/t  因为/c  大儿子/n  要/v  去/v  德国/ns  去/v  与/p  其/r  妻/Ng  过/u  圣诞节/n  ，/w  所以/c  小儿/n  决定/v  提前/v  于/p  ２０/n  号/n  星期六/n  晚上/t  到/v  高级/a  法国/ns  餐馆/n  吃/v  晚餐/n  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="1" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高级</Keywords>
+            <E_conjunction start="-1" position="2" next_position="20" modifier_word_position="4" modifier_word_length="15" end="-1">因为</E_conjunction>
+            <E_conjunction start="-1" position="20" next_position="2" modifier_word_position="22" modifier_word_length="25" end="-1">所以</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="22" end="-1">小儿</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="此餐馆古香古色，有较悠久的历史。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 此/r  餐馆/n  古香古色/n  ，/w  有/v  较/d  悠久/a  的/u  历史/n  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">古香古色</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悠久</Keywords>
+            <degree_adv start="-1" position="9" modifier_word_position="10" modifier_word_length="2" end="-1">较</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="每个套餐要３８欧元，酒水另计。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 每个/r  套餐/n  要/v  ３８/v  欧元/n  ，/w  酒水/n  另/d  计/v  。</Segmented_S>
+            <S_Length>15</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这个价钱对我们来说已经很贵，但对法餐而言，这只是中等水平，更高级的每位要１００欧元左右。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 这个/r  价钱/n  对/p  我们/r  来说/u  已经/d  很/d  贵/a  ，/w  但/c  对/p  法餐/n  而言/u  ，/w  这只/v  是/v  中等/b  水平/n  ，/w  更/d  高级/a  的/u  每位/r  要/v  １００/v  欧元/n  左右/m  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.0" Expect="0" Anxiety="0.4" Anger="0">贵</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高级</Keywords>
+            <degree_adv start="-1" position="11" modifier_word_position="12" modifier_word_length="2" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="29" modifier_word_position="30" modifier_word_length="2" end="-1">更</degree_adv>
+            <E_conjunction start="-1" position="14" next_position="14" modifier_word_position="15" modifier_word_length="28" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.4</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>西餐</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="不管价钱多少，西餐都是一个头盘，一个正餐，一份甜品，越贵越吃不饱，其区别只在一个“精”字。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>不管/c  价钱/n  多少/r  ，/w  西餐/n  都/d  是/v  一个/m  头/n  盘/v  ，/w  一个/m  正餐/n  ，/w  一/m  份/q  甜品/n  ，/w  越/d  贵/a  越/d  吃/v  不/d  饱/a  ，/w  其/r  区别/v  只/d  在/p  一个/m  “/w  精/a  ”/w  字/n  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.2" Expect="0" Anxiety="0" Anger="0">贵</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">精</Keywords>
+            <E_conjunction start="-1" position="0" next_position="9" modifier_word_position="2" modifier_word_length="4" end="-1">不管</E_conjunction>
+            <E_conjunction start="-1" position="26" next_position="28" modifier_word_position="27" modifier_word_length="1" end="-1">越</E_conjunction>
+            <E_conjunction start="-1" position="28" next_position="26" modifier_word_position="29" modifier_word_length="3" end="-1">越</E_conjunction>
+            <E_phrase start="29" position="29" end="31" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">吃</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="高级餐馆之所以高级，除了选料精美外，就是每道菜都搞一些特别的花式，务求精益求精，如在雪糕上加上两只耳朵、一条尾巴，变成一只老鼠。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 高级/a  餐馆/n  之所以/c  高级/a  ，/w  除了/p  选料/n  精美/a  外/f  ，/w  就/d  是/v  每/r  道/q  菜/n  都/d  搞/v  一些/m  特别/a  的/u  花式/n  ，/w  务求/v  精益求精/n  ，/w  如/v  在/p  雪糕/n  上/f  加上/v  两/m  只/q  耳朵/n  、/w  一/m  条/q  尾巴/n  ，/w  变成/v  一/m  只/q  老鼠/n  。</Segmented_S>
+            <S_Length>64</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高级</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高级</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">精美</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">精益求精</Keywords>
+            <E_conjunction start="-1" position="4" next_position="4" modifier_word_position="7" modifier_word_length="2" end="-1">之所以</E_conjunction>
+            <E_conjunction start="-1" position="10" next_position="18" modifier_word_position="12" modifier_word_length="5" end="-1">除了</E_conjunction>
+            <E_conjunction start="18" position="18" next_position="10" modifier_word_position="20" modifier_word_length="19" end="19">就</E_conjunction>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="吃西餐，除了吃艺术外，就是吃情调，使人心旷神怡。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 吃/v  西餐/n  ，/w  除了/p  吃/v  艺术/n  外/f  ，/w  就/d  是/v  吃/v  情调/n  ，/w  使/v  人/n  心旷神怡/i  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">艺术</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">情调</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.7" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">心旷神怡</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这顿晚餐四人共吃了近２００欧元，相当于２０００元人民币，实在有些浪费，不过两只“胡狲”高兴就可，这是他两的一片孝心。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 这/r  顿/q  晚餐/n  四/m  人/n  共/d  吃/v  了/u  近/v  ２００/m  欧元/n  ，/w  相当/v  于/p  ２０００/n  元/q  人民币/n  ，/w  实在/d  有些/r  浪费/v  ，/w  不过/c  两/m  只/q  “/w  胡/nr  狲/nr  ”/w  高兴/a  就/d  可/v  ，/w  这/r  是/v  他/r  两/m  的/u  一/m  片/q  孝心/n  。</Segmented_S>
+            <S_Length>58</S_Length>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">浪费</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">高兴</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">孝心</Keywords>
+            <degree_adv start="-1" position="28" modifier_word_position="32" modifier_word_length="2" end="-1">实在</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="结账时，小儿不肯给其兄合出，硬要他一个人付款。">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> 结账/v  时/Ng  ，/w  小儿/n  不肯/v  给/p  其/r  兄/n  合/v  出/v  ，/w  硬/d  要/v  他/r  一个/m  人/n  付款/v  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">不肯</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="4" end="-1">小儿</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="他一个人争着出钱也好，反正他属高薪阶层，且未成家，富得流油！">
+            <S_no>第3段第6句标注</S_no>
+            <Segmented_S> 他/r  一个/m  人/n  争/v  着/u  出钱/v  也好/v  ，/w  反正/d  他/r  属/v  高薪/n  阶层/n  ，/w  且/c  未成/n  家/n  ，/w  富/a  得/u  流油/i  ！</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">也好</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高薪</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">富</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">！</Keywords>
+            <noword start="21" position="21" modifier_word_position="22" modifier_word_length="2" end="21">未成</noword>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="他们兄弟两人，还满腹密圈，为了表示孝心，老是想我们两人趁圣诞、新年期间到莫斯科旅行，其理由是莫斯科以前是革命中心，适合我们去参观、去怀旧。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>他们/r  兄弟/n  两/m  人/n  ，/w  还/d  满/a  腹/Ng  密/n  圈/v  ，/w  为了/p  表示/v  孝心/v  ，/w  老是/d  想/v  我们/r  两/m  人/n  趁/p  圣诞/n  、/w  新年/t  期间/f  到/v  莫斯科/ns  旅行/v  ，/w  其/r  理由/n  是/v  莫斯科/ns  以前/f  是/v  革命/vn  中心/n  ，/w  适合/v  我们/r  去/v  参观/v  、/w  去/v  怀旧/v  。</Segmented_S>
+            <S_Length>69</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">孝心</Keywords>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">适合</Keywords>
+            <Keywords start="-1" position="66" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">怀旧</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="他们可能没有想到，此时的莫斯科正是冰天雪地，而且现在黑道横行，很不安全，巴黎的旅行社都不敢组团去。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 他们/r  可能/v  没有/v  想到/v  ，/w  此时/r  的/u  莫斯科/ns  正是/v  冰天雪地/v  ，/w  而且/c  现在/t  黑道/n  横行/v  ，/w  很/d  不/d  安全/a  ，/w  巴黎/ns  的/u  旅行社/n  都/d  不/d  敢/v  组团/v  去/v  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">冰天雪地</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0.6" Anger="0">黑道</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">安全</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">敢</Keywords>
+            <degree_adv start="-1" position="31" modifier_word_position="32" modifier_word_length="3" end="-1">很</degree_adv>
+            <noword start="-1" position="4" modifier_word_position="6" modifier_word_length="2" end="-1">没有</noword>
+            <noword start="-1" position="32" modifier_word_position="33" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="43" modifier_word_position="44" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="还是等明年春、夏，风和日丽时，到中国旅行，然后以中国为基地，再到韩、日、台；星、马、泰游玩较实际些。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 还是/c  等/u  明年/t  春/Tg  、/w  夏/Tg  ，/w  风和日丽/i  时/Ng  ，/w  到/p  中国/ns  旅行/v  ，/w  然后/c  以/p  中国/ns  为/v  基地/n  ，/w  再/d  到/p  韩/nr  、/w  日/j  、/w  台/j  ；/w  星/n  、/w  马/nr  、/w  泰/j  游玩/v  较/d  实际/a  些/q  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="u" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">等</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">风和日丽</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">游玩</Keywords>
+            <degree_adv start="-1" position="45" modifier_word_position="46" modifier_word_length="2" end="-1">较</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="至于欧洲诸国，随时都可以去，还是先远后近为佳。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 至于/p  欧洲/ns  诸国/n  ，/w  随时/d  都/d  可以/v  去/v  ，/w  还是/c  先/d  远/a  后/f  近/v  为/v  佳/a  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">佳</Keywords>
+            <degree_adv start="-1" position="9" modifier_word_position="10" modifier_word_length="2" end="-1">都</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.4</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.5</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="每年圣诞节的平安夜，我们都要开车去巴黎香舍丽榭大道等地看灯饰，二十多年来以成习惯。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>每年/r  圣诞节/v  的/u  平安夜/n  ，/w  我们/r  都/d  要/v  开车/v  去/v  巴黎/ns  香/n  舍/a  丽/Ng  榭/n  大道/n  等/u  地/n  看/v  灯饰/n  ，/w  二十/m  多/m  年/q  来/f  以成/v  习惯/n  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">灯饰</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="今年趁吃完圣诞大餐，顺便到巴黎各地转一转，看看巴黎之夜的灯饰也是好事。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 今年/t  趁/p  吃/v  完/v  圣诞/n  大餐/v  ，/w  顺便/d  到/v  巴黎/ns  各地/r  转/v  一转/n  ，/w  看看/v  巴黎/ns  之夜/n  的/u  灯饰/n  也/d  是/v  好事/n  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大餐</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">好事</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="想不到时已深夜１２时过后，香舍丽榭大道仍车水马龙，人头涌涌，堵车厉害，根本无法停车下来拍几张凯旋门的夜景。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 想/v  不/d  到时/v  已/d  深夜/v  １２时/t  过后/v  ，/w  香/a  舍/n  丽/v  榭/n  大道/n  仍/d  车水马龙/i  ，/w  人头/n  涌涌/v  ，/w  堵车/v  厉害/a  ，/w  根本/d  无法/v  停车/v  下来/v  拍/v  几/m  张/q  凯旋门/n  的/u  夜景/n  。</Segmented_S>
+            <S_Length>53</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0.3" Hate="0.0" Expect="0" Anxiety="0.0" Anger="0">车水马龙</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.0" Expect="0" Anxiety="0.6" Anger="0">堵车</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">夜景</Keywords>
+            <degree_adv start="-1" position="32" modifier_word_position="30" modifier_word_length="2" end="-1">厉害</degree_adv>
+            <noword start="-1" position="37" modifier_word_position="39" modifier_word_length="13" end="-1">无法</noword>
+            <E_phrase start="0" position="0" end="2" Surprise="0.5" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">想</E_phrase>
+            <E_phrase start="25" position="25" end="28" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.0" Expect="0" Anxiety="0.3" Anger="0">人头</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.5</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="随后，我们经名店街去巴黎大剧院，老佛爷和春天大百货商场总部浏览，最后去巴黎铁塔观夜景。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 随后/d  ，/w  我们/r  经/p  名/Ng  店/n  街/n  去/v  巴黎/ns  大/d  剧院/v  ，/w  老佛爷/v  和/c  春天/t  大/d  百货/v  商场/n  总部/n  浏览/v  ，/w  最后/f  去/v  巴黎/ns  铁塔/n  观/Vg  夜景/n  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">夜景</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="39" end="-1">随后</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="尽管这两年全部换上节能街灯，但巴黎还是巴黎，仍然不失其美丽与浪漫、潇洒的气派。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>尽管/c  这/r  两/m  年/q  全部/m  换上/v  节能/v  街灯/n  ，/w  但/c  巴黎/ns  还是/d  巴黎/ns  ，/w  仍然/d  不/d  失/v  其/r  美丽/a  与/c  浪漫/a  、/w  潇洒/a  的/u  气派/a  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">节能</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">浪漫</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">潇洒</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">气派</Keywords>
+            <noword start="-1" position="24" modifier_word_position="25" modifier_word_length="1" end="-1">不</noword>
+            <E_conjunction start="-1" position="0" next_position="14" modifier_word_position="2" modifier_word_length="11" end="-1">尽管</E_conjunction>
+            <E_conjunction start="-1" position="14" next_position="0" modifier_word_position="15" modifier_word_length="6" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="今年名店街路边的树上，全部挂上红通通的灯饰，而香舍丽榭大道却是一片银白，真的成了“火树银花”，别具一格。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 今年/t  名/Ng  店/n  街/n  路边/s  的/u  树上/s  ，/w  全部/m  挂/v  上/v  红通通/n  的/u  灯饰/n  ，/w  而/c  香/a  舍/n  丽/v  榭/n  大道/n  却/d  是/v  一/m  片/q  银白/n  ，/w  真的/d  成/v  了/u  “/w  火树银花/n  ”/w  ，/w  别具一格/i  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">灯饰</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">火树银花</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">别具一格</Keywords>
+            <E_conjunction start="-1" position="22" next_position="22" modifier_word_position="23" modifier_word_length="12" end="-1">而</E_conjunction>
+            <E_conjunction start="-1" position="29" next_position="29" modifier_word_position="31" modifier_word_length="4" end="-1">却</E_conjunction>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="老佛爷依然以古香古色的图案从楼顶到底层一片璀璨，而春天百货商场墙上闪烁着爆炸式的灯饰，刚好应验了近日在春天商场中发现怀疑爆炸物而虚惊一场的事连在一起，使人有点不吉祥的感觉。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 老佛爷/n  依然/z  以/p  古香古色/n  的/u  图案/n  从/p  楼顶/n  到/v  底层/n  一/m  片/q  璀璨/z  ，/w  而/c  春天/t  百货/n  商场/n  墙上/s  闪烁/v  着/u  爆炸式/b  的/u  灯饰/n  ，/w  刚好/n  应验/v  了/u  近日/t  在/p  春天/t  商场/n  中/f  发现/v  怀疑/v  爆炸物/v  而/c  虚惊/v  一场/n  的/u  事/n  连/d  在/p  一/m  起/q  ，/w  使/v  人/n  有/v  点/q  不/d  吉祥/v  的/u  感觉/n  。</Segmented_S>
+            <S_Length>86</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">古香古色</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="z" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">璀璨</Keywords>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">怀疑</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">爆炸物</Keywords>
+            <Keywords start="-1" position="64" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">虚惊</Keywords>
+            <Keywords start="-1" position="80" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">吉祥</Keywords>
+            <noword start="-1" position="79" modifier_word_position="80" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="24" next_position="24" modifier_word_position="25" modifier_word_length="49" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="最好看还是铁塔，晚上十二时过后，变成整座蓝色，身腰间闪着十二朵黄色的星星，象征欧盟的旗帜，可能是今年法国是欧盟轮值主席国有关吧。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>最/d  好看/a  还是/c  铁塔/n  ，/w  晚上/t  十二时/t  过/u  后/f  ，/w  变成/v  整座/n  蓝色/n  ，/w  身腰/v  间/f  闪/v  着/u  十二/m  朵/q  黄色/n  的/u  星星/n  ，/w  象征/v  欧盟/j  的/u  旗帜/n  ，/w  可能/v  是/v  今年/t  法国/ns  是/v  欧盟/j  轮值/vn  主席国/n  有关/vn  吧/y  。</Segmented_S>
+            <S_Length>64</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好看</Keywords>
+            <degree_adv start="-1" position="0" modifier_word_position="1" modifier_word_length="2" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.4</Love>
+        <Sorrow>0.3</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="惹大个巴黎市，只开车浏览了一少部份，已经花了两三个小时，回到家门，已是凌晨二点了。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>惹/v  大/a  个/q  巴黎市/n  ，/w  只/d  开车/v  浏览/v  了/u  一少/n  部/n  份/q  ，/w  已经/d  花/v  了/u  两三/m  个/q  小时/n  ，/w  回到/v  家/n  门/n  ，/w  已是/v  凌晨/t  二/m  点/q  了/y  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">浏览</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

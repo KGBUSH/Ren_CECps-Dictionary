@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.6</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.5</Love>
+    <Sorrow>0.5</Sorrow>
+    <Anxiety>0.5</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.8</Expect>
+    <Topic>贫穷 科技 希望</Topic>
+    <title T="地少不是农民贫穷的原因">
+        <Segmented_S>地/n  少/a  不/d  是/v  农民/n  贫穷/a  的/u  原因/n</Segmented_S>
+        <S_Length>11</S_Length>
+        <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0.7" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">贫穷</Keywords>
+        <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.2" Anger="0">原因</Keywords>
+        <noword start="2" position="2" modifier_word_position="4" modifier_word_length="7" end="3">不</noword>
+        <E_phrase start="0" position="0" end="1" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">地</E_phrase>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.8</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>收不抵支</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="据我所知，持“农民太穷是因为地少”论的人不在少数，应该是大多数，包括农民自己本身。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>据/p  我/r  所/u  知/v  ，/w  持/v  “/w  农民/n  太穷/v  是/v  因为/c  地/u  少/a  ”/w  论/Ng  的/u  人/n  不在少数/l  ，/w  应该/v  是/v  大多数/m  ，/w  包括/v  农民/n  自己/r  本身/r  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">太穷</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">不在少数</Keywords>
+            <E_conjunction start="-1" position="12" next_position="12" modifier_word_position="14" modifier_word_length="2" end="-1">因为</E_conjunction>
+            <E_phrase start="14" position="14" end="15" Surprise="0" Sorrow="0.4" POS="u" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">地</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="确实，在这些人看来，人均二三亩地，即使再高产，每亩地收入顶多也就千元左右，还要去掉农药、化肥等成本，这还没计算人工成本，所以农民收不抵支成了非常正常的社会现象了。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 确实/ad  ，/w  在/p  这些/r  人/n  看来/v  ，/w  人均/j  二三/m  亩/q  地/n  ，/w  即使/c  再/d  高产/v  ，/w  每亩/r  地/n  收入/v  顶多/n  也/d  就/d  千/m  元/q  左右/m  ，/w  还要/v  去掉/v  农药/n  、/w  化肥/n  等/u  成本/n  ，/w  这还/v  没/d  计算/v  人工/d  成本/n  ，/w  所以/c  农民/n  收/v  不/d  抵/v  支/v  成/v  了/u  非常/d  正常/a  的/u  社会/n  现象/n  了/y  。</Segmented_S>
+            <S_Length>81</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">高产</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">顶多</Keywords>
+            <degree_adv start="-1" position="70" modifier_word_position="72" modifier_word_length="2" end="-1">非常</degree_adv>
+            <noword start="-1" position="52" modifier_word_position="53" modifier_word_length="2" end="-1">没</noword>
+            <E_conjunction start="-1" position="17" next_position="17" modifier_word_position="19" modifier_word_length="3" end="-1">即使</E_conjunction>
+            <E_conjunction start="-1" position="60" next_position="60" modifier_word_position="62" modifier_word_length="18" end="-1">所以</E_conjunction>
+            <E_phrase start="64" position="64" end="67" Surprise="0" Sorrow="0.8" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">收</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="种地不能致富，所以迫不得已外出打工成了农民摆脱贫穷的唯一出路了。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 种地/v  不/d  能/v  致富/v  ，/w  所以/c  迫不得已/i  外出/v  打工/v  成/v  了/u  农民/n  摆脱/v  贫穷/a  的/u  唯一/b  出路/n  了/y  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">致富</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0.8" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">迫不得已</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">摆脱</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">贫穷</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">唯一</Keywords>
+            <noword start="2" position="2" modifier_word_position="4" modifier_word_length="2" end="3">不</noword>
+            <E_conjunction start="-1" position="7" next_position="7" modifier_word_position="9" modifier_word_length="22" end="-1">所以</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.4</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="真的是这样么？">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>真的/d  是/v  这样/r  么/y  ？</Segmented_S>
+            <S_Length>7</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0.3" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">么</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.4</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.4</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>可观</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="城市的地比农村少，但俺亩产量来看，效益比农村高多了。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>城市/n  的/u  地/n  比/p  农村/n  少/a  ，/w  但/c  俺/r  亩/q  产量/n  来看/v  ，/w  效益/n  比/v  农村/n  高/a  多/a  了/y  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">效益</Keywords>
+            <E_conjunction start="-1" position="9" next_position="9" modifier_word_position="10" modifier_word_length="6" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="城市从不抱怨地少，只是抱怨房价贵，但是贵也得买，所以房地产商都发财了，因为他们收远大于支。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 城市/n  从不/d  抱怨/v  地/u  少/a  ，/w  只是/c  抱怨/v  房价/n  贵/a  ，/w  但是/c  贵/a  也/d  得/v  买/v  ，/w  所以/c  房地产商/n  都/d  发财/v  了/u  ，/w  因为/c  他们/r  收/v  远/a  大于/v  支/v  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.8">抱怨</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.8">抱怨</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">发财</Keywords>
+            <degree_adv start="-1" position="30" modifier_word_position="31" modifier_word_length="2" end="-1">都</degree_adv>
+            <noword start="-1" position="2" modifier_word_position="4" modifier_word_length="2" end="-1">从不</noword>
+            <E_conjunction start="-1" position="17" next_position="17" modifier_word_position="19" modifier_word_length="4" end="-1">但是</E_conjunction>
+            <E_conjunction start="-1" position="24" next_position="24" modifier_word_position="26" modifier_word_length="8" end="-1">所以</E_conjunction>
+            <E_conjunction start="-1" position="35" next_position="35" modifier_word_position="37" modifier_word_length="7" end="-1">因为</E_conjunction>
+            <E_phrase start="6" position="6" end="7" Surprise="0" Sorrow="0.4" POS="u" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">地</E_phrase>
+            <E_phrase start="39" position="39" end="43" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">收</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="即使是城市打工者，按照自己所在企业土地占用面积与个人收入比例来算，也是可观的。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 即使/c  是/v  城市/n  打工/v  者/k  ，/w  按照/p  自己/r  所/u  在/v  企业/n  土地/n  占用/vn  面积/n  与/c  个人/n  收入/n  比例/n  来/v  算/v  ，/w  也/d  是/v  可观/a  的/u  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">可观</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="6" end="-1">即使</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.4</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.3</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.5</Expect>
+        <Topic>投资</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="当然，无论是工业生产还是企业的其他投资，土地不是主要资源，只是企业投资的一部分，而土地是农业生产的主要资源，可以看作为农业生产的原材料，原材料少，当然出的产品少，出的产品少，当然收益就少。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>当然/d  ，/w  无论/c  是/v  工业/n  生产/vn  还是/d  企业/n  的/u  其他/r  投资/vn  ，/w  土地/n  不/d  是/v  主要/b  资源/n  ，/w  只是/c  企业/n  投资/v  的/u  一部分/m  ，/w  而/c  土地/n  是/v  农业/n  生产/vn  的/u  主要/b  资源/n  ，/w  可以/v  看作/v  为/v  农业/n  生产/vn  的/u  原材料/n  ，/w  原材料/n  少/a  ，/w  当然/d  出/v  的/u  产品/n  少/a  ，/w  出/v  的/u  产品/n  少/a  ，/w  当然/d  收益/n  就/d  少/a  。</Segmented_S>
+            <S_Length>94</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">投资</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">资源</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">投资</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">资源</Keywords>
+            <Keywords start="-1" position="89" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">收益</Keywords>
+            <noword start="22" position="22" modifier_word_position="24" modifier_word_length="4" end="23">不</noword>
+            <E_conjunction start="-1" position="3" next_position="3" modifier_word_position="5" modifier_word_length="14" end="-1">无论</E_conjunction>
+            <E_conjunction start="-1" position="29" next_position="29" modifier_word_position="31" modifier_word_length="8" end="-1">只是</E_conjunction>
+            <E_conjunction start="-1" position="40" next_position="40" modifier_word_position="41" modifier_word_length="12" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="可以这么看，也可以不这么看。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 可以/v  这么/r  看/v  ，/w  也/d  可以/v  不/d  这么/r  看/v  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <noword start="-1" position="9" modifier_word_position="10" modifier_word_length="3" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="因为即使产品少，如果产品的质量好，产品的价格高，那收益同样会高。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 因为/c  即使/c  产品/n  少/a  ，/w  如果/c  产品/n  的/u  质量/n  好/a  ，/w  产品/n  的/u  价格/n  高/a  ，/w  那/r  收益/n  同样/d  会/v  高/a  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">收益</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="29" end="-1">因为</E_conjunction>
+            <E_conjunction start="-1" position="2" next_position="2" modifier_word_position="4" modifier_word_length="3" end="-1">即使</E_conjunction>
+            <E_conjunction start="-1" position="8" next_position="8" modifier_word_position="10" modifier_word_length="13" end="-1">如果</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="因为土地可以生产很多种产品，可以种玉米，可以种小麦，可以种棉花，可以种药材，也可以种果木花卉，他们的收益都不一样。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 因为/c  土地/n  可以/v  生产/v  很/d  多种/m  产品/n  ，/w  可以/v  种/v  玉米/n  ，/w  可以/v  种/v  小麦/n  ，/w  可以/v  种棉/v  花/n  ，/w  可以/v  种/v  药材/n  ，/w  也/d  可以/v  种果/v  木/Ng  花卉/n  ，/w  他们/r  的/u  收益/n  都/d  不一样/v  。</Segmented_S>
+            <S_Length>57</S_Length>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">收益</Keywords>
+            <degree_adv start="-1" position="8" modifier_word_position="9" modifier_word_length="1" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="52" modifier_word_position="53" modifier_word_length="3" end="-1">都</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="44" end="-1">因为</E_conjunction>
+            <Rhetoric E_type="期待">排比</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.4</Expect>
+        </sentence>
+        <sentence S="关键是看种什么，怎么种。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 关键/n  是/v  看/v  种/v  什么/r  ，/w  怎么/r  种/v  。</Segmented_S>
+            <S_Length>12</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">什么</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">怎么</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.4</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.2</Expect>
+        <Topic>因素</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="就是我们把土地看成我们生产的主要因素了，忽略了生产的其他要素，所以才导致我们对土地本身的依赖，而忽视了其他问题。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>就/p  是/v  我们/r  把/p  土地/n  看成/v  我们/r  生产/v  的/u  主要/b  因素/n  了/y  ，/w  忽略/v  了/u  生产/vn  的/u  其他/r  要素/n  ，/w  所以/c  才/d  导致/v  我们/r  对/p  土地/n  本身/r  的/u  依赖/vn  ，/w  而/c  忽视/v  了/u  其他/r  问题/n  。</Segmented_S>
+            <S_Length>56</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">忽略</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">导致</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">依赖</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">忽视</Keywords>
+            <E_conjunction start="-1" position="31" next_position="31" modifier_word_position="33" modifier_word_length="22" end="-1">所以</E_conjunction>
+            <E_conjunction start="-1" position="47" next_position="47" modifier_word_position="48" modifier_word_length="7" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="比如生产技术、市场需求等。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 比如/v  生产/v  技术/n  、/w  市场/n  需求/n  等/u  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">需求</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.3</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="种粮大户告诉我们靠土地集中大量生产，这是规模效应。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>种粮/v  大户/n  告诉/v  我们/r  靠/p  土地/n  集中/ad  大量/v  生产/m  ，/w  这/r  是/v  规模/n  效应/n  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.3</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="大棚蔬菜经营户告诉我们靠的是科技生产、打季节性产品品牌。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>大棚/n  蔬菜/n  经营户/n  告诉/v  我们/r  靠/p  的/u  是/v  科技/n  生产/vn  、/w  打/v  季节性/n  产品/n  品牌/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">科技</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">品牌</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.4</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="绿色蔬菜经营者告诉我们靠的是有机，靠的是消费者对无污染蔬菜的喜好。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>绿色/n  蔬菜/n  经营者/n  告诉我/v  们/k  靠/v  的/u  是/v  有/v  机/n  ，/w  靠/v  的/u  是/v  消费者/n  对/p  无污染/n  蔬菜/n  的/u  喜好/vn  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">无污染</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜好</Keywords>
+            <E_phrase start="0" position="0" end="3" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">绿色</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第9段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="还有跟多靠土地致富的案例，不知道我们的农民兄弟知道不知道。">
+            <S_no>第9段第1句标注</S_no>
+            <Segmented_S>还有/v  跟/p  多/a  靠/v  土地/n  致富/vn  的/u  案例/n  ，/w  不知道/v  我们/r  的/u  农民/n  兄弟/n  知道/v  不/d  知道/v  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">致富</Keywords>
+            <E_phrase start="23" position="23" end="27" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">知道</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第10段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="而现在我们的农民仅仅依靠几千年留下来的经验，春种秋收冬闲，在成本不断增加的情况下，依然故我，导致入不敷出。">
+            <S_no>第10段第1句标注</S_no>
+            <Segmented_S>而/c  现在/t  我们/r  的/u  农民/n  仅仅/d  依靠/v  几千/m  年/q  留下/v  来/v  的/u  经验/n  ，/w  春种/v  秋收/n  冬闲/v  ，/w  在/p  成本/n  不断/d  增加/v  的/u  情况/n  下/f  ，/w  依然/z  故我/v  ，/w  导致/v  入不敷出/i  。</Segmented_S>
+            <S_Length>53</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">依靠</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">增加</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">故我</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">导致</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0.8" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">入不敷出</Keywords>
+            <degree_adv start="-1" position="8" modifier_word_position="10" modifier_word_length="2" end="-1">仅仅</degree_adv>
+            <degree_adv start="-1" position="32" modifier_word_position="34" modifier_word_length="2" end="-1">不断</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="27" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第11段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="所以，既然地少已经成为现实，我们就应该考虑的是如何让产量提高上去，让质量提高上去，让效益提高上去。">
+            <S_no>第11段第1句标注</S_no>
+            <Segmented_S>所以/c  ，/w  既然/c  地/u  少/a  已经/d  成为/v  现实/n  ，/w  我们/r  就/d  应该/v  考虑/v  的/u  是/v  如何/r  让/v  产量/n  提高/v  上去/v  ，/w  让/v  质量/n  提高/v  上去/v  ，/w  让/v  效益/n  提高/v  上去/v  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">考虑</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">如何</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">提高</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">提高</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">提高</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="45" end="-1">所以</E_conjunction>
+            <E_conjunction start="-1" position="3" next_position="3" modifier_word_position="5" modifier_word_length="8" end="-1">既然</E_conjunction>
+            <E_phrase start="5" position="5" end="6" Surprise="0" Sorrow="0.4" POS="u" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">地</E_phrase>
+            <Rhetoric E_type="期待">排比</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第12段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="所以我们要考虑的是：投入土地做什么，怎样提高土地的使用率，怎样提高产量，怎样提高产品性能，怎样增加产品的附加值，怎样营销。">
+            <S_no>第12段第1句标注</S_no>
+            <Segmented_S>所以/c  我们/r  要/v  考虑/v  的/u  是/v  ：/w  投入/v  土地/n  做/v  什么/r  ，/w  怎样/r  提高/v  土地/n  的/u  使用率/n  ，/w  怎样/r  提高/v  产量/n  ，/w  怎样/r  提高/v  产品/n  性能/n  ，/w  怎样/r  增加/v  产品/n  的/u  附加值/n  ，/w  怎样/r  营销/v  。</Segmented_S>
+            <S_Length>61</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0.6" Anger="0">考虑</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">投入</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">怎样</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">提高</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">怎样</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">提高</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">怎样</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">提高</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">怎样</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">增加</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">怎样</Keywords>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">营销</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="58" end="-1">所以</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第13段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>希望</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="哪一天，农民不仅仅是一个低头劳作的生产者，还是以为市场信息的捕捉者，一位有眼光的投资者，一位拥有先进技术的生产者，一位快拓市场的营销精英，那么中国农业就有希望了。">
+            <S_no>第13段第1句标注</S_no>
+            <Segmented_S>哪/r  一/m  天/q  ，/w  农民/n  不仅仅/d  是/v  一个/m  低头/v  劳作/v  的/u  生产者/n  ，/w  还是/c  以/p  为/p  市场/n  信息/n  的/u  捕捉/vn  者/k  ，/w  一/m  位/q  有/v  眼光/n  的/u  投资者/n  ，/w  一/m  位/q  拥有/v  先进/a  技术/n  的/u  生产者/n  ，/w  一/m  位/q  快/a  拓/v  市场/n  的/u  营销/vn  精英/n  ，/w  那么/c  中国/ns  农业/n  就/d  有/v  希望/n  了/y  。</Segmented_S>
+            <S_Length>81</S_Length>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">眼光</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">拥有</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">先进</Keywords>
+            <Keywords start="-1" position="66" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">精英</Keywords>
+            <Keywords start="-1" position="77" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">希望</Keywords>
+            <E_conjunction start="-1" position="21" next_position="21" modifier_word_position="23" modifier_word_length="10" end="-1">还是</E_conjunction>
+            <E_conjunction start="-1" position="69" next_position="69" modifier_word_position="71" modifier_word_length="9" end="-1">那么</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="假如一个人难以拥有这么多的才能，所以农业产业化的雏形&#8212;&#8212;合作社，已经开始了走向希望的征程。">
+            <S_no>第13段第2句标注</S_no>
+            <Segmented_S> 假如/c  一个/m  人/n  难以/d  拥有/v  这么/r  多/a  的/u  才能/n  ，/w  所以/c  农业/n  产业化/vn  的/u  雏形/n  &#8212;&#8212;/w  合作社/n  ，/w  已经/d  开始/v  了/u  走向/v  希望/v  的/u  征程/n  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0.6" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">难以</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">拥有</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">才能</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">希望</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">征程</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="13" end="-1">假如</E_conjunction>
+            <E_conjunction start="-1" position="16" next_position="16" modifier_word_position="18" modifier_word_length="26" end="-1">所以</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+    </paragraph>
+</document>

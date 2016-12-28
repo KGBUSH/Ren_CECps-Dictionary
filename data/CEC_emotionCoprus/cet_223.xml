@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.8</Sorrow>
+    <Anxiety>0.6</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>一代人</Topic>
+    <title T="一代人">
+        <Segmented_S>一/m  代/q  人/n</Segmented_S>
+        <S_Length>3</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>青春</Topic>
+        <Summarize_Sentences>4</Summarize_Sentences>
+        <sentence S="在我的印象中，似乎只有顾城、北岛、舒婷才是真正的“一代人”。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>在我的/n  印象中/v  ，/w  似乎/d  只/d  有/v  顾城/n  、/w  北岛/n  、/w  舒婷/n  才/d  是/v  真正/b  的/u  “/w  一代人/n  ”/w  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0.6" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">真正</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="因为有着共同的青春历程，在那个年代，代言传声者，常常登高振臂，一呼百应，群情激昂。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 因为/c  有/v  着/u  共同/b  的/u  青春/n  历程/n  ，/w  在/p  那个/r  年代/n  ，/w  代/v  言/Vg  传声/Ng  者/k  ，/w  常常/d  登高/v  振臂/n  ，/w  一呼百/v  应/v  ，/w  群情/n  激昂/a  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">青春</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">激昂</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="9" end="-1">因为</E_conjunction>
+            <E_phrase start="31" position="31" end="34" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">一呼百</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="“青春”锁定了他们中间许多人的一生。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> “/w  青春/n  ”/w  锁定/v  了/u  他们/r  中间/f  许多/m  人/n  的/u  一生/n  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">青春</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="走不出青春的挣扎，在后来演变成悲剧，或者内心的悲哀。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 走/v  不/d  出/v  青春/n  的/u  挣扎/n  ，/w  在/p  后来/t  演变成/v  悲剧/n  ，/w  或者/c  内心/n  的/u  悲哀/a  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">青春</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">挣扎</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">悲剧</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悲哀</Keywords>
+            <noword start="0" position="0" modifier_word_position="6" modifier_word_length="2" end="2">走</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>代言者 代表作 梁晓声</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="诗人之外，有个作家叫梁晓声，亦是那一代人的重要代言者。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>诗人/n  之/u  外/f  ，/w  有个/v  作家/n  叫/v  梁/nr  晓声/nr  ，/w  亦/d  是/v  那/r  一/m  代/q  人/n  的/u  重要/a  代/n  言者/v  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">重要</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="代表作是部电视剧，唤作叫《年轮》。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 代表作/n  是/v  部/n  电视剧/n  ，/w  唤/Vg  作/v  叫/v  《/w  年轮/n  》/w  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="剧作有着俯瞰和梳理整整一代人历经青春、面对变革的雄心。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 剧作/n  有/v  着/u  俯瞰/v  和/c  梳理/v  整整/d  一/m  代/q  人/n  历经/v  青春/n  、/w  面对/v  变革/v  的/u  雄心/n  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">青春</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">雄心</Keywords>
+            <degree_adv start="-1" position="9" modifier_word_position="11" modifier_word_length="3" end="-1">整整</degree_adv>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="不久前，有位“知青”前辈对我说，梁晓声其实只在北大荒呆过一年（抑或是半年）。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 不久前/t  ，/w  有位/v  “/w  知青/n  ”/w  前辈/n  对/p  我/r  说/v  ，/w  梁/nr  晓声/nr  其实/d  只/d  在/p  北大荒/ns  呆/v  过/u  一/m  年/q  （/w  抑或/nr  是/v  半年/m  ）/w  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="此事未经梁先生证实，暂且不算数。">
+            <S_no>第2段第5句标注</S_no>
+            <Segmented_S> 此事/r  未/d  经/p  梁/nr  先生/n  证实/v  ，/w  暂且/d  不/d  算数/v  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="不过，如果是真的，呆了一年，却写了一辈子，足可见那一代人的共性是多么明显。">
+            <S_no>第2段第6句标注</S_no>
+            <Segmented_S> 不过/c  ，/w  如果/c  是/v  真的/d  ，/w  呆/v  了/y  一/m  年/q  ，/w  却/d  写了/v  一辈子/m  ，/w  足/d  可/v  见/v  那/r  一/m  代/q  人/n  的/u  共性/n  是/v  多么/d  明显/a  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">共性</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">明显</Keywords>
+            <degree_adv start="-1" position="21" modifier_word_position="22" modifier_word_length="2" end="-1">足</degree_adv>
+            <degree_adv start="-1" position="32" modifier_word_position="34" modifier_word_length="2" end="-1">多么</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="33" end="-1">不过</E_conjunction>
+            <E_conjunction start="-1" position="3" next_position="14" modifier_word_position="5" modifier_word_length="8" end="-1">如果</E_conjunction>
+            <E_conjunction start="-1" position="14" next_position="14" modifier_word_position="15" modifier_word_length="5" end="-1">却</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>命运 </Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="“代”是恰好在一个时期出生的人，共同经历的无可奈何的命运。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>“/w  代/v  ”/w  是/v  恰好/d  在/p  一个/m  时期/n  出生/v  的/u  人/n  ，/w  共同/d  经历/v  的/u  无可/d  奈何/v  的/u  命运/n  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.5" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">恰好</Keywords>
+            <E_phrase start="21" position="21" end="24" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0.6" Anger="0">无可</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在这个意义上，我一直认定，梁晓声们是最后的“一代人”。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 在这/n  个/q  意义上/n  ，/w  我/r  一直/d  认定/v  ，/w  梁/nr  晓声/nr  们/k  是/v  最后/f  的/u  “/w  一/m  代/q  人/n  ”/w  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">一直</Keywords>
+            <degree_adv start="-1" position="18" modifier_word_position="22" modifier_word_length="3" end="-1">最后</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>一代人 文学</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="和梁晓声同年出生的日本人村上春树，显然也是“一代人”。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>和/p  梁/nr  晓声/nr  同年/d  出生/v  的/u  日本人/n  村上春树/v  ，/w  显然/ad  也/d  是/v  “/w  一/m  代/q  人/n  ”/w  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="作为日本战后出生的一代，自称从不读日本文学的村上春树，和前辈作家的断裂是明显的。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 作为/p  日本/ns  战后/t  出生/v  的/u  一/m  代/q  ，/w  自称/v  从不/d  读/v  日本/ns  文学/n  的/u  村上春树/n  ，/w  和/p  前辈/n  作家/n  的/u  断裂/n  是/v  明显/a  的/u  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">断裂</Keywords>
+            <noword start="-1" position="14" modifier_word_position="16" modifier_word_length="1" end="-1">从不</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="当大江健三郎还在为美国兵强奸日本少女愤怒时，村上春树却怀着深深的民族自卑，恨不得成为一个美国人。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 当/p  大江健三郎/n  还/d  在/p  为/p  美国/ns  兵/n  强奸/v  日本/ns  少女/n  愤怒/a  时/Ng  ，/w  村上春树/v  却/d  怀着/v  深深/d  的/u  民族/n  自卑/a  ，/w  恨不得/d  成为/v  一个/m  美国/ns  人/n  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0" Hate="0.9" Expect="0" Anxiety="0" Anger="0.8">强奸</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="1" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0.8">愤怒</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="2" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">自卑</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0.0" POS="d" Opinionholder="2" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0.0" Anger="0">恨不得</Keywords>
+            <degree_adv start="-1" position="29" modifier_word_position="34" modifier_word_length="2" end="-1">深深</degree_adv>
+            <E_conjunction start="-1" position="26" next_position="26" modifier_word_position="27" modifier_word_length="20" end="-1">却</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="1" end="-1">大江健三郎</Opinion_holder>
+            <Opinion_holder start="-1" position="22" end="-1">村上春树</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="在村上开列的师承名单中，赫赫十数位不同类型的美国作者，几乎涵盖了美国文学的方方面面。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 在/p  村上/n  开列/v  的/u  师承/n  名单/n  中/f  ，/w  赫赫/z  十数/n  位/Ng  不同/a  类型/n  的/u  美国/ns  作者/n  ，/w  几乎/d  涵盖/v  了/u  美国/ns  文学/n  的/u  方方面面/n  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="z" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">赫赫</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">涵盖</Keywords>
+            <degree_adv start="-1" position="27" modifier_word_position="29" modifier_word_length="2" end="-1">几乎</degree_adv>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="早期是文艺愤青、中年后从政的村上龙更是铁杆亲美分子。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 早期/f  是/v  文艺/n  愤青/n  、/w  中年/t  后/f  从政/v  的/u  村上/n  龙/n  更/d  是/v  铁杆/n  亲/v  美/a  分子/n  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0.5" Anger="0">愤青</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">铁杆</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="晚出的吉本芭娜娜简直的就是读着斯蒂芬&#183;金长大的一代。">
+            <S_no>第4段第6句标注</S_no>
+            <Segmented_S> 晚/Tg  出/v  的/u  吉/nr  本/nr  芭/d  娜娜/v  简直/d  的/u  就/d  是/v  读/v  着/u  斯蒂芬&#183;金/n  长大/v  的/u  一/m  代/q  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="征服者与被征服者的关系，大环境造就的一代人共同特征，除了令人感叹，“代”是恰好在一个时期出生的人共同经历的无可奈何的命运，似乎也别无话说了。">
+            <S_no>第4段第7句标注</S_no>
+            <Segmented_S> 征服者/n  与/p  被/p  征服/v  者/k  的/u  关系/n  ，/w  大/d  环境/n  造就/v  的/u  一/m  代/q  人/n  共同/d  特征/v  ，/w  除了/p  令/v  人/n  感叹/v  ，/w  “/w  代/v  ”/w  是/v  恰好/d  在/p  一个/m  时期/n  出生/v  的/u  人/n  共同/d  经历/v  的/u  无可/d  奈何/v  的/u  命运/n  ，/w  似乎/d  也别/v  无话/n  说/v  了/u  。</Segmented_S>
+            <S_Length>70</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">造就</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0.5" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感叹</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">恰好</Keywords>
+            <Keywords start="-1" position="65" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0.5">无话</Keywords>
+            <degree_adv start="-1" position="12" modifier_word_position="13" modifier_word_length="2" end="-1">大</degree_adv>
+            <E_phrase start="53" position="53" end="56" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0.6" Anger="0">无可</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>幸运</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="幸好，我们不是“一代人”，不必和同龄人同呼吸共命运，个体也无需必须依附集体才能彰显出价值。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>幸好/n  ，/w  我们/r  不/d  是/v  “/w  一/m  代/q  人/n  ”/w  ，/w  不必/d  和/p  同龄人/n  同/p  呼吸/v  共命运/v  ，/w  个体/n  也/d  无需/v  必须/d  依附/v  集体/n  才/c  能/v  彰显/v  出/v  价值/n  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">幸好</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">共命运</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">必须</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">彰显</Keywords>
+            <noword start="5" position="5" modifier_word_position="8" modifier_word_length="3" end="6">不</noword>
+            <noword start="-1" position="13" modifier_word_position="19" modifier_word_length="6" end="-1">不必</noword>
+            <noword start="-1" position="29" modifier_word_position="33" modifier_word_length="2" end="-1">无需</noword>
+            <E_phrase start="19" position="19" end="21" Surprise="0" Sorrow="0" POS="p" Opinionholder="0" Love="0.5" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">同</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="某种意义上来说，未尝不是幸运。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 某种/r  意义/n  上/f  来说/u  ，/w  未尝/d  不/d  是/v  幸运/a  。</Segmented_S>
+            <S_Length>15</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">幸运</Keywords>
+            <noword start="-1" position="8" modifier_word_position="10" modifier_word_length="4" end="-1">未尝</noword>
+            <noword start="10" position="10" modifier_word_position="12" modifier_word_length="2" end="11">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>共性 文明程度</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="单位时间内，一个社会人的共性越多，只证明社会的文明程度低，高压下产生的共同经历把一代人造成同一族群。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>单位/n  时间/n  内/f  ，/w  一个/m  社会/n  人/n  的/u  共性/n  越多/v  ，/w  只/d  证明/v  社会/n  的/u  文明/a  程度/n  低/a  ，/w  高/a  压下/n  产生/v  的/u  共同/b  经历/n  把/p  一/m  代/q  人/n  造成/v  同一/b  族/n  群/Ng  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <E_phrase start="29" position="29" end="30" Surprise="0" Sorrow="0.5" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">高</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="站在这个角度看，６０后显然不是一代人。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 站/v  在/p  这个/r  角度/n  看/v  ，/w  ６０/v  后/f  显然/ad  不/d  是/v  一/m  代/q  人/n  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">显然</Keywords>
+            <noword start="13" position="13" modifier_word_position="15" modifier_word_length="3" end="14">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="７０后也不像。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> ７０/n  后/f  也/d  不像/v  。</Segmented_S>
+            <S_Length>7</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="６０后似乎从来就没有年轻过，７０后已走出了青春的迷误。">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> ６０/n  后/f  似乎/d  从来/d  就/d  没有/v  年轻/a  过/u  ，/w  ７０/v  后/f  已/d  走/v  出/v  了/u  青春/n  的/u  迷误/n  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">年轻</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">青春</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0.5">迷误</Keywords>
+            <noword start="-1" position="8" modifier_word_position="10" modifier_word_length="3" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>担忧 悲剧</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="倒是８０后一代，有些疑似。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>倒是/d  ８０/v  后/f  一/m  代/q  ，/w  有些/r  疑似/n  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">疑似</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="强烈的“一代人”般的青春期自我认知，令人隐隐担扰。">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 强烈/a  的/u  “/w  一代人/n  ”/w  般的/u  青春期/n  自我/r  认知/v  ，/w  令/v  人/n  隐隐/v  担/n  扰/v  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <degree_adv start="-1" position="0" modifier_word_position="15" modifier_word_length="2" end="-1">强烈</degree_adv>
+            <E_phrase start="22" position="22" end="23" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">担</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="走不出青春的挣扎，在后来演变成悲剧，或者内心的悲哀。">
+            <S_no>第7段第3句标注</S_no>
+            <Segmented_S> 走/v  不/d  出/v  青春/n  的/u  挣扎/n  ，/w  在/p  后来/t  演变成/v  悲剧/n  ，/w  或者/c  内心/n  的/u  悲哀/a  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">青春</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0.6" Anger="0">挣扎</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">悲剧</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0.7" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">悲哀</Keywords>
+            <noword start="0" position="0" modifier_word_position="6" modifier_word_length="2" end="2">走</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>现在 未来</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="他们拥有泡沫般闪亮的现在，谁又愿意去关心他们遥远的未来呢。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>他们/r  拥有/v  泡沫/n  般/u  闪亮/v  的/u  现在/t  ，/w  谁/r  又/d  愿意/v  去/v  关心/v  他们/r  遥远/a  的/u  未来/t  呢/y  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">闪亮</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">愿意</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">关心</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">呢</Keywords>
+            <Rhetoric E_type="焦虑">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="只不过，前一代人里好在还有个北岛，后一代人里却只有一个郭敬明。">
+            <S_no>第8段第2句标注</S_no>
+            <Segmented_S> 只不过/d  ，/w  前/f  一/m  代/q  人/n  里/f  好在/d  还有/v  个/q  北岛/n  ，/w  后/f  一/m  代/q  人/n  里/f  却/d  只/d  有/v  一个/m  郭/nr  敬明/nr  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">好在</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0.5" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">只</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="4" modifier_word_length="12" end="-1">只不过</E_conjunction>
+            <E_conjunction start="-1" position="22" next_position="22" modifier_word_position="23" modifier_word_length="7" end="-1">却</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第9段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.6</Anger>
+        <Expect>0.0</Expect>
+        <Topic>反思 羞愧</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="反思尚早，羞愧却是必须的。">
+            <S_no>第9段第1句标注</S_no>
+            <Segmented_S>反思/v  尚/d  早/a  ，/w  羞愧/v  却/d  是/v  必须/d  的/u  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0.0">反思</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.0" Anger="0.6">羞愧</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.6</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

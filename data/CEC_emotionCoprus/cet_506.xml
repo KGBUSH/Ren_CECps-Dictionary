@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>1.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.5</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>东京 书店</Topic>
+    <title T="我看东京的书店绝活儿">
+        <Segmented_S>我/r  看/v  东京/ns  的/u  书店/n  绝活儿/n</Segmented_S>
+        <S_Length>10</S_Length>
+        <Keywords start="-1" position="7" end="-1" Surprise="0.7" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">绝活儿</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.7</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>书店</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="只要去书店，无论哪家，都会发现读书的人比走动的人还多，不论是站在书架前边挑边读，还是坐在台阶捧着墨香扑鼻的新书，那如饥似渴的阅读形象经常提醒人们，这里是一座知识荟萃的殿堂。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>只要/c  去/v  书店/n  ，/w  无论/c  哪家/r  ，/w  都/d  会/v  发现/v  读书/v  的/u  人/n  比/p  走动/n  的/u  人/n  还/d  多/a  ，/w  不论/c  是/v  站/v  在/p  书架/n  前边/f  挑/v  边/n  读/v  ，/w  还是/c  坐/v  在/p  台阶/n  捧/v  着/u  墨香/n  扑鼻/v  的/u  新书/n  ，/w  那/r  如饥似渴/i  的/u  阅读/vn  形象/n  经常/d  提醒/v  人们/n  ，/w  这里/r  是/v  一/m  座/q  知识/n  荟萃/v  的/u  殿堂/n  。</Segmented_S>
+            <S_Length>86</S_Length>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">如饥似渴</Keywords>
+            <Keywords start="-1" position="80" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">荟萃</Keywords>
+            <E_conjunction start="-1" position="6" next_position="11" modifier_word_position="8" modifier_word_length="2" end="-1">无论</E_conjunction>
+            <E_conjunction start="-1" position="11" next_position="6" modifier_word_position="12" modifier_word_length="14" end="-1">都</E_conjunction>
+            <E_conjunction start="-1" position="27" next_position="40" modifier_word_position="29" modifier_word_length="10" end="-1">不论</E_conjunction>
+            <E_conjunction start="-1" position="40" next_position="27" modifier_word_position="42" modifier_word_length="13" end="-1">还是</E_conjunction>
+            <E_phrase start="48" position="48" end="51" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">墨香</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>书店</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="也许由于从事双语写作的缘故，无论在北京，还是东京，只要一出去逛街，总会情不自禁地走进书店。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>也许/d  由于/p  从事/v  双语/n  写作/v  的/u  缘故/n  ，/w  无论/c  在/p  北京/ns  ，/w  还是/c  东京/ns  ，/w  只/d  要/v  一/m  出去/v  逛/v  街/n  ，/w  总会/n  情不自禁/i  地/u  走/v  进/v  书店/n  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">情不自禁</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="有时候为了买一本书，有时候什么也不为，只觉得一进书店，心里挺舒畅。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 有时候/d  为了/p  买/v  一/m  本/q  书/n  ，/w  有时候/d  什么/r  也/d  不为/v  ，/w  只/d  觉得/v  一/m  进/v  书店/n  ，/w  心/n  里/f  挺/d  舒畅/a  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">舒畅</Keywords>
+            <degree_adv start="-1" position="29" modifier_word_position="30" modifier_word_length="2" end="-1">挺</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="去书店多了，自然就会比较，更何况是不同国度的书店呢。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 去/v  书店/n  多/a  了/y  ，/w  自然/d  就/d  会/v  比较/d  ，/w  更何况/l  是/v  不同/a  国度/n  的/u  书店/n  呢/y  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>东京书店</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="书店不论中外都为了卖书，但某些细节上的差异还是十分明显的。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>书店/n  不论/c  中外/j  都/d  为了/p  卖/v  书/n  ，/w  但/c  某些/r  细节/n  上/f  的/u  差异/n  还是/d  十分/d  明显/a  的/u  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="就拿东京的书店来说，几乎没有一家冠以“城”的称谓，这并不是说日文里没有“城”这个字，而是他们觉得书店应该分散于居民区。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 就/d  拿/p  东京/ns  的/u  书店/n  来说/u  ，/w  几乎/d  没有/v  一家/n  冠以/n  “/w  城/n  ”/w  的/u  称谓/n  ，/w  这/r  并不/d  是/v  说/v  日文/nz  里/f  没有/v  “/w  城/n  ”/w  这/r  个/q  字/n  ，/w  而是/c  他们/r  觉得/v  书店/n  应该/v  分散/v  于/p  居民区/n  。</Segmented_S>
+            <S_Length>59</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="购买书籍的行为是一个安静思考的过程，完成这个过程的场所未必就是商业区最好，那喧闹的街景对书店而言，往往是安静的反义词。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 购买/v  书籍/n  的/u  行为/n  是/v  一个/m  安静/a  思考/vn  的/u  过程/n  ，/w  完成/v  这个/r  过程/n  的/u  场所/n  未必/d  就/d  是/v  商业区/n  最/d  好/a  ，/w  那/r  喧闹/v  的/u  街景/n  对/p  书店/n  而言/u  ，/w  往往/d  是/v  安静/a  的/u  反义词/n  。</Segmented_S>
+            <S_Length>59</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">喧闹</Keywords>
+            <degree_adv start="-1" position="34" modifier_word_position="35" modifier_word_length="1" end="-1">最</degree_adv>
+            <noword start="-1" position="27" modifier_word_position="34" modifier_word_length="2" end="-1">未必</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="喜欢游览书店的顾客，目的是比较单一的，并不喜欢购完大包小包后再来。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 喜欢/v  游览/v  书店/n  的/u  顾客/n  ，/w  目的/n  是/v  比较/d  单一/a  的/u  ，/w  并/c  不/d  喜欢/v  购/Vg  完/v  大包/n  小包/n  后/f  再/d  来/v  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜欢</Keywords>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">游览</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.2" Anxiety="0" Anger="0">目的</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜欢</Keywords>
+            <degree_adv start="-1" position="13" modifier_word_position="15" modifier_word_length="2" end="-1">比较</degree_adv>
+            <noword start="-1" position="20" modifier_word_position="21" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="座落在居民区的书店，虽然不大，但书店的功能却得以充分地发挥。">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> 座落/n  在/p  居民区/n  的/u  书店/n  ，/w  虽然/c  不/d  大/a  ，/w  但/c  书店/n  的/u  功能/n  却/d  得以/v  充分/ad  地/u  发挥/v  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">发挥</Keywords>
+            <noword start="-1" position="12" modifier_word_position="13" modifier_word_length="1" end="-1">不</noword>
+            <E_conjunction start="-1" position="10" next_position="15" modifier_word_position="12" modifier_word_length="2" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="15" next_position="10" modifier_word_position="16" modifier_word_length="13" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="居民家附近有书店，每天晚饭后会迎来不少顾客，邻里之间，低头不见抬头见，这里也就成为以书会友、联谊的小小社区。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>居民/n  家/n  附近/f  有/v  书店/n  ，/w  每天/r  晚饭/n  后/f  会/v  迎来/v  不少/m  顾客/n  ，/w  邻里/n  之/u  间/f  ，/w  低头/v  不见/v  抬头/v  见/v  ，/w  这里/r  也/d  就/d  成为/v  以/p  书/n  会友/v  、/w  联谊/vn  的/u  小小/z  社区/n  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>方舟书店</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="好几年前，北京的百万庄附近有个叫“方舟书店”的，听说那里专门经销跟摇滚乐有关的中文书籍，因为我喜欢北京摇滚，于是专程找到了那里。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>好几/m  年/q  前/f  ，/w  北京/ns  的/u  百万/m  庄/n  附近/f  有/v  个/q  叫/v  “/w  方舟/nz  书店/n  ”/w  的/u  ，/w  听说/v  那里/r  专门/d  经销/v  跟/v  摇滚乐/v  有关/vn  的/u  中文/nz  书籍/n  ，/w  因为/c  我/r  喜欢/v  北京/ns  摇滚/n  ，/w  于/p  是/v  专程/d  找到/v  了/u  那里/r  。</Segmented_S>
+            <S_Length>64</S_Length>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜欢</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="46" end="-1">我</Opinion_holder>
+            <Opinion_target start="49" position="49" end="52">北京</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="书店开在单元楼的一层，临街，位于一大片宿舍楼群当中。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 书店/n  开/v  在/p  单元楼/n  的/u  一/m  层/q  ，/w  临街/v  ，/w  位于/v  一大/j  片/Ng  宿舍/n  楼群/n  当中/f  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="店主也是一个乐评人，叫郝舫，写过本书《伤花怒放》，读起来挺过瘾。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 店主/n  也/d  是/v  一个/m  乐评人/n  ，/w  叫/v  郝/nr  舫/nr  ，/w  写过/v  本书/r  《/w  伤/v  花/n  怒放/v  》/w  ，/w  读/v  起来/v  挺/d  过瘾/a  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">过瘾</Keywords>
+            <degree_adv start="-1" position="28" modifier_word_position="29" modifier_word_length="2" end="-1">挺</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>书店</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="他跟我说：“在居民区里开小书店是有道理的，因为书籍这一商品形式很特殊，避开闹市，让书香飘入寻常百姓家，是富有诗意的事儿，也符合商业逻辑。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>他/r  跟我/v  说/v  ：/w  “/w  在/p  居民区/n  里/f  开/v  小/a  书店/n  是/v  有/v  道理/n  的/u  ，/w  因为/c  书籍/n  这/r  一/m  商品/n  形式/n  很/d  特殊/a  ，/w  避开/v  闹市/n  ，/w  让/v  书香/n  飘/v  入/v  寻/v  常/d  百姓家/v  ，/w  是/v  富有/v  诗意/n  的/u  事儿/n  ，/w  也/d  符合/v  商业/n  逻辑/n  。</Segmented_S>
+            <S_Length>68</S_Length>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">书香</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">富有</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">诗意</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">符合</Keywords>
+            <degree_adv start="-1" position="31" modifier_word_position="32" modifier_word_length="2" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="21" next_position="21" modifier_word_position="23" modifier_word_length="11" end="-1">因为</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”　不过，他又说像他那样把专业书店开到居民区的很少，箅不算好的选择也没有把握。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> ”/w  　/n  不过/d  ，/w  他/r  又/d  说/v  像/p  他/r  那样/r  把/p  专业/n  书店/n  开/v  到/v  居民区/n  的/u  很/d  少/a  ，/w  箅/v  不/d  算/v  好/a  的/u  选择/vn  也/d  没有/d  把握/v  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="1" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <degree_adv start="-1" position="23" modifier_word_position="24" modifier_word_length="1" end="-1">很</degree_adv>
+            <noword start="-1" position="34" modifier_word_position="36" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="5" end="-1">他</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="几年过去了，言犹在耳，这书店是否还存在？">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 几/m  年/q  过去/v  了/y  ，/w  言犹在耳/i  ，/w  这/r  书店/n  是否/v  还/d  存在/v  ？</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">言犹在耳</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="没有打听过。">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> 没有/v  打听/v  过/u  。</Segmented_S>
+            <S_Length>6</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>大型书店</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="说到大型书店，拿东京跟北京比，有些地方也是不一样的。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>说/v  到/v  大型/b  书店/n  ，/w  拿/v  东京/ns  跟/p  北京/ns  比/p  ，/w  有些/r  地方/n  也/d  是/v  不一样/n  的/u  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在店铺的布局上，东京的大型书店跟大型菜市场差不多，那些新鲜的蔬菜、水果，色彩斑斓的艳货总是摆在店铺的入口处，一个劲儿地诱惑顾客的视觉。">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 在/p  店铺/n  的/u  布局/n  上/f  ，/w  东京/ns  的/u  大型/b  书店/n  跟/v  大型/b  菜市场/n  差不多/l  ，/w  那些/r  新鲜/a  的/u  蔬菜/n  、/w  水果/n  ，/w  色彩斑斓/v  的/u  艳/a  货/n  总是/d  摆/v  在/p  店铺/n  的/u  入口处/n  ，/w  一个/m  劲儿/n  地/u  诱惑/v  顾客/n  的/u  视觉/n  。</Segmented_S>
+            <S_Length>67</S_Length>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">新鲜</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">色彩斑斓</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">诱惑</Keywords>
+            <E_phrase start="41" position="41" end="42" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">艳</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="大型书店的布局也是如此，入口处都是畅销书的小山堆儿，各种新出版的杂志，有娱乐的、时尚的、家居的、男人的和女人的，琳琅满目，全部都是平展的，很少竖插，尽量使杂志封面的图像色彩使人一览无遗。">
+            <S_no>第7段第3句标注</S_no>
+            <Segmented_S> 大型/b  书店/n  的/u  布局/n  也/d  是/v  如此/r  ，/w  入口处/n  都/d  是/v  畅销书/n  的/u  小山/n  堆儿/v  ，/w  各种/r  新/a  出版/vn  的/u  杂志/n  ，/w  有/v  娱乐/vn  的/u  、/w  时尚/n  的/u  、/w  家居/n  的/u  、/w  男人/n  的/u  和/c  女人/n  的/u  ，/w  琳琅满目/i  ，/w  全部/m  都/d  是/v  平展/n  的/u  ，/w  很少/d  竖/v  插/v  ，/w  尽量/d  使/v  杂志/n  封面/n  的/u  图像/n  色彩/n  使/v  人/n  一览/v  无遗/n  。</Segmented_S>
+            <S_Length>93</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">畅销书</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">琳琅满目</Keywords>
+            <Keywords start="88" position="88" end="91" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">一览</Keywords>
+            <degree_adv start="69" position="69" modifier_word_position="70" modifier_word_length="1" end="69">很少</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="同时，入口处的书架间隔都有较大的空间，给人敞亮而神清气爽的感觉。">
+            <S_no>第7段第4句标注</S_no>
+            <Segmented_S> 同时/c  ，/w  入口处/n  的/u  书架/n  间隔/v  都/d  有/v  较/d  大/a  的/u  空间/n  ，/w  给/p  人/n  敞亮/v  而/c  神清气爽/v  的/u  感觉/n  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">敞亮</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">神清气爽</Keywords>
+            <degree_adv start="-1" position="13" modifier_word_position="14" modifier_word_length="1" end="-1">较</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>书店</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="在书店的深处，或是楼上安排的是社科、机械这类专业书柜，间隔较小，书架之间的距离只够两个顾客打照面儿，好像走进图书馆。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>在/p  书店/n  的/u  深处/s  ，/w  或是/c  楼上/s  安排/v  的/u  是/v  社科/j  、/w  机械/n  这/r  类/q  专业/n  书柜/n  ，/w  间隔/v  较/d  小/a  ，/w  书架/n  之/u  间/f  的/u  距离/n  只够/v  两/m  个/q  顾客/n  打照面儿/n  ，/w  好像/v  走/v  进/v  图书馆/n  。</Segmented_S>
+            <S_Length>58</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这种考虑也很简单，来的顾客大多是为了找书，而不是无目的地游览。">
+            <S_no>第8段第2句标注</S_no>
+            <Segmented_S> 这种/r  考虑/v  也/d  很/d  简单/a  ，/w  来/v  的/u  顾客/n  大多/d  是/v  为了/p  找/v  书/n  ，/w  而/c  不/d  是/v  无目/n  的/u  地/n  游览/v  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">简单</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">找</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">游览</Keywords>
+            <degree_adv start="-1" position="5" modifier_word_position="6" modifier_word_length="2" end="-1">很</degree_adv>
+            <noword start="-1" position="22" modifier_word_position="28" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在书店靠近墙壁的通道经常张贴报刊的书评版，上面用醒目的红色划出一道道儿的，详细地告诉顾客这些书摆放在何处，非常方便。">
+            <S_no>第8段第3句标注</S_no>
+            <Segmented_S> 在/p  书店/n  靠近/v  墙壁/n  的/u  通道/n  经常/d  张/nr  贴/nr  报刊/n  的/u  书评版/n  ，/w  上面/f  用/p  醒目/a  的/u  红色/n  划/v  出/v  一/m  道/q  道儿/n  的/u  ，/w  详细/ad  地/u  告诉/v  顾客/n  这些/r  书/n  摆放/v  在/p  何处/r  ，/w  非常/d  方便/a  。</Segmented_S>
+            <S_Length>58</S_Length>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">醒目</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">详细</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">方便</Keywords>
+            <degree_adv start="-1" position="53" modifier_word_position="55" modifier_word_length="2" end="-1">非常</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="除了书评之外，还有每周畅销书的排行榜，　大部分都立在收款处旁，每周换一轮儿。">
+            <S_no>第8段第4句标注</S_no>
+            <Segmented_S> 除了/p  书评/n  之/u  外/f  ，/w  还有/v  每周/r  畅销书/n  的/u  排行榜/n  ，/w  　/v  大部分/m  都/d  立/v  在/p  收款处/n  旁/f  ，/w  每周/r  换/v  一/m  轮/q  儿/Ng  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一赶上大晴天，有的书店干脆就升起一串气球，　下面拖出一大条幅，　标明畅销书的书名，弄得跟过节一样，吸引行人。">
+            <S_no>第8段第5句标注</S_no>
+            <Segmented_S> 一/m  赶上/v  大/a  晴天/n  ，/w  有的/r  书店/n  干脆/d  就/d  升起/v  一/m  串/q  气球/n  ，/w  　/v  下面/f  拖/v  出/v  一大/j  条幅/n  ，/w  　/v  标明/n  畅销书/v  的/u  书名/n  ，/w  弄/v  得/u  跟/v  过节/v  一样/a  ，/w  吸引/v  行人/n  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">晴天</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">畅销书</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">过节</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">吸引</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第9段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>书店广告</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="东京的大书店有一个响亮的口号叫“书店是广告的载体”，如果细心观察的话，不难发现在书架的间隔处、杂志展示台的夹缝里，都会出现企业的广告贴，有的是一张张明信片，有的是一幅幅彩图片。">
+            <S_no>第9段第1句标注</S_no>
+            <Segmented_S>东京/ns  的/u  大/a  书店/n  有/v  一个/m  响亮/a  的/u  口号/n  叫/v  “/w  书店/n  是/v  广告/n  的/u  载体/n  ”/w  ，/w  如果/c  细心/a  观察/vn  的话/u  ，/w  不难/d  发现/v  在/p  书架/n  的/u  间隔/vn  处/n  、/w  杂志/n  展示台/n  的/u  夹缝/n  里/f  ，/w  都/d  会/v  出现/v  企业/n  的/u  广告/n  贴/v  ，/w  有的/r  是/v  一张张/m  明信片/n  ，/w  有的/r  是/v  一幅幅/m  彩/Ng  图片/n  。</Segmented_S>
+            <S_Length>88</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">响亮</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">细心</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不难</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="有关医疗的书架就会有医院的招牌广告，有关汽车杂志的书架也会看到汽车厂商的宣传品，还有音乐书籍跟乐器商，家居书籍跟家具厂家，体育书籍跟运动服装厂商等等，类似这样的组合，几乎是随处可见的。">
+            <S_no>第9段第2句标注</S_no>
+            <Segmented_S> 有关/vn  医疗/n  的/u  书架/n  就/d  会/v  有/v  医院/n  的/u  招牌/n  广告/n  ，/w  有关/vn  汽车/n  杂志/n  的/u  书架/n  也/d  会/v  看到/v  汽车/n  厂商/n  的/u  宣传品/n  ，/w  还有/v  音乐/n  书籍/n  跟/v  乐器/n  商/n  ，/w  家居/n  书籍/n  跟/v  家具/n  厂家/n  ，/w  体育/n  书籍/n  跟/v  运动/n  服装/n  厂商/n  等等/u  ，/w  类似/a  这样/r  的/u  组合/n  ，/w  几乎/d  是/v  随处可见/l  的/u  。</Segmented_S>
+            <S_Length>92</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第10段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>书店专业化</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="书店专业化是营销的一大特色。">
+            <S_no>第10段第1句标注</S_no>
+            <Segmented_S>书店/n  专业化/v  是/v  营销/vn  的/u  一大/j  特色/n  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">特色</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="日本有许多漫画吧，虽说那漫画五花八门，红红绿绿，看上去十分热闹，但泡漫画吧的人，无论是大人还是小孩，却出奇地安静，说那是另类书店也许更合适。">
+            <S_no>第10段第2句标注</S_no>
+            <Segmented_S> 日本/ns  有/v  许多/m  漫画/n  吧/y  ，/w  虽说/c  那/r  漫画/n  五花/v  八/m  门/q  ，/w  红红绿绿/v  ，/w  看/v  上去/v  十分/d  热闹/a  ，/w  但/c  泡/v  漫画/n  吧/y  的/u  人/n  ，/w  无论/c  是/v  大人/n  还是/d  小孩/n  ，/w  却/d  出奇/v  地/u  安静/a  ，/w  说/v  那/r  是/v  另/r  类/n  书店/n  也许/d  更/d  合适/a  。</Segmented_S>
+            <S_Length>70</S_Length>
+            <Keywords start="14" position="14" end="17" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">五花</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">红红绿绿</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">热闹</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0.6" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">出奇</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="67" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">合适</Keywords>
+            <degree_adv start="-1" position="27" modifier_word_position="29" modifier_word_length="2" end="-1">十分</degree_adv>
+            <degree_adv start="-1" position="66" modifier_word_position="67" modifier_word_length="2" end="-1">更</degree_adv>
+            <E_conjunction start="-1" position="9" next_position="32" modifier_word_position="11" modifier_word_length="20" end="-1">虽说</E_conjunction>
+            <E_conjunction start="-1" position="32" next_position="9" modifier_word_position="0" modifier_word_length="1" end="-1">但</E_conjunction>
+            <E_phrase start="60" position="60" end="61" Surprise="0.7" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">另</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.7</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="东京的神田是颇具盛名的旧书一条街，也是人文社科书籍一条街，一到周末顾客云集，许多人俨然像学者似的，有的背着手慢悠悠地扫视；有的一手把眼镜推到额头上一手拿着书端详；有的紧紧盯着书架上一本书沉思，弄得整条街有一股文雅、肃穆的气氛。">
+            <S_no>第10段第3句标注</S_no>
+            <Segmented_S> 东京/ns  的/u  神田/n  是/v  颇/d  具/Vg  盛名/n  的/u  旧书/n  一/m  条/q  街/n  ，/w  也/d  是/v  人文/n  社科/j  书籍/n  一/m  条/q  街/n  ，/w  一到/v  周末/t  顾客/n  云集/v  ，/w  许多/m  人/n  俨然/v  像/p  学者/n  似的/u  ，/w  有的/r  背着手/n  慢悠悠/v  地/u  扫视/v  ；/w  有的/r  一手/n  把/p  眼镜/n  推/v  到/v  额头/n  上/f  一手/d  拿/v  着/u  书/n  端详/v  ；/w  有的/r  紧紧/d  盯/v  着/u  书架/n  上/f  一本书/v  沉思/n  ，/w  弄/v  得/u  整/v  条/Ng  街/n  有/v  一/m  股/q  文雅/n  、/w  肃穆/a  的/u  气氛/n  。</Segmented_S>
+            <S_Length>113</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">盛名</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">云集</Keywords>
+            <Keywords start="-1" position="93" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.2" Anger="0">沉思</Keywords>
+            <Keywords start="-1" position="104" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">文雅</Keywords>
+            <Keywords start="-1" position="107" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">肃穆</Keywords>
+            <degree_adv start="6" position="6" modifier_word_position="8" modifier_word_length="2" end="7">颇</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在大书店里都设有桌椅，供顾客小憩，不少人带着自己的水壶坐在那里翻书、品味，怡然自得。">
+            <S_no>第10段第4句标注</S_no>
+            <Segmented_S> 在/p  大/a  书店/n  里/f  都/d  设有/v  桌椅/n  ，/w  供/v  顾客/n  小憩/v  ，/w  不少/m  人/n  带/v  着/u  自己/r  的/u  水壶/n  坐/v  在/p  那里/r  翻/v  书/n  、/w  品味/v  ，/w  怡然自得/v  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">小憩</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">品味</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">怡然自得</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这里的周末集市几乎成为淘书者的乐园。">
+            <S_no>第10段第5句标注</S_no>
+            <Segmented_S> 这里/r  的/u  周末/t  集市/n  几乎/d  成为/v  淘/v  书者/n  的/u  乐园/n  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">乐园</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第11段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.4</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>新西兰书店</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="此种专业化经营在其他国家也很盛行，新西兰有一个叫Ｎｅｌｓｏｎ的渔港城市，靠海，市内有一家专卖饲养猫狗宠物的书店。">
+            <S_no>第11段第1句标注</S_no>
+            <Segmented_S>此种/r  专业化/v  经营/v  在/p  其他/r  国家/n  也很/n  盛行/v  ，/w  新西兰/ns  有/v  一个/m  叫/v  Ｎｅｌｓｏｎ/v  的/u  渔港/n  城市/n  ，/w  靠/v  海/n  ，/w  市内/s  有/v  一家/n  专卖/v  饲养/v  猫/n  狗/n  宠物/n  的/u  书店/n  。</Segmented_S>
+            <S_Length>56</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">盛行</Keywords>
+            <degree_adv start="-1" position="12" modifier_word_position="14" modifier_word_length="2" end="-1">也很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="起先我觉得这书店怪怪的，后来店主解释说，这里靠近老人院，在这里给老人一方天地，也算社会福利的一种，这不由得促使我仔细观察，在碧海蓝天下，老人们带着宠物安闲地在书店进出，使人油然感到书香中漾起一幅祥和的景象。">
+            <S_no>第11段第2句标注</S_no>
+            <Segmented_S> 起先/d  我/r  觉得/v  这/r  书店/n  怪怪的/n  ，/w  后来/t  店主/n  解释/v  说/v  ，/w  这里/r  靠近/v  老人院/n  ，/w  在这里/v  给/p  老人/n  一方/n  天地/n  ，/w  也算/v  社会/n  福利/n  的/u  一/m  种/q  ，/w  这/r  不由得/d  促使/v  我/r  仔细/ad  观察/v  ，/w  在/p  碧海/n  蓝/a  天下/n  ，/w  老人/n  们/k  带/v  着/u  宠物/n  安闲/v  地/u  在/p  书店/n  进出/v  ，/w  使/v  人/n  油然/d  感到/v  书香/v  中/f  漾/v  起/v  一/m  幅/q  祥和/a  的/u  景象/n  。</Segmented_S>
+            <S_Length>103</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0.4" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">怪怪的</Keywords>
+            <Keywords start="62" position="62" end="65" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">碧海</Keywords>
+            <Keywords start="-1" position="75" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">安闲</Keywords>
+            <Keywords start="-1" position="90" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">书香</Keywords>
+            <Keywords start="-1" position="97" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">祥和</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.4</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第12段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>书店</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="我是喜欢逛书店的人，每次回北京，王府井的三联、新华书店，海淀和西单的图书城几乎没有不去的。">
+            <S_no>第12段第1句标注</S_no>
+            <Segmented_S>我/r  是/v  喜欢/v  逛/v  书店/n  的/u  人/n  ，/w  每次/r  回/v  北京/ns  ，/w  王府井/ns  的/u  三联/nz  、/w  新华/nz  书店/n  ，/w  海淀/ns  和/c  西单/ns  的/u  图书城/n  几乎/d  没有/v  不/d  去/v  的/u  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜欢</Keywords>
+            <noword start="-1" position="39" modifier_word_position="41" modifier_word_length="2" end="-1">没有</noword>
+            <noword start="-1" position="41" modifier_word_position="42" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">我</Opinion_holder>
+            <Opinion_target start="-1" position="5" end="-1">书店</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="不过，从书类的布局来说，重要的是从视觉上如何让顾客觉得醒目、舒适，尤其是刚进大门的那段空间，尤为要紧。">
+            <S_no>第12段第2句标注</S_no>
+            <Segmented_S> 不过/c  ，/w  从/p  书/n  类/n  的/u  布局/n  来说/u  ，/w  重要/a  的/u  是/v  从/p  视觉/n  上/f  如何/r  让/v  顾客/n  觉得/v  醒目/a  、/w  舒适/a  ，/w  尤其/d  是/v  刚/d  进/v  大门/n  的/u  那段/r  空间/n  ，/w  尤为/d  要/v  紧/d  。</Segmented_S>
+            <S_Length>51</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">重要</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">醒目</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">舒适</Keywords>
+            <degree_adv start="-1" position="46" modifier_word_position="48" modifier_word_length="2" end="-1">尤为</degree_adv>
+            <E_phrase start="48" position="48" end="49" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">要</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="书店是知识的海洋，也应该给读者一个视觉空间的享受。">
+            <S_no>第12段第3句标注</S_no>
+            <Segmented_S> 书店/n  是/v  知识/n  的/u  海洋/n  ，/w  也/d  应该/v  给/p  读者/n  一个/m  视觉/n  空间/n  的/u  享受/vn  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">享受</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第13段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>1.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>柏林书店</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="柏林的市中心有一座大型书店几乎把视觉空间做到了极致，人文类的书架全都集中在一块从屋顶上降下的巨大的红色帷幕的下端，理科类是蓝色的，杂志类是黑色的．．．。">
+            <S_no>第13段第1句标注</S_no>
+            <Segmented_S>柏林/ns  的/u  市中心/s  有/v  一/m  座/q  大型/b  书店/n  几乎/d  把/p  视觉/n  空间/n  做到/v  了/u  极/d  致/v  ，/w  人文/n  类/n  的/u  书架/n  全都/d  集中/v  在/p  一/m  块/q  从/p  屋顶/n  上/f  降/v  下/v  的/u  巨大/a  的/u  红色/n  帷幕/n  的/u  下端/n  ，/w  理科/v  类/n  是/v  蓝色/n  的/u  ，/w  杂志/n  类/n  是/v  黑色/n  的/u  ．/w  ．/w  ．/w  。</Segmented_S>
+            <S_Length>76</S_Length>
+            <E_phrase start="23" position="23" end="24" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">极</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="整个书店犹如巨型的舞台，魔幻的灯光照在帷幕的腰间，既不扰乱顾客看书的视线，又能给读者一种温暖而神秘的感觉。">
+            <S_no>第13段第2句标注</S_no>
+            <Segmented_S> 整个/b  书店/n  犹如/v  巨型/b  的/u  舞台/n  ，/w  魔幻/v  的/u  灯光/n  照/p  在/p  帷幕/n  的/u  腰间/n  ，/w  既/c  不/d  扰乱/v  顾客/n  看/v  书/n  的/u  视线/n  ，/w  又/c  能/v  给/p  读者/n  一/m  种/q  温暖/a  而/c  神秘/a  的/u  感觉/n  。</Segmented_S>
+            <S_Length>53</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">魔幻</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">扰乱</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">温暖</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">神秘</Keywords>
+            <noword start="-1" position="26" modifier_word_position="27" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="25" next_position="37" modifier_word_position="26" modifier_word_length="10" end="-1">既</E_conjunction>
+            <E_conjunction start="-1" position="37" next_position="25" modifier_word_position="38" modifier_word_length="14" end="-1">又</E_conjunction>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我站在这家书店的入口处，似乎有所领悟，书店不也正是让人赏心悦目的知识舞台吗？">
+            <S_no>第13段第3句标注</S_no>
+            <Segmented_S> 我/r  站/v  在/p  这家/r  书店/n  的/u  入口处/n  ，/w  似乎/d  有所/v  领悟/v  ，/w  书店/n  不/d  也/d  正是/v  让/v  人/n  赏心悦目/i  的/u  知识/n  舞台/n  吗/y  ？</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">领悟</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">赏心悦目</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">吗</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Rhetoric E_type="喜爱">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

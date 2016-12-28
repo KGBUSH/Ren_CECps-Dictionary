@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.4</Sorrow>
+    <Anxiety>0.5</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>坐车 长途客车 公车</Topic>
+    <title T="坐车">
+        <Segmented_S>坐/v  车/n</Segmented_S>
+        <S_Length>2</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="经常出差，坐车只是平常小事。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>经常/d  出差/v  ，/w  坐/v  车/n  只是/d  平常/a  小事/n  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="然而坐不同的车却感受很不一样。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 然而/c  坐/v  不同/a  的/u  车/n  却/d  感受/v  很/d  不一样/a  。</Segmented_S>
+            <S_Length>15</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.7" Anger="0.0">不一样</Keywords>
+            <degree_adv start="-1" position="10" modifier_word_position="11" modifier_word_length="3" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="12" end="-1">然而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.8</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>坐长途客车</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="坐长途客车，路上总要小心翼翼，生怕被偷或者打劫。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>坐/v  长途/b  客车/n  ，/w  路上/s  总/d  要/v  小心翼翼/i  ，/w  生怕/v  被/p  偷/v  或者/c  打劫/v  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0.0" Sorrow="0.0" POS="i" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.9" Anger="0.0">小心翼翼</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.9" Anger="0.0">生怕</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.8" Expect="0.0" Anxiety="0.0" Anger="0.0">偷</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.8" Expect="0.0" Anxiety="0.0" Anger="0.0">打劫</Keywords>
+            <degree_adv start="8" position="8" modifier_word_position="10" modifier_word_length="4" end="9">总</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="钱财需要分开放在身体的不同口袋里，遇到打劫，只好将一只口袋里的钱全部捐给劫匪，保住性命。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 钱财/n  需要/v  分/v  开放/v  在/p  身体/n  的/u  不同/a  口袋/n  里/f  ，/w  遇到/v  打劫/v  ，/w  只好/d  将/p  一/m  只/q  口袋/n  里/f  的/u  钱/n  全部/m  捐/v  给/p  劫匪/n  ，/w  保住/v  性命/n  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.7" Anger="0.0">需要</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.8" Expect="0.0" Anxiety="0.0" Anger="0.0">打劫</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0.7" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">只好</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0.0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">捐</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.8" Expect="0.0" Anxiety="0.0" Anger="0.0">劫匪</Keywords>
+            <degree_adv start="-1" position="32" modifier_word_position="34" modifier_word_length="1" end="-1">全部</degree_adv>
+            <E_phrase start="39" position="39" end="42" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.8" Anger="0.0">保住</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="车上人多的时候司机为了躲避超载检查，还会让你下车走上一段。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 车上/s  人/n  多/a  的/u  时候/n  司机/n  为了/p  躲避/v  超载/v  检查/v  ，/w  还/d  会/v  让/v  你/r  下车/v  走/v  上/v  一/m  段/q  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.5" Expect="0.0" Anxiety="0.0" Anger="0.0">多</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.8" Expect="0.0" Anxiety="0.0" Anger="0.0">躲避</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="车上人少的时候，还会像卖猪仔一样被卖到另一辆车上。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 车上/s  人/n  少/a  的/u  时候/n  ，/w  还/d  会/v  像/p  卖/v  猪仔/n  一样/a  被/p  卖/v  到/v  另/r  一/m  辆/q  车上/s  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.6" Expect="0.0" Anxiety="0.0" Anger="0.0">少</Keywords>
+            <Keywords start="16" position="17" end="17" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.8" Expect="0.0" Anxiety="0.0" Anger="0.0">卖</Keywords>
+            <Rhetoric E_type="悲伤">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.4</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>公车</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我坐得更多的是政府部门派来接送的公车。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>我/r  坐/v  得/u  更/d  多/a  的/u  是/v  政府/n  部门/n  派/v  来/v  接送/v  的/u  公车/n  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这次广州机场到石龙的往返，政府派了一辆公安局的“粤Ｏ”字头车接送。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 这次/r  广州/ns  机场/n  到/p  石龙/ns  的/u  往返/vn  ，/w  政府/n  派/v  了/u  一/m  辆/q  公安局/n  的/u  “/w  粤/j  Ｏ/j  ”/w  字头/n  车/n  接送/v  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.3" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">派</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.7" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">接送</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="车速很快，每小时１４０－１５０　公里，遇到高速公路收费站也不减速，呼啸而过。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 车速/n  很/d  快/a  ，/w  每/r  小时/n  １４０－１５０　/n  公里/q  ，/w  遇到/v  高速公路/n  收费站/n  也/d  不/d  减速/v  ，/w  呼啸/v  而/c  过/v  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.6" Anger="0.0">快</Keywords>
+            <Keywords start="33" position="33" end="36" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.7" Anger="0.0">呼啸</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="3" modifier_word_length="1" end="-1">很</degree_adv>
+            <noword start="-1" position="29" modifier_word_position="30" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="遇到市内红灯堵车，开到逆行道上左拐。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 遇到/v  市内/s  红灯/n  堵车/v  ，/w  开/v  到/v  逆行/n  道/v  上/f  左/f  拐/v  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.8" Anger="0.0">堵车</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">逆行</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我下车的时候对开车的年轻司机说了声“谢谢！">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> 我下/n  车/n  的/u  时候/n  对/p  开车/v  的/u  年轻/a  司机/n  说/v  了/u  声/n  “/w  谢谢/v  ！</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.7" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">谢谢</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”，他理都没理。">
+            <S_no>第3段第6句标注</S_no>
+            <Segmented_S> ”/w  ，/w  他/r  理/v  都/d  没/d  理/v  。</Segmented_S>
+            <S_Length>8</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.5" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">理</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.5" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">理</Keywords>
+            <degree_adv start="-1" position="4" modifier_word_position="5" modifier_word_length="2" end="-1">都</degree_adv>
+            <noword start="-1" position="5" modifier_word_position="6" modifier_word_length="1" end="-1">没</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="“粤　Ｏ”字车车牛，司机更牛！">
+            <S_no>第3段第7句标注</S_no>
+            <Segmented_S> “/w  粤/j  　/j  Ｏ/n  ”/w  字/n  车车/n  牛/n  ，/w  司机/n  更/d  牛/n  ！</Segmented_S>
+            <S_Length>15</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.6" Expect="0.0" Anxiety="0.0" Anger="0.0">牛</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.6" Expect="0.0" Anxiety="0.0" Anger="0.0">牛</Keywords>
+            <degree_adv start="-1" position="12" modifier_word_position="13" modifier_word_length="1" end="-1">更</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>封路 排队等待</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="有一次从赣州去瑞金的路上，正好碰见杨尚昆主席从瑞金视察出来，中午１１点警察封路不让通行，我们乘坐的副市长的专车也只好开到岔道上排队等待。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>有/v  一次/n  从/p  赣州/n  去/v  瑞金/v  的/u  路上/s  ，/w  正好/z  碰见/v  杨尚昆/n  主席/n  从/p  瑞金/n  视察/v  出来/v  ，/w  中午/t  １１点/t  警察/n  封路/n  不/d  让/v  通行/v  ，/w  我们/r  乘坐/v  的/u  副/b  市长/n  的/u  专车/n  也/d  只好/d  开/v  到/v  岔道/n  上/f  排队/v  等待/v  。</Segmented_S>
+            <S_Length>68</S_Length>
+            <Keywords start="-1" position="37" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.6" Anger="0.0">封路</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.7" Anger="0.0">只好</Keywords>
+            <Keywords start="-1" position="65" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.7" Anger="0.0">等待</Keywords>
+            <noword start="-1" position="39" modifier_word_position="40" modifier_word_length="3" end="-1">不</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="岔道两边是露天垃圾填埋场，苍蝇包围了汽车。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 岔道/n  两边/f  是/v  露天/n  垃圾/n  填埋场/n  ，/w  苍蝇/n  包围/v  了/u  汽车/n  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">垃圾</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.7" Expect="0.0" Anxiety="0.0" Anger="0.0">包围</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们只好下车到前面凉棚里打扑克等待。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 我们/r  只好/d  下车/v  到/v  前面/f  凉棚/n  里/f  打/v  扑克/n  等待/v  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.7" Anger="0.0">只好</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">等待</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一等竟然等到下午２点多钟，警察不知道，副市长也问不出来，杨主席出行时间是一级机密，不能透露。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 一等/b  竟然/n  等到/d  下午/v  ２点/t  多/m  钟/n  ，/w  警察/n  不/d  知道/v  ，/w  副/b  市长/n  也/d  问/v  不/d  出来/v  ，/w  杨/nr  主席/n  出行/v  时间/n  是/v  一级/b  机密/n  ，/w  不/d  能/v  透露/v  。</Segmented_S>
+            <S_Length>46</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0.6" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">竟然</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">机密</Keywords>
+            <noword start="-1" position="15" modifier_word_position="16" modifier_word_length="2" end="-1">不</noword>
+            <noword start="41" position="41" modifier_word_position="43" modifier_word_length="2" end="42">不</noword>
+            <E_phrase start="23" position="23" end="26" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.7" Anger="0.0">问</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们没辙，更苦了只有这一条大街的县城老百姓。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 我们/r  没辙/v  ，/w  更/d  苦/a  了/y  只/u  有/v  这/r  一/m  条/q  大街/n  的/u  县城/n  老百姓/n  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.8" Anger="0.0">没辙</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.7" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">苦</Keywords>
+            <degree_adv start="-1" position="5" modifier_word_position="6" modifier_word_length="15" end="-1">更</degree_adv>
+            <degree_adv start="8" position="8" modifier_word_position="10" modifier_word_length="11" end="9">只</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="有幸陪同财政部、国家计委和建设部的领导去九寨沟调查风景名胜区国家资金使用情况，警察开道不说，途经各县书记、县长、公安局长等领导在县界等待，接到后一路送出县界，把我们交给邻县领导。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>有幸/v  陪同/v  财政部/nt  、/w  国家/n  计委/j  和/c  建设部/nt  的/u  领导/vn  去/v  九寨沟/ns  调查/v  风景/n  名胜区/n  国家/n  资金/n  使用/vn  情况/n  ，/w  警察/n  开道/v  不/d  说/v  ，/w  途经/v  各县/r  书记/n  、/w  县长/n  、/w  公安/n  局长/n  等/u  领导/vn  在/p  县界/n  等待/v  ，/w  接到/v  后/f  一路/m  送/v  出/v  县界/n  ，/w  把/p  我们/r  交给/v  邻县/n  领导/v  。</Segmented_S>
+            <S_Length>89</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.8" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">有幸</Keywords>
+            <Keywords start="-1" position="74" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.7" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">送</Keywords>
+            <noword start="-1" position="43" modifier_word_position="44" modifier_word_length="1" end="-1">不</noword>
+            <E_phrase start="39" position="39" end="42" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.6" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">警察</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那阵势不比杨主席的差，威风八面，让我感慨不已，至今难以忘怀。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 那/r  阵势/n  不/d  比/p  杨/nr  主席/n  的/u  差/a  ，/w  威风八面/v  ，/w  让/v  我/r  感慨不已/v  ，/w  至今/d  难以忘怀/i  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">阵势</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.6" Expect="0.0" Anxiety="0.0" Anger="0.0">差</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.8" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">威风八面</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.6" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">感慨不已</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0.0" Sorrow="0.0" POS="i" Opinionholder="0" Love="0.0" Joy="0.8" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">难以忘怀</Keywords>
+            <noword start="-1" position="3" modifier_word_position="4" modifier_word_length="6" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="坐车的感觉真得不一样！">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>坐/v  车/n  的/u  感觉/n  真/d  得/v  不一样/v  ！</Segmented_S>
+            <S_Length>11</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.6" Anger="0.0">不一样</Keywords>
+            <degree_adv start="-1" position="5" modifier_word_position="7" modifier_word_length="3" end="-1">真</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

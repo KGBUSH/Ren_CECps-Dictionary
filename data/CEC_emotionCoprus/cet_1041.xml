@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.7</Hate>
+    <Love>0.4</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>算命</Topic>
+    <title T="算命">
+        <Segmented_S>算/v  命/n</Segmented_S>
+        <S_Length>2</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.4</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.5</Expect>
+        <Topic>算命</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="多年以来我一直对多算命、相面、看手相等均持不信态度。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>多年/m  以来/f  我/r  一直/d  对/p  多/a  算命/v  、/w  相面/n  、/w  看/v  手相/n  等/u  均/d  持/v  不/d  信/v  态度/n  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <noword start="-1" position="21" modifier_word_position="22" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="有一年我们编辑部办笔会，与会作家们个个都是人尖子，能掐会算。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 有/v  一/m  年/q  我们/r  编辑部/n  办/v  笔会/n  ，/w  与会/vn  作家/n  们/k  个个/q  都/d  是/v  人/n  尖子/n  ，/w  能掐会算/v  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">尖子</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">能掐会算</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="有一个作家的算命本事大，在文学界颇有名气，我早有耳闻，所以那次笔会的闲暇时光，大家都依次找他挂号算命，以博一粲。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 有/v  一个/m  作家/n  的/u  算命/vn  本事/n  大/a  ，/w  在/p  文学界/n  颇/d  有/v  名气/n  ，/w  我/r  早有/v  耳闻/n  ，/w  所以/c  那/r  次/q  笔会/n  的/u  闲暇/n  时光/n  ，/w  大家/r  都/d  依次/d  找/v  他/r  挂号/v  算命/n  ，/w  以/p  博一/n  粲/v  。</Segmented_S>
+            <S_Length>56</S_Length>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">闲暇</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">找</Keywords>
+            <E_conjunction start="-1" position="27" next_position="27" modifier_word_position="29" modifier_word_length="26" end="-1">所以</E_conjunction>
+            <E_phrase start="16" position="16" end="19" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">颇</E_phrase>
+            <E_phrase start="51" position="51" end="54" Surprise="0" Sorrow="0" POS="p" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0.5" Anxiety="0" Anger="0">以</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>算命</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我的领导那次心血来潮，到创作班来探望我们，顺便预定了请他算命。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>我/r  的/u  领导/vn  那/r  次/q  心血来潮/v  ，/w  到/p  创作/v  班/n  来/v  探望/v  我们/r  ，/w  顺便/d  预定/v  了/u  请/v  他/r  算命/v  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">心血来潮</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0.3" Joy="0" Hate="0" Expect="0.2" Anxiety="0" Anger="0">探望</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">预定</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="2" end="-1">领导</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="由于是领导，他就不能信口开河，郑重定下时间，第二天午休后正式算命，还装模作样地表态说，得认真准备一下云云。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 由于/p  是/v  领导/n  ，/w  他/r  就/d  不/d  能/v  信口/d  开河/v  ，/w  郑重/ad  定下/v  时间/n  ，/w  第二/m  天/q  午休/n  后/f  正式/ad  算命/v  ，/w  还/d  装模/v  作样/n  地/u  表态/v  说/v  ，/w  得/v  认真/ad  准备/v  一下/m  云云/n  。</Segmented_S>
+            <S_Length>53</S_Length>
+            <Keywords start="10" position="10" end="13" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">信口</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0.1" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">认真</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.1" Anxiety="0" Anger="0">准备</Keywords>
+            <noword start="-1" position="8" modifier_word_position="10" modifier_word_length="4" end="-1">不</noword>
+            <E_phrase start="34" position="34" end="37" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">装模</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>算命</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="当天夜里，这位算命作家敲开了我的门，与我殷勤地聊天，话老往领导的过去上引。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>当天/t  夜里/t  ，/w  这位/v  算命/n  作家/v  敲/n  开/v  了/u  我的/n  门/n  ，/w  与我/v  殷勤/n  地/u  聊天/v  ，/w  话/n  老/a  往/p  领导/n  的/u  过去/t  上/f  引/v  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">殷勤</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.3</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我不是个省油的灯，敏感地发觉了他的聊天目的，我告诉他，领导的过去等明天算命后再说。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 我不/n  是/v  个/q  省/n  油的/n  灯/n  ，/w  敏感/a  地/u  发觉/v  了/u  他/r  的/u  聊天/v  目的/n  ，/w  我/r  告诉/v  他/r  ，/w  领导/n  的/u  过去/t  等/u  明天/t  算命/v  后/f  再说/v  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">敏感</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.2" Anxiety="0" Anger="0">目的</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="算命大师一看事情败露，索性直言，告之我算命不过是个游戏，多了解一下背景，做一下功课就是要假戏真做。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 算命/vn  大师/n  一看/n  事情/n  败露/n  ，/w  索性/d  直言/v  ，/w  告/v  之/u  我/r  算命/v  不过/d  是/v  个/q  游戏/n  ，/w  多/d  了解/v  一下/m  背景/n  ，/w  做/v  一下/m  功课/n  就/d  是/v  要/v  假戏真做/v  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">败露</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">假戏真做</Keywords>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="为了第二天的“游戏”，我把我所知的领导秉性以及过去的点滴全盘托出。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 为了/p  第二/m  天/q  的/u  “/w  游戏/n  ”/w  ，/w  我/r  把/p  我/r  所/u  知/v  的/u  领导/vn  秉性/n  以及/c  过去/t  的/u  点滴/n  全盘/d  托/v  出/v  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“”</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="第二天算命时我不在现场，但事后领导拍着我的肩膀说，大师就是大师，不服不行。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>第二/m  天/q  算命/v  时/Ng  我不在/v  现场/s  ，/w  但/c  事后/t  领导/v  拍/v  着/u  我/r  的/u  肩膀/n  说/v  ，/w  大师/n  就/d  是/v  大师/n  ，/w  不服/v  不行/a  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="1" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大师</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="1" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大师</Keywords>
+            <E_conjunction start="-1" position="12" next_position="12" modifier_word_position="13" modifier_word_length="23" end="-1">但</E_conjunction>
+            <E_phrase start="32" position="32" end="35" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不服</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="15" end="-1">领导</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我本想戳穿大师，但看领导深信不疑的兴奋劲儿，也没好再当众泼冷水。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 我/r  本想/v  戳穿/n  大师/v  ，/w  但/c  看/v  领导/n  深信不疑/v  的/u  兴奋/a  劲儿/n  ，/w  也/d  没/d  好再/v  当众/n  泼冷水/d  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0.0">戳穿</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.1" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大师</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">深信不疑</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.2" Hate="0" Expect="0" Anxiety="0" Anger="0">兴奋</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0.0">泼冷水</Keywords>
+            <noword start="-1" position="23" modifier_word_position="28" modifier_word_length="3" end="-1">没</noword>
+            <E_conjunction start="-1" position="8" next_position="8" modifier_word_position="9" modifier_word_length="12" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.4</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="这事让我对算命的印象非常不好。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>这/r  事/n  让/v  我对/n  算命/v  的/u  印象/n  非常/d  不好/a  。</Segmented_S>
+            <S_Length>15</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">不好</Keywords>
+            <degree_adv start="-1" position="10" modifier_word_position="12" modifier_word_length="2" end="-1">非常</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="其实算命者都是个心理学家，有的无师自通，感受对方的心理变化时做的娴熟，尽量选择模棱两可的语言，一旦发现与事实不符还有弥补的机会，心理大师加上语言大师再加上忽悠，民间就会称他算命大师，几十年来我见过多人，大同小异。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 其实/d  算命者/v  都/d  是/v  个/q  心理学家/n  ，/w  有的/r  无师/n  自通/v  ，/w  感受/v  对方/n  的/u  心理/n  变化/vn  时/Ng  做/v  的/u  娴熟/a  ，/w  尽量/d  选择/v  模棱两可/n  的/u  语言/n  ，/w  一旦/d  发现/v  与/p  事实/n  不符/v  还有/v  弥补/v  的/u  机会/n  ，/w  心理/n  大师/n  加上/v  语言/n  大师/n  再/d  加上/v  忽悠/n  ，/w  民间/n  就/d  会/v  称/v  他/r  算命/v  大师/n  ，/w  几十/m  年/q  来/f  我见/v  过多/d  人/n  ，/w  大同小异/i  。</Segmented_S>
+            <S_Length>106</S_Length>
+            <Keywords start="15" position="15" end="18" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">无师</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">娴熟</Keywords>
+            <Keywords start="-1" position="66" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大师</Keywords>
+            <Keywords start="-1" position="72" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大师</Keywords>
+            <Keywords start="-1" position="77" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">忽悠</Keywords>
+            <Keywords start="-1" position="88" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.1" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大师</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

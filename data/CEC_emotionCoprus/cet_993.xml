@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.6</Hate>
+    <Love>0.7</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.8</Expect>
+    <Topic>菲尔普斯 吸毒  戒毒</Topic>
+    <title T="如果能成功戒掉毒瘾，菲尔普斯依然伟大">
+        <Segmented_S>如果/c  能/v  成功/a  戒/v  掉/v  毒瘾/n  ，/w  菲尔普斯/v  依然/z  伟大/a</Segmented_S>
+        <S_Length>18</S_Length>
+        <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">成功</Keywords>
+        <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">毒瘾</Keywords>
+        <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+        <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="7" end="-1">如果</E_conjunction>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>菲尔普斯吸食大麻</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="英国《世界新闻报》２月１日独家刊登了一组北京奥运会游泳“八金王”菲尔普斯吸食大麻的照片。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>英国/ns  《/w  世界/n  新闻/n  报/n  》/w  ２月/n  １日/v  独家/d  刊登/v  了/u  一/m  组/q  北京/ns  奥运会/j  游泳/vn  “/w  八/m  金/Ng  王/nr  ”/w  菲尔普斯/n  吸食/v  大麻/n  的/u  照片/n  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">大麻</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="正当人们对照片的真实性议论纷纷的时候，北京时间２日凌晨，菲尔普斯发表声明，承认了该报道的真实性，并就自己的行为向公众道歉。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 正/d  当/p  人们/n  对照/v  片/Ng  的/u  真实性/n  议论/v  纷纷/d  的/u  时候/n  ，/w  北京/ns  时间/n  ２日/v  凌晨/t  ，/w  菲尔普斯/v  发表/v  声明/n  ，/w  承认/v  了/u  该/r  报道/n  的/u  真实性/n  ，/w  并/c  就/p  自己/r  的/u  行为/n  向/p  公众/n  道歉/v  。</Segmented_S>
+            <S_Length>61</S_Length>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">道歉</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="28" end="-1">菲尔普斯</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="（２月３日沈阳日报）">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> （/w  ２月/n  ３日/v  沈阳/ns  日报/n  ）/w</Segmented_S>
+            <S_Length>10</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="菲尔普斯的道歉虽然简单，但对吸毒事件没有进行掩饰却让他有一种“敢做敢当”的诚实。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>菲尔普斯/n  的/u  道歉/vn  虽然/c  简单/a  ，/w  但/c  对/p  吸毒/vn  事件/n  没有/v  进行/v  掩饰/vn  却/d  让/v  他/r  有/v  一种/n  “/w  敢/v  做/v  敢/v  当/v  ”/w  的/u  诚实/a  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0.3" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">道歉</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">吸毒</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">掩饰</Keywords>
+            <Keywords start="31" position="31" end="34" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">敢</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">诚实</Keywords>
+            <noword start="-1" position="18" modifier_word_position="22" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="-1" position="7" next_position="7" modifier_word_position="9" modifier_word_length="2" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="12" next_position="12" modifier_word_position="13" modifier_word_length="26" end="-1">但</E_conjunction>
+            <E_conjunction start="-1" position="24" next_position="24" modifier_word_position="25" modifier_word_length="14" end="-1">却</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="道歉是次要的，戒掉毒瘾才是主要的，在我看来，如果能成功戒掉毒瘾的话，菲尔普斯依然伟大。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 道歉/v  是/v  次要/b  的/u  ，/w  戒/v  掉/v  毒瘾/n  才/d  是/v  主要/b  的/u  ，/w  在/p  我/r  看来/v  ，/w  如果/c  能/v  成功/a  戒/v  掉/v  毒瘾/n  的话/u  ，/w  菲尔普斯/v  依然/z  伟大/a  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0.2" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">道歉</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">毒瘾</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">成功</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">毒瘾</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0.0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="虽然美国反兴奋剂机构（ＵＳＡＤＡ）执行长Ｔｒａｖｉｓ　Ｔｙｇａｒｔ接受路透电话采访时曾经表示菲尔普斯“作了一个令人非常失望和糟糕的决定，在某种程度上，他让全世界感到失望”，但在菲尔普斯道歉之后美国奥委会（ＵＳＯＣ）的声明并没有将菲尔普斯“判处死刑”的意思，美国奥委会的声明说：“我们相信菲尔普斯以后一定会痛改前非，改正自己曾经的不良行为和错误。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>虽然/c  美国/ns  反/v  兴奋剂/n  机构/n  （/w  ＵＳＡＤＡ/n  ）/w  执行长/n  Ｔｒａｖｉｓ　Ｔｙｇａｒｔ/v  接受/v  路透/n  电话/n  采访/v  时/Ng  曾经/d  表示/v  菲尔普斯/v  “/w  作/v  了/u  一个/m  令/v  人/n  非常/d  失望/a  和/c  糟糕/a  的/u  决定/n  ，/w  在/p  某种/r  程度/n  上/f  ，/w  他/r  让/v  全世界/n  感到/v  失望/a  ”/w  ，/w  但/c  在/p  菲尔普斯/n  道歉/v  之/u  后/f  美国/ns  奥委会/j  （/w  ＵＳＯＣ/n  ）/w  的/u  声明/n  并/c  没有/v  将/p  菲尔普斯/n  “/w  判处/v  死刑/n  ”/w  的/u  意思/n  ，/w  美国/ns  奥委会/j  的/u  声明/n  说/v  ：/w  “/w  我们/r  相信/v  菲尔普斯/n  以/p  后/f  一定/d  会/v  痛改前非/v  ，/w  改正/v  自己/r  曾经/d  的/u  不良/a  行为/n  和/c  错误/n  。</Segmented_S>
+            <S_Length>172</S_Length>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">失望</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">糟糕</Keywords>
+            <Keywords start="-1" position="82" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">失望</Keywords>
+            <Keywords start="-1" position="92" end="-1" Surprise="0" Sorrow="0.2" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">道歉</Keywords>
+            <Keywords start="-1" position="121" end="-1" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">死刑</Keywords>
+            <Keywords start="-1" position="141" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">相信</Keywords>
+            <Keywords start="-1" position="152" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">痛改前非</Keywords>
+            <Keywords start="-1" position="164" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">不良</Keywords>
+            <Keywords start="-1" position="169" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">错误</Keywords>
+            <degree_adv start="-1" position="57" modifier_word_position="59" modifier_word_length="2" end="-1">非常</degree_adv>
+            <noword start="-1" position="111" modifier_word_position="125" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="-1" position="0" next_position="86" modifier_word_position="2" modifier_word_length="82" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="86" next_position="0" modifier_word_position="86" modifier_word_length="41" end="-1">但</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="他将一如既往的是美国公民的榜样，我们完全可以期待这个伟大的奥运冠军继续创造辉煌”。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 他/r  将/d  一如既往/i  的/u  是/v  美国/ns  公民/n  的/u  榜样/n  ，/w  我们/r  完全/ad  可以/v  期待/v  这/r  个/q  伟大/a  的/u  奥运/j  冠军/n  继续/v  创造/v  辉煌/a  ”/w  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">榜样</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">期待</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">冠军</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">辉煌</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="毕竟菲尔普斯的吸毒行为与某些人在赛场上被查出服用违禁药物并非一个性质，所以我们有理由相信：美国体育界会给菲尔普斯一个改过自新的机会的。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>毕竟/d  菲尔普斯/v  的/u  吸毒/vn  行为/n  与/p  某些/r  人/n  在/p  赛场/n  上/f  被/p  查出/v  服用/v  违禁/b  药物/n  并非/v  一个/m  性质/n  ，/w  所以/c  我们/r  有理由/v  相信/v  ：/w  美国/ns  体育界/n  会/v  给/p  菲尔普斯/n  一个/m  改过自新/n  的/u  机会/n  的/u  。</Segmented_S>
+            <S_Length>67</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">吸毒</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">违禁</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">相信</Keywords>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">改过自新</Keywords>
+            <noword start="-1" position="28" modifier_word_position="30" modifier_word_length="4" end="-1">并非</noword>
+            <E_conjunction start="-1" position="35" next_position="35" modifier_word_position="37" modifier_word_length="29" end="-1">所以</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="如果有了“浪子回头”的机会，几年后的伦敦奥运会上菲尔普斯说不定依然会摘金夺银。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 如果/c  有/v  了/u  “/w  浪子/n  回头/v  ”/w  的/u  机会/n  ，/w  几/m  年/q  后/f  的/u  伦敦/ns  奥运会/j  上/f  菲尔普斯/v  说不定/l  依然/z  会/v  摘/v  金/Ng  夺银/nr  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="5" position="5" end="8" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">浪子</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="11" end="-1">如果</E_conjunction>
+            <E_phrase start="34" position="34" end="37" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">摘</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>改过自新</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="吸毒绝对算是人生历史上的一个污点，可成功戒毒更可以算是人生旅程中的一个重大转折甚至辉煌。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>吸毒/v  绝对/d  算是/v  人生/n  历史/n  上/f  的/u  一个/m  污点/n  ，/w  可/v  成功/ad  戒毒/v  更/d  可以/v  算是/v  人生/n  旅程/n  中/f  的/u  一个/m  重大/a  转折/vn  甚至/d  辉煌/a  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">吸毒</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">污点</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">成功</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">戒毒</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">辉煌</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="球王马拉多纳曾经是一个不折不扣的顽固“瘾君子”，但他戒毒之后依然是阿根廷球迷乃至世界球迷公认的球王，他如今贵为阿根廷国家队的教练就是一个明证，我想他在阿根廷国内的声誉应该不会次于阿国的总统。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 球王/n  马拉多纳/v  曾经/d  是/v  一个/m  不折不扣/i  的/u  顽固/a  “/w  瘾君子/n  ”/w  ，/w  但/c  他/r  戒毒/v  之/u  后/f  依然/z  是/v  阿根廷/ns  球迷/n  乃至/c  世界/n  球迷/n  公认/v  的/u  球王/n  ，/w  他/r  如今/t  贵为/n  阿根廷/ns  国家队/n  的/u  教练/n  就/d  是/v  一个/m  明证/n  ，/w  我想/v  他/r  在/p  阿根廷/ns  国内/s  的/u  声誉/n  应该/v  不/d  会/v  次于/v  阿国/n  的/u  总统/n  。</Segmented_S>
+            <S_Length>95</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">顽固</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">瘾君子</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">戒毒</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">球王</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">贵为</Keywords>
+            <noword start="-1" position="85" modifier_word_position="87" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="24" next_position="24" modifier_word_position="25" modifier_word_length="24" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="犯错并不可怕，改正了错误丝毫无损于犯错者曾经的荣誉，“魔术师”约翰逊感染过艾滋病毒，可如今约翰逊成了和艾滋病做斗争的典范。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 犯错/n  并不/d  可怕/a  ，/w  改正/v  了/u  错误/n  丝毫无损/a  于/p  犯/v  错/v  者/k  曾经/d  的/u  荣誉/n  ，/w  “/w  魔术师/n  ”/w  约翰逊/nr  感染/v  过/u  艾滋病毒/n  ，/w  可/v  如今/t  约翰逊/v  成/nr  了/u  和/p  艾滋病/n  做/v  斗争/vn  的/u  典范/n  。</Segmented_S>
+            <S_Length>61</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">犯错</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">可怕</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">错误</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">荣誉</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">感染</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">艾滋病毒</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">艾滋病</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.2">斗争</Keywords>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">典范</Keywords>
+            <noword start="-1" position="2" modifier_word_position="4" modifier_word_length="2" end="-1">并不</noword>
+            <E_phrase start="17" position="17" end="19" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">犯</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="马拉多纳能做到的、约翰逊能做到的，菲尔普斯也应该能做到。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 马拉多纳/n  能/v  做到/v  的/u  、/w  约翰逊/nr  能/v  做到/v  的/u  ，/w  菲尔普斯/v  也/d  应该/v  能/v  做到/v  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">应该</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="如果菲尔普斯能成功戒掉毒瘾，并且重新以一个健康的形象出现在下届甚至下下届奥运会的泳池里，以他的天赋，塑造另一个伟大的传奇应该不是神话！">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>如果/c  菲尔普斯/n  能/v  成功/a  戒/v  掉/v  毒瘾/n  ，/w  并且/c  重新/d  以/p  一个/m  健康/a  的/u  形象/n  出现/v  在/p  下届/b  甚至/c  下下/v  届/q  奥运会/j  的/u  泳池/n  里/f  ，/w  以/p  他/r  的/u  天赋/n  ，/w  塑造/v  另/r  一个/m  伟大/a  的/u  传奇/n  应该/v  不/d  是/v  神话/n  ！</Segmented_S>
+            <S_Length>67</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">成功</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">毒瘾</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">健康</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">天赋</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">传奇</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">应该</Keywords>
+            <Keywords start="-1" position="64" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">神话</Keywords>
+            <noword start="-1" position="62" modifier_word_position="64" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="11" end="-1">如果</E_conjunction>
+            <E_conjunction start="-1" position="14" next_position="14" modifier_word_position="16" modifier_word_length="27" end="-1">并且</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="道歉后的菲尔普斯，努力戒毒吧，我们深信：成功后的你会依然伟大甚至更加伟大！">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>道歉/v  后/f  的/u  菲尔普斯/n  ，/w  努力/ad  戒毒/v  吧/y  ，/w  我们/r  深信/v  ：/w  成功/a  后/f  的/u  你/r  会/v  依然/z  伟大/a  甚至/c  更加/d  伟大/a  ！</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0.3" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">道歉</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">努力</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">戒毒</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">吧</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">深信</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">成功</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+            <degree_adv start="-1" position="32" modifier_word_position="34" modifier_word_length="2" end="-1">更加</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+    </paragraph>
+</document>

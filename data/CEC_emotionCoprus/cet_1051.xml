@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.4</Hate>
+    <Love>0.8</Love>
+    <Sorrow>0.4</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.6</Expect>
+    <Topic>柿子</Topic>
+    <title T="柿子">
+        <Segmented_S>柿/n  子/Ng</Segmented_S>
+        <S_Length>2</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.4</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.5</Expect>
+        <Topic>柿子</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="北京过去一到深秋，街头就有卖柿子的了。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>北京/ns  过去/t  一/m  到/p  深秋/t  ，/w  街头/s  就/d  有/v  卖/v  柿子/n  的/u  了/y  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="柿子过去属于便宜水果，尤其刚下来时极涩，买回家要放置一段时间，或者放在米缸中漤，只有去其涩味，柿子才可入口。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 柿子/n  过去/t  属于/v  便宜/a  水果/n  ，/w  尤其/d  刚/d  下/v  来时/n  极/d  涩/a  ，/w  买/v  回家要/n  放置/v  一/m  段/q  时间/n  ，/w  或者/c  放/v  在/p  米缸/n  中/f  漤/v  ，/w  只/d  有/v  去/v  其/r  涩味/n  ，/w  柿子/n  才/d  可/v  入口/v  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">便宜</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">涩</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">涩味</Keywords>
+            <degree_adv start="-1" position="17" modifier_word_position="18" modifier_word_length="1" end="-1">极</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="小时候见好吃的就心急，等柿子在米缸漤熟了，也差不多快吃完了，印象中最涩的柿子让人咬一口半天张不开嘴。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 小时候/t  见好/v  吃/v  的/u  就/d  心急/v  ，/w  等/v  柿子/n  在/p  米缸/n  漤/v  熟/a  了/y  ，/w  也/d  差不多/l  快/a  吃/v  完/v  了/u  ，/w  印象中/v  最/d  涩/a  的/u  柿子/n  让/v  人/n  咬/v  一/m  口/q  半天/m  张/q  不/d  开/v  嘴/n  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0.5" Anger="0">心急</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">涩</Keywords>
+            <degree_adv start="-1" position="33" modifier_word_position="34" modifier_word_length="1" end="-1">最</degree_adv>
+            <E_phrase start="4" position="3" end="5" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">见好</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>柿子</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="柿子的颜色诱人，尤其深秋落叶之后，枝头暖红点点，别有一番风味。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>柿子/n  的/u  颜色/n  诱人/a  ，/w  尤其/d  深秋/v  落叶/n  之/u  后/f  ，/w  枝头/n  暖/v  红/a  点点/n  ，/w  别/d  有/v  一番/m  风味/n  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">诱人</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">风味</Keywords>
+            <E_phrase start="19" position="19" end="22" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">暖</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我对画家于非闇的第一个认识就是先生画的丹柿，画上的题款大致是秋天去老舍家，见丹柿满树有感而画云云，那时觉得只有老舍这样的大作家，家中才可能有柿子树。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 我对/n  画家/n  于/nr  非/nr  闇/h  的/u  第一/m  个/q  认识/n  就/d  是/v  先生/n  画/v  的/u  丹/nr  柿/nr  ，/w  画/v  上/v  的/u  题款/n  大致/d  是/v  秋天/t  去/v  老舍/nr  家/n  ，/w  见/v  丹/j  柿/n  满/a  树/n  有感/v  而/c  画/v  云云/n  ，/w  那时/r  觉得/v  只/d  有/v  老舍/n  这样/r  的/u  大作家/n  ，/w  家中/s  才/d  可能/v  有/v  柿子/n  树/v  。</Segmented_S>
+            <S_Length>74</S_Length>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大作家</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>柿子的吃法</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="柿子的吃法很多，一是冻柿子，一是柿饼。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>柿子/n  的/u  吃法/n  很/d  多/a  ，/w  一/m  是/v  冻/v  柿子/n  ，/w  一/m  是/v  柿饼/n  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="年轻时牙口好，多凉牙也没问题，今天估计咬上一口牙酸疼得晕过去。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 年轻/a  时/Ng  牙口/v  好/a  ，/w  多/d  凉/a  牙/n  也/d  没/d  问题/n  ，/w  今天/t  估计/v  咬/v  上/f  一/m  口/q  牙/n  酸疼/v  得/u  晕/v  过去/t  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">酸疼</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">晕</Keywords>
+            <noword start="-1" position="11" modifier_word_position="12" modifier_word_length="2" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="东北的冻柿子都是大自然冻成的，不用冰箱，不浪费任何能源。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 东北/s  的/u  冻/v  柿子/n  都/d  是/v  大自然/n  冻/v  成/v  的/u  ，/w  不/d  用/v  冰箱/n  ，/w  不/d  浪费/v  任何/r  能源/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">浪费</Keywords>
+            <noword start="-1" position="15" modifier_word_position="16" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="20" modifier_word_position="21" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在东北乡下，看见白雪皑皑中农家小院的窗台上，一溜红红的冻柿子，多凉心头也是热的。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 在/p  东北/f  乡下/s  ，/w  看见/v  白雪皑皑/n  中农/v  家小/n  院/Ng  的/u  窗台/n  上/f  ，/w  一溜/l  红红的/n  冻/v  柿子/n  ，/w  多/d  凉/a  心头/n  也/d  是/v  热/a  的/u  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">白雪皑皑</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">红红的</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="东北的冻柿子冻得如石头一般，放在屋里一小时有时还咬不动，为了尽快吃上，得用凉水拔，把冻柿子放入凉水中，几分钟后柿子上形成一层冰壳，柿子变得软硬适中，非常爽口；如心急将其放入热水中，柿子立马如烂泥一般，没了风韵。">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> 东北/s  的/u  冻/v  柿子/n  冻/v  得/u  如/v  石头/n  一般/a  ，/w  放/v  在/p  屋里/s  一小时/v  有时/d  还/d  咬/v  不/d  动/v  ，/w  为了/p  尽快/d  吃/v  上/v  ，/w  得/v  用/p  凉水/n  拔/v  ，/w  把/p  冻/v  柿子/n  放/v  入/v  凉水/n  中/f  ，/w  几/m  分钟/q  后/f  柿子/v  上/f  形成/v  一/m  层/q  冰/n  壳/Ng  ，/w  柿子/n  变/v  得/u  软硬/a  适中/n  ，/w  非常/d  爽口/a  ；/w  如/v  心急/n  将/d  其/r  放入/n  热水/v  中/f  ，/w  柿子/n  立马/d  如/v  烂泥/n  一般/a  ，/w  没/d  了/y  风韵/u  。</Segmented_S>
+            <S_Length>105</S_Length>
+            <Keywords start="-1" position="76" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爽口</Keywords>
+            <Keywords start="-1" position="80" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.2" Anger="0">心急</Keywords>
+            <Keywords start="-1" position="95" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">烂泥</Keywords>
+            <Keywords start="-1" position="102" end="-1" Surprise="0" Sorrow="0" POS="u" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">风韵</Keywords>
+            <degree_adv start="-1" position="74" modifier_word_position="76" modifier_word_length="2" end="-1">非常</degree_adv>
+            <noword start="-1" position="100" modifier_word_position="102" modifier_word_length="2" end="-1">没</noword>
+            <E_phrase start="24" position="24" end="26" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">咬</E_phrase>
+            <E_phrase start="69" position="69" end="72" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">软硬</E_phrase>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>柿饼</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="柿饼则属干果，晾干后泛着一层白霜，香甜可口，文章写到此，满口生津。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>柿饼/n  则/d  属/v  干果/n  ，/w  晾干/v  后/f  泛/v  着/u  一/m  层/q  白/a  霜/n  ，/w  香甜/a  可口/n  ，/w  文章/n  写/v  到/v  此/r  ，/w  满/a  口/n  生津/v  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">香甜</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">可口</Keywords>
+            <E_phrase start="28" position="28" end="31" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">满</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="仔细一想，至今有十几二十年没吃柿饼了，其好吃印象还如此强烈。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 仔细/ad  一想/v  ，/w  至今/d  有/v  十几/m  二十/m  年/q  没/d  吃/v  柿饼/n  了/y  ，/w  其/r  好吃/a  印象/n  还/d  如此/r  强烈/a  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好吃</Keywords>
+            <degree_adv start="-1" position="27" modifier_word_position="22" modifier_word_length="2" end="-1">强烈</degree_adv>
+            <noword start="-1" position="13" modifier_word_position="14" modifier_word_length="1" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="小时候柿饼并不便宜，有一种便宜的类似干果叫黑枣，有核，味道与柿饼近同，只个儿很小，今天难觅其踪，让我怅然若失。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 小时候/t  柿饼/v  并不/d  便宜/a  ，/w  有/v  一/m  种/q  便宜/a  的/u  类似/a  干果/n  叫/v  黑枣/v  ，/w  有/v  核/n  ，/w  味道/n  与/p  柿饼/n  近/v  同/m  ，/w  只/d  个儿/v  很/d  小/a  ，/w  今天/t  难觅/v  其/r  踪/n  ，/w  让/v  我/r  怅然/v  若失/n  。</Segmented_S>
+            <S_Length>55</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">便宜</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">便宜</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">难觅</Keywords>
+            <Keywords start="50" position="50" end="53" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">怅然</Keywords>
+            <degree_adv start="-1" position="38" modifier_word_position="39" modifier_word_length="1" end="-1">很</degree_adv>
+            <noword start="-1" position="5" modifier_word_position="7" modifier_word_length="2" end="-1">并不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

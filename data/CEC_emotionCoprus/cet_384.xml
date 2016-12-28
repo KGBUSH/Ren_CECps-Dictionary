@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.6</Joy>
+    <Hate>0.7</Hate>
+    <Love>0.6</Love>
+    <Sorrow>0.6</Sorrow>
+    <Anxiety>0.5</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.8</Expect>
+    <Topic>转移 与时俱进 自由</Topic>
+    <title T="老字号需要自由而非保护">
+        <Segmented_S>老字号/n  需要/v  自由/a  而/c  非/Vg  保护/v</Segmented_S>
+        <S_Length>11</S_Length>
+        <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">需要</Keywords>
+        <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">自由</Keywords>
+        <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">保护</Keywords>
+        <noword start="-1" position="8" modifier_word_position="9" modifier_word_length="2" end="-1">非</noword>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.4</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.4</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>风光不再</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="广州城市发展的重心向东向南转移，老城区风光不再，是一个简单的事实。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>广州/ns  城市/n  发展/vn  的/u  重心/n  向/p  东/f  向/p  南/f  转移/v  ，/w  老城区/v  风光/n  不再/d  ，/w  是/v  一个/m  简单/a  的/u  事实/n  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">发展</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">转移</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">风光</Keywords>
+            <noword start="-1" position="21" modifier_word_position="19" modifier_word_length="2" end="-1">不再</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="以我在广州生活的经验看，荔湾越秀老广州风韵犹存，东山是过渡带，天河则纯属新广州了。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 以我/n  在/p  广州/ns  生活/vn  的/u  经验/n  看/v  ，/w  荔湾/v  越秀/n  老/a  广州/ns  风韵/n  犹存/v  ，/w  东山/ns  是/v  过渡带/n  ，/w  天河/v  则/d  纯属/v  新/a  广州/ns  了/u  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <E_phrase start="19" position="19" end="22" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">风韵</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="从西向东，城市的风貌就截然不同，物价水平、消费习惯甚至语言也有明显的差异。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 从/p  西向/n  东/f  ，/w  城市/n  的/u  风貌/n  就/d  截然不同/i  ，/w  物价/n  水平/n  、/w  消费/v  习惯/v  甚至/d  语言/n  也/d  有/v  明显/a  的/u  差异/n  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">截然不同</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">差异</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="即便初来乍到，这样的结论一个上午就可以用脚趾头得出。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 即便/c  初来乍到/n  ，/w  这样/r  的/u  结论/n  一个/m  上午/t  就/d  可以/v  用/p  脚趾头/n  得出/v  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">初来乍到</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.2" Hate="0" Expect="0" Anxiety="0" Anger="0">可以</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="4" end="-1">即便</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.3</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我承认，这话突兀，对新老广州人来说，根本就是废话。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>我/r  承认/v  ，/w  这话/r  突兀/v  ，/w  对/p  新/a  老/a  广州/ns  人/n  来说/u  ，/w  根本/d  就/d  是/v  废话/n  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">突兀</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">废话</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">我</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="但稍安勿躁，这是有感而发。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 但/c  稍安/n  勿/d  躁/v  ，/w  这/r  是/v  有感/v  而/c  发/v  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="1" position="1" end="4" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">稍安</Keywords>
+            <Keywords start="8" position="8" end="11" Surprise="0" Sorrow="0.3" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.0" Anger="0">有感</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="4" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>怀旧情愫</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="１月２日，张广宁市长“逛街”，被一些老街区沧海桑田的变迁激发了怀旧的情愫。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>１月/n  ２日/v  ，/w  张/nr  广宁/nr  市长/n  “/w  逛/v  街/n  ”/w  ，/w  被/p  一些/m  老/a  街区/n  沧海桑田/v  的/u  变迁/vn  激发/n  了/u  怀旧/n  的/u  情愫/n  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="1" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">激发</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="1" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">怀旧</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="8" end="-1">市长</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="抚今追昔，感慨“这些老字号没保护好，可惜了！">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 抚今追昔/n  ，/w  感慨/v  “/w  这些/r  老字号/n  没/d  保护/v  好/a  ，/w  可惜/v  了/u  ！</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0.3" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">抚今追昔</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感慨</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">保护</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">可惜</Keywords>
+            <noword start="-1" position="13" modifier_word_position="14" modifier_word_length="2" end="-1">没</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <punctuation E_type="悲伤">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”现场提出恢复老字号，并立即要求随行人员致电主管部门，了解一些老字号的产权和消失的原因（见《南方都市报》１月４日报道）。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> ”/w  现场/s  提/v  出/v  恢复/v  老字号/n  ，/w  并/c  立即/d  要求/v  随行/v  人员/n  致电/v  主管/v  部门/n  ，/w  了解/v  一些/m  老字号/n  的/u  产权/n  和/c  消失/v  的/u  原因/n  （/w  见/v  《/w  南方/f  都市/n  报/n  》/w  １月/n  ４日/v  报道/n  ）/w  。</Segmented_S>
+            <S_Length>60</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">恢复</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">要求</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">了解</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">消失</Keywords>
+            <E_conjunction start="-1" position="11" next_position="11" modifier_word_position="12" modifier_word_length="31" end="-1">并</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.3</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>当场献上</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="张市长快人快语，我很佩服，但特别后悔自己当时不在现场。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>张/nr  市长/nr  快人快语/n  ，/w  我/r  很/d  佩服/v  ，/w  但/c  特别/d  后悔/v  自己/r  当时/t  不/d  在/v  现场/s  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">快人快语</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">佩服</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">后悔</Keywords>
+            <degree_adv start="-1" position="9" modifier_word_position="10" modifier_word_length="2" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="14" modifier_word_position="16" modifier_word_length="2" end="-1">特别</degree_adv>
+            <noword start="0" position="22" modifier_word_position="23" modifier_word_length="1" end="0">不</noword>
+            <E_conjunction start="-1" position="13" next_position="13" modifier_word_position="14" modifier_word_length="12" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="8" end="-1">我</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="不揣谫陋和冒昧，我觉得虽然老字号的产权我不甚了解，但消失的原因上我有自己的一家之见，在对老字号的恢复方面也有建言。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 不/d  揣/v  谫陋/n  和/c  冒昧/n  ，/w  我/r  觉得/v  虽然/c  老字号/n  的/u  产权/n  我不/n  甚/Dg  了解/v  ，/w  但/c  消失/v  的/u  原因/n  上/f  我有/v  自己/r  的/u  一家/n  之/u  见/Ng  ，/w  在/p  对/p  老字号/n  的/u  恢复/vn  方面/n  也/d  有/v  建言/n  。</Segmented_S>
+            <S_Length>57</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">谫陋</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">冒昧</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">了解</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0.8" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">消失</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">恢复</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">建言</Keywords>
+            <noword start="-1" position="0" modifier_word_position="1" modifier_word_length="1" end="-1">不</noword>
+            <noword start="20" position="19" modifier_word_position="22" modifier_word_length="2" end="21">我不</noword>
+            <E_conjunction start="-1" position="11" next_position="25" modifier_word_position="13" modifier_word_length="11" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="25" next_position="11" modifier_word_position="26" modifier_word_length="30" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="8" end="-1">我</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="我想当场献上。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 我想/n  当场/d  献/v  上/v  。</Segmented_S>
+            <S_Length>7</S_Length>
+            <Keywords start="1" position="0" end="1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">我想</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>品牌</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="所谓字号，乃是旧称，今日早改叫品牌啦。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>所谓/v  字号/n  ，/w  乃是/v  旧称/n  ，/w  今日/t  早/ad  改/v  叫/v  品牌/n  啦/y  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="也就是说，老字号可以和名牌划等号。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 也/d  就/d  是/v  说/v  ，/w  老字号/n  可以/v  和/p  名牌/n  划等号/n  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">可以</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">划等号</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="但在这个日新月异的时代，有的字号很年轻也荣升老字号了。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 但/c  在/p  这个/r  日新月异/i  的/u  时代/n  ，/w  有的/r  字号/n  很/d  年轻/a  也/d  荣升/v  老字号/n  了/y  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">日新月异</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">年轻</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">荣升</Keywords>
+            <degree_adv start="-1" position="16" modifier_word_position="17" modifier_word_length="2" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="10" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="放眼世界，依然庞大的微软，活力十足的苹果和暮气沉沉的雅虎，就是ＩＴ业的老字号。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 放眼/v  世界/n  ，/w  依然/z  庞大/a  的/u  微软/nt  ，/w  活力/n  十足/n  的/u  苹果/n  和/c  暮气沉沉/n  的/u  雅虎/nz  ，/w  就/d  是/v  ＩＴ业/n  的/u  老字号/n  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">庞大</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0.8" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">暮气沉沉</Keywords>
+            <E_phrase start="13" position="13" end="16" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">活力</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.7</Anger>
+        <Expect>0.0</Expect>
+        <Topic>不怪政府</Topic>
+        <Summarize_Sentences>7</Summarize_Sentences>
+        <sentence S="我以为，不论老嫩，字号的兴衰更替有自身的规律，根本还得靠自己。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>我以为/n  ，/w  不论/c  老/a  嫩/a  ，/w  字号/n  的/u  兴衰/n  更替/v  有/v  自身/r  的/u  规律/n  ，/w  根本/d  还/d  得/v  靠自己/v  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">靠自己</Keywords>
+            <E_conjunction start="-1" position="4" next_position="4" modifier_word_position="6" modifier_word_length="2" end="-1">不论</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="0" position="0" end="0">我以为</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="早年情有可原，太折腾，死活身不由己。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 早年/t  情有可原/v  ，/w  太/d  折腾/v  ，/w  死活/d  身不由己/v  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">情有可原</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">折腾</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">死活</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0.8" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">身不由己</Keywords>
+            <degree_adv start="-1" position="7" modifier_word_position="8" modifier_word_length="2" end="-1">太</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="从公私合营开始，新老字号就风雨飘摇，十年浩劫中，则死无葬身之地　。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 从/p  公私/n  合营/v  开始/v  ，/w  新/a  老字号/n  就/d  风雨飘摇/i  ，/w  十年浩劫/v  中/f  ，/w  则/c  死/v  无/v  葬身/n  之/u  地/n  　/v  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0.5" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">风雨飘摇</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0.9" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">十年浩劫</Keywords>
+            <E_phrase start="25" position="25" end="30" Surprise="0" Sorrow="0.9" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">死</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="改革开放后，老字号死而复生，借祖上的福荫，按理应该生意兴隆财源茂盛，但时至今日，事实是它们中的许多式微甚至消失了。">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> 改革/v  开放/v  后/f  ，/w  老字号/n  死而复生/n  ，/w  借/p  祖上/n  的/u  福荫/n  ，/w  按理/d  应该/v  生意兴隆/v  财源/n  茂盛/a  ，/w  但/c  时至今日/l  ，/w  事实/n  是/v  它们/r  中的/v  许多/m  式微/n  甚至/d  消失/v  了/y  。</Segmented_S>
+            <S_Length>57</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">改革</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">死而复生</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">福荫</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">生意兴隆</Keywords>
+            <Keywords start="29" position="29" end="32" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.9" Hate="0" Expect="0" Anxiety="0" Anger="0">财源</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">时至今日</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">消失</Keywords>
+            <noword start="-1" position="34" modifier_word_position="35" modifier_word_length="21" end="-1">但</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这说明什么问题？">
+            <S_no>第6段第5句标注</S_no>
+            <Segmented_S> 这/r  说明/v  什么/r  问题/n  ？</Segmented_S>
+            <S_Length>8</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">什么</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="答案很简单，该老字号气数已尽，被市场淘汰，被顾客抛弃，完成了自己的历史使命。">
+            <S_no>第6段第6句标注</S_no>
+            <Segmented_S> 答案/n  很/d  简单/a  ，/w  该/r  老字号/n  气/n  数/m  已尽/q  ，/w  被/p  市场/n  淘汰/v  ，/w  被/p  顾客/n  抛弃/v  ，/w  完成/v  了/u  自己/r  的/u  历史/n  使命/n  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0.8" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">淘汰</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0.8" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">抛弃</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">完成</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="3" modifier_word_length="2" end="-1">很</degree_adv>
+            <E_phrase start="10" position="10" end="13" Surprise="0" Sorrow="0.9" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">气</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="怪只能怪自己，怪不得别人，更不怪政府不保护。">
+            <S_no>第6段第7句标注</S_no>
+            <Segmented_S> 怪/a  只/d  能/v  怪/v  自己/r  ，/w  怪不得/d  别人/r  ，/w  更/d  不/d  怪/a  政府/n  不/d  保护/v  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.5">怪</Keywords>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">怪</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.4">怪</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">保护</Keywords>
+            <degree_adv start="-1" position="13" modifier_word_position="14" modifier_word_length="2" end="-1">更</degree_adv>
+            <noword start="-1" position="7" modifier_word_position="10" modifier_word_length="2" end="-1">怪不得</noword>
+            <noword start="-1" position="14" modifier_word_position="15" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="18" modifier_word_position="19" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>摸爬滚打 与时俱进</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="字号是一个商标，文化和历史的积淀哪怕比山高比海深，它还是生意，还得是一盘有赚头的买卖才有理由活着。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>字号/n  是/v  一个/m  商标/n  ，/w  文化/n  和/c  历史/n  的/u  积淀/vn  哪怕/c  比/p  山/n  高/a  比/v  海深/n  ，/w  它/r  还是/d  生意/n  ，/w  还/d  得/v  是/v  一/m  盘/q  有/v  赚头/n  的/u  买卖/n  才/d  有/v  理由/n  活/v  着/u  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">赚头</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="而生意要发达，字号不论老旧，都得自个儿在市场上摸爬滚打，与时俱进，才能发展壮大，达到老而不死境界。">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 而/c  生意/n  要/v  发达/a  ，/w  字号/n  不论/c  老/a  旧/a  ，/w  都/d  得/v  自个儿/v  在/p  市场/n  上/f  摸/v  爬/v  滚/v  打/v  ，/w  与时俱进/l  ，/w  才/c  能/v  发展/v  壮大/v  ，/w  达到/v  老而不死/m  境界/n  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">发达</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0.7" Anxiety="0" Anger="0">与时俱进</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">发展</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">壮大</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="m" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">老而不死</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="5" end="-1">而</E_conjunction>
+            <E_conjunction start="-1" position="9" next_position="14" modifier_word_position="11" modifier_word_length="2" end="-1">不论</E_conjunction>
+            <E_conjunction start="-1" position="14" next_position="9" modifier_word_position="15" modifier_word_length="17" end="-1">都</E_conjunction>
+            <E_phrase start="23" position="23" end="26" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">摸</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="眼下许多城市的大量所谓的“老字号”，在保护文化和历史遗迹的幌子之下表面光鲜，其实已沦为旅游业的婢女、假古董的点缀、伪历史托儿，朝不保夕，入不敷出，过着寄人篱下，靠嗟来之食果腹的悲惨日子。">
+            <S_no>第7段第3句标注</S_no>
+            <Segmented_S> 眼下/t  许多/m  城市/n  的/u  大量/m  所谓/v  的/u  “/w  老字号/n  ”/w  ，/w  在/p  保护/v  文化/n  和/c  历史/n  遗迹/n  的/u  幌子/n  之下/f  表面光/n  鲜/a  ，/w  其实/d  已/d  沦为/v  旅游业/n  的/u  婢女/n  、/w  假/a  古董/n  的/u  点缀/n  、/w  伪/n  历史/n  托儿/n  ，/w  朝不保夕/v  ，/w  入不敷出/i  ，/w  过/v  着/u  寄人篱下/n  ，/w  靠/v  嗟来之食/n  果腹/v  的/u  悲惨/a  日子/n  。</Segmented_S>
+            <S_Length>93</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">保护</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">幌子</Keywords>
+            <Keywords start="35" position="33" end="36" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">表面光</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">沦为</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">婢女</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">假</Keywords>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">伪</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">托儿</Keywords>
+            <Keywords start="-1" position="63" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">朝不保夕</Keywords>
+            <Keywords start="-1" position="68" end="-1" Surprise="0" Sorrow="0.8" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">入不敷出</Keywords>
+            <Keywords start="-1" position="75" end="-1" Surprise="0" Sorrow="0.8" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">寄人篱下</Keywords>
+            <Keywords start="-1" position="81" end="-1" Surprise="0" Sorrow="0.8" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">嗟来之食</Keywords>
+            <Keywords start="-1" position="88" end="-1" Surprise="0" Sorrow="0.8" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悲惨</Keywords>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一言以蔽之，没有活力的老字号纯粹就是计划经济的遗老，市场经济的八旗子弟。">
+            <S_no>第7段第4句标注</S_no>
+            <Segmented_S> 一言以蔽/n  之/u  ，/w  没有/v  活力/n  的/u  老字号/n  纯粹/d  就/p  是/v  计划经济/n  的/u  遗老/n  ，/w  市场经济/n  的/u  八旗子弟/n  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">活力</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">遗老</Keywords>
+            <noword start="-1" position="6" modifier_word_position="8" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="它的去处，应该是双转移。">
+            <S_no>第7段第5句标注</S_no>
+            <Segmented_S> 它/r  的/u  去处/n  ，/w  应该/v  是/v  双/m  转移/v  。</Segmented_S>
+            <S_Length>12</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.2" Anxiety="0" Anger="0">转移</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>给予自由</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="&#21872;嗦半天，意思只是一个，对于老字号，与其给予保护不如给予自由，这是市场规律。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>&#21872;嗦/n  半天/m  ，/w  意思/n  只/d  是/v  一个/m  ，/w  对于/p  老字号/n  ，/w  与/p  其/r  给予/v  保护/vn  不如/v  给予/v  自由/a  ，/w  这/r  是/v  市场/n  规律/n  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">&#21872;嗦</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">保护</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">自由</Keywords>
+            <E_conjunction start="18" position="18" next_position="24" modifier_word_position="20" modifier_word_length="4" end="19">与</E_conjunction>
+            <E_conjunction start="-1" position="24" next_position="18" modifier_word_position="26" modifier_word_length="4" end="-1">不如</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="催生有赚钱能力的新名牌，比花纳税人的钱救济少数商家强，这则是道算术题。">
+            <S_no>第8段第2句标注</S_no>
+            <Segmented_S> 催生/v  有/v  赚钱/a  能力/n  的/u  新/a  名牌/n  ，/w  比/p  花/n  纳税人/n  的/u  钱/n  救济/v  少数/m  商家/n  强/a  ，/w  这/r  则/q  是/v  道/v  算术题/n  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">催生</Keywords>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">赚钱</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">名牌</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">救济</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">强</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+    </paragraph>
+</document>

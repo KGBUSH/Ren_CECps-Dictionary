@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <title T="亲自指挥">
+        <Segmented_S>亲自/d  指挥/v</Segmented_S>
+        <S_Length>4</S_Length>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="昨天下午，杭州地铁工程突发事故，大面积塌陷达４０００&#13217;，最深处１５米，目前证实死亡３人，失踪１８人，以常识论，失踪者凶多吉少。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>昨天/t  下午/t  ，/w  杭州/ns  地铁/n  工程/n  突发/vn  事故/n  ，/w  大面积/d  塌陷/v  达/v  ４０００&#13217;/m  ，/w  最/d  深处/s  １５/v  米/n  ，/w  目前/t  证实/v  死亡/v  ３/v  人/n  ，/w  失踪/v  １８/n  人/n  ，/w  以/p  常识/n  论/v  ，/w  失踪者/n  凶多/v  吉少/n  。</Segmented_S>
+            <S_Length>63</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.0" Anger="0">事故</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">塌陷</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">死亡</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">失踪</Keywords>
+            <Keywords start="58" position="58" end="61" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">凶多</Keywords>
+            <degree_adv start="-1" position="28" modifier_word_position="29" modifier_word_length="2" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="现代社会发生各类突发大型事故的概率非常大，大家熟知的首推地震、火灾，还有各类爆炸、矿难等等，一旦事故发生，各个地方都有自己的应急系统，实行救援，体现人道主义精神。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>现代/t  社会/n  发生/v  各类/r  突发/vn  大型/b  事故/n  的/u  概率/n  非常/d  大/a  ，/w  大家/r  熟知/v  的/u  首/m  推/v  地震/v  、/w  火灾/n  ，/w  还有/v  各类/r  爆炸/vn  、/w  矿/n  难/a  等等/u  ，/w  一旦/d  事故/n  发生/v  ，/w  各个/r  地方/n  都/d  有/v  自己/r  的/u  应急/vn  系统/n  ，/w  实行/v  救援/vn  ，/w  体现/v  人道主义/n  精神/n  。</Segmented_S>
+            <S_Length>81</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0.2" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">事故</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">地震</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">火灾</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0.4" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爆炸</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0.2" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">事故</Keywords>
+            <Keywords start="-1" position="74" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">人道主义</Keywords>
+            <degree_adv start="-1" position="17" modifier_word_position="19" modifier_word_length="1" end="-1">非常</degree_adv>
+            <E_phrase start="41" position="41" end="42" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">矿</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="近些年最为让世人关注的人为突发悲剧无疑是９．１１事件了，数千名无辜者死于非命，纽约市长朱立安尼最大限度的施救，使之获得当年美国乃至世界舆论的好评。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 近些年/t  最为/d  让/v  世人/n  关注/v  的/u  人为/b  突发/vn  悲剧/n  无疑/d  是/v  ９．１１/n  事件/n  了/y  ，/w  数千/m  名/q  无辜者/n  死于非命/v  ，/w  纽约/ns  市长/n  朱/nr  立/nr  安/v  尼/j  最/d  大/a  限度/n  的/u  施救/vn  ，/w  使/v  之/r  获得/v  当年/t  美国/ns  乃至/c  世界/n  舆论/n  的/u  好评/n  。</Segmented_S>
+            <S_Length>73</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悲剧</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">死于非命</Keywords>
+            <Keywords start="-1" position="70" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好评</Keywords>
+            <degree_adv start="-1" position="3" modifier_word_position="8" modifier_word_length="2" end="-1">最为</degree_adv>
+            <degree_adv start="-1" position="47" modifier_word_position="48" modifier_word_length="1" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="由于我们政府开始实行领导问责制，一旦事故突发，第一把手一定要赶到现场，亲自指挥，所有的新闻报道因此趋向一致，让人很难读出新意。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>由于/p  我们/r  政府/n  开始/v  实行/v  领导/n  问/v  责/Ng  制/k  ，/w  一旦/d  事故/n  突发/vn  ，/w  第一把手/v  一定/b  要/v  赶到/v  现场/s  ，/w  亲自/d  指挥/v  ，/w  所有/b  的/u  新闻/n  报道/n  因此/c  趋向/v  一致/a  ，/w  让/v  人/n  很/d  难/a  读/v  出/v  新意/n  。</Segmented_S>
+            <S_Length>63</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0.3" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">事故</Keywords>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">难</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.1" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">新意</Keywords>
+            <degree_adv start="-1" position="56" modifier_word_position="57" modifier_word_length="1" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我们仔细分析一下，指挥是个技术活，靠热情或感情不能胜任，靠权力就更不能胜任。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>我们/r  仔细/ad  分析/v  一下/m  ，/w  指挥/v  是/v  个/q  技术活/n  ，/w  靠/v  热情/a  或/c  感情/n  不/d  能/v  胜任/v  ，/w  靠/v  权力/n  就/d  更/d  不/d  能/v  胜任/v  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.1" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">热情</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">胜任</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">胜任</Keywords>
+            <degree_adv start="-1" position="33" modifier_word_position="35" modifier_word_length="2" end="-1">不</degree_adv>
+            <noword start="-1" position="23" modifier_word_position="25" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="比如灭火，是一门高科技学问，一线的灭火指挥官一定要既有理论又有实践，过去的“一不怕苦二不怕死”精神在火场上未必有用。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 比如/v  灭火/v  ，/w  是/v  一/m  门/q  高/a  科技/n  学问/n  ，/w  一线/n  的/u  灭火/vn  指挥官/n  一定/d  要/v  既有/v  理论/n  又有/n  实践/v  ，/w  过去/t  的/u  “/w  一不怕苦/n  二不怕死/v  ”/w  精神/n  在/p  火场/n  上/f  未必/d  有用/a  。</Segmented_S>
+            <S_Length>58</S_Length>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">一不怕苦</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">二不怕死</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">有用</Keywords>
+            <noword start="-1" position="53" modifier_word_position="55" modifier_word_length="2" end="-1">未必</noword>
+            <E_conjunction start="-1" position="25" next_position="29" modifier_word_position="27" modifier_word_length="2" end="-1">既有</E_conjunction>
+            <E_conjunction start="-1" position="29" next_position="25" modifier_word_position="31" modifier_word_length="2" end="-1">又有</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我年轻的时候救过一次火，大仓库浓烟滚滚，进不去人，于是现场最大的官命令上房掀开房顶，由上向下灌水，谁知房顶刨开的一刹那，大火腾空而起，烧伤数人，几分钟后大火将仓库烧塌，刨开的房顶起了烟囱的作用，这样救火显然外行了。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 我/r  年轻/a  的/u  时候/n  救/v  过/u  一/m  次/q  火/n  ，/w  大/d  仓库/v  浓烟滚滚/n  ，/w  进/v  不/d  去/v  人/n  ，/w  于是/c  现场/s  最/d  大/a  的/u  官/n  命令/n  上房/v  掀开/n  房顶/v  ，/w  由/p  上/f  向下/v  灌水/n  ，/w  谁知/v  房顶/n  刨/v  开/v  的/u  一刹那/t  ，/w  大火/n  腾空而起/l  ，/w  烧伤/n  数/n  人/n  ，/w  几/m  分钟/q  后/f  大火/n  将/d  仓库/n  烧塌/n  ，/w  刨/v  开/v  的/u  房顶/n  起/v  了/u  烟囱/n  的/u  作用/n  ，/w  这样/r  救火/v  显然/a  外行/n  了/y  。</Segmented_S>
+            <S_Length>107</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">浓烟滚滚</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">大火</Keywords>
+            <Keywords start="-1" position="67" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">烧伤</Keywords>
+            <Keywords start="-1" position="76" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">大火</Keywords>
+            <Keywords start="-1" position="81" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">烧塌</Keywords>
+            <Keywords start="-1" position="103" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">外行</Keywords>
+            <degree_adv start="-1" position="29" modifier_word_position="30" modifier_word_length="1" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我觉得领导不是救灾专家，到现场协调一下就可以了，不必为了亲自指挥而亲自指挥，如果为了让百姓放心，领导们可以亲自协调。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>我/r  觉得/v  领导/n  不/d  是/v  救灾/v  专家/n  ，/w  到/p  现场/s  协调/v  一下/m  就/d  可以/v  了/u  ，/w  不必/d  为了/p  亲自/d  指挥/v  而/c  亲自/d  指挥/v  ，/w  如果/c  为了/p  让/v  百姓/n  放心/v  ，/w  领导/n  们/k  可以/v  亲自/d  协调/v  。</Segmented_S>
+            <S_Length>58</S_Length>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.1" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">放心</Keywords>
+            <noword start="-1" position="5" modifier_word_position="9" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="38" next_position="38" modifier_word_position="40" modifier_word_length="7" end="-1">如果</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

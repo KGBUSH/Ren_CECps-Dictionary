@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.5</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>学习 唱歌跳舞 兴趣</Topic>
+    <title T="学习唱歌跳舞">
+        <Segmented_S>学习/v  唱歌/v  跳舞/v</Segmented_S>
+        <S_Length>6</S_Length>
+        <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">学习</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.4</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="星期六，早上起来，然然脸上多了个包。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>星期六/t  ，/w  早/ad  上/v  起来/v  ，/w  然/r  然/n  脸上/s  多/d  了/v  个/q  包/v  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="问然然，这是咋了？">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 问/v  然/n  然/r  ，/w  这/r  是/v  咋/r  了/y  ？</Segmented_S>
+            <S_Length>9</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.5" Anger="0.0">咋</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="然然这样解释：">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 然/n  然/r  这样/r  解释/v  ：/w</Segmented_S>
+            <S_Length>7</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.2</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="“晚上，一个蚊子飞进小房间，一看，咦，这儿有一个小宝宝，恩，咬一口吧。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>“/w  晚上/t  ，/w  一个/m  蚊子/n  飞/v  进/v  小房间/n  ，/w  一看/v  ，/w  咦/v  ，/w  这儿/r  有/v  一个/m  小宝宝/n  ，/w  恩/Ng  ，/w  咬/v  一/m  口/q  吧/y  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">一看</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">咦</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.5" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">小宝宝</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0.0" Sorrow="0.0" POS="Ng" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">恩</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">咬</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0.0" Sorrow="0.0" POS="y" Opinionholder="0" Love="0.0" Joy="0.2" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">吧</Keywords>
+            <Rhetoric E_type="喜爱">拟人</Rhetoric>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.2</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="然后，我的脸上就长包了！">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 然后/c  ，/w  我的/v  脸上/s  就/d  长/a  包/v  了/u  ！</Segmented_S>
+            <S_Length>12</S_Length>
+            <Keywords start="8" position="8" end="9" Surprise="0.0" Sorrow="0.4" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">长</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <punctuation E_type="悲伤">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> ”/w</Segmented_S>
+            <S_Length>1</S_Length>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>唱歌跳舞 期盼</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="一位中国人朋友组织了一项活动：聘请两位中国人老师，教授几岁的小朋友们唱歌跳舞。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>一/m  位/q  中国/ns  人/n  朋友/n  组织/v  了/u  一/m  项/q  活动/vn  ：/w  聘请/v  两/m  位/q  中国/ns  人/n  老师/n  ，/w  教授/n  几/m  岁/q  的/u  小朋友/n  们/k  唱歌/v  跳舞/v  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">组织</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">教授</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.4</Expect>
+        </sentence>
+        <sentence S="我们都很高兴，早上跟然然讲了，然然一听说要去唱歌跳舞，马上就要去。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 我们/r  都/d  很/d  高兴/a  ，/w  早/ad  上/v  跟/v  然/v  然/r  讲/v  了/u  ，/w  然/r  然/n  一/m  听说/v  要/v  去/v  唱歌/v  跳舞/v  ，/w  马上/d  就要/d  去/v  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="1.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">高兴</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">马上</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="4" modifier_word_length="2" end="-1">都</degree_adv>
+            <degree_adv start="-1" position="3" modifier_word_position="4" modifier_word_length="2" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="17" next_position="29" modifier_word_position="18" modifier_word_length="8" end="-1">一</E_conjunction>
+            <E_conjunction start="29" position="29" next_position="17" modifier_word_position="30" modifier_word_length="2" end="29">就要</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">我们</Opinion_holder>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="告诉她要等到下午呢，于是，一天都在期盼中。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 告诉/v  她/r  要/v  等/u  到/v  下午/t  呢/y  ，/w  于是/c  ，/w  一/m  天/q  都/d  在/d  期盼/v  中/f  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0.3" Sorrow="0.0" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">呢</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="1.0" Anxiety="0.0" Anger="0.0">期盼</Keywords>
+            <degree_adv start="-1" position="15" modifier_word_position="17" modifier_word_length="2" end="-1">都</degree_adv>
+            <E_conjunction start="-1" position="10" next_position="10" modifier_word_position="13" modifier_word_length="7" end="-1">于是</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>1.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>唱歌跳舞 没兴趣</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="好不容易到了时间，我们开着车找到了上课地点。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>好不容易/l  到/v  了/u  时间/n  ，/w  我们/r  开/v  着/u  车/n  找到/v  了/u  上课/v  地点/n  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.0" POS="l" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.6" Anger="0.0">好不容易</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.9</Expect>
+        </sentence>
+        <sentence S="居然还是第一个到！">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 居然/d  还是/d  第一/m  个/q  到/v  ！</Segmented_S>
+            <S_Length>9</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.9" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">居然</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0.0" Sorrow="0.0" POS="m" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">第一</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.9</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="上课在一个类似小礼堂样的大屋里，陆陆续续来了一些中国人家长带着孩子。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 上课/v  在/p  一个/m  类似/a  小礼堂/n  样/Ng  的/u  大/a  屋里/n  ，/w  陆陆续续/n  来/v  了/y  一些/u  中国/ns  人/n  家长/n  带/v  着/u  孩子/n  。</Segmented_S>
+            <S_Length>34</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.6" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">陆陆续续</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="先是一个小时的跳舞课，一位年轻的中国女孩教跳舞，因为音乐效果不是很好，然然学着学着就没了兴趣，嘴里嘟囔着要像芭蕾舞学校那样跳舞。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 先是/d  一个/m  小时/n  的/u  跳舞/n  课/v  ，/w  一/m  位/q  年轻/a  的/u  中国/ns  女孩/n  教/v  跳舞/Ng  ，/w  因为/c  音乐/n  效果/n  不/d  是/v  很/d  好/a  ，/w  然/r  然/n  学/v  着/u  学着/n  就/d  没/v  了/y  兴趣/u  ，/w  嘴里/v  嘟囔/n  着/u  要/v  像/p  芭蕾舞/n  学校/n  那样/r  跳舞/v  。</Segmented_S>
+            <S_Length>64</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.5" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">年轻</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">好</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0.0" Sorrow="0.0" POS="u" Opinionholder="0" Love="0.7" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">兴趣</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.4">嘟囔</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">要</Keywords>
+            <degree_adv start="-1" position="32" modifier_word_position="33" modifier_word_length="1" end="-1">很</degree_adv>
+            <noword start="-1" position="30" modifier_word_position="32" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="42" modifier_word_position="44" modifier_word_length="2" end="-1">没</noword>
+            <E_conjunction start="-1" position="24" next_position="24" modifier_word_position="26" modifier_word_length="8" end="-1">因为</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="35" position="35" end="36">然</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="坐在那里不配合；第二节课是唱歌课，一位中年妇女，教孩子们唱《新年好》，墙壁上挂着中文歌词，边唱边领小孩子们认字。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 坐/v  在/p  那里/r  不/d  配合/v  ；/w  第二/m  节/q  课/n  是/v  唱歌/v  课/n  ，/w  一/m  位/q  中年/t  妇女/n  ，/w  教/v  孩子/n  们/k  唱/v  《/w  新年好/n  》/w  ，/w  墙壁/n  上/f  挂/v  着/u  中文/nz  歌词/n  ，/w  边/d  唱/v  边/n  领/v  小/a  孩子/n  们/k  认字/v  。</Segmented_S>
+            <S_Length>56</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.5" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">配合</Keywords>
+            <noword start="-1" position="4" modifier_word_position="5" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="课堂秩序混乱，一会儿功夫小孩子们就玩起了“老鹰捉小鸡”，四散奔逃。">
+            <S_no>第4段第6句标注</S_no>
+            <Segmented_S> 课堂/n  秩序/n  混乱/a  ，/w  一会儿/m  功夫/n  小/a  孩子/n  们/k  就/d  玩/v  起/v  了/u  “/w  老鹰/n  捉/v  小鸡/n  ”/w  ，/w  四散/v  奔逃/n  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.6" Expect="0.0" Anxiety="0.0" Anger="0.0">混乱</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="m" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">一会儿</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">玩</Keywords>
+            <E_phrase start="28" position="28" end="31" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">四散</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="两个小时的时间过去了，然然困的不行，找借口耍赖，我们没理她，塞进车座拉着回家。">
+            <S_no>第4段第7句标注</S_no>
+            <Segmented_S> 两/m  个/q  小时/n  的/u  时间/n  过去/t  了/y  ，/w  然/r  然/n  困/v  的/u  不行/a  ，/w  找/v  借口/n  耍赖/v  ，/w  我们/r  没/d  理/v  她/r  ，/w  塞进/v  车座/n  拉/v  着/u  回家/v  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="21" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.6" Expect="0.0" Anxiety="0.0" Anger="0.0">耍赖</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.3" Expect="0.0" Anxiety="0.0" Anger="0.0">塞进</Keywords>
+            <noword start="-1" position="26" modifier_word_position="27" modifier_word_length="1" end="-1">没</noword>
+            <E_phrase start="13" position="13" end="16" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.7" Anger="0.0">困</E_phrase>
+            <E_phrase start="18" position="18" end="20" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.5" Expect="0.0" Anxiety="0.0" Anger="0.0">找</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="24" end="-1">我们</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="待把车停进车库，然然睡着了。">
+            <S_no>第4段第8句标注</S_no>
+            <Segmented_S> 待/p  把/p  车/n  停/v  进/v  车库/n  ，/w  然/r  然/n  睡/v  着/v  了/y  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="于是，抱上楼放到床上继续睡。">
+            <S_no>第4段第9句标注</S_no>
+            <Segmented_S> 于是/c  ，/w  抱/v  上楼/v  放/v  到/v  床/n  上/f  继续/v  睡/v  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.5" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">抱</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">继续</Keywords>
+            <E_conjunction start="0" position="0" next_position="0" modifier_word_position="3" modifier_word_length="10" end="0">于是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一家三口抱头痛睡到晚上八点。">
+            <S_no>第4段第10句标注</S_no>
+            <Segmented_S> 一家/n  三/m  口/q  抱/v  头痛/a  睡/v  到/v  晚上/t  八点/v  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <E_phrase start="4" position="4" end="7" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.6" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">抱</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="起来后问然然，是否喜欢今天的唱歌跳舞活动？">
+            <S_no>第4段第11句标注</S_no>
+            <Segmented_S> 起来/v  后/f  问/v  然/n  然/r  ，/w  是否/v  喜欢/v  今天/t  的/u  唱歌/n  跳舞/v  活动/vn  ？</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">是否</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.8" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">喜欢</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="然然哼哼唧唧地回答不喜欢！">
+            <S_no>第4段第12句标注</S_no>
+            <Segmented_S> 然/n  然/r  哼哼/n  唧唧/v  地/u  回答/v  不/d  喜欢/v  ！</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="1.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">喜欢</Keywords>
+            <noword start="-1" position="9" modifier_word_position="10" modifier_word_length="2" end="-1">不</noword>
+            <E_phrase start="2" position="2" end="5" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">哼哼</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <punctuation E_type="憎恨">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">然</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="两个老师都不喜欢！">
+            <S_no>第4段第13句标注</S_no>
+            <Segmented_S> 两/m  个/q  老师/n  都/d  不/d  喜欢/v  ！</Segmented_S>
+            <S_Length>9</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="1.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">喜欢</Keywords>
+            <degree_adv start="-1" position="4" modifier_word_position="6" modifier_word_length="2" end="-1">都</degree_adv>
+            <noword start="-1" position="5" modifier_word_position="6" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <punctuation E_type="憎恨">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我问她接下来还要不要去了？">
+            <S_no>第4段第14句标注</S_no>
+            <Segmented_S> 我问/n  她/r  接下来/v  还要/v  不/d  要/v  去/v  了/u  ？</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="1" position="0" end="1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">我问</Keywords>
+            <Keywords start="7" position="6" end="9" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">还要</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.2</Expect>
+        </sentence>
+        <sentence S="然然摇头，坚决地说不想再去。">
+            <S_no>第4段第15句标注</S_no>
+            <Segmented_S> 然/n  然/r  摇头/v  ，/w  坚决/ad  地/u  说/v  不/d  想/v  再去/v  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.5" Expect="0.0" Anxiety="0.0" Anger="0.0">摇头</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0.0" Sorrow="0.0" POS="ad" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.3" Expect="0.0" Anxiety="0.0" Anger="0.0">坚决</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">想</Keywords>
+            <noword start="-1" position="9" modifier_word_position="10" modifier_word_length="1" end="-1">不</noword>
+            <E_phrase start="11" position="11" end="11" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">再去</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="0" position="0" end="-1">然</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="唉，我也挺失望的，好不容易有人组织了中文的唱歌跳舞班，却引不起她的兴趣。">
+            <S_no>第4段第16句标注</S_no>
+            <Segmented_S> 唉/e  ，/w  我也/v  挺/d  失望/a  的/u  ，/w  好不容易/l  有人/r  组织/v  了/u  中文/nz  的/u  唱歌/n  跳舞/v  班/n  ，/w  却/d  引/v  不/d  起/v  她/r  的/u  兴趣/n  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.0" POS="e" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">唉</Keywords>
+            <Keywords start="2" position="2" end="2" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">我也</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0.0" Sorrow="0.5" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">失望</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0.0" Sorrow="0.0" POS="l" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.6" Anger="0.0">好不容易</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">兴趣</Keywords>
+            <degree_adv start="-1" position="4" modifier_word_position="5" modifier_word_length="2" end="-1">挺</degree_adv>
+            <noword start="28" position="28" modifier_word_position="33" modifier_word_length="2" end="30">引</noword>
+            <E_conjunction start="-1" position="27" next_position="27" modifier_word_position="28" modifier_word_length="7" end="-1">却</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.2</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

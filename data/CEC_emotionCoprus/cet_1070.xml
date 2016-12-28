@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <title T="熊熊">
+        <Segmented_S>熊熊/z</Segmented_S>
+        <S_Length>2</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>书</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我去狗市前先去书店买了一本大型狗书，三百多元，英国人编写的最权威的养犬专业书。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>我去/n  狗市/v  前先/n  去/v  书店/n  买/v  了/u  一/m  本/q  大型/b  狗书/n  ，/w  三百/m  多/m  元/q  ，/w  英国/ns  人/n  编写/v  的/u  最/d  权威/a  的/u  养/v  犬/Ng  专业/n  书/n  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">权威</Keywords>
+            <degree_adv start="-1" position="29" modifier_word_position="30" modifier_word_length="2" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="回家后饶有兴趣地翻阅了几天，在一个冬日的小阳春天气里，夹着这本书重达数斤的画册奔了狗市。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 回家/v  后/f  饶有/v  兴趣/n  地/u  翻阅/v  了/u  几/m  天/q  ，/w  在/p  一个/m  冬日/n  的/u  小阳春/n  天气/n  里/f  ，/w  夹/v  着/u  这本/r  书/n  重/d  达/v  数/m  斤/q  的/u  画册/n  奔/v  了/u  狗市/n  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <E_phrase start="3" position="3" end="5" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">饶有</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.4</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>狗市</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="狗市太大，转来转去就转蒙了，狗的类型也太多，彪悍型的，温柔型的，见人不理的，见人谄媚的，大千狗世界让人眼花缭乱。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>狗市/n  太/d  大/a  ，/w  转来/v  转去/n  就/d  转/v  蒙/v  了/u  ，/w  狗/n  的/u  类型/n  也/d  太/d  多/a  ，/w  彪悍/v  型的/n  ，/w  温柔/a  型的/n  ，/w  见/v  人/n  不理/v  的/u  ，/w  见/v  人/n  谄媚/v  的/u  ，/w  大千/n  狗/n  世界/n  让/v  人/n  眼花/v  缭乱/n  。</Segmented_S>
+            <S_Length>56</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">蒙</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">彪悍</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">温柔</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">不理</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0.0" Expect="0" Anxiety="0" Anger="0">谄媚</Keywords>
+            <Keywords start="51" position="51" end="54" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">眼花</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="3" modifier_word_length="1" end="-1">太</degree_adv>
+            <degree_adv start="-1" position="19" modifier_word_position="20" modifier_word_length="1" end="-1">太</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="由于我老夹着那本狗书，卖主们一见我就不是来闲逛的，特卖力气地推销，以致我后悔没把狗书放在车上。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 由于/p  我/r  老/a  夹/v  着/u  那/r  本/q  狗/n  书/n  ，/w  卖主/n  们/k  一见/v  我/r  就/d  不/d  是/v  来/v  闲逛/v  的/u  ，/w  特/d  卖力气/v  地/u  推销/v  ，/w  以致/c  我/r  后悔/v  没/v  把/p  狗书/n  放/v  在/p  车上/s  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">闲逛</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">卖力气</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">后悔</Keywords>
+            <degree_adv start="-1" position="25" modifier_word_position="26" modifier_word_length="3" end="-1">特</degree_adv>
+            <noword start="-1" position="18" modifier_word_position="21" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="狗书带在身边并不是为了阅读，而是为了唬住卖主；我懂，别蒙我！">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 狗书/n  带/v  在/p  身边/s  并不/d  是/v  为了/p  阅读/v  ，/w  而是/c  为了/p  唬/v  住/v  卖主/n  ；/w  我/r  懂/v  ，/w  别/d  蒙/v  我/r  ！</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.2">唬</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.2" Anger="0">蒙</Keywords>
+            <noword start="-1" position="6" modifier_word_position="9" modifier_word_length="4" end="-1">并不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>商家</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="狗市的商家对我非常热情，每个人都力荐自家的“名犬”，历数家珍般地滔滔不绝，从狗妈说到狗爹，每只犬的血统似乎都出身名贵。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>狗市/n  的/u  商家/n  对/p  我/r  非常/d  热情/a  ，/w  每个/r  人/n  都/d  力/Vg  荐/Vg  自家/r  的/u  “/w  名犬/n  ”/w  ，/w  历/d  数/v  家珍/m  般地/n  滔滔不绝/v  ，/w  从/p  狗/n  妈/n  说/v  到/v  狗/n  爹/n  ，/w  每/r  只/q  犬/n  的/u  血统/n  似乎/d  都/d  出身/v  名贵/a  。</Segmented_S>
+            <S_Length>59</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">热情</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">名犬</Keywords>
+            <Keywords start="26" position="26" end="29" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">历</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">滔滔不绝</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">名贵</Keywords>
+            <degree_adv start="-1" position="7" modifier_word_position="9" modifier_word_length="2" end="-1">非常</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我买狗没有买古董有主意，没什么定心丸可吃，所以听谁说都觉得可信，都觉得那幼犬可怜可爱。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 我/r  买/v  狗/n  没有/d  买/v  古董/n  有/v  主意/n  ，/w  没/d  什么/r  定心丸/n  可/v  吃/v  ，/w  所以/c  听/v  谁/r  说/v  都/d  觉得/v  可信/a  ，/w  都/d  觉得/v  那/r  幼犬/n  可怜/v  可爱/a  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">定心丸</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">可信</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">可怜</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">可爱</Keywords>
+            <noword start="-1" position="12" modifier_word_position="15" modifier_word_length="3" end="-1">没</noword>
+            <E_conjunction start="-1" position="21" next_position="21" modifier_word_position="23" modifier_word_length="8" end="-1">所以</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>小狗</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我正没主意时，儿子一把就拎起一只白白的，有着黑鼻子的小狗揣在怀中，狗身抚摸如白绒，狗眼中泛着天真的眼神，让我一下子就想起了电视上看见过的小北极熊。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>我/r  正/d  没/d  主意/v  时/Ng  ，/w  儿子/n  一把/n  就/d  拎/v  起/v  一/m  只/q  白白/d  的/u  ，/w  有/v  着/u  黑/a  鼻子/n  的/u  小狗/n  揣/v  在/p  怀中/n  ，/w  狗/n  身/Ng  抚摸/v  如/v  白/a  绒/n  ，/w  狗/n  眼中/s  泛着/n  天真/a  的/u  眼神/n  ，/w  让/v  我/r  一下子/m  就/d  想起/v  了/u  电视/n  上/f  看见/v  过/u  的/u  小/a  北极熊/n  。</Segmented_S>
+            <S_Length>73</S_Length>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">天真</Keywords>
+            <noword start="-1" position="2" modifier_word_position="3" modifier_word_length="2" end="-1">没</noword>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们高兴地交了钱，抱着“熊熊”回家了。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 我们/r  高兴/a  地/u  交/v  了/u  钱/n  ，/w  抱/v  着/u  “/w  熊熊/z  ”/w  回家/v  了/y  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">高兴</Keywords>
+            <Keywords start="9" position="9" end="10" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">抱</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>熊熊</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="熊熊一天天长大，活泼好动，哪儿整洁就把哪儿弄脏弄乱，喝斥它如同耳旁风。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>熊熊/z  一天天/m  长大/v  ，/w  活泼/a  好动/n  ，/w  哪儿/r  整洁/a  就/d  把/p  哪儿/r  弄/v  脏/a  弄/v  乱/d  ，/w  喝斥/v  它/r  如同/v  耳旁风/n  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">活泼</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好动</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">整洁</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.3">喝斥</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">耳旁风</Keywords>
+            <E_phrase start="21" position="21" end="22" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">弄</E_phrase>
+            <E_phrase start="23" position="23" end="24" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">弄</E_phrase>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="对照狗书，知熊熊为萨摩犬，好斗而不服输，我心想人不与狗斗，他还能怎样！">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 对照/v  狗/n  书/n  ，/w  知/v  熊熊/z  为/v  萨/n  摩/j  犬/n  ，/w  好斗/v  而/c  不/d  服输/v  ，/w  我心/r  想/v  人/n  不/d  与/p  狗/n  斗/v  ，/w  他/r  还/d  能/v  怎样/r  ！</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">好斗</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0.1" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">服输</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.2" Expect="0" Anxiety="0" Anger="0.0">斗</Keywords>
+            <noword start="-1" position="16" modifier_word_position="17" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="可有一天，我看着总吃狗粮的熊熊可怜，给了它一根牛骨头，熊熊抱住骨头啃的时候，我伸手在其旁边拿别的东西，它以为我抢夺它的美食，毫不客气地咬住我的虎口，让我打了狂犬病防疫五连针。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 可/c  有/v  一/m  天/q  ，/w  我看/v  着/u  总/b  吃/n  狗/v  粮/n  的/u  熊熊/n  可怜/v  ，/w  给/p  了/u  它/r  一/m  根/q  牛/n  骨头/n  ，/w  熊熊/z  抱住/n  骨头/v  啃/n  的/u  时候/n  ，/w  我/r  伸手/v  在/p  其/r  旁边/f  拿/v  别的/r  东西/n  ，/w  它/r  以/p  为我/n  抢夺/v  它/r  的/u  美食/n  ，/w  毫不客气/v  地/u  咬住/v  我的/n  虎口/v  ，/w  让/v  我打/n  了/y  狂犬病/u  防疫/v  五连/n  针/v  。</Segmented_S>
+            <S_Length>87</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">可怜</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美食</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">毫不客气</Keywords>
+            <Keywords start="-1" position="67" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">咬住</Keywords>
+            <Keywords start="-1" position="78" end="-1" Surprise="0" Sorrow="0" POS="u" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">狂犬病</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.7</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.3</Sorrow>
+    <Anxiety>0.6</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.7</Anger>
+    <Expect>0.4</Expect>
+    <Topic>城管打人</Topic>
+    <title T="城管打人不是新闻">
+        <Segmented_S>城管/j  打/v  人/n  不/d  是/v  新闻/n</Segmented_S>
+        <S_Length>8</S_Length>
+        <Keywords start="2" position="2" end="3" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0.6">打</Keywords>
+        <noword start="4" position="4" modifier_word_position="6" modifier_word_length="2" end="5">不</noword>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.6</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.4</Surprise>
+        <Anger>0.8</Anger>
+        <Expect>0.0</Expect>
+        <Topic>争执</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="湖南在线１２月１７日讯，１６日下午，衡阳市珠晖区城管在对上海林琳养发堂晒在店外的毛巾进行执法时与女店长唐春莲发生争执，唐阻碍执法不让拿走毛巾，继而城管队员对唐和其店员（均为女性）大打出手，唐的丈夫肖长云前来制止被打成深度昏迷，在场劝架的市民也有多人被打伤。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>湖南/ns  在线/b  １２月/vn  １７日/n  讯/Ng  ，/w  １６日/v  下午/t  ，/w  衡阳市/ns  珠/ns  晖/Ng  区/n  城管/j  在/p  对/p  上海/ns  林琳/n  养/v  发/v  堂/Ng  晒/v  在/p  店/n  外/f  的/u  毛巾/n  进行/v  执法/vn  时/Ng  与/p  女/b  店长/n  唐/nr  春莲/nr  发生/v  争执/vn  ，/w  唐/nr  阻碍/nr  执法/v  不/d  让/v  拿走/v  毛巾/n  ，/w  继而/c  城管/v  队员/n  对/p  唐/nr  和/c  其/r  店员/n  （/w  均/d  为/v  女性/n  ）/w  大打出手/n  ，/w  唐/nr  的/u  丈夫/n  肖/nr  长云/nr  前来/v  制止/v  被/p  打/v  成/v  深度/n  昏迷/v  ，/w  在场/v  劝架/n  的/u  市民/n  也/d  有/v  多/d  人/n  被/p  打伤/v  。</Segmented_S>
+            <S_Length>128</S_Length>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">争执</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0" POS="nr" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.5">阻碍</Keywords>
+            <Keywords start="-1" position="89" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">大打出手</Keywords>
+            <Keywords start="-1" position="103" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">制止</Keywords>
+            <Keywords start="-1" position="110" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">昏迷</Keywords>
+            <Keywords start="-1" position="125" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0.4">打伤</Keywords>
+            <degree_adv start="-1" position="108" modifier_word_position="110" modifier_word_length="2" end="-1">深度</degree_adv>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一人深度昏迷。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 一/m  人/n  深度/n  昏迷/v  。</Segmented_S>
+            <S_Length>7</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">昏迷</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="4" modifier_word_length="2" end="-1">深度</degree_adv>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="事后，受伤市民无人处理，其家属怒堵东风南路，致使道路交通陷入瘫痪。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 事后/t  ，/w  受伤/v  市民/n  无人/v  处理/v  ，/w  其/r  家属/n  怒/n  堵/v  东风/n  南/f  路/n  ，/w  致使/v  道路/n  交通/n  陷入/v  瘫痪/v  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">受伤</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.9">怒</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">瘫痪</Keywords>
+            <E_phrase start="7" position="7" end="10" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0.7">无人</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.9</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.4</Anger>
+        <Expect>0.0</Expect>
+        <Topic>城管打人 城管带枪 不堪设想</Topic>
+        <Summarize_Sentences>4</Summarize_Sentences>
+        <sentence S="当我们听到城管打人，我们只能唏嘘一下“又见城管打人”，时下对我们来说城管打人已经不是什么新闻。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>当/p  我们/r  听到/v  城管/j  打/v  人/n  ，/w  我们/r  只/d  能/v  唏嘘/v  一下/m  “/w  又见/n  城管/v  打/v  人/n  ”/w  ，/w  时下/t  对/p  我们/r  来说/u  城管/v  打/v  人/n  已经/d  不/d  是/v  什么/r  新闻/n  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Keywords start="7" position="7" end="8" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.5">打</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0.4">唏嘘</Keywords>
+            <Keywords start="36" position="36" end="37" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.4">打</Keywords>
+            <degree_adv start="-1" position="12" modifier_word_position="14" modifier_word_length="2" end="-1">只</degree_adv>
+            <noword start="40" position="40" modifier_word_position="44" modifier_word_length="2" end="41">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="生气">“”</punctuation>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="1" end="-1">我们</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="现在很多人对城管的认知是“土匪”，极其危险的职业，城管执法与暴力紧密相连。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 现在/t  很多/m  人/n  对/p  城管/j  的/u  认知/vn  是/v  “/w  土匪/n  ”/w  ，/w  极其/d  危险/a  的/u  职业/n  ，/w  城管/j  执法/vn  与/c  暴力/n  紧密/ad  相连/v  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">土匪</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">危险</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">暴力</Keywords>
+            <degree_adv start="-1" position="17" modifier_word_position="19" modifier_word_length="2" end="-1">极其</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“”</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="有网友说“如果城管执法时带枪将如何？">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 有/v  网友/n  说/v  “/w  如果/c  城管/j  执法/vn  时/Ng  带/v  枪/n  将/d  如何/r  ？</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">如何</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”，我想后果不堪设想，因为现在城管在没有武器的情况下执法，各个都是武功高手，有了武器还不血流成河．．．．．．">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> ”/w  ，/w  我想/v  后果/n  不堪设想/i  ，/w  因为/c  现在/t  城管/j  在/p  没有/v  武器/n  的/u  情况/n  下/f  执法/v  ，/w  各个/r  都/d  是/v  武功/n  高手/n  ，/w  有了/v  武器/n  还/d  不/d  血流/v  成河/n  ．/w  ．/w  ．/w  ．/w  ．/w  ．/w</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">不堪设想</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高手</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">还</Keywords>
+            <Keywords start="44" position="44" end="47" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">血流</Keywords>
+            <degree_adv start="-1" position="31" modifier_word_position="33" modifier_word_length="4" end="-1">都</degree_adv>
+            <noword start="-1" position="18" modifier_word_position="20" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="-1" position="11" next_position="11" modifier_word_position="13" modifier_word_length="24" end="-1">因为</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">……</punctuation>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="2" position="2" end="2">我想</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.5</Anger>
+        <Expect>0.0</Expect>
+        <Topic>有恃无恐　胆大妄为</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="人们每每评论城管执法，总是说“素质低”“没文化”“小混混地痞无赖”“打手”，难怪，城管把自己当成了特殊人物，他们代替了警察执法，出现了角色错位，本来他们是代表当地政府管理一个城市或者城镇环境，但他们错误地把这座城市或者城镇当成了自己家天下，把自己混同成特权下的山大王。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>人们/n  每每/d  评论/v  城管/n  执法/vn  ，/w  总是/d  说/v  “/w  素质/n  低/a  ”/w  “/w  没/v  文化/n  ”/w  “/w  小/a  混混/n  地痞/v  无赖/n  ”/w  “/w  打手/n  ”/w  ，/w  难怪/d  ，/w  城管/j  把/p  自己/r  当成/v  了/u  特殊/a  人物/n  ，/w  他们/r  代替/v  了/u  警察/n  执法/vn  ，/w  出现/v  了/u  角色/n  错位/n  ，/w  本来/d  他们/r  是/v  代表/v  当地/s  政府/n  管理/vn  一个/m  城市/n  或者/c  城镇/n  环境/n  ，/w  但/c  他们/r  错误/a  地/u  把/p  这/r  座/q  城市/n  或者/c  城镇/n  当成/v  了/u  自己/r  家天下/v  ，/w  把/p  自己/r  混同/v  成/v  特权/n  下的/v  山大王/n  。</Segmented_S>
+            <S_Length>134</S_Length>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">文化</Keywords>
+            <Keywords start="25" position="25" end="27" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">小</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">地痞</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">无赖</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0.5">打手</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">特殊</Keywords>
+            <Keywords start="-1" position="69" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">错位</Keywords>
+            <Keywords start="-1" position="99" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">错误</Keywords>
+            <Keywords start="-1" position="123" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0.5">混同</Keywords>
+            <Keywords start="-1" position="126" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">特权</Keywords>
+            <Keywords start="-1" position="130" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">山大王</Keywords>
+            <noword start="-1" position="20" modifier_word_position="21" modifier_word_length="2" end="-1">没</noword>
+            <E_conjunction start="-1" position="96" next_position="96" modifier_word_position="97" modifier_word_length="36" end="-1">但</E_conjunction>
+            <E_phrase start="15" position="15" end="17" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">素质</E_phrase>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“”</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="特权意识的作祟，粗暴、野蛮执法，老子天下第一，地方政府睁一只眼闭一只眼，更让城管有恃无恐胆大妄为。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 特权/n  意识/n  的/u  作祟/n  ，/w  粗暴/ad  、/w  野蛮/a  执法/vn  ，/w  老子/nr  天下第一/nr  ，/w  地方/n  政府/n  睁一只眼/n  闭/v  一/m  只/q  眼/n  ，/w  更/d  让/v  城管/j  有恃/n  无恐/v  胆大妄为/n  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">特权</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0.5">作祟</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">粗暴</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0.5">野蛮</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="nr" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">老子</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="nr" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">天下第一</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">让</Keywords>
+            <Keywords start="40" position="40" end="43" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0.4">有恃</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0.5">胆大妄为</Keywords>
+            <degree_adv start="-1" position="36" modifier_word_position="37" modifier_word_length="1" end="-1">更</degree_adv>
+            <E_phrase start="27" position="27" end="34" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0.5">睁一只眼</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.5</Anger>
+        <Expect>0.6</Expect>
+        <Topic>讲方式方法</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我们不是反对城管治理城镇错了，而是执法也要讲方式方法，对于摆摊设点乱占街道的行为，应该是疏导，而不是强制暴力的执法，如果把城管执法的行径也传输到其他执法部门，那这个社会会怎样？">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>我们/r  不/d  是/v  反对/v  城管/j  治理/v  城镇/n  错/v  了/y  ，/w  而是/c  执法/v  也/d  要/v  讲/v  方式/n  方法/n  ，/w  对于/p  摆/v  摊/v  设点/v  乱占/v  街道/n  的/u  行为/n  ，/w  应该/v  是/v  疏导/v  ，/w  而/c  不/d  是/v  强制/v  暴力/n  的/u  执法/vn  ，/w  如果/c  把/p  城管/j  执法/vn  的/u  行径/n  也/d  传输/v  到/v  其他/r  执法/vn  部门/n  ，/w  那/r  这个/r  社会/n  会/v  怎样/r  ？</Segmented_S>
+            <S_Length>88</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">反对</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">错</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">要</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">乱占</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">应该</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">疏导</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">强制</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">暴力</Keywords>
+            <Keywords start="-1" position="66" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">行径</Keywords>
+            <Keywords start="-1" position="68" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">也</Keywords>
+            <Keywords start="-1" position="85" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">怎样</Keywords>
+            <noword start="48" position="48" modifier_word_position="52" modifier_word_length="2" end="49">不</noword>
+            <E_conjunction start="-1" position="2" next_position="15" modifier_word_position="4" modifier_word_length="10" end="-1">不</E_conjunction>
+            <E_conjunction start="-1" position="15" next_position="2" modifier_word_position="17" modifier_word_length="40" end="-1">而是</E_conjunction>
+            <E_conjunction start="-1" position="58" next_position="79" modifier_word_position="60" modifier_word_length="18" end="-1">如果</E_conjunction>
+            <E_conjunction start="-1" position="79" next_position="58" modifier_word_position="80" modifier_word_length="7" end="-1">那</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.3</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.6</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="真的是无法想象。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 真的/d  是/v  无法/v  想象/v  。</Segmented_S>
+            <S_Length>8</S_Length>
+            <E_phrase start="0" position="3" end="0" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">无法</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.5</Anger>
+        <Expect>0.0</Expect>
+        <Topic>悲哀</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="如同正版土匪在洗劫城镇一样，我们的城管也在天天上演洗劫街道的闹剧，该做的没有做，没有让城市好起来，反倒让城市乱了许多，让政府形象受损，破坏了社会和谐。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>如同/v  正版/b  土匪/n  在/p  洗/v  劫/v  城镇/n  一样/a  ，/w  我们/r  的/u  城管/j  也/d  在/d  天天/d  上演/v  洗劫/n  街道/n  的/u  闹剧/n  ，/w  该/r  做/v  的/u  没有/d  做/v  ，/w  没有/v  让/v  城市/n  好/a  起来/v  ，/w  反倒/d  让/v  城市/n  乱/d  了/v  许多/m  ，/w  让/v  政府/n  形象/n  受损/v  ，/w  破坏/v  了/u  社会/n  和谐/a  。</Segmented_S>
+            <S_Length>75</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">土匪</Keywords>
+            <Keywords start="7" position="7" end="8" Surprise="0" Sorrow="0.3" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">洗</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.7">也</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">洗劫</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">闹剧</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">反倒</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0.7" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">乱</Keywords>
+            <Keywords start="-1" position="64" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.3">受损</Keywords>
+            <Keywords start="-1" position="67" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0.3">破坏</Keywords>
+            <Keywords start="-1" position="72" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">和谐</Keywords>
+            <noword start="-1" position="36" modifier_word_position="38" modifier_word_length="1" end="-1">没有</noword>
+            <noword start="-1" position="40" modifier_word_position="42" modifier_word_length="6" end="-1">没有</noword>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="如果城管能打出一个良好的城市环境，我想那才是社会的悲哀！">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 如果/c  城管/j  能/v  打/v  出/v  一个/m  良好/a  的/u  城市/n  环境/n  ，/w  我想/v  那才/n  是/v  社会/n  的/u  悲哀/a  ！</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">打</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">良好</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0.7" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悲哀</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="14" end="-1">如果</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="17" position="17" end="17">我想</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

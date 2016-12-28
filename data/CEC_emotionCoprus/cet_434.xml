@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.8</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.7</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>吃饭</Topic>
+    <title T="吃饭">
+        <Segmented_S>吃/v  饭/n</Segmented_S>
+        <S_Length>2</S_Length>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="今天天气特别好，天高云淡，风和日丽。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>今天/t  天气/n  特别/d  好/a  ，/w  天高云淡/v  ，/w  风和日丽/i  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">天高云淡</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">风和日丽</Keywords>
+            <degree_adv start="-1" position="4" modifier_word_position="6" modifier_word_length="1" end="-1">特别</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>吃饭</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="不跟我住一起的儿子一家三口来看老妈了，我大孙女跟她老爸说：请客吧，到外面吃饭去。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>不/d  跟/v  我/r  住/v  一/m  起/q  的/u  儿子/n  一家/n  三/m  口/q  来看/v  老妈/u  了/y  ，/w  我/r  大/d  孙女/v  跟/n  她/r  老爸/v  说/v  ：/w  请客/v  吧/y  ，/w  到/p  外面/f  吃饭/v  去/v  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <noword start="-1" position="0" modifier_word_position="3" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="于是我们就出发了，正好路过“陶然居”餐厅，据说很有名气，就是它了。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 于是/c  我们/r  就/d  出发/v  了/u  ，/w  正好/z  路过/v  “/w  陶然/n  居/v  ”/w  餐厅/n  ，/w  据说/v  很/d  有/v  名气/n  ，/w  就/d  是/v  它/r  了/y  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <degree_adv start="-1" position="23" modifier_word_position="24" modifier_word_length="4" end="-1">很</degree_adv>
+            <E_phrase start="24" position="24" end="27" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">有</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这个餐厅看上去比较大气，还碰上了结婚喜宴。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 这个/r  餐厅/n  看/v  上去/v  比较/d  大气/a  ，/w  还/d  碰上/v  了/y  结婚/u  喜宴/v  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大气</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="u" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">结婚</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜宴</Keywords>
+            <degree_adv start="-1" position="7" modifier_word_position="9" modifier_word_length="2" end="-1">比较</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们坐的位置正好对着喜宴厅，新郎新娘正忙着给客人敬酒，估摸一下，约有二三十桌酒席，也够一对新人忙活的。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 我们/r  坐/v  的/u  位置/n  正好/z  对/p  着/u  喜宴/n  厅/n  ，/w  新郎/v  新娘/n  正忙/v  着/u  给/p  客人/n  敬酒/v  ，/w  估摸/v  一下/m  ，/w  约有/v  二三十/m  桌/q  酒席/n  ，/w  也够/v  一对/m  新人/n  忙活/v  的/u  。</Segmented_S>
+            <S_Length>51</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜宴</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">忙活</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>点菜</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="言归正传，我们点什么菜呢？">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>言/Vg  归/v  正传/n  ，/w  我们/r  点/v  什么/r  菜/n  呢/y  ？</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">呢</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">？</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="我点一个“铁板茄柳”“龟苓膏”我孙女点一个“宫宝鸡丁”“小元宵”儿子媳妇他们点的“&#34100;酱油麦菜”“糯香排骨”“酱肉包”再加上一个“木耳菜豆腐汤”四个人吃不了，最后还打包带走。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 我/r  点/v  一个/m  “/w  铁板/n  茄/v  柳/nr  ”/w  “/w  龟/n  苓/v  膏/n  ”/w  我/r  孙女/n  点/v  一个/m  “/w  宫/Ng  宝鸡/n  丁/nr  ”/w  “/w  小/a  元宵/n  ”/w  儿子/n  媳妇/n  他们/r  点/v  的/u  “/w  &#34100;酱油麦菜/n  ”/w  “/w  糯/n  香/a  排骨/n  ”/w  “/w  酱肉/n  包/v  ”/w  再加上/n  一个/m  “/w  木耳/n  菜豆/v  腐/n  汤/nr  ”/w  四/m  个/q  人/n  吃/v  不/d  了/v  ，/w  最后/f  还/d  打包/v  带走/n  。</Segmented_S>
+            <S_Length>86</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">点</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">点</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">点</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="服务员都是四川人，据服务员讲，这个店的“田螺”“福寿螺”菜做的很好，自从北京“福寿螺事件”出来后，他们也不卖这个菜品了。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 服务员/n  都/d  是/v  四川/ns  人/n  ，/w  据/p  服务员/n  讲/v  ，/w  这/r  个/q  店/n  的/u  “/w  田螺/n  ”/w  “/w  福寿/n  螺/v  ”/w  菜/n  做/v  的/u  很/d  好/a  ，/w  自从/p  北京/ns  “/w  福寿/n  螺/v  事件/n  ”/w  出来/v  后/f  ，/w  他们/r  也/d  不/d  卖/v  这/r  个/q  菜品/n  了/y  。</Segmented_S>
+            <S_Length>60</S_Length>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="1" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <degree_adv start="-1" position="3" modifier_word_position="0" modifier_word_length="1" end="-1">都</degree_adv>
+            <degree_adv start="-1" position="31" modifier_word_position="32" modifier_word_length="1" end="-1">很</degree_adv>
+            <noword start="-1" position="52" modifier_word_position="53" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">服务员</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.4</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="看了这个店的宣传材料，知道这个店已开业十年。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>看/v  了/u  这/r  个/q  店/n  的/u  宣传/vn  材料/n  ，/w  知道/v  这个/r  店/n  已/d  开业/v  十/m  年/q  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="“十年陶然居，名垂巴渝，连襟蜀国，纵横幅广，成为中华餐饮名店”嗨！">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> “/w  十/m  年/q  陶然/n  居/v  ，/w  名/Ng  垂/v  巴渝/n  ，/w  连襟/v  蜀国/n  ，/w  纵横/v  幅/v  广/a  ，/w  成为/v  中华/nz  餐饮/n  名/Ng  店/n  ”/w  嗨/n  ！</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">嗨</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">！</Keywords>
+            <E_phrase start="28" position="28" end="29" Surprise="0" Sorrow="0" POS="Ng" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">名</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">！</punctuation>
+            <punctuation E_type="喜爱">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="宣传词语还真行，究竟如何，我们也该仔细品尝、品尝。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 宣传/v  词语/n  还/d  真行/v  ，/w  究竟/d  如何/r  ，/w  我们/r  也该/v  仔细/a  品尝/n  、/w  品尝/v  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">真行</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">仔细</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">品尝</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">品尝</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.4</Expect>
+        </sentence>
+        <sentence S="总的感觉是味道不错，咸淡适宜，有两个菜比较新颖，那就是“铁板茄柳”，和“糯香排骨”，但“宫宝鸡丁”主料太少，配料太多，尽见花生米少见“鸡丁”了。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 总/b  的/u  感觉/n  是/v  味道/n  不/d  错/v  ，/w  咸淡/v  适宜/v  ，/w  有/v  两/m  个/q  菜/n  比较/d  新颖/a  ，/w  那/r  就/d  是/v  “/w  铁板/n  茄/v  柳/nr  ”/w  ，/w  和/p  “/w  糯/n  香/a  排骨/n  ”/w  ，/w  但/c  “/w  宫/Ng  宝鸡/n  丁/nr  ”/w  主料/n  太/d  少/a  ，/w  配料/n  太/d  多/a  ，/w  尽/v  见/v  花生米/n  少见/a  “/w  鸡丁/n  ”/w  了/y  。</Segmented_S>
+            <S_Length>72</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">适宜</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">新颖</Keywords>
+            <degree_adv start="-1" position="19" modifier_word_position="21" modifier_word_length="2" end="-1">比较</degree_adv>
+            <degree_adv start="-1" position="51" modifier_word_position="52" modifier_word_length="1" end="-1">太</degree_adv>
+            <degree_adv start="-1" position="56" modifier_word_position="57" modifier_word_length="1" end="-1">太</degree_adv>
+            <E_phrase start="7" position="7" end="8" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.3</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们慢慢吃慢慢聊，那边宴会厅的喜宴席终人散，我们也吃完了，提着打包饭盒，打道回府，各人该干嘛就干嘛去吧。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 我们/r  慢慢/d  吃/v  慢慢/d  聊/v  ，/w  那边/r  宴会厅/n  的/u  喜/v  宴席/n  终/d  人/n  散/v  ，/w  我们/r  也/d  吃/v  完/v  了/u  ，/w  提/v  着/u  打包/n  饭盒/v  ，/w  打道回府/l  ，/w  各人/v  该/r  干/v  嘛/y  就/d  干/v  嘛/y  去/v  吧/y  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">吧</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="4" modifier_word_length="1" end="-1">慢慢</degree_adv>
+            <degree_adv start="-1" position="5" modifier_word_position="7" modifier_word_length="1" end="-1">慢慢</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

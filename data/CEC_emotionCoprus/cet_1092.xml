@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <title T="养狗">
+        <Segmented_S>养狗/n</Segmented_S>
+        <S_Length>2</S_Length>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.4</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>买狗</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我养的第一只宠物犬是天津买的，那时北京还没有宠物市场。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>我/r  养/v  的/u  第一/m  只/q  宠物/n  犬/Ng  是/v  天津/ns  买/v  的/u  ，/w  那时/r  北京/ns  还/d  没有/d  宠物/v  市场/n  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <E_phrase start="6" position="6" end="8" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">宠物</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我去天津买古董，回家的路上，看见一自由市场，几个人在卖小狗，我急不可待地下了车，凑了上去，最终的结果是挑了一只白白的，有着黑眼圈的没名小狗。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 我去/n  天津/ns  买/v  古董/n  ，/w  回家/v  的/u  路上/s  ，/w  看见/v  一/m  自由/a  市场/n  ，/w  几/m  个/q  人/n  在/p  卖/v  小狗/n  ，/w  我/r  急不可待/v  地下/s  了/y  车/u  ，/w  凑/v  了/u  上去/v  ，/w  最终/d  的/u  结果/n  是/v  挑/v  了/u  一/m  只/q  白白/d  的/u  ，/w  有/v  着/u  黑/a  眼圈/n  的/u  没/d  名/v  小狗/Ng  。</Segmented_S>
+            <S_Length>70</S_Length>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">急不可待</Keywords>
+            <noword start="-1" position="65" modifier_word_position="66" modifier_word_length="1" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="回北京的路上，小狗还晕车，老是干呕，我只好停车让它缓口气。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 回/v  北京/ns  的/u  路上/s  ，/w  小狗/v  还/d  晕车/v  ，/w  老是/d  干/v  呕/n  ，/w  我只/v  好/a  停车/vn  让/v  它/r  缓/v  口/n  气/n  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">晕车</Keywords>
+            <E_phrase start="15" position="15" end="16" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">干</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="歇息的时候已是夕阳西下，余辉照着白白的小狗身上，让人生出不少怜爱。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 歇息/v  的/u  时候/n  已/d  是/v  夕阳西下/l  ，/w  余辉/v  照/n  着/u  白白的/n  小狗/v  身上/s  ，/w  让/v  人生/n  出/v  不少/m  怜爱/n  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">歇息</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">夕阳西下</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">怜爱</Keywords>
+            <degree_adv start="-1" position="28" modifier_word_position="30" modifier_word_length="2" end="-1">不少</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.3</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>狗</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我喜欢狗，相关故事一大堆，悲剧喜剧都有。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>我/r  喜欢/v  狗/n  ，/w  相关/vn  故事/n  一大堆/n  ，/w  悲剧/n  喜剧/n  都/d  有/v  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜欢</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悲剧</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜剧</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">我</Opinion_holder>
+            <Opinion_target start="-1" position="3" end="-1">狗</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="几十年来狗很让我揪心，有狗的日子也显得乐趣多多。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 几十/m  年/q  来/f  狗/n  很/d  让/v  我/r  揪心/v  ，/w  有/v  狗/n  的/u  日子/n  也/d  显得/v  乐趣/n  多/a  多/a  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">揪心</Keywords>
+            <degree_adv start="-1" position="5" modifier_word_position="8" modifier_word_length="2" end="-1">很</degree_adv>
+            <E_phrase start="19" position="19" end="22" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">乐趣</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="小狗买到家一定先要起个名字，思路窄，就叫奔儿奔儿，清脆响亮，琅琅上口。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 小狗/n  买/v  到/v  家/n  一定/d  先要/v  起/f  个/q  名字/n  ，/w  思路/n  窄/a  ，/w  就/d  叫/v  奔儿/v  奔儿/n  ，/w  清脆/a  响亮/a  ，/w  琅琅上口/i  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">清脆</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">响亮</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">琅琅上口</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="奔儿奔儿就在我们家一日日地长大。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 奔儿/n  奔儿/v  就/d  在/p  我们/r  家/n  一日/t  日/j  地/u  长大/v  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">长大</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那时儿子还在上小学，每天放学回家的第一件事就是与奔儿奔儿摔跤，两个人都高兴地完成这一礼仪才罢手各做各事。">
+            <S_no>第2段第5句标注</S_no>
+            <Segmented_S> 那时/r  儿子/n  还/d  在/p  上/f  小学/n  ，/w  每天/r  放学/v  回家/v  的/u  第一/m  件/q  事/n  就/d  是/v  与/p  奔儿/n  奔儿/v  摔跤/n  ，/w  两/m  个/q  人/n  都/d  高兴/a  地/u  完成/v  这/r  一/m  礼仪/n  才/d  罢手/v  各/r  做/v  各/r  事/n  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">高兴</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>车祸</Topic>
+        <Summarize_Sentences>4</Summarize_Sentences>
+        <sentence S="奔儿奔儿原来是不出屋的，拉屎撒尿在卫生间，虽有点儿味但也能忍。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>奔儿/n  奔儿/v  原来/d  是/v  不/d  出/v  屋/n  的/u  ，/w  拉/v  屎/n  撒尿/v  在/p  卫生间/n  ，/w  虽/c  有/v  点儿/n  味/Ng  但/c  也/d  能/v  忍/v  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">忍</Keywords>
+            <noword start="-1" position="7" modifier_word_position="8" modifier_word_length="1" end="-1">不</noword>
+            <E_conjunction start="-1" position="21" next_position="26" modifier_word_position="22" modifier_word_length="4" end="-1">虽</E_conjunction>
+            <E_conjunction start="-1" position="26" next_position="21" modifier_word_position="27" modifier_word_length="3" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="后来我偶尔带它出门走走，这一走一发不可收拾，每天不出门它就闹个不停。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 后来/t  我/r  偶尔/d  带/v  它/r  出门/v  走走/v  ，/w  这/r  一/m  走/v  一发/n  不可收拾/d  ，/w  每天/r  不/d  出门/v  它/r  就/d  闹/v  个/q  不/d  停/v  。</Segmented_S>
+            <S_Length>34</S_Length>
+            <Keywords start="15" position="15" end="20" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">一发</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.4">闹</Keywords>
+            <degree_adv start="-1" position="3" modifier_word_position="7" modifier_word_length="4" end="-1">偶尔</degree_adv>
+            <noword start="-1" position="24" modifier_word_position="25" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="所以我每天下班后都带它走走，从不拴绳。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 所以/c  我/r  每天/r  下/v  班/n  后/f  都/d  带/v  它/r  走走/v  ，/w  从不/d  拴/v  绳/Ng  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一次，我带它在家门口的小马路溜弯儿，我在路北，它在路南，忽然开过一车，奔儿奔儿慌了，向我跑来，我只听嘭地一声，奔儿奔儿被车撞了。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 一/m  次/q  ，/w  我/r  带/v  它/r  在/p  家门口/s  的/u  小/a  马路/n  溜/v  弯儿/v  ，/w  我/r  在/p  路北/n  ，/w  它/r  在/p  路南/ns  ，/w  忽然/d  开/v  过/u  一/m  车/n  ，/w  奔儿/v  奔儿/n  慌/v  了/u  ，/w  向我/v  跑/v  来/v  ，/w  我只/v  听/v  嘭/n  地/u  一/m  声/q  ，/w  奔儿/v  奔儿/n  被/p  车/n  撞/v  了/u  。</Segmented_S>
+            <S_Length>64</S_Length>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">慌</Keywords>
+            <E_phrase start="59" position="59" end="61" Surprise="0" Sorrow="0.6" POS="p" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">被</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="后来的结局是我打“面的”打了１１０元钱，没有一个狗医生给看，都说这狗没救了。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>后来/t  的/u  结局/n  是/v  我打/n  “/w  面的/n  ”/w  打/v  了/u  １１０/n  元/q  钱/n  ，/w  没有/v  一个/m  狗/n  医生/n  给/p  看/v  ，/w  都/d  说/v  这/r  狗/n  没/d  救/v  了/u  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <noword start="-1" position="20" modifier_word_position="22" modifier_word_length="2" end="-1">没有</noword>
+            <E_phrase start="34" position="34" end="35" Surprise="0" Sorrow="0.6" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">没</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="可它在我臂弯还活着，浑身颤抖，偶尔还睁开一只眼看我一下，我的一只羽绒服袖子都被血浸透了，最后从北京东四十二条开到颐和园后身北京农大医院，才救回了奔儿奔儿的命，但它失去了一只眼，从那以后它看世界只剩下一半了。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 可/c  它/r  在/p  我/r  臂弯/v  还/d  活/v  着/u  ，/w  浑身/n  颤抖/v  ，/w  偶尔/d  还/d  睁/v  开/v  一/m  只/q  眼/n  看/v  我/r  一下/m  ，/w  我的/v  一/m  只/q  羽绒服/n  袖子/v  都/d  被/p  血/n  浸透/v  了/u  ，/w  最后/f  从/p  北京/ns  东四十二/n  条/q  开/v  到/v  颐和园/ns  后身/n  北京/ns  农大/j  医院/n  ，/w  才/c  救/v  回/v  了/u  奔儿/n  奔儿/v  的/u  命/n  ，/w  但/c  它/r  失去/v  了/u  一/m  只/q  眼/n  ，/w  从/p  那/r  以后/f  它/r  看/v  世界/n  只剩下/n  一/m  半/m  了/y  。</Segmented_S>
+            <S_Length>103</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">颤抖</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">血</Keywords>
+            <Keywords start="-1" position="81" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">失去</Keywords>
+            <E_conjunction start="-1" position="79" next_position="79" modifier_word_position="80" modifier_word_length="7" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

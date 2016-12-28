@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.8</Love>
+    <Sorrow>0.6</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>美丽 感物伤怀</Topic>
+    <title T="樱桃花纷飞">
+        <Segmented_S>樱桃花/n  纷/v  飞/v</Segmented_S>
+        <S_Length>5</S_Length>
+        <Keywords start="3" position="3" end="4" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">纷</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.4</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.2</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="专程去看了梅花，却忽略了自家院子里的、视线之内的，漫山遍野的樱桃树。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>专程去/n  看/v  了/u  梅花/n  ，/w  却/d  忽略/v  了/u  自家/r  院子/n  里/f  的/u  、/w  视线/n  之/u  内/f  的/u  ，/w  漫山遍野/i  的/u  樱桃树/n  。</Segmented_S>
+            <S_Length>34</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">专程去</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0.3" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">忽略</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">漫山遍野</Keywords>
+            <E_conjunction start="-1" position="8" next_position="8" modifier_word_position="9" modifier_word_length="24" end="-1">却</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_target start="-1" position="30" end="-1">樱桃树</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.2</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="小时候和母亲一起在院子里栽种第一颗樱桃树时，母亲感慨：樱桃好吃，树难栽。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>小时候/t  和/c  母亲/n  一/m  起/q  在/p  院子/n  里/f  栽/v  种/v  第一/m  颗/q  樱桃树/n  时/Ng  ，/w  母亲/n  感慨/v  ：/w  樱桃/n  好/a  吃/v  ，/w  树/n  难/a  栽/v  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感慨</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0.2" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">难</Keywords>
+            <E_phrase start="29" position="29" end="30" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="22" end="-1">母亲</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="樱桃树的日渐茁壮，否认了母亲沿袭来的感慨。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 樱桃树/n  的/u  日渐/d  茁壮/a  ，/w  否认/v  了/u  母亲/n  沿袭/v  来/v  的/u  感慨/vn  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">茁壮</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0.4" POS="vn" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感慨</Keywords>
+            <degree_adv start="-1" position="4" modifier_word_position="6" modifier_word_length="2" end="-1">日渐</degree_adv>
+            <noword start="-1" position="9" modifier_word_position="18" modifier_word_length="2" end="-1">否认</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="其实樱桃树是那种只要有适合它生长的环境，给点泥土就生长，给点阳光就灿烂的主儿。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 其实/d  樱桃树/v  是/v  那种/r  只/d  要/v  有/v  适合/v  它/r  生长/v  的/u  环境/n  ，/w  给/p  点/n  泥土/n  就/d  生长/v  ，/w  给/p  点/n  阳光/n  就/d  灿烂/a  的/u  主儿/n  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">适合</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">灿烂</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="在我们太极城及周边的村庄，就是盛产樱桃的地方。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>在/p  我们/r  太极/n  城/n  及/c  周边/n  的/u  村庄/n  ，/w  就/d  是/v  盛产/v  樱桃/n  的/u  地方/n  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">盛产</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.3</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="每至初春，放眼望去，漫山遍野、沟沟岭岭，一团一团的洁白，恍惚以为天使也经不住春风撩拨的，随袅袅暗香遁入凡尘。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 每/r  至/p  初春/t  ，/w  放眼/v  望/v  去/v  ，/w  漫山遍野/i  、/w  沟沟/n  岭/Ng  岭/Ng  ，/w  一团/v  一团/n  的/u  洁白/n  ，/w  恍惚/v  以为/v  天使/n  也/d  经/p  不/d  住/v  春风/n  撩拨/v  的/u  ，/w  随/v  袅袅/v  暗/a  香/a  遁入/n  凡尘/v  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">漫山遍野</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">恍惚</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">撩拨</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">袅袅</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">香</Keywords>
+            <noword start="35" position="35" modifier_word_position="38" modifier_word_length="4" end="37">经</noword>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="微雨的黄昏，站在樱桃树下，看一地洁白的樱桃花瓣，倾听樱桃花坠落的声音。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>微雨/n  的/u  黄昏/t  ，/w  站/v  在/p  樱桃树/n  下/f  ，/w  看/v  一/m  地/n  洁白/v  的/u  樱桃花/n  瓣/v  ，/w  倾听/v  樱桃花/n  坠落/v  的/u  声音/n  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">微雨</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">洁白</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">倾听</Keywords>
+            <Rhetoric E_type="喜爱">夸张</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="忆起了去年站在樱桃树下刹那间的感伤：樱花在夜雨里以怎样的一种姿势坠落？">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 忆/Vg  起/v  了/u  去年/t  站/v  在/p  樱桃/n  树/n  下/f  刹那间/v  的/u  感伤/n  ：/w  樱花/n  在/p  夜雨/n  里/f  以/p  怎样/r  的/u  一/m  种/q  姿势/n  坠落/v  ？</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感伤</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">坠落</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="　早上起来，看见樱桃树下一地樱花　“　只当是前天我们见的残红，／怯怜怜的在风前抖擞，／一瓣，／　　　两瓣，落地，叫人踩，变泥……　　／　唉，叫人踩，变泥&#8212;&#8212;变了泥倒干净。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 　/n  早/ad  上/v  起来/v  ，/w  看见/v  樱桃树/n  下/f  一/m  地/n  樱花/n  　/v  “/w  　/n  只/d  当/v  是/v  前天/t  我们/r  见/v  的/u  残红/n  ，/w  ／/w  怯/nr  怜怜/v  的/u  在/p  风/n  前/f  抖擞/v  ，/w  ／/w  一/m  瓣/q  ，/w  ／　　　/v  两/m  瓣/q  ，/w  落地/v  ，/w  叫/v  人/n  踩/v  ，/w  变/v  泥/n  ……/w  　　／　/n  唉/v  ，/w  叫/v  人/n  踩/v  ，/w  变/v  泥/n  &#8212;&#8212;/w  变/v  了/y  泥/u  倒/v  干净/a  。</Segmented_S>
+            <S_Length>85</S_Length>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">残红</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="nr" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">怯</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0.3" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">怜怜</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">抖擞</Keywords>
+            <Keywords start="-1" position="68" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">唉</Keywords>
+            <Keywords start="-1" position="82" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">干净</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”没有来由的，徐志摩这样的一句诗回旋于脑际。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> ”/w  没有/v  来由/n  的/u  ，/w  徐志摩/v  这样/r  的/u  一/m  句/q  诗/n  回旋/v  于/p  脑际/n  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <noword start="-1" position="1" modifier_word_position="3" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="无端的讨厌这不着边际的雨。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 无端/d  的/u  讨厌/n  这/r  不着边际/i  的/u  雨/n  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">讨厌</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">不着边际</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>衰老 默然</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="那一年的春天也如今年一样悄无声息早早而来。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>那/r  一年/n  的/u  春天/t  也/d  如/v  今年/t  一样/a  悄无声息/v  早早/d  而/c  来/v  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悄无声息</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="今春后山的樱桃林是不是还会回想那一年春天里的醉人醉语：“原来羊是可以放到天上去的，花是可以开在脸上的，而且白里透红薄如蝉翼，灿若云霞，比那树上的漂亮一千倍，羞得那桃林之下落英缤纷，春水吹皱。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 今春/t  后山/n  的/u  樱桃/n  林/Ng  是/v  不/d  是/v  还/d  会/v  回想/v  那/r  一/m  年/q  春天里/n  的/u  醉/v  人/n  醉/v  语/Ng  ：/w  “/w  原/b  来/v  羊/n  是/v  可以/v  放/v  到/v  天/n  上去/v  的/u  ，/w  花/v  是/v  可以/v  开/v  在/p  脸上/s  的/u  ，/w  而且/c  白里透红/v  薄/a  如/v  蝉翼/n  ，/w  灿若云霞/v  ，/w  比/p  那/r  树上/s  的/u  漂亮/a  一千/m  倍/q  ，/w  羞/v  得/u  那/r  桃林/n  之下/f  落英缤纷/n  ，/w  春水/n  吹/v  皱/n  。</Segmented_S>
+            <S_Length>95</S_Length>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">白里透红</Keywords>
+            <Keywords start="57" position="57" end="60" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">薄</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">灿若云霞</Keywords>
+            <Keywords start="-1" position="72" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">漂亮</Keywords>
+            <Keywords start="-1" position="85" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">落英缤纷</Keywords>
+            <E_conjunction start="-1" position="51" next_position="51" modifier_word_position="53" modifier_word_length="13" end="-1">而且</E_conjunction>
+            <E_phrase start="8" position="8" end="10" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">是</E_phrase>
+            <E_phrase start="22" position="22" end="25" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">醉</E_phrase>
+            <E_phrase start="90" position="90" end="93" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">春水</E_phrase>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Rhetoric E_type="喜爱">夸张</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”春风醉人不是春风的错，我把自己的记忆弄丢了也不是我的错。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> ”/w  春风/n  醉/v  人/n  不/d  是/v  春风/n  的/u  错/v  ，/w  我/r  把/p  自己/r  的/u  记忆/n  弄/v  丢/v  了/u  也/d  不/d  是/v  我/r  的/u  错/v  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">错</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0.0">错</Keywords>
+            <noword start="5" position="5" modifier_word_position="7" modifier_word_length="4" end="6">不</noword>
+            <noword start="23" position="23" modifier_word_position="25" modifier_word_length="3" end="24">不</noword>
+            <E_phrase start="19" position="19" end="20" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">弄</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我能记得的只是那年春天里纷纷扬扬的樱桃花，铺天盖地，触目惊心。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 我能/n  记得/v  的/u  只是/d  那年/t  春天/t  里/f  纷纷扬扬/i  的/u  樱桃花/n  ，/w  铺天盖地/i  ，/w  触目惊心/i  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">纷纷扬扬</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">铺天盖地</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0.5" Anger="0">触目惊心</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一年年我们老了依然会更老，岁月馈赠我们的不仅仅是历练，连带了漠然一起给予。">
+            <S_no>第5段第5句标注</S_no>
+            <Segmented_S> 一年年/n  我们/r  老/a  了/y  依然/u  会/z  更/d  老/a  ，/w  岁月/n  馈赠/v  我们/r  的/u  不仅仅/d  是/v  历/d  练/v  ，/w  连带/v  了/u  漠然/n  一/m  起/q  给予/v  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">馈赠</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">漠然</Keywords>
+            <E_phrase start="24" position="24" end="25" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">历</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="今春，灿烂在枝头的樱桃花又与我擦肩而过。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>今春/t  ，/w  灿烂/a  在/p  枝头/n  的/u  樱桃花/n  又/d  与/p  我/r  擦肩/v  而/c  过/v  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">灿烂</Keywords>
+            <E_phrase start="15" position="15" end="18" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">擦肩</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="不经意间，樱桃花将所有的洁白都怒放在枝头，又柔情纷纷落在泥土里，不肯给自己留一点点娇艳在自然界、惊艳在世人瞳孔里的空间。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 不经意/a  间/f  ，/w  樱桃花/v  将/d  所有/b  的/u  洁白/n  都/d  怒放/v  在/p  枝头/n  ，/w  又/c  柔情/v  纷纷/d  落/v  在/p  泥土/n  里/f  ，/w  不肯/v  给/p  自己/r  留/v  一点点/m  娇艳/q  在/p  自然界/n  、/w  惊艳/n  在/p  世人/n  瞳孔/v  里/f  的/u  空间/n  。</Segmented_S>
+            <S_Length>60</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.2" Hate="0" Expect="0" Anxiety="0" Anger="0">不经意</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">洁白</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">怒放</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">柔情</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="q" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">娇艳</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">惊艳</Keywords>
+            <noword start="-1" position="32" modifier_word_position="34" modifier_word_length="9" end="-1">不肯</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.3</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.5</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="不论是樱桃花遗忘了人们还是人们忽略了樱桃花，都是各安其份、各自安身立命的事。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>不论/c  是/v  樱桃花/n  遗忘/v  了/u  人们/n  还是/d  人们/n  忽略/v  了/u  樱桃花/n  ，/w  都/d  是/v  各/r  安/v  其/r  份/n  、/w  各自/r  安身立命/i  的/u  事/n  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">遗忘</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.3" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">忽略</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">安身立命</Keywords>
+            <E_conjunction start="0" position="0" next_position="11" modifier_word_position="2" modifier_word_length="9" end="1">不论</E_conjunction>
+            <E_conjunction start="-1" position="11" next_position="0" modifier_word_position="13" modifier_word_length="8" end="-1">还是</E_conjunction>
+            <E_phrase start="24" position="24" end="27" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">各</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="期待的只是那满树满枝艳红的果实。">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 期待/v  的/u  只是/d  那/r  满/a  树/n  满/a  枝/Ng  艳红/v  的/u  果实/n  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">期待</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我家后园里的樱桃树，显然也是老了，灰白色的树皮裂开了一道道口子，其中一根手腕粗的枝干在去年樱桃红了的时节不知被谁生生扳裂，如今还孤零零地斜在空里，没有一朵花爬上枝头。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>我家/r  后/f  园里/v  的/u  樱桃树/n  ，/w  显然/ad  也/d  是/v  老/a  了/y  ，/w  灰白色/n  的/u  树皮/n  裂开/v  了/u  一道道/m  口子/n  ，/w  其中/r  一/m  根/q  手腕/n  粗/a  的/u  枝干/n  在/p  去年/t  樱桃/n  红/a  了/u  的/u  时节/n  不知/v  被/p  谁/r  生生/v  扳/n  裂/v  ，/w  如今/t  还/d  孤零零/v  地/u  斜/v  在/p  空/a  里/f  ，/w  没有/v  一朵花/n  爬/v  上/v  枝头/n  。</Segmented_S>
+            <S_Length>83</S_Length>
+            <Keywords start="-1" position="64" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">孤零零</Keywords>
+            <noword start="-1" position="52" modifier_word_position="55" modifier_word_length="1" end="-1">不知</noword>
+            <noword start="-1" position="73" modifier_word_position="75" modifier_word_length="3" end="-1">没有</noword>
+            <E_phrase start="14" position="14" end="15" Surprise="0" Sorrow="0.5" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">老</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第9段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="梅花在春寒中肆意；樱桃花开了又落了；桃花红了李花白……花开花落，原本是自然的事。">
+            <S_no>第9段第1句标注</S_no>
+            <Segmented_S>梅花/n  在/p  春寒/n  中/f  肆意/d  ；/w  樱桃花/n  开/v  了/u  又/d  落/v  了/u  ；/w  桃花/n  红/a  了/u  李/nr  花白/nr  ……/w  花开花落/n  ，/w  原本/d  是/v  自然/n  的/u  事/n  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">肆意</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">花开花落</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.3</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="“有我之境，以我观物，故物与我皆著我之色彩。">
+            <S_no>第9段第2句标注</S_no>
+            <Segmented_S> “/w  有/v  我/r  之/u  境/Ng  ，/w  以我/v  观/Vg  物/Ng  ，/w  故物/v  与/p  我/r  皆/d  著/Vg  我/r  之/u  色彩/n  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”感物伤怀，是不是这个意思？">
+            <S_no>第9段第3句标注</S_no>
+            <Segmented_S> ”/w  感/Vg  物/Ng  伤怀/n  ，/w  是/v  不/d  是/v  这/r  个/q  意思/n  ？</Segmented_S>
+            <S_Length>14</S_Length>
+            <E_phrase start="1" position="1" end="4" Surprise="0" Sorrow="0.7" POS="Vg" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="是不是人性的必然？">
+            <S_no>第9段第4句标注</S_no>
+            <Segmented_S> 是/v  不/d  是/v  人性/n  的/u  必然/d  ？</Segmented_S>
+            <S_Length>9</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

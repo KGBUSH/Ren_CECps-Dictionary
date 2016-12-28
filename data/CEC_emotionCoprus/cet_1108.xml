@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <title T="生命">
+        <Segmented_S>生命/n</Segmented_S>
+        <S_Length>2</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.5</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>猫</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="买了一本有关猫的书，很专业，读来流畅。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>买/v  了/u  一/m  本/q  有关/vn  猫/n  的/u  书/n  ，/w  很/d  专业/n  ，/w  读/v  来/v  流畅/a  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">专业</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">流畅</Keywords>
+            <degree_adv start="-1" position="10" modifier_word_position="11" modifier_word_length="2" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="自以为对动物了解的我，还是被此书深深吸引。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 自以为/n  对/p  动物/n  了解/v  的/u  我/r  ，/w  还是/c  被/p  此书/r  深深/d  吸引/v  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">吸引</Keywords>
+            <degree_adv start="-1" position="16" modifier_word_position="18" modifier_word_length="2" end="-1">深深</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="猫和狗都是人类豢养了很久的宠物，与人类很亲，我以为自古如此。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 猫/n  和/c  狗/n  都/d  是/v  人类/n  豢养/n  了/y  很/d  久/a  的/u  宠物/n  ，/w  与/p  人类/n  很/d  亲/a  ，/w  我以为/v  自古/d  如此/r  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">宠物</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">亲</Keywords>
+            <degree_adv start="-1" position="10" modifier_word_position="11" modifier_word_length="1" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="19" modifier_word_position="20" modifier_word_length="1" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="可书中作者告诉我们，自１０世纪起，欧洲人把猫和女巫、邪恶联系在一起，整整一个中世纪，猫的地位低下，令人听来发指。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 可/c  书/n  中/f  作者/n  告诉我/v  们/k  ，/w  自/p  １０/t  世纪/n  起/f  ，/w  欧洲/ns  人/n  把/p  猫/n  和/c  女巫/n  、/w  邪恶/a  联系/vn  在/p  一/m  起/q  ，/w  整整/d  一个/m  中世纪/t  ，/w  猫/n  的/u  地位/n  低下/a  ，/w  令/v  人/n  听/v  来/v  发/v  指/v  。</Segmented_S>
+            <S_Length>56</S_Length>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">女巫</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">邪恶</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">低下</Keywords>
+            <E_phrase start="51" position="51" end="54" Surprise="0.5" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">听</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.5</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.7</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>猫</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="长达７００年的中世纪欧洲，猫常被当作祭品，活活烧死；骇人听闻。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>长/a  达/v  ７００/m  年/q  的/u  中世纪/t  欧洲/ns  ，/w  猫/n  常/d  被/p  当作/v  祭品/n  ，/w  活活/d  烧死/v  ；/w  骇人听闻/n  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0.8" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">烧死</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0.7" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">骇人听闻</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.7</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="猫的处境已不再是宠物，而是穷人的菜肴和法官华丽的长袍。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 猫/n  的/u  处境/n  已/d  不再/d  是/v  宠物/n  ，/w  而是/c  穷人/n  的/u  菜肴/n  和/c  法官/n  华丽/a  的/u  长袍/n  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">宠物</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0.3" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">穷人</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">华丽</Keywords>
+            <noword start="-1" position="5" modifier_word_position="8" modifier_word_length="2" end="-1">不再</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="由此造成的直接后果是中世纪的欧洲人不愿看到的；鼠患严重，黑死病毒大面积传播。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 由此/d  造成/v  的/u  直接/a  后果/n  是/v  中世纪/t  的/u  欧洲/ns  人/n  不/d  愿/v  看到/v  的/u  ；/w  鼠患/n  严重/ad  ，/w  黑/a  死/v  病毒/n  大面积/d  传播/v  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">后果</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">愿</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">鼠患</Keywords>
+            <degree_adv start="-1" position="25" modifier_word_position="23" modifier_word_length="2" end="-1">严重</degree_adv>
+            <noword start="-1" position="17" modifier_word_position="18" modifier_word_length="1" end="-1">不</noword>
+            <E_phrase start="28" position="28" end="31" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">黑</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>人与动物</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="人与动物的不和谐当事人一般都不会知道，即便有了后果可能仍茫然不知。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>人/n  与/c  动物/n  的/u  不/d  和谐/a  当事人/n  一般/a  都/d  不会/v  知道/v  ，/w  即便/c  有/v  了/u  后果/n  可能/v  仍/d  茫然/a  不知/v  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">和谐</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">后果</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">茫然</Keywords>
+            <noword start="-1" position="5" modifier_word_position="6" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="14" modifier_word_position="16" modifier_word_length="2" end="-1">不会</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="人类认为自己是万物之灵长，不肯向其它种类示弱，一副霸主般的讨厌嘴脸。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 人类/n  认为/v  自己/r  是/v  万物之灵/n  长/a  ，/w  不肯/v  向/p  其它/r  种类/n  示弱/v  ，/w  一/m  副/q  霸主/n  般的/u  讨厌/n  嘴脸/v  。</Segmented_S>
+            <S_Length>34</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">示弱</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">霸主</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">讨厌</Keywords>
+            <noword start="-1" position="13" modifier_word_position="20" modifier_word_length="2" end="-1">不肯</noword>
+            <E_phrase start="7" position="7" end="11" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">万物之灵</E_phrase>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>悲剧</Topic>
+        <Summarize_Sentences>4</Summarize_Sentences>
+        <sentence S="我记得小学生时代，常常在大院中与一群孩子将野猫逼上高高的杨树，听着猫在树梢中苦苦哀鸣。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>我/r  记得/v  小学生/n  时代/n  ，/w  常常/d  在/p  大院/n  中/f  与/p  一群/n  孩子/n  将/d  野猫/v  逼/v  上/f  高高的/z  杨树/n  ，/w  听/v  着/u  猫/n  在/p  树梢/n  中/f  苦苦/d  哀鸣/v  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">逼</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0.5" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">苦苦</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">哀鸣</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们用竹杆，用弹弓在一个弱小的生灵上涂炭，嘴中却高唱着欢乐的挽歌。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 我们/r  用/p  竹杆/n  ，/w  用/p  弹弓/n  在/p  一个/m  弱小/a  的/u  生灵/n  上/f  涂/v  炭/n  ，/w  嘴/n  中/f  却/d  高唱/v  着/u  欢乐/a  的/u  挽歌/n  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0.5" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">弱小</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高唱</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">欢乐</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0.3" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">挽歌</Keywords>
+            <E_phrase start="18" position="18" end="19" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">涂</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们不懂，以未成年之身心效仿大人。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 我们/r  不/d  懂/v  ，/w  以/p  未/d  成年/v  之/u  身心/n  效仿/v  大人/n  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">效仿</Keywords>
+            <noword start="-1" position="2" modifier_word_position="3" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那个悲剧，对于我们，对于猫们，都是一场不亚于中世纪的悲剧。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 那个/r  悲剧/n  ，/w  对于/p  我们/r  ，/w  对于/p  猫/n  们/k  ，/w  都/d  是/v  一/m  场/q  不亚于中世纪/n  的/u  悲剧/n  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悲剧</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悲剧</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我读猫书，深深为自己幼年的无知自责；人类为了自己的利益，将野猫驯化为家猫，以捕鼠为其责，后来又视其中乖巧者为宠物，以博自己欢心。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>我/r  读/v  猫/n  书/n  ，/w  深深/d  为/p  自己/r  幼年/t  的/u  无知/a  自责/n  ；/w  人类/n  为了/p  自己/r  的/u  利益/n  ，/w  将/d  野猫/v  驯化/n  为/v  家/n  猫/n  ，/w  以/p  捕/v  鼠/Ng  为/v  其责/n  ，/w  后来/t  又/d  视/Vg  其中/r  乖巧/n  者/k  为/v  宠物/n  ，/w  以/p  博/j  自己/r  欢心/v  。</Segmented_S>
+            <S_Length>64</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">无知</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">自责</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">乖巧</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">宠物</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">欢心</Keywords>
+            <degree_adv start="-1" position="5" modifier_word_position="15" modifier_word_length="2" end="-1">深深</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="家猫的历史与人类的文明史近同，不过区区五千年，可我们真的文明吗？">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 家/n  猫/n  的/u  历史/n  与/c  人类/n  的/u  文明史/n  近/v  同/m  ，/w  不过/c  区区/n  五千/m  年/q  ，/w  可/v  我们/r  真的/d  文明/a  吗/y  ？</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0.3" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">吗</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">？！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

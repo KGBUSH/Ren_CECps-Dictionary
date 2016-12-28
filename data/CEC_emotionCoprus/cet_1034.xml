@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.8</Hate>
+    <Love>0.6</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.5</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.7</Expect>
+    <Topic>手机</Topic>
+    <title T="智能手机">
+        <Segmented_S>智能/n  手机/n</Segmented_S>
+        <S_Length>4</S_Length>
+        <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">智能</Keywords>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.4</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我的手机除夕那天涌进上千条信息，不堪重负，彻底死了机。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>我/r  的/u  手机/n  除夕/n  那天/r  涌进/n  上千/m  条/q  信息/n  ，/w  不堪重负/l  ，/w  彻底/ad  死/v  了/u  机/n  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0.6" POS="l" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不堪重负</Keywords>
+            <degree_adv start="-1" position="21" modifier_word_position="23" modifier_word_length="3" end="-1">彻底</degree_adv>
+            <E_phrase start="23" position="23" end="25" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">死</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="节日这几天也修不了，只好寻出旧手机凑合着用。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 节日/n  这几/n  天/n  也/d  修/v  不/d  了/v  ，/w  只好/d  寻/v  出/v  旧/a  手机/n  凑合/v  着/u  用/p  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0.5" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">只好</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">凑合</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="旧手机也有毛病，一会儿一关机，我就象照顾病人一样，一会儿一看，其实心中有点儿烦。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 旧/a  手机/n  也/d  有/v  毛病/n  ，/w  一会儿/m  一/m  关机/n  ，/w  我/r  就/d  象/v  照/Ng  顾/v  病人/n  一样/a  ，/w  一会儿/m  一看/n  ，/w  其/r  实心/n  中/f  有/v  点儿/n  烦/v  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">毛病</Keywords>
+            <Keywords start="18" position="18" end="19" Surprise="0" Sorrow="0" POS="Ng" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">照</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">烦</Keywords>
+            <degree_adv start="35" position="35" modifier_word_position="38" modifier_word_length="1" end="37">有</degree_adv>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>手机</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="过节后马上买了一个新款手机，智能型的。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>过/v  节后/n  马上/d  买/v  了/u  一个/m  新款/b  手机/n  ，/w  智能型/v  的/u  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">新款</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">智能型</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="朋友告诉我，储存电话和短信永不会满。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 朋友/n  告诉我/v  ，/w  储存/v  电话/n  和/c  短信/n  永/d  不会/v  满/a  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我过去的两款电话，据说也有很高的科技含量，但只能存１０００组电话，加之电话ＳＩＭ卡中还能存２５０个电话，当满额之后，我新储存一个就得删除一个，麻烦得很，也没办法。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 我/r  过去/t  的/u  两/m  款/q  电话/n  ，/w  据说/v  也/d  有/v  很/d  高/a  的/u  科技/n  含量/n  ，/w  但/c  只/d  能/v  存/v  １０００/n  组/n  电话/n  ，/w  加之/c  电话/n  ＳＩＭ/n  卡/v  中/f  还/d  能/v  存/v  ２５０/n  个/q  电话/n  ，/w  当/p  满额/n  之/u  后/f  ，/w  我/r  新/a  储存/vn  一个/m  就/d  得/v  删除/v  一个/m  ，/w  麻烦/a  得/u  很/d  ，/w  也/d  没/d  办法/n  。</Segmented_S>
+            <S_Length>81</S_Length>
+            <Keywords start="-1" position="71" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">麻烦</Keywords>
+            <degree_adv start="-1" position="13" modifier_word_position="14" modifier_word_length="1" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="74" modifier_word_position="71" modifier_word_length="2" end="-1">很</degree_adv>
+            <noword start="-1" position="77" modifier_word_position="78" modifier_word_length="2" end="-1">没</noword>
+            <E_conjunction start="-1" position="21" next_position="21" modifier_word_position="22" modifier_word_length="10" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>功能</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="新的智能手机很不好使，设置过多过繁，使用极不方便。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>新/a  的/u  智能/n  手机/n  很/d  不/d  好使/a  ，/w  设置/v  过多/d  过/d  繁/Ag  ，/w  使用/v  极/d  不/d  方便/a  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好使</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">过多</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">方便</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="7" modifier_word_length="3" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="20" modifier_word_position="21" modifier_word_length="3" end="-1">极</degree_adv>
+            <noword start="-1" position="7" modifier_word_position="8" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="21" modifier_word_position="22" modifier_word_length="2" end="-1">不</noword>
+            <E_phrase start="15" position="15" end="16" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">过</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="对于我这等年纪的“科残”，只指望手机简单实用，那些个花活没用，全是资源浪费。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 对于/p  我/r  这等/v  年纪/n  的/u  “/w  科/n  残/a  ”/w  ，/w  只/d  指望/v  手机/n  简单/a  实用/a  ，/w  那些/r  个/q  花/n  活/v  没用/v  ，/w  全/a  是/v  资源/n  浪费/v  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">指望</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">实用</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">没用</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">浪费</Keywords>
+            <E_phrase start="9" position="9" end="10" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">科</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="可设计手机的科学家不这样认为，认为功能越多越好，有点儿象暴发户请客，点了一桌子菜，基本上没动筷子就又端了下去，造成了浪费。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 可/c  设计/v  手机/n  的/u  科学家/n  不/d  这样/r  认为/v  ，/w  认为/v  功能/n  越多/n  越好/v  ，/w  有点儿/v  象/n  暴发户/Ng  请客/v  ，/w  点/v  了/u  一/m  桌子/n  菜/n  ，/w  基本上/d  没/d  动/v  筷子/n  就/d  又/d  端/v  了/u  下去/v  ，/w  造成/v  了/u  浪费/v  。</Segmented_S>
+            <S_Length>61</S_Length>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="Ng" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">暴发户</Keywords>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">浪费</Keywords>
+            <noword start="-1" position="9" modifier_word_position="10" modifier_word_length="4" end="-1">不</noword>
+            <noword start="-1" position="44" modifier_word_position="45" modifier_word_length="3" end="-1">没</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="12" end="-1">可</E_conjunction>
+            <E_phrase start="19" position="19" end="22" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">越多</E_phrase>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>手机</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="手机普及以来，渐渐演变成现代人的亚器官，变成了嘴巴耳朵大脑的延伸，一副要替人类肩负重任的样子。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>手机/n  普及/v  以来/f  ，/w  渐渐/d  演变成/v  现代人/n  的/u  亚/j  器官/n  ，/w  变成/v  了/u  嘴巴/n  耳朵/n  大脑/n  的/u  延伸/vn  ，/w  一/m  副/q  要/v  替/p  人类/n  肩负/v  重任/n  的/u  样子/n  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="商业上的追求，让手机变得肆无忌惮，不分对象地让每一部相同型号的手机都一堆功能，如同让孩子们都去学音乐、绘画、书法、游泳等等，生怕成不了全才。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 商业/n  上/f  的/u  追求/vn  ，/w  让/v  手机/n  变/v  得/u  肆无忌惮/i  ，/w  不/d  分/v  对象/n  地/u  让/v  每/r  一/m  部/q  相同/a  型号/n  的/u  手机/n  都/d  一堆/v  功能/n  ，/w  如同/v  让/v  孩子/n  们/k  都/d  去/v  学/v  音乐/n  、/w  绘画/n  、/w  书法/n  、/w  游泳/vn  等等/u  ，/w  生怕/v  成/v  不/d  了/v  全才/n  。</Segmented_S>
+            <S_Length>70</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.2" Anxiety="0" Anger="0">追求</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">肆无忌惮</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">生怕</Keywords>
+            <Keywords start="-1" position="67" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">全才</Keywords>
+            <noword start="64" position="64" modifier_word_position="67" modifier_word_length="2" end="66">成</noword>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="其实历史上没有人是全才，一个人一生能掌握一两门生存技巧就可以了，不必全面。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 其实/d  历史/n  上/f  没有人/v  是/v  全才/n  ，/w  一个人/v  一生/n  能/v  掌握/v  一两/m  门/q  生存/v  技巧/n  就/d  可以/v  了/u  ，/w  不必/d  全面/ad  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="手机也应是这样，我期望厂家能开拓一下个性化的手机。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>手机/n  也/d  应/v  是/v  这样/r  ，/w  我/r  期望/v  厂家/n  能/v  开拓/v  一下/m  个性化/v  的/u  手机/n  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">期望</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">开拓</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">个性化</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="比如我，在内存足够大的情况下，只需要打电话、发短信两个功能，最多再加一个备忘录。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 比如/v  我/r  ，/w  在/p  内存/n  足够/v  大/a  的/u  情况/n  下/f  ，/w  只需要/v  打电话/n  、/w  发/v  短信/n  两/m  个/q  功能/n  ，/w  最/d  多/a  再加/n  一个/m  备忘录/n  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="谁发明了这样简单实用的手机，我愿意出高价购买。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 谁/r  发明/v  了/u  这样/r  简单/a  实用/a  的/u  手机/n  ，/w  我愿意/v  出/v  高价/n  购买/v  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">简单</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">实用</Keywords>
+            <E_phrase start="15" position="14" end="16" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">我愿意</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+</document>

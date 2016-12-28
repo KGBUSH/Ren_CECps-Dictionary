@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <title T="西雅图博物馆">
+        <Segmented_S>西雅图/ns  博物馆/n</Segmented_S>
+        <S_Length>6</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>博物馆</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="美国西雅图市最有名的企业是波音飞机公司，我去西雅图却不是参观它，而是参观西雅图博物馆。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>美国/ns  西雅图市/n  最/d  有名/a  的/u  企业/n  是/v  波音/nz  飞机/n  公司/n  ，/w  我去/v  西雅图/n  却/d  不/d  是/v  参观/v  它/r  ，/w  而是/c  参观/v  西雅图/ns  博物馆/n  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">有名</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">参观</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">参观</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="0" modifier_word_length="1" end="-1">最</degree_adv>
+            <E_conjunction start="26" position="26" next_position="32" modifier_word_position="28" modifier_word_length="3" end="27">不</E_conjunction>
+            <E_conjunction start="-1" position="32" next_position="26" modifier_word_position="34" modifier_word_length="8" end="-1">而是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="馆长倪密女士满头金发，举止优雅，能够讲一口熟练的中文，她对我说，好久不讲中文了，没机会讲。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 馆长/n  倪/nr  密/nr  女士/n  满头/n  金发/n  ，/w  举止/n  优雅/a  ，/w  能够/v  讲/v  一/m  口/q  熟练/a  的/u  中文/nz  ，/w  她/r  对/p  我/r  说/v  ，/w  好久/m  不/d  讲/v  中文/nz  了/y  ，/w  没/d  机会/n  讲/v  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">优雅</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">熟练</Keywords>
+            <noword start="-1" position="34" modifier_word_position="35" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="40" modifier_word_position="41" modifier_word_length="2" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="可见来此地的中国人不多。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 可/c  见/v  来/v  此地/r  的/u  中国/ns  人/n  不/d  多/a  。</Segmented_S>
+            <S_Length>12</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>午餐</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="倪密馆长请我用午餐，她挑选的餐厅北窗可以看见湛蓝的大海，海上有行驶的航船，一副如诗如画的景象。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>倪/nr  密/nr  馆长/n  请/v  我用/n  午餐/v  ，/w  她/r  挑选/v  的/u  餐厅/n  北/f  窗/Ng  可以/v  看见/v  湛蓝/n  的/u  大海/n  ，/w  海上/s  有/v  行驶/vn  的/u  航船/n  ，/w  一/m  副/q  如/v  诗/n  如/v  画/n  的/u  景象/n  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">湛蓝</Keywords>
+            <E_phrase start="39" position="39" end="42" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">如</E_phrase>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们边吃边谈，热情的倪密馆长向我介绍着西雅图博物馆。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 我们/r  边/d  吃/v  边/d  谈/v  ，/w  热情/ad  的/u  倪/nr  密/nr  馆长/n  向我/v  介绍/v  着/u  西雅图/n  博物馆/n  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">热情</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>奠基人</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="西雅图博物馆的奠基人是一位收藏家，他把毕生收藏的艺术品毫无保留地奉献出来，构成了西雅图博物馆的基础，这是一百年前的事情了，每件展品的展签上都标明了藏品的来源，以示对捐赠者的尊重。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>西雅图/ns  博物馆/n  的/u  奠基人/n  是/v  一/m  位/q  收藏家/n  ，/w  他/r  把/p  毕生/b  收藏/vn  的/u  艺术品/n  毫无/v  保留/v  地/u  奉献/v  出来/v  ，/w  构成/v  了/u  西雅图/ns  博物馆/n  的/u  基础/n  ，/w  这/r  是/v  一百/m  年/q  前/f  的/u  事情/n  了/y  ，/w  每/r  件/q  展品/n  的/u  展/Vg  签/v  上/v  都/d  标明/v  了/u  藏品/n  的/u  来源/n  ，/w  以示/v  对/p  捐赠者/n  的/u  尊重/vn  。</Segmented_S>
+            <S_Length>89</S_Length>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">奉献</Keywords>
+            <Keywords start="-1" position="86" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">尊重</Keywords>
+            <noword start="-1" position="27" modifier_word_position="29" modifier_word_length="2" end="-1">毫无</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一个人的无私成就如此事业，算是功德圆满，我在内心里向这位我都念不清名字的前辈致敬，先驱的精神财富一定会超过物质财富。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 一个/m  人/n  的/u  无私/d  成就/v  如/v  此/r  事业/n  ，/w  算是/v  功德圆满/v  ，/w  我/r  在/p  内心里/n  向/p  这位/r  我/r  都/d  念/v  不/d  清/a  名字/n  的/u  前辈/n  致敬/v  ，/w  先驱/n  的/u  精神/n  财富/n  一定/d  会/v  超过/v  物质财富/m  。</Segmented_S>
+            <S_Length>58</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">无私</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">成就</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">功德圆满</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">致敬</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">先驱</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">财富</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="m" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">物质财富</Keywords>
+            <noword start="30" position="30" modifier_word_position="33" modifier_word_length="2" end="32">念</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="28" end="-1">我</Opinion_holder>
+            <Opinion_target start="-1" position="36" end="-1">前辈</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>崇高</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我们常常希望自己崇高，希望崇高不费气力。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>我们/r  常常/d  希望/v  自己/r  崇高/a  ，/w  希望/v  崇高/a  不/d  费/v  气力/n  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">希望</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">崇高</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">希望</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">崇高</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="4" modifier_word_length="2" end="-1">常常</degree_adv>
+            <noword start="-1" position="15" modifier_word_position="16" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="在如此精美众多的艺术品面前，我们才知崇高的不易。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 在/p  如此/r  精美/a  众多/m  的/u  艺术品/n  面前/f  ，/w  我们/r  才/d  知/v  崇高/a  的/u  不易/a  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">精美</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">艺术品</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">崇高</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">不易</Keywords>
+            <degree_adv start="-1" position="1" modifier_word_position="3" modifier_word_length="2" end="-1">如此</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="捐出毕生的收藏，让历史教化后世，让人类知道进步，西雅图博物馆的奠基人的拳拳之心，此时我已能感到跳动。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 捐/v  出/v  毕生/b  的/u  收藏/vn  ，/w  让/v  历史/n  教化/v  后世/n  ，/w  让/v  人类/n  知道/v  进步/v  ，/w  西雅图/ns  博物馆/n  的/u  奠基人/n  的/u  拳拳之心/n  ，/w  此时/r  我/r  已/d  能/v  感到/v  跳动/v  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">收藏</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">进步</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">拳拳之心</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>陶瓷</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="西雅图博物馆中有许多中国古代工艺品，陶瓷、家具都在向来者展现一种先进优雅的文明，倪密馆长向我诉说了她的童话般的构想，并送我一册她写的《世界陶瓷历史》，看着书中那些美不胜收且十分亲切的中国陶瓷，我作为中国陶瓷文化的传播者，由衷地感叹中国陶瓷的魅力。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>西雅图/ns  博物馆/n  中/f  有/v  许多/m  中国/ns  古代/t  工艺品/n  ，/w  陶瓷/n  、/w  家具/n  都/d  在/d  向/p  来者/n  展现/v  一/m  种/q  先进/a  优雅/a  的/u  文明/a  ，/w  倪/nr  密/nr  馆长/n  向/p  我/r  诉说/v  了/u  她/r  的/u  童话/n  般的/u  构想/vn  ，/w  并/c  送/v  我/r  一/m  册/q  她/r  写的/v  《/w  世界/n  陶瓷/n  历史/n  》/w  ，/w  看着/v  书/n  中/f  那些/r  美不胜收/i  且/c  十分/d  亲切/a  的/u  中国/ns  陶瓷/n  ，/w  我/r  作为/v  中国/ns  陶瓷/n  文化/n  的/u  传播者/n  ，/w  由衷/d  地/u  感叹/v  中国/ns  陶瓷/n  的/u  魅力/n  。</Segmented_S>
+            <S_Length>123</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">工艺品</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">先进</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">优雅</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">童话</Keywords>
+            <Keywords start="-1" position="81" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美不胜收</Keywords>
+            <Keywords start="-1" position="88" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">亲切</Keywords>
+            <Keywords start="-1" position="110" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">由衷</Keywords>
+            <Keywords start="-1" position="113" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感叹</Keywords>
+            <Keywords start="-1" position="120" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">魅力</Keywords>
+            <degree_adv start="-1" position="86" modifier_word_position="88" modifier_word_length="2" end="-1">十分</degree_adv>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我还应该告诉读者的是，讲一口熟练中文的倪密女士是世界首富比尔&#183;盖茨的母亲，全名倪密&#183;盖茨。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>我还/n  应该/v  告诉/v  读者/n  的/u  是/v  ，/w  讲/v  一/m  口/q  熟练/a  中文/nz  的/u  倪/nr  密/nr  女士/n  是/v  世界/n  首富/n  比尔&#183;盖茨/nr  的/u  母亲/n  ，/w  全名/v  倪密&#183;盖茨/n  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">熟练</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">首富</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

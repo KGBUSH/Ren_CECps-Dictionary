@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.6</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.8</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.5</Expect>
+    <Topic>忽悠 违规 知名品牌</Topic>
+    <title T="知名品牌，请别再忽悠消费者了">
+        <Segmented_S>知名/a  品牌/n  ，/w  请/v  别/d  再/d  忽悠/v  消费/vn  者了/n</Segmented_S>
+        <S_Length>14</S_Length>
+        <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">忽悠</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.5</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>违规宣传 瓶装饮用水 </Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="《每日经济新闻》近日报道：有上海消费者向媒体举报某知名品牌瓶装饮用水标签上“水中含钾、镁等游离态矿物质元素”的说法违背化学常识，其标签上“镁离子”和“钾离子”写法也不规范。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>《/w  每日/r  经济/n  新闻/n  》/w  近日/t  报道/v  ：/w  有/v  上海/ns  消费者/n  向/p  媒体/n  举报/v  某/r  知名/a  品牌/n  瓶装/n  饮用水/n  标签/n  上/f  “/w  水中/s  含/v  钾/n  、/w  镁/n  等/u  游离态/n  矿物质/v  元素/n  ”/w  的/u  说法/n  违背/v  化学/n  常识/n  ，/w  其/r  标签/n  上/f  “/w  镁/n  离子/n  ”/w  和/c  “/w  钾/n  离子/n  ”/w  写法/n  也不/v  规范/n  。</Segmented_S>
+            <S_Length>86</S_Length>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">违背</Keywords>
+            <Keywords start="-1" position="83" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">规范</Keywords>
+            <noword start="82" position="81" modifier_word_position="83" modifier_word_length="2" end="82">也不</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.3</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="此事被披露后，虽然该品牌消费者服务部门对“游离态”做出解释称：标签上的游离态指的就是离子，因为怕写成离子消费者看不懂。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 此事/r  被/p  披露/v  后/f  ，/w  虽然/c  该/r  品牌/n  消费者/n  服务/v  部门/n  对/p  “/w  游离态/n  ”/w  做出/v  解释/v  称/v  ：/w  标签/n  上/f  的/u  游离态/n  指/v  的/u  就/d  是/v  离子/n  ，/w  因为/c  怕/v  写成/v  离子/n  消费者/n  看/v  不/d  懂/v  。</Segmented_S>
+            <S_Length>59</S_Length>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">怕</Keywords>
+            <E_conjunction start="-1" position="7" next_position="7" modifier_word_position="9" modifier_word_length="49" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="45" next_position="45" modifier_word_position="47" modifier_word_length="11" end="-1">因为</E_conjunction>
+            <E_phrase start="55" position="55" end="57" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">看</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="但已有不少专业人士指出“水中有游离态钾属无稽之谈”，更有法律界知名律师认为：该品牌涉嫌违规宣传，如果情节严重可能会被禁止销售。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 但/c  已有/v  不少/m  专业/n  人士/n  指出/v  “/w  水中/s  有/v  游离态/n  钾/v  属/n  无稽/v  之/u  谈/Ng  ”/w  ，/w  更/d  有/v  法律界/n  知名/a  律师/n  认为/v  ：/w  该/r  品牌/n  涉嫌/v  违规/v  宣传/v  ，/w  如果/c  情节/n  严重/a  可能/n  会/v  被/p  禁止/v  销售/v  。</Segmented_S>
+            <S_Length>63</S_Length>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">涉嫌</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">违规</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="61" end="-1">但</E_conjunction>
+            <E_conjunction start="-1" position="48" next_position="48" modifier_word_position="50" modifier_word_length="4" end="-1">如果</E_conjunction>
+            <E_phrase start="20" position="20" end="23" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">无稽</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>吓一跳 瓶装饮用水 </Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="真是不看不知道，一看吓一跳。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>真是/v  不/d  看/v  不/d  知道/v  ，/w  一/m  看/v  吓一跳/n  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">吓一跳</Keywords>
+            <noword start="-1" position="2" modifier_word_position="3" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="4" modifier_word_position="5" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="虽然自己家里也常喝该品牌的瓶装饮用水，但因为出于对知名品牌及其提出的“健康饮水新概念”的完全信任，确实从未仔细研究过标签上的说明。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 虽然/c  自己/r  家里/s  也/d  常/d  喝/v  该/r  品牌/n  的/u  瓶装/b  饮用水/n  ，/w  但/c  因为/c  出于/v  对/p  知名/a  品牌/n  及其/c  提/v  出/v  的/u  “/w  健康/an  饮水/n  新/a  概念/n  ”/w  的/u  完全/a  信任/vn  ，/w  确实/ad  从未/d  仔细/ad  研究/v  过/u  标签/n  上/f  的/u  说明/vn  。</Segmented_S>
+            <S_Length>65</S_Length>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="an" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">健康</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">信任</Keywords>
+            <degree_adv start="-1" position="44" modifier_word_position="46" modifier_word_length="2" end="-1">完全</degree_adv>
+            <noword start="-1" position="51" modifier_word_position="53" modifier_word_length="4" end="-1">从未</noword>
+            <E_conjunction start="-1" position="0" next_position="19" modifier_word_position="2" modifier_word_length="16" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="19" next_position="0" modifier_word_position="20" modifier_word_length="44" end="-1">但</E_conjunction>
+            <E_conjunction start="-1" position="20" next_position="20" modifier_word_position="22" modifier_word_length="26" end="-1">因为</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="看过报道才知道：如果照标签的意思理解，人为地向水中加入游离态的钾，不但不会像标签所说的那样“补充人体所需，让身体保持健康活力”，严重的情况下还会发生燃烧，化学反应生成的碱也对人体有害。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 看/v  过/u  报道/v  才/d  知道/v  ：/w  如果/c  照/p  标签/n  的/u  意思/n  理解/v  ，/w  人为/d  地/u  向/p  水中/s  加入/v  游离态/n  的/u  钾/n  ，/w  不但/c  不会/v  像/p  标签/n  所/u  说/v  的/u  那样/r  “/w  补充/v  人体/n  所/u  需/v  ，/w  让/v  身体/n  保持/v  健康/an  活力/n  ”/w  ，/w  严重/ad  的/u  情况/n  下/f  还/d  会/v  发生/v  燃烧/vn  ，/w  化学反应/l  生成/v  的/u  碱/n  也对/n  人体/n  有害/a  。</Segmented_S>
+            <S_Length>92</S_Length>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0" POS="an" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">健康</Keywords>
+            <Keywords start="-1" position="64" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">严重</Keywords>
+            <Keywords start="-1" position="89" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">有害</Keywords>
+            <noword start="-1" position="35" modifier_word_position="43" modifier_word_length="2" end="-1">不会</noword>
+            <E_conjunction start="-1" position="8" next_position="8" modifier_word_position="10" modifier_word_length="8" end="-1">如果</E_conjunction>
+            <E_conjunction start="-1" position="33" next_position="33" modifier_word_position="35" modifier_word_length="27" end="-1">不但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>信任 贴标问题 不规范</Topic>
+        <Summarize_Sentences>4</Summarize_Sentences>
+        <sentence S="虽然从整个报道来看，该品牌的贴标问题更可能是由于标签设计者的专业素养不够，标签也没有经过专业人员检验，以致出现在表述中乱用化学概念及表述不规范的问题。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>虽然/c  从/p  整个/b  报道/n  来看/v  ，/w  该/r  品牌/n  的/u  贴/v  标/v  问题/n  更/d  可能/v  是/v  由于/p  标签/n  设计者/n  的/u  专业/n  素养/n  不够/a  ，/w  标签/n  也/d  没有/d  经过/v  专业/n  人员/n  检验/v  ，/w  以致/c  出现/v  在/p  表述/v  中/f  乱/d  用/v  化学/n  概念/n  及/c  表述/v  不/d  规范/a  的/u  问题/n  。</Segmented_S>
+            <S_Length>75</S_Length>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">不够</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0" Sorrow="0" POS="c" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">以致</Keywords>
+            <noword start="-1" position="40" modifier_word_position="42" modifier_word_length="2" end="-1">没有</noword>
+            <noword start="-1" position="68" modifier_word_position="69" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="7" end="-1">虽然</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="但是，标签设计不规范不严谨不能准确形容产品表述产品性能，虽然不一定会直接影响到产品质量的优劣，却会在很大程度上误导消费者对产品的认知，并且必将直接影响到品牌自身的形象。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 但是/c  ，/w  标签/n  设计/v  不/d  规范/a  不/d  严谨/a  不/d  能/v  准确/a  形容/vn  产品/n  表述/v  产品/n  性能/n  ，/w  虽然/c  不/d  一定/d  会/v  直接/ad  影响/v  到/v  产品/n  质量/n  的/u  优劣/n  ，/w  却/d  会/v  在/p  很/d  大/a  程度/n  上/f  误导/v  消费者/n  对/p  产品/n  的/u  认知/vn  ，/w  并且/c  必将/d  直接/ad  影响/v  到/v  品牌/n  自身/r  的/u  形象/n  。</Segmented_S>
+            <S_Length>84</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">准确</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">影响</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">优劣</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">误导</Keywords>
+            <degree_adv start="-1" position="31" modifier_word_position="34" modifier_word_length="2" end="-1">一定</degree_adv>
+            <degree_adv start="-1" position="50" modifier_word_position="51" modifier_word_length="1" end="-1">很</degree_adv>
+            <noword start="-1" position="7" modifier_word_position="8" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="10" modifier_word_position="11" modifier_word_length="2" end="-1">不</noword>
+            <noword start="13" position="13" modifier_word_position="15" modifier_word_length="2" end="14">不</noword>
+            <noword start="-1" position="30" modifier_word_position="31" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="24" end="-1">但是</E_conjunction>
+            <E_conjunction start="-1" position="28" next_position="47" modifier_word_position="30" modifier_word_length="16" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="47" next_position="28" modifier_word_position="48" modifier_word_length="35" end="-1">却</E_conjunction>
+            <E_conjunction start="-1" position="67" next_position="67" modifier_word_position="69" modifier_word_length="14" end="-1">并且</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="不难想象，一个连标签设计都不能具备准确规范的专业品质，甚至有可能通过标签来故意夸大宣传产品功效忽悠消费者的品牌，能凭什么让消费者确信其产品会出自一个严格把关、为消费者负责的质量体系呢？">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 不难/d  想象/v  ，/w  一个/m  连/u  标签/n  设计/v  都/d  不/d  能/v  具备/v  准确/a  规范/a  的/u  专业/n  品质/n  ，/w  甚至/d  有/v  可能/n  通过/p  标签/n  来/v  故意/d  夸大/v  宣传/v  产品/n  功效/n  忽悠/n  消费者/n  的/u  品牌/n  ，/w  能/v  凭/p  什么/r  让/v  消费者/n  确信/v  其/r  产品/n  会/v  出自/v  一个/m  严格/a  把关/v  、/w  为/p  消费者/n  负责/v  的/u  质量/n  体系/n  呢/y  ？</Segmented_S>
+            <S_Length>92</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">不难</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">准确</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">故意</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">夸大</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">忽悠</Keywords>
+            <Keywords start="-1" position="90" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">呢</Keywords>
+            <noword start="13" position="13" modifier_word_position="15" modifier_word_length="2" end="14">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="而一个没有足够诚意获得消费者信任的品牌，能在市场上站立多久呢？">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 而/c  一个/m  没有/v  足够/v  诚意/n  获得/v  消费者/n  信任/v  的/u  品牌/n  ，/w  能/v  在/p  市场/n  上/f  站立/v  多久/r  呢/y  ？</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">足够</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">诚意</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">信任</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">呢</Keywords>
+            <noword start="-1" position="3" modifier_word_position="5" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="29" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.4</Expect>
+        <Topic>忽悠 相似问题 </Topic>
+        <Summarize_Sentences>7</Summarize_Sentences>
+        <sentence S="其实在目前市场上，与该知名品牌有着相似问题的产品并不少见。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>其/r  实在/d  目前/t  市场/n  上/f  ，/w  与/p  该/r  知名/a  品牌/n  有/v  着/u  相似/a  问题/n  的/u  产品/n  并不/d  少见/a  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">问题</Keywords>
+            <noword start="25" position="24" modifier_word_position="26" modifier_word_length="2" end="25">并不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这种有意或者无意地使产品标识与产品成分不一致的行为，正在严重侵害广大消费者的权益。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 这种/r  有意/n  或者/c  无意/v  地/u  使/v  产品/n  标识/n  与/p  产品/n  成分/n  不/d  一致/a  的/u  行为/n  ，/w  正/d  在/p  严重/a  侵害/vn  广大/b  消费者/n  的/u  权益/n  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">严重</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">侵害</Keywords>
+            <noword start="-1" position="19" modifier_word_position="20" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="但这种对消费者不负责任的行为，最终受害的仍将是品牌自身。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 但/c  这种/r  对/p  消费者/n  不负责任/v  的/u  行为/n  ，/w  最终/d  受害/v  的/u  仍/d  将/d  是/v  品牌/n  自身/r  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">不负责任</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">受害</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="26" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="正如一位消费者所说：标签的问题，反映出公司的不严谨。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 正如/p  一/m  位/q  消费/vn  者/k  所/u  说/v  ：/w  标签/n  的/u  问题/n  ，/w  反映/v  出/v  公司/n  的/u  不/d  严谨/a  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.2" Anger="0">问题</Keywords>
+            <noword start="-1" position="22" modifier_word_position="23" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="因为对该产品其他环节也不能放心，所以，以后也不会再购买其产品。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 因为/c  对/p  该/r  产品/n  其他/r  环节/n  也/d  不/d  能/v  放心/v  ，/w  所以/c  ，/w  以后/f  也/d  不会/v  再/d  购买/v  其/r  产品/n  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">放心</Keywords>
+            <noword start="11" position="11" modifier_word_position="13" modifier_word_length="2" end="12">不</noword>
+            <noword start="-1" position="22" modifier_word_position="24" modifier_word_length="3" end="-1">不会</noword>
+            <E_conjunction start="-1" position="0" next_position="16" modifier_word_position="2" modifier_word_length="13" end="-1">因为</E_conjunction>
+            <E_conjunction start="-1" position="16" next_position="0" modifier_word_position="19" modifier_word_length="11" end="-1">所以</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="所谓“水能载舟，亦能覆舟”。">
+            <S_no>第4段第6句标注</S_no>
+            <Segmented_S> 所谓/v  “/w  水能/n  载舟/v  ，/w  亦能覆舟/v  ”/w  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">亦能覆舟</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="知名品牌，请别再忽悠消费者了。">
+            <S_no>第4段第7句标注</S_no>
+            <Segmented_S> 知名/a  品牌/n  ，/w  请/v  别/d  再/d  忽悠/v  消费者/n  了/y  。</Segmented_S>
+            <S_Length>15</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">请</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">忽悠</Keywords>
+            <noword start="-1" position="6" modifier_word_position="7" modifier_word_length="3" end="-1">别</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+    </paragraph>
+</document>

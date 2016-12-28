@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.5</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.9</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.7</Expect>
+    <Topic>爱 </Topic>
+    <title T="心情日记">
+        <Segmented_S>心情/n  日记/n</Segmented_S>
+        <S_Length>4</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.3</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>情绪低落</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="好久不写文章了，好像一直没有心情写点什么，就这么懒散着、放纵着自己的惰性。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>好久/m  不/d  写文章/v  了/u  ，/w  好像/v  一直/d  没有/d  心情/n  写/v  点/q  什么/r  ，/w  就/d  这么/r  懒散/a  着/u  、/w  放纵/v  着/u  自己/r  的/u  惰性/n  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.2" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">心情</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.3" Expect="0.0" Anxiety="0.0" Anger="0.0">懒散</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.5" Expect="0.0" Anxiety="0.0" Anger="0.0">放纵</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">惰性</Keywords>
+            <degree_adv start="-1" position="0" modifier_word_position="3" modifier_word_length="3" end="-1">好久</degree_adv>
+            <degree_adv start="-1" position="8" modifier_word_position="14" modifier_word_length="5" end="-1">好像</degree_adv>
+            <degree_adv start="-1" position="10" modifier_word_position="12" modifier_word_length="2" end="-1">一直</degree_adv>
+            <noword start="-1" position="2" modifier_word_position="3" modifier_word_length="3" end="-1">不</noword>
+            <noword start="-1" position="12" modifier_word_position="14" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="情绪一直很不稳定，绝大部分是很低落，带着点淡淡的伤感和自卑．．．．．．">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 情绪/n  一直/d  很/d  不/d  稳定/a  ，/w  绝大/d  部分/m  是/v  很/d  低落/a  ，/w  带/v  着/u  点/q  淡淡的/n  伤感/v  和/c  自卑/a  ．/w  ．/w  ．/w  ．/w  ．/w  ．/w</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.3" Joy="0.3" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">稳定</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0.0" Sorrow="0.4" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">低落</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0.0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">伤感</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0.0" Sorrow="0.4" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.3" Anger="0.0">自卑</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="4" modifier_word_length="4" end="-1">一直</degree_adv>
+            <degree_adv start="-1" position="4" modifier_word_position="5" modifier_word_length="3" end="-1">很</degree_adv>
+            <degree_adv start="9" position="9" modifier_word_position="15" modifier_word_length="2" end="12">绝大</degree_adv>
+            <degree_adv start="-1" position="14" modifier_word_position="15" modifier_word_length="2" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="21" modifier_word_position="24" modifier_word_length="5" end="-1">淡淡的</degree_adv>
+            <noword start="-1" position="5" modifier_word_position="6" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>思念</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="常常问自己，他是谁？">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>常常/d  问/v  自己/r  ，/w  他/r  是/v  谁/r  ？</Segmented_S>
+            <S_Length>10</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.2" Anxiety="0.0" Anger="0.0">问</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0.2" Sorrow="0.0" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">谁</Keywords>
+            <degree_adv start="-1" position="0" modifier_word_position="2" modifier_word_length="1" end="-1">常常</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.2</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.2</Expect>
+        </sentence>
+        <sentence S="是什么人？">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 是/v  什么/r  人/n  ？</Segmented_S>
+            <S_Length>5</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0.2" Sorrow="0.0" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.2" Anxiety="0.0" Anger="0.0">什么</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.2</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.2</Expect>
+        </sentence>
+        <sentence S="为什么要思念着牵挂着？">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 为什么/r  要/v  思念/v  着牵/n  挂/v  着/u  ？</Segmented_S>
+            <S_Length>11</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.3" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.3" Anger="0.0">为什么</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0.0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">思念</Keywords>
+            <Keywords start="7" position="6" end="8" Surprise="0.0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">着牵</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.1</Love>
+            <Sorrow>0.2</Sorrow>
+            <Anxiety>0.1</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.1</Expect>
+        </sentence>
+        <sentence S="爱人！">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 爱人/n  ！</Segmented_S>
+            <S_Length>3</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.7" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">爱人</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.2</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这是唯一适合的名称，是我爱着的人和爱着我的人。">
+            <S_no>第2段第5句标注</S_no>
+            <Segmented_S> 这/r  是/v  唯一/b  适合/v  的/u  名称/n  ，/w  是/v  我爱/n  着/u  的/u  人/n  和/c  爱/v  着/u  我/r  的/u  人/n  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.3" Joy="0.3" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">适合</Keywords>
+            <Keywords start="12" position="11" end="12" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.7" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">我爱</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.7" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">爱</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="4" modifier_word_length="2" end="-1">唯一</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="就这样，再没有合适的角色了。">
+            <S_no>第2段第6句标注</S_no>
+            <Segmented_S> 就/d  这样/r  ，/w  再没有/v  合适/a  的/u  角色/n  了/y  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.2" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">就</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.3" Joy="0.3" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">合适</Keywords>
+            <noword start="-1" position="4" modifier_word_position="10" modifier_word_length="2" end="-1">再没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.3</Love>
+            <Sorrow>0.2</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.3</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.9</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.3</Expect>
+        <Topic>爱 受伤 心痛</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="常常告诉自己看得淡一些，别太在乎他的一切，留一点爱给自己，不要太受伤了；告诉自己不过是一场游戏而已，不过是一段风花雪月而已，不过是给自己一些甜蜜而已。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>常常/d  告诉/v  自己/r  看/v  得/u  淡/a  一些/m  ，/w  别/d  太/d  在乎/a  他/r  的/u  一切/r  ，/w  留/v  一点/m  爱/v  给/v  自己/r  ，/w  不要/d  太/d  受伤/v  了/u  ；/w  告诉/v  自己/r  不过/d  是/v  一/m  场/q  游戏/n  而已/y  ，/w  不过/c  是/v  一/m  段/q  风花雪月/n  而已/y  ，/w  不过/c  是/v  给/p  自己/r  一些/m  甜蜜/a  而已/y  。</Segmented_S>
+            <S_Length>75</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">在乎</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0.0" Sorrow="0.0" POS="r" Opinionholder="0" Love="0.3" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">一切</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">爱</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0.0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">受伤</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0.0" Sorrow="0.3" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.3" Expect="0.0" Anxiety="0.0" Anger="0.0">游戏</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0.0" Sorrow="0.3" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">而已</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0.0" Sorrow="0.3" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">而已</Keywords>
+            <Keywords start="-1" position="70" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">甜蜜</Keywords>
+            <Keywords start="-1" position="72" end="-1" Surprise="0.0" Sorrow="0.3" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">而已</Keywords>
+            <degree_adv start="-1" position="0" modifier_word_position="2" modifier_word_length="2" end="-1">常常</degree_adv>
+            <degree_adv start="-1" position="9" modifier_word_position="8" modifier_word_length="1" end="-1">一些</degree_adv>
+            <degree_adv start="-1" position="13" modifier_word_position="14" modifier_word_length="2" end="-1">太</degree_adv>
+            <degree_adv start="-1" position="22" modifier_word_position="21" modifier_word_length="2" end="-1">一点</degree_adv>
+            <degree_adv start="-1" position="31" modifier_word_position="32" modifier_word_length="2" end="-1">太</degree_adv>
+            <degree_adv start="-1" position="40" modifier_word_position="45" modifier_word_length="2" end="-1">不过</degree_adv>
+            <degree_adv start="-1" position="50" modifier_word_position="55" modifier_word_length="4" end="-1">不过</degree_adv>
+            <degree_adv start="-1" position="62" modifier_word_position="70" modifier_word_length="2" end="-1">不过</degree_adv>
+            <degree_adv start="-1" position="68" modifier_word_position="70" modifier_word_length="2" end="-1">一些</degree_adv>
+            <noword start="-1" position="12" modifier_word_position="13" modifier_word_length="3" end="-1">别</noword>
+            <noword start="-1" position="29" modifier_word_position="31" modifier_word_length="3" end="-1">不要</noword>
+            <E_phrase start="6" position="6" end="8" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.2" Expect="0.0" Anxiety="0.0" Anger="0.0">看</E_phrase>
+            <E_phrase start="0" position="55" end="0" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">风花雪月</E_phrase>
+            <Rhetoric E_type="悲伤">比喻</Rhetoric>
+            <Rhetoric E_type="焦虑">排比</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="可是，为什么会心痛？">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 可是/c  ，/w  为什么/r  会心/d  痛/a  ？</Segmented_S>
+            <S_Length>10</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0.0" Sorrow="0.3" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">为什么</Keywords>
+            <Keywords start="7" position="6" end="8" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">会心</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="6" end="-1">可是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="为什么会流泪？">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 为什么/r  会/v  流泪/v  ？</Segmented_S>
+            <S_Length>7</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.3" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">为什么</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0.0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">流泪</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.2</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.9</Sorrow>
+            <Anxiety>0.1</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.1</Expect>
+        </sentence>
+        <sentence S="为什么有哀怨？">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 为什么/r  有/v  哀怨/n  ？</Segmented_S>
+            <S_Length>7</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.3" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">为什么</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0.0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.3" Expect="0.0" Anxiety="0.0" Anger="0.0">哀怨</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.3</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.9</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="为什么一直爱等待？">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> 为什么/r  一直/d  爱/v  等待/v  ？</Segmented_S>
+            <S_Length>9</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.3" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">为什么</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">爱</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.5" Anxiety="0.0" Anger="0.0">等待</Keywords>
+            <degree_adv start="-1" position="3" modifier_word_position="5" modifier_word_length="1" end="-1">一直</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.3</Expect>
+        </sentence>
+        <sentence S="永远究竟有多远？">
+            <S_no>第3段第6句标注</S_no>
+            <Segmented_S> 永远/d  究竟/d  有/v  多远/n  ？</Segmented_S>
+            <S_Length>8</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.5" Joy="0.0" Hate="0.0" Expect="0.5" Anxiety="0.0" Anger="0.0">永远</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.3" Anxiety="0.0" Anger="0.0">多远</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="4" modifier_word_length="3" end="-1">究竟</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.3</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.2</Expect>
+        </sentence>
+        <sentence S="能走多远？">
+            <S_no>第3段第7句标注</S_no>
+            <Segmented_S> 能/v  走/v  多/a  远/a  ？</Segmented_S>
+            <S_Length>5</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.3" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">能</Keywords>
+            <Keywords start="-1" position="3" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.3" Anxiety="0.0" Anger="0.0">远</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="3" modifier_word_length="1" end="-1">多</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.2</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.2</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="多久以后我将会是你生命中的匆匆过客？">
+            <S_no>第3段第8句标注</S_no>
+            <Segmented_S> 多久/r  以后/f  我将/v  会/n  是/v  你/r  生命/n  中/f  的/u  匆匆/z  过客/n  ？</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.0" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.3" Anxiety="0.0" Anger="0.0">多久</Keywords>
+            <Keywords start="4" position="4" end="4" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.3" Anxiety="0.0" Anger="0.0">我将</Keywords>
+            <E_phrase start="13" position="13" end="16" Surprise="0.0" Sorrow="0.5" POS="z" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">匆匆</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.2</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.9</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.9</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.2</Expect>
+        <Topic>真情真爱 </Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="人间自有真情真爱，不是每个人都会有幸遇到的，我以为我得到了，可是从什么时候开始就没有了这份自信了？">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>人间/n  自有/v  真情/n  真爱/n  ，/w  不/d  是/v  每个/r  人/n  都/d  会/v  有/v  幸遇/n  到/v  的/u  ，/w  我以为/v  我/r  得到/v  了/u  ，/w  可是/c  从/p  什么/r  时候/n  开始/v  就/d  没有/v  了/u  这/r  份/q  自信/vn  了/y  ？</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">真情</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">真爱</Keywords>
+            <Keywords start="16" position="16" end="17" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">有</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">得到</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0.0" Sorrow="0.0" POS="vn" Opinionholder="0" Love="0.4" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">自信</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="4" modifier_word_length="4" end="-1">自有</degree_adv>
+            <degree_adv start="11" position="11" modifier_word_position="16" modifier_word_length="4" end="13">每个</degree_adv>
+            <degree_adv start="-1" position="14" modifier_word_position="16" modifier_word_length="4" end="-1">都</degree_adv>
+            <degree_adv start="-1" position="39" modifier_word_position="40" modifier_word_length="2" end="-1">就</degree_adv>
+            <noword start="9" position="9" modifier_word_position="11" modifier_word_length="10" end="10">不</noword>
+            <noword start="-1" position="40" modifier_word_position="45" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="-1" position="30" next_position="30" modifier_word_position="32" modifier_word_length="16" end="-1">可是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="什么时候开始怀疑了？">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 什么/r  时候/n  开始/v  怀疑/v  了/u  ？</Segmented_S>
+            <S_Length>10</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.0" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.5" Anger="0.0">什么</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.3" Expect="0.0" Anxiety="0.5" Anger="0.0">怀疑</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.4</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.9</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>爱 委屈</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="爱，是一种在乎！">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>爱/v  ，/w  是/v  一/m  种/q  在乎/n  ！</Segmented_S>
+            <S_Length>8</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">爱</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">在乎</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="就这么简单！">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 就/d  这么/r  简单/a  ！</Segmented_S>
+            <S_Length>6</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">简单</Keywords>
+            <degree_adv start="-1" position="0" modifier_word_position="3" modifier_word_length="2" end="-1">就</degree_adv>
+            <degree_adv start="-1" position="1" modifier_word_position="3" modifier_word_length="2" end="-1">这么</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.2</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="舍不得心爱的女人受一点点委屈，是一个有爱的男人一生会做的事，哪怕他是个帝王将相，抑或是个凡夫俗子。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 舍不得/v  心爱/n  的/u  女人/n  受/v  一点点/m  委屈/v  ，/w  是/v  一个/m  有/v  爱/v  的/u  男人/n  一生/n  会/v  做/v  的/u  事/n  ，/w  哪怕/c  他/r  是/v  个/q  帝王将相/n  ，/w  抑或/c  是/v  个/q  凡夫俗子/n  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.7" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">心爱</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0.0" Sorrow="0.3" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">委屈</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.7" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">爱</Keywords>
+            <degree_adv start="-1" position="9" modifier_word_position="12" modifier_word_length="2" end="-1">一点点</degree_adv>
+            <noword start="-1" position="0" modifier_word_position="3" modifier_word_length="11" end="-1">舍不得</noword>
+            <E_conjunction start="-1" position="30" next_position="30" modifier_word_position="32" modifier_word_length="7" end="-1">哪怕</E_conjunction>
+            <E_conjunction start="-1" position="40" next_position="40" modifier_word_position="42" modifier_word_length="6" end="-1">抑或</E_conjunction>
+            <E_phrase start="0" position="35" end="0" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">帝王将相</E_phrase>
+            <E_phrase start="0" position="44" end="0" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.2" Expect="0.0" Anxiety="0.0" Anger="0.0">凡夫俗子</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="以此来衡量他的感情，应该不是爱！">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 以/p  此/r  来/v  衡量/v  他/r  的/u  感情/n  ，/w  应该/v  不/d  是/v  爱/v  ！</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.3" Anxiety="0.0" Anger="0.0">衡量</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">爱</Keywords>
+            <noword start="12" position="12" modifier_word_position="14" modifier_word_length="1" end="13">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.3</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那么，我爱他吗？">
+            <S_no>第5段第5句标注</S_no>
+            <Segmented_S> 那么/c  ，/w  我爱/v  他/r  吗/y  ？</Segmented_S>
+            <S_Length>8</S_Length>
+            <Keywords start="4" position="3" end="4" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">我爱</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.3" Anger="0.0">吗</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="他的每一个信息，我都珍藏，直至满了，才会很不舍地删去一部分；晚上我再忙，只要看到他的头像在闪烁，我都会感到一阵狂喜，会放下手头的一切事情和他说话；不管谁问起我老公的情况，我都是以他为是，因为内心早已把他放在了那个位置．．．．．．由此，我是爱着他的。">
+            <S_no>第5段第6句标注</S_no>
+            <Segmented_S> 他/r  的/u  每/r  一个/m  信息/n  ，/w  我/r  都/d  珍藏/v  ，/w  直至/v  满/a  了/u  ，/w  才/c  会/v  很/d  不/d  舍/v  地/u  删/v  去/v  一部分/m  ；/w  晚上/t  我再/v  忙/a  ，/w  只要/c  看到/v  他/r  的/u  头像/n  在/p  闪烁/v  ，/w  我/r  都/d  会/v  感到/v  一阵/m  狂喜/n  ，/w  会/v  放下/v  手头/n  的/u  一切/r  事情/n  和/c  他/r  说话/v  ；/w  不管/c  谁/r  问/v  起/v  我/r  老公/v  的/u  情况/n  ，/w  我/r  都/d  是/v  以/p  他/r  为/p  是/v  ，/w  因为/c  内心/n  早已/d  把/p  他/r  放/v  在/p  了/u  那个/r  位置/n  ．/w  ．/w  ．/w  ．/w  ．/w  ．/w  由此/d  ，/w  我是/v  爱/v  着/u  他/r  的/u  。</Segmented_S>
+            <S_Length>124</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.7" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">珍藏</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.2" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">直至</Keywords>
+            <Keywords start="20" position="21" end="21" Surprise="0.0" Sorrow="0.4" POS="d" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">不</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.3" Anger="0.0">忙</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">闪烁</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.8" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">狂喜</Keywords>
+            <Keywords start="-1" position="97" end="-1" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.2" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">早已</Keywords>
+            <Keywords start="-1" position="119" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">爱</Keywords>
+            <degree_adv start="2" position="2" modifier_word_position="10" modifier_word_length="2" end="4">每</degree_adv>
+            <degree_adv start="18" position="18" modifier_word_position="20" modifier_word_length="9" end="19">才</degree_adv>
+            <degree_adv start="-1" position="20" modifier_word_position="20" modifier_word_length="2" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="26" modifier_word_position="24" modifier_word_length="2" end="-1">一部分</degree_adv>
+            <degree_adv start="33" position="32" modifier_word_position="34" modifier_word_length="1" end="33">我再</degree_adv>
+            <degree_adv start="-1" position="53" modifier_word_position="55" modifier_word_length="2" end="-1">一阵</degree_adv>
+            <degree_adv start="-1" position="64" modifier_word_position="0" modifier_word_length="1" end="-1">一切</degree_adv>
+            <E_conjunction start="-1" position="9" next_position="73" modifier_word_position="87" modifier_word_length="5" end="-1">都</E_conjunction>
+            <E_conjunction start="-1" position="36" next_position="36" modifier_word_position="38" modifier_word_length="9" end="-1">只要</E_conjunction>
+            <E_conjunction start="-1" position="73" next_position="73" modifier_word_position="75" modifier_word_length="9" end="-1">不管</E_conjunction>
+            <E_conjunction start="-1" position="93" next_position="93" modifier_word_position="95" modifier_word_length="13" end="-1">因为</E_conjunction>
+            <E_conjunction start="-1" position="114" next_position="114" modifier_word_position="117" modifier_word_length="6" end="-1">由此</E_conjunction>
+            <E_phrase start="88" position="88" end="91" Surprise="0.0" Sorrow="0.0" POS="p" Opinionholder="0" Love="0.3" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">以</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">……</punctuation>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="8" end="-1">我</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="也许是我爱他多一些，他爱我少一些吧，用他的话说，他给不了我全部．．．．．．">
+            <S_no>第5段第7句标注</S_no>
+            <Segmented_S> 也许/d  是/v  我爱/n  他/r  多/d  一些/m  ，/w  他/r  爱/v  我/r  少/a  一些/m  吧/y  ，/w  用/p  他/r  的/u  话/n  说/v  ，/w  他/r  给/p  不/d  了/v  我/r  全部/m  ．/w  ．/w  ．/w  ．/w  ．/w  ．/w</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="4" position="3" end="4" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">我爱</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.2" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">多</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">爱</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0.0" Sorrow="0.2" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">少</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0.0" Sorrow="0.2" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">吧</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0.0" Sorrow="0.0" POS="m" Opinionholder="0" Love="0.3" Joy="0.0" Hate="0.0" Expect="0.3" Anxiety="0.0" Anger="0.0">全部</Keywords>
+            <degree_adv start="-1" position="0" modifier_word_position="2" modifier_word_length="15" end="-1">也许</degree_adv>
+            <degree_adv start="-1" position="7" modifier_word_position="6" modifier_word_length="1" end="-1">一些</degree_adv>
+            <degree_adv start="-1" position="14" modifier_word_position="13" modifier_word_length="1" end="-1">一些</degree_adv>
+            <noword start="25" position="25" modifier_word_position="29" modifier_word_length="2" end="27">给</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.9</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.9</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>放弃 心痛 家</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我真的好想放弃！">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>我/r  真的/d  好想/v  放弃/v  ！</Segmented_S>
+            <S_Length>8</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.6" Anxiety="0.0" Anger="0.0">好想</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0.0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.3" Expect="0.0" Anxiety="0.0" Anger="0.0">放弃</Keywords>
+            <degree_adv start="-1" position="1" modifier_word_position="3" modifier_word_length="2" end="-1">真的</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">我</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.2</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.9</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="“心痛得无法呼吸！">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> “/w  心痛/n  得/u  无法/v  呼吸/v  ！</Segmented_S>
+            <S_Length>9</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0.0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">心痛</Keywords>
+            <noword start="-1" position="4" modifier_word_position="6" modifier_word_length="2" end="-1">无法</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>1.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”我经常能体会到这种感觉！">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> ”/w  我/r  经常/d  能/v  体会/v  到/v  这种/r  感觉/n  ！</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.3" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">体会</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="4" modifier_word_length="1" end="-1">经常</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="1" end="-1">我</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.2</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.9</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="把一切都藏在心里吧，亲爱的，我想有个家．．．．．．">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> 把/p  一切/r  都/d  藏/v  在/p  心里/s  吧/y  ，/w  亲爱/b  的/u  ，/w  我想/v  有/v  个/q  家/n  ．/w  ．/w  ．/w  ．/w  ．/w  ．/w</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0.0" Sorrow="0.2" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">藏</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0.0" Sorrow="0.0" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.3" Anxiety="0.0" Anger="0.0">吧</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0.0" Sorrow="0.0" POS="b" Opinionholder="0" Love="0.7" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">亲爱</Keywords>
+            <Keywords start="15" position="14" end="15" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.5" Anxiety="0.0" Anger="0.0">我想</Keywords>
+            <degree_adv start="-1" position="1" modifier_word_position="4" modifier_word_length="1" end="-1">一切</degree_adv>
+            <degree_adv start="-1" position="3" modifier_word_position="4" modifier_word_length="1" end="-1">都</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">……</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+    </paragraph>
+</document>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.6</Hate>
+    <Love>0.5</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.4</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.6</Anger>
+    <Expect>0.8</Expect>
+    <Topic>口误 解释 平和 董卿</Topic>
+    <title T="别把董卿当回事儿">
+        <Segmented_S>别/d  把/p  董/nr  卿/nr  当/v  回/q  事儿/n</Segmented_S>
+        <S_Length>8</S_Length>
+        <noword start="-1" position="0" modifier_word_position="4" modifier_word_length="4" end="-1">别</noword>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.4</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.7</Anger>
+        <Expect>0.0</Expect>
+        <Topic>不尊重 董卿 口误</Topic>
+        <Summarize_Sentences>5</Summarize_Sentences>
+        <sentence S="要说这牛年谁第一个最牛，当属这董卿了。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>要/v  说/v  这/r  牛年/n  谁/r  第一/m  个/q  最/d  牛/n  ，/w  当/p  属/v  这/r  董/nr  卿/nr  了/u  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <degree_adv start="-1" position="9" modifier_word_position="10" modifier_word_length="1" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_target start="15" position="15" end="16">董</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="春晚的一个主持口误，全国观众没当回事儿，她自己和央视倒沉不住气了，《文化访谈录》请她做客，董卿用“感伤、感动、感悟”三个词讲述的口误发生后的心路历程，总给人感觉有些煞有介事的味道。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 春/Tg  晚/Tg  的/u  一个/m  主持/v  口误/n  ，/w  全国/n  观众/n  没/d  当/v  回事儿/n  ，/w  她/r  自己/r  和/c  央视/n  倒/v  沉/v  不/d  住/v  气/n  了/y  ，/w  《/w  文化/n  访谈录/n  》/w  请/v  她/r  做客/v  ，/w  董/nr  卿/nr  用/p  “/w  感伤/n  、/w  感动/v  、/w  感悟/v  ”/w  三/m  个/q  词/n  讲述/v  的/u  口误/n  发生/v  后/f  的/u  心路/n  历程/n  ，/w  总/b  给/p  人/n  感觉/v  有些/r  煞有介事/n  的/u  味道/n  。</Segmented_S>
+            <S_Length>90</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">口误</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感伤</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感动</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">感悟</Keywords>
+            <Keywords start="-1" position="64" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">口误</Keywords>
+            <Keywords start="-1" position="82" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">煞有介事</Keywords>
+            <noword start="-1" position="14" modifier_word_position="15" modifier_word_length="4" end="-1">没</noword>
+            <E_phrase start="27" position="27" end="30" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">沉</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_target start="-1" position="20" end="-1">她</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.6</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="更让人难以理解的是：在亿万观众为之瞩目的元宵晚会上，董卿在报幕到马东为元宵晚会创作的节目《五官评说》时，刻意在“马先生的儿子”后面拖长了音，并且加重了音调才接出后面的“马东”二字。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 更/d  让/v  人/n  难以/d  理解/v  的/u  是/v  ：/w  在/p  亿万/m  观众/n  为/p  之/r  瞩目/v  的/u  元宵/n  晚会/n  上/f  ，/w  董/nr  卿/nr  在/p  报幕/n  到/v  马/nr  东为/nr  元宵/n  晚会/n  创作/vn  的/u  节目/n  《/w  五官/n  评说/v  》/w  时/Ng  ，/w  刻意/d  在/p  “/w  马/n  先生/n  的/u  儿子/n  ”/w  后面/f  拖/v  长/a  了/y  音/u  ，/w  并且/c  加重/v  了/u  音调/n  才/d  接/v  出/v  后面/f  的/u  “/w  马/n  东/f  ”/w  二/m  字/n  。</Segmented_S>
+            <S_Length>90</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">难以</Keywords>
+            <degree_adv start="-1" position="0" modifier_word_position="3" modifier_word_length="4" end="-1">更</degree_adv>
+            <E_conjunction start="-1" position="70" next_position="70" modifier_word_position="72" modifier_word_length="17" end="-1">并且</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="紧接着献演的马东，也接过话说道：“为了我们爷俩这名字，董卿连年都没过好。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 紧接着/c  献演/v  的/u  马/nr  东/nr  ，/w  也/d  接/v  过/u  话/n  说道/v  ：/w  “/w  为了/p  我们/r  爷俩/v  这/r  名字/n  ，/w  董/nr  卿/nr  连年/d  都/d  没/d  过/v  好/a  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <noword start="-1" position="32" modifier_word_position="33" modifier_word_length="2" end="-1">没</noword>
+            <E_phrase start="33" position="33" end="34" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">过</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="6" position="6" end="7">马</Opinion_holder>
+            <Opinion_target start="27" position="27" end="28">董</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”这一唱一和，似是为董卿在春晚上犯的错误打了圆场，实则是对观众的不尊重。">
+            <S_no>第1段第5句标注</S_no>
+            <Segmented_S> ”/w  这/r  一/m  唱/v  一/m  和/c  ，/w  似/Vg  是/v  为/p  董/nr  卿/nr  在春/v  晚上/t  犯/v  的/u  错误/n  打/v  了/u  圆场/n  ，/w  实则/v  是/v  对/p  观众/n  的/u  不/d  尊重/v  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">错误</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">尊重</Keywords>
+            <noword start="-1" position="32" modifier_word_position="33" modifier_word_length="2" end="-1">不</noword>
+            <E_phrase start="2" position="2" end="5" Surprise="0" Sorrow="0" POS="m" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">一</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.7</Anger>
+        <Expect>0.0</Expect>
+        <Topic>董卿 口误 当回事</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="董卿不是啥人物，只不过是个主持人而已，一个口误，也算不上大错，没必要忧心忡忡，解释来解释去的。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>董/nr  卿/nr  不/d  是/v  啥/r  人物/n  ，/w  只不过/d  是/v  个/q  主持人/n  而已/y  ，/w  一个/m  口误/n  ，/w  也算/v  不/d  上/v  大/a  错/n  ，/w  没/d  必要/a  忧心忡忡/vn  ，/w  解释/v  来/v  解释/v  去/v  的/u  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">口误</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">错</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">忧心忡忡</Keywords>
+            <noword start="2" position="2" modifier_word_position="4" modifier_word_length="3" end="3">不</noword>
+            <noword start="25" position="24" modifier_word_position="28" modifier_word_length="2" end="27">也算</noword>
+            <noword start="-1" position="31" modifier_word_position="32" modifier_word_length="2" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_target start="0" position="0" end="1">董</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="她哭，那也属常态，在全国人民面前“丢了这么大一个人”，她还笑得起来吗？">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 她/r  哭/v  ，/w  那/r  也/d  属/v  常态/n  ，/w  在/p  全国/n  人民/n  面前/f  “/w  丢/v  了/u  这么/r  大/a  一个/m  人/n  ”/w  ，/w  她/r  还/d  笑得/v  起来/v  吗/y  ？</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">哭</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">笑得</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">吗</Keywords>
+            <E_phrase start="17" position="17" end="24" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">丢</E_phrase>
+            <Rhetoric E_type="悲伤">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Opinion_target start="-1" position="0" end="-1">她</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="致于“春晚那夜的口误让我懂得的事情。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 致于/v  “/w  春/Tg  晚/Tg  那夜/v  的/u  口误/n  让我/v  懂得/v  的/u  事情/n  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">口误</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">懂得</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”一番话，怎么听怎么别扭。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> ”/w  一/m  番/q  话/n  ，/w  怎么/r  听/v  怎么/r  别扭/v  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">别扭</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="不就一次小小的口误嘛，哪儿那么多的感伤、感动、感悟？">
+            <S_no>第2段第5句标注</S_no>
+            <Segmented_S> 不/d  就/d  一/m  次/q  小小的/v  口误/n  嘛/y  ，/w  哪儿/r  那么/r  多/a  的/u  感伤/n  、/w  感动/v  、/w  感悟/v  ？</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">口误</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">嘛</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感伤</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">感动</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感悟</Keywords>
+            <degree_adv start="-1" position="13" modifier_word_position="15" modifier_word_length="1" end="-1">那么</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="如今观众的智商和素质早已今非昔比，某些方面远远超越主持人，再者说春晚不过就是个大家乐呵的节目，出点儿差错也没人再会象从前那样大呼小叫。">
+            <S_no>第2段第6句标注</S_no>
+            <Segmented_S> 如今/t  观众/n  的/u  智商/n  和/c  素质/n  早已/d  今非昔比/i  ，/w  某些/r  方面/n  远远/d  超越/v  主持人/n  ，/w  再者说/v  春/Tg  晚/Tg  不过/d  就/d  是/v  个/q  大家/r  乐/a  呵/y  的/u  节目/n  ，/w  出/v  点儿/n  差错/v  也/d  没/d  人/n  再会/v  象/n  从前/t  那样/r  大呼小叫/n  。</Segmented_S>
+            <S_Length>67</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">今非昔比</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">大呼小叫</Keywords>
+            <noword start="-1" position="53" modifier_word_position="54" modifier_word_length="1" end="-1">没</noword>
+            <E_phrase start="41" position="41" end="42" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">乐</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="董卿和央视如此不厌其烦地纠缠不休，反倒令我们产生了一种怀疑：是不是你们太拿自己当回事了，把我们都当成了白痴？">
+            <S_no>第2段第7句标注</S_no>
+            <Segmented_S> 董/nr  卿/nr  和/c  央视/n  如此/r  不厌其烦/i  地/u  纠缠/v  不休/n  ，/w  反倒/d  令/v  我们/r  产生/v  了/u  一/m  种/q  怀疑/v  ：/w  是/v  不/d  是/v  你们/r  太/d  拿/v  自/p  己/r  当/v  回/q  事/n  了/y  ，/w  把/p  我们/r  都/d  当成/v  了/u  白痴/n  ？</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不厌其烦</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">怀疑</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">白痴</Keywords>
+            <degree_adv start="-1" position="35" modifier_word_position="39" modifier_word_length="3" end="-1">太</degree_adv>
+            <E_phrase start="12" position="12" end="15" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0.7">纠缠</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="生气">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.6</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.6</Anger>
+        <Expect>0.8</Expect>
+        <Topic>平和 董卿 出错的几率</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="说实在的，董卿浓重的鼻音和做作的表情，我本来就没有看好，对于她在春晚的口误，压根儿就没当回事儿。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>说/v  实在/a  的/u  ，/w  董/nr  卿/nr  浓重/a  的/u  鼻音/n  和/c  做/v  作/v  的/u  表情/n  ，/w  我/r  本来/d  就/d  没有/v  看好/v  ，/w  对于/p  她/r  在春/v  晚/a  的/u  口误/n  ，/w  压根儿/v  就/d  没/v  当/v  回事儿/n  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="13" position="13" end="14" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">做</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">看好</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">口误</Keywords>
+            <noword start="-1" position="23" modifier_word_position="25" modifier_word_length="2" end="-1">没有</noword>
+            <noword start="-1" position="42" modifier_word_position="43" modifier_word_length="4" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="19" end="-1">我</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="希望这些央视主持大腕们，别总是一本正经、慷慨激昂地冲着观众说话，平和一点，自然一点，机灵一点，幽默一点，更有可能让我们接受和喜欢，出错的几率也许会降到最低。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 希望/v  这些/r  央视/n  主持/v  大腕/n  们/k  ，/w  别/d  总是/d  一本/v  正经/n  、/w  慷慨激昂/n  地/u  冲着/v  观众/n  说话/v  ，/w  平和/a  一/m  点/q  ，/w  自然/d  一点/m  ，/w  机灵/a  一/m  点/q  ，/w  幽默/a  一/m  点/q  ，/w  更/d  有/v  可能/n  让/v  我们/r  接受/v  和/c  喜欢/v  ，/w  出错/v  的/u  几率/n  也许会/v  降/v  到/v  最低/a  。</Segmented_S>
+            <S_Length>78</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">希望</Keywords>
+            <Keywords start="15" position="15" end="18" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">一本</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">慷慨激昂</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">平和</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">机灵</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">幽默</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">接受</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜欢</Keywords>
+            <Keywords start="-1" position="65" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">出错</Keywords>
+            <degree_adv start="-1" position="52" modifier_word_position="54" modifier_word_length="2" end="-1">更</degree_adv>
+            <noword start="-1" position="12" modifier_word_position="13" modifier_word_length="2" end="-1">别</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="这方面，不妨学学崔永元。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 这/r  方面/n  ，/w  不妨/v  学学/v  崔/nr  永元/nr  。</Segmented_S>
+            <S_Length>12</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">学学</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+</document>

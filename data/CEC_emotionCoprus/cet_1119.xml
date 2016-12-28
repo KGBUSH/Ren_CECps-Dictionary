@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.5</Hate>
+    <Love>0.8</Love>
+    <Sorrow>0.5</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.6</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>鹦鹉</Topic>
+    <title T="邻居养的鹦鹉会唱歌">
+        <Segmented_S>邻居/n  养的/v  鹦鹉/n  会/v  唱/v  歌/n</Segmented_S>
+        <S_Length>9</S_Length>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>鸟</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="这事儿说起来也怪，无论在国内，还是客居日本，我这么多年老跟鸟儿打照面儿，小时候住日坛公园附近，一大早跑到公园专门看老人养的鸟儿。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>这事儿/n  说/v  起来/v  也/d  怪/v  ，/w  无论/c  在/p  国内/s  ，/w  还是/c  客/Ng  居/v  日本/ns  ，/w  我/r  这么/r  多/a  年老/n  跟/v  鸟儿/v  打照面儿/n  ，/w  小时候/t  住/v  日坛/ns  公园/n  附近/f  ，/w  一大早/d  跑/v  到/v  公园/n  专门/d  看/v  老人/n  养的/v  鸟儿/n  。</Segmented_S>
+            <S_Length>64</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0.4" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">怪</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">打照面儿</Keywords>
+            <E_conjunction start="-1" position="9" next_position="15" modifier_word_position="11" modifier_word_length="3" end="-1">无论</E_conjunction>
+            <E_conjunction start="-1" position="15" next_position="9" modifier_word_position="17" modifier_word_length="4" end="-1">还是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.4</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="当时他们手提漂亮的鸟笼，神情悠闲，鸟儿中最动听的是画眉鸟，叫起来相当空灵，天籁之声。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 当时/t  他们/r  手/n  提/v  漂亮/a  的/u  鸟笼/n  ，/w  神情/n  悠闲/a  ，/w  鸟儿/n  中/f  最/d  动听/a  的/u  是/v  画眉鸟/n  ，/w  叫/v  起来/v  相当/d  空灵/a  ，/w  天籁/v  之/u  声/n  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">漂亮</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悠闲</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">动听</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">空灵</Keywords>
+            <degree_adv start="-1" position="20" modifier_word_position="21" modifier_word_length="2" end="-1">最</degree_adv>
+            <degree_adv start="-1" position="32" modifier_word_position="34" modifier_word_length="2" end="-1">相当</degree_adv>
+            <E_phrase start="37" position="37" end="40" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">天籁</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一直到今天，我还是觉得画眉鸟的声音应该比它的眉毛有魅力，其实叫它“画声鸟”也不错，因为声音也是有形象的。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 一直/d  到/p  今天/t  ，/w  我还/v  是/v  觉得/v  画眉鸟/n  的/u  声音/n  应该/v  比/p  它/r  的/u  眉毛/n  有/v  魅力/n  ，/w  其实/d  叫/v  它/r  “/w  画/v  声/n  鸟/n  ”/w  也/d  不错/a  ，/w  因为/c  声音/n  也/d  是/v  有/v  形象/n  的/u  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">魅力</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不错</Keywords>
+            <E_conjunction start="-1" position="41" next_position="41" modifier_word_position="43" modifier_word_length="8" end="-1">因为</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>日本 画眉鸟</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="不过，日本很少看到画眉鸟，类似北京公园的情景你压根儿就别想！">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>不过/c  ，/w  日本/ns  很少/d  看到/v  画眉鸟/n  ，/w  类似/a  北京/ns  公园/n  的/u  情景/n  你/r  压根儿/v  就/d  别想/v  ！</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">别想</Keywords>
+            <degree_adv start="5" position="5" modifier_word_position="6" modifier_word_length="1" end="5">很少</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="跟养鸟老人差不多岁数的日本人不是当的士司机，就是当物业管理的看守之类，绝对没有中国老人那么清闲。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 跟/p  养鸟/n  老人/n  差不多/l  岁数/n  的/u  日本/ns  人/n  不/d  是/v  当/v  的士/n  司机/n  ，/w  就/d  是/v  当/v  物业/n  管理/vn  的/u  看守/n  之/u  类/n  ，/w  绝对/d  没有/d  中国/ns  老人/n  那么/r  清闲/a  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">清闲</Keywords>
+            <noword start="-1" position="37" modifier_word_position="45" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="14" position="14" next_position="22" modifier_word_position="16" modifier_word_length="5" end="15">不</E_conjunction>
+            <E_conjunction start="22" position="22" next_position="14" modifier_word_position="24" modifier_word_length="10" end="23">就</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="于是，想听画眉鸟的美声，附近也无处可去。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 于是/c  ，/w  想/v  听/v  画眉鸟/n  的/u  美声/n  ，/w  附近/f  也/d  无处/d  可/v  去/v  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美声</Keywords>
+            <E_phrase start="3" position="3" end="4" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">想</E_phrase>
+            <E_phrase start="15" position="15" end="18" Surprise="0" Sorrow="0.6" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">无处</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="哪儿像北京呢？">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 哪儿/r  像/v  北京/ns  呢/y  ？</Segmented_S>
+            <S_Length>7</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0.5" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">呢</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="只要有个公园，保险有遛鸟儿的，而且还不仅仅是一位老人。">
+            <S_no>第2段第5句标注</S_no>
+            <Segmented_S> 只/d  要/v  有/v  个/q  公园/n  ，/w  保险/vn  有/v  遛/n  鸟儿/v  的/u  ，/w  而且/c  还/d  不仅仅/d  是/v  一/m  位/q  老人/n  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>养鸟</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="据说，北京养鸟儿分“笼养”和“天养”，刚才说的漂亮鸟笼是前者，而后者是把鸟儿放回天空，任它自由飞翔，但只要主人发出一个哨声，鸟儿迅速盘旋而降，有的会直接飞到主人的肩头，犹如童话世界里的一个场面！">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>据说/v  ，/w  北京/ns  养鸟/n  儿/Ng  分/v  “/w  笼养/n  ”/w  和/c  “/w  天养/n  ”/w  ，/w  刚才/t  说/v  的/u  漂亮/a  鸟笼/n  是/v  前者/r  ，/w  而/c  后者/r  是/v  把/p  鸟儿/n  放/v  回/v  天空/n  ，/w  任/nr  它/nr  自由/r  飞翔/a  ，/w  但/c  只要/c  主人/n  发出/v  一个/m  哨声/n  ，/w  鸟儿/n  迅速/ad  盘旋/v  而/c  降/v  ，/w  有的/r  会/v  直接/ad  飞/v  到/v  主人/n  的/u  肩头/n  ，/w  犹如/v  童话/n  世界/n  里/f  的/u  一个/m  场面/n  ！</Segmented_S>
+            <S_Length>97</S_Length>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">漂亮</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">自由</Keywords>
+            <Keywords start="-1" position="86" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">童话</Keywords>
+            <E_conjunction start="-1" position="50" next_position="50" modifier_word_position="51" modifier_word_length="19" end="-1">但</E_conjunction>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.6</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>鹦鹉</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="今年过元旦，不少日本人都守着家门哪儿也不去，有的跟家人和宠物一起，也自得其乐。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>今年/t  过/u  元旦/t  ，/w  不少/m  日本/ns  人/n  都/d  守/v  着/u  家门/n  哪儿/r  也/d  不/d  去/v  ，/w  有的/r  跟/p  家人/n  和/c  宠物/n  一/m  起/q  ，/w  也/d  自得/v  其/r  乐/a  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="1" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">宠物</Keywords>
+            <Keywords start="34" position="34" end="37" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">自得</Keywords>
+            <noword start="-1" position="19" modifier_word_position="20" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="8" position="8" end="10">日本</Opinion_holder>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我家日本邻居养了个鹦鹉，不仅会学人说话，还会唱歌，堪称一绝活儿！">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 我家/r  日本/ns  邻居/n  养/v  了/u  个/q  鹦鹉/n  ，/w  不仅/c  会/v  学人/v  说话/n  ，/w  还/d  会/v  唱歌/v  ，/w  堪称一绝/v  活儿/n  ！</Segmented_S>
+            <S_Length>32</S_Length>
+            <E_conjunction start="-1" position="12" next_position="20" modifier_word_position="14" modifier_word_length="5" end="-1">不仅</E_conjunction>
+            <E_conjunction start="-1" position="20" next_position="12" modifier_word_position="21" modifier_word_length="3" end="-1">还</E_conjunction>
+            <E_phrase start="28" position="25" end="30" Surprise="0.6" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">堪称一绝</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">！</punctuation>
+            <punctuation E_type="惊讶">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.6</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>鹦鹉</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="原本以为画眉鸟最美，但从未听过它会唱歌，当然也没亲眼见过。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>原本/d  以为/v  画眉鸟/v  最/d  美/a  ，/w  但/c  从未/d  听/v  过/u  它/r  会/v  唱歌/v  ，/w  当然/d  也没/v  亲眼/d  见/v  过/u  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美</Keywords>
+            <degree_adv start="-1" position="7" modifier_word_position="8" modifier_word_length="1" end="-1">最</degree_adv>
+            <noword start="-1" position="11" modifier_word_position="13" modifier_word_length="2" end="-1">从未</noword>
+            <noword start="-1" position="22" modifier_word_position="24" modifier_word_length="4" end="-1">也没</noword>
+            <E_conjunction start="-1" position="10" next_position="10" modifier_word_position="11" modifier_word_length="8" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这回见了鹦鹉的智慧，忽然觉得日本人喜欢养鹦鹉也不无道理。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 这/r  回见/n  了/y  鹦鹉/u  的/n  智慧/u  ，/w  忽然/d  觉得/v  日本/ns  人/n  喜欢/v  养/v  鹦鹉/n  也/d  不无道理/l  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="u" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">智慧</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜欢</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不无道理</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="14" end="-1">日本</Opinion_holder>
+            <Opinion_target start="-1" position="20" end="-1">鹦鹉</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="看上去，鹦鹉十分家庭化，不像公园里的画眉鸟高调发声，反而龟缩在家里与主人和谐相处，唱歌的样子很拘束，讲究礼仪，但似乎又道貌岸然，也有点儿像日本人。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 看/v  上去/v  ，/w  鹦鹉/n  十分/d  家庭化/a  ，/w  不/d  像/v  公园/n  里/f  的/u  画眉鸟/n  高调/v  发声/n  ，/w  反而/d  龟缩/v  在/p  家里/s  与/c  主人/n  和谐/a  相处/v  ，/w  唱歌/v  的/u  样子/n  很/d  拘束/a  ，/w  讲究/v  礼仪/n  ，/w  但/c  似乎/d  又/d  道貌岸然/v  ，/w  也/d  有/v  点儿/n  像/v  日本/ns  人/n  。</Segmented_S>
+            <S_Length>73</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">家庭化</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">龟缩</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">拘束</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">道貌岸然</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="8" modifier_word_length="3" end="-1">十分</degree_adv>
+            <degree_adv start="-1" position="46" modifier_word_position="47" modifier_word_length="2" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="55" next_position="55" modifier_word_position="56" modifier_word_length="7" end="-1">但</E_conjunction>
+            <E_phrase start="36" position="36" end="39" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">和谐</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="据说，日本人的鸟类宠物莫过于鹦鹉最多！">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 据说/v  ，/w  日本/ns  人/n  的/u  鸟类/n  宠物/n  莫过于/l  鹦鹉/v  最/d  多/a  ！</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">宠物</Keywords>
+            <degree_adv start="-1" position="16" modifier_word_position="17" modifier_word_length="1" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

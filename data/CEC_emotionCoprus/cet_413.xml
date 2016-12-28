@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.8</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.8</Love>
+    <Sorrow>0.6</Sorrow>
+    <Anxiety>0.7</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>悠闲 火车</Topic>
+    <title T="闲时且坐慢火车">
+        <Segmented_S>闲时/n  且/c  坐/v  慢/a  火车/n</Segmented_S>
+        <S_Length>7</S_Length>
+        <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">闲时</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="在一切都不断提速的时代里，我们忘记了缓慢悠然的快乐。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>在/p  一切/r  都/d  不断/d  提速/v  的/u  时代/n  里/f  ，/w  我们/r  忘记/v  了/u  缓慢/a  悠然/a  的/u  快乐/a  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悠然</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">快乐</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.5</Expect>
+        <Topic>火车</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="一个四月的午后，我逃课，坐上火车回老家。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>一个/m  四月/t  的/u  午后/t  ，/w  我/r  逃课/v  ，/w  坐/v  上/v  火车/n  回老家/v  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">逃课</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0.5" Anxiety="0" Anger="0">回老家</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="车是那种已经淘汰的绿皮，票价十几块。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 车/n  是/v  那种/r  已经/d  淘汰/v  的/u  绿/a  皮/n  ，/w  票价/n  十几/m  块/q  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0.3" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">淘汰</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="上车后发现稀稀拉拉的没几个人，我一个人占三个人的位置。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 上车/v  后/f  发现/v  稀稀拉拉/n  的/u  没/d  几/m  个/q  人/n  ，/w  我/r  一个/m  人/n  占/v  三/m  个/q  人/n  的/u  位置/n  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">占</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="火车不急不忙的出发，经过湍急车流的三环和立交桥，冲过城市道口，钻出高楼，跑入田野。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 火车/n  不/d  急/a  不/d  忙/a  的/u  出发/v  ，/w  经过/v  湍急/a  车流/n  的/u  三环/n  和/c  立交桥/n  ，/w  冲/v  过/u  城市/n  道口/n  ，/w  钻/v  出/v  高楼/n  ，/w  跑/v  入/v  田野/n  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.3</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="车叮当叮当的走，能够清楚的数出其间的节奏。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>车/n  叮当/n  叮当/v  的/u  走/v  ，/w  能够/v  清楚/v  的/u  数/m  出/v  其间/f  的/u  节奏/n  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="隔不了半个小时，车就要停一次，连一个乡级的小站都不放过。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 隔/v  不/d  了/v  半/m  个/q  小时/n  ，/w  车/n  就要/d  停/v  一/m  次/q  ，/w  连/u  一个/m  乡级/b  的/u  小站/n  都/d  不/d  放过/v  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <E_conjunction start="-1" position="15" next_position="23" modifier_word_position="16" modifier_word_length="7" end="-1">连</E_conjunction>
+            <E_conjunction start="-1" position="23" next_position="15" modifier_word_position="24" modifier_word_length="3" end="-1">都</E_conjunction>
+            <E_phrase start="24" position="24" end="26" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">不</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="太阳暖暖的照着，我慵懒的斜靠在车窗前。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 太阳/n  暖暖的/n  照着/v  ，/w  我/r  慵懒/a  的/u  斜/n  靠/v  在/p  车窗/n  前/f  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">暖暖的</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">慵懒</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="手边放着小说和卡式录音机，窗外的田野，远处的山峦，绿油油的麦地，有条不紊在眼前播放。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>手边/n  放/v  着/u  小说/n  和/c  卡式/n  录音机/v  ，/w  窗外/s  的/u  田野/n  ，/w  远处/s  的/u  山峦/n  ，/w  绿油油/z  的/u  麦地/n  ，/w  有条/v  不/d  紊/v  在/p  眼前/s  播放/v  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="z" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">绿油油</Keywords>
+            <Keywords start="32" position="32" end="35" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">有条</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="不远处，一位老人在小树林里，悠然的抽着烟袋；身边，几十只白色山羊在悠闲的吃草，还有几只幼小的羊欢快的打闹着。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 不/d  远/a  处/n  ，/w  一/m  位/q  老人/n  在/p  小/a  树林/n  里/f  ，/w  悠然/a  的/u  抽/v  着/u  烟袋/n  ；/w  身边/s  ，/w  几十/m  只/q  白色/n  山羊/n  在/p  悠闲/a  的/u  吃草/n  ，/w  还有/v  几/m  只/q  幼小/a  的/u  羊/n  欢快/a  的/u  打闹/n  着/u  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">悠然</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">悠闲</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">欢快</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">打闹</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="车一会停下来，然后缓缓地再走。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>车/n  一会/m  停下/v  来/v  ，/w  然后/c  缓缓/d  地/u  再/d  走/v  。</Segmented_S>
+            <S_Length>15</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我睡着了。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 我/r  睡/v  着/v  了/y  。</Segmented_S>
+            <S_Length>5</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.3</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="睁开眼，又是一个小站，简陋得很，三五间房，被粗大的杨树护着；看上面的站名，&#8212;&#8212;黄粱梦，课本里邯郸学步的地方。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>睁开眼/n  ，/w  又/c  是/v  一个/m  小站/n  ，/w  简陋/a  得/u  很/d  ，/w  三五/m  间/q  房/n  ，/w  被/p  粗大/v  的/u  杨树/n  护/v  着/u  ；/w  看/v  上面/f  的/u  站名/n  ，/w  &#8212;&#8212;/w  黄粱梦/n  ，/w  课本/n  里/f  邯郸/v  学步/ns  的/u  地方/n  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">简陋</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">护</Keywords>
+            <degree_adv start="-1" position="14" modifier_word_position="11" modifier_word_length="2" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.3</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="车上下了几位学生，上来几位农民……">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 车/n  上下/f  了/y  几/u  位/m  学生/q  ，/w  上来/v  几/m  位/q  农民/n  ……/w</Segmented_S>
+            <S_Length>17</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>1.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="忘记了教室、图书馆和无数的理论、概念，在最慢的列车里，我幸福的赏景、看书、听音乐，写诗歌，打瞌睡。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>忘记/v  了/u  教室/n  、/w  图书馆/n  和/c  无数/m  的/u  理论/n  、/w  概念/n  ，/w  在/p  最慢/n  的/u  列车/n  里/f  ，/w  我/r  幸福/a  的/u  赏/n  景/Ng  、/w  看/v  书/n  、/w  听/v  音乐/n  ，/w  写诗/v  歌/n  ，/w  打瞌睡/v  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="1.0" Hate="0" Expect="0" Anxiety="0" Anger="0">幸福</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">赏</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>1.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.3</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="铁路边的村庄慢慢淹没在炊烟中，慢慢变成几点灯光；我闭目，觉得这火车似乎永远不会到站。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>铁路/n  边/n  的/u  村庄/n  慢慢/d  淹没/v  在/p  炊烟/n  中/f  ，/w  慢慢/d  变成/v  几/m  点/q  灯光/n  ；/w  我/r  闭目/v  ，/w  觉得/v  这/r  火车/n  似乎/d  永远/d  不会/v  到站/v  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">到站</Keywords>
+            <noword start="-1" position="37" modifier_word_position="39" modifier_word_length="2" end="-1">不会</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="九个小时的旅程，倏忽而过。">
+            <S_no>第8段第2句标注</S_no>
+            <Segmented_S> 九/m  个/q  小时/n  的/u  旅程/n  ，/w  倏忽/d  而/c  过/v  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <E_phrase start="0" position="8" end="0" Surprise="0.4" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">倏忽</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.4</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第9段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>1.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="如此不问时间长短的缓慢之旅，我又享受了不少次，直到研究生毕业。">
+            <S_no>第9段第1句标注</S_no>
+            <Segmented_S>如此/r  不/d  问/v  时间/n  长短/n  的/u  缓慢/a  之旅/n  ，/w  我又/v  享受/v  了/u  不少/m  次/q  ，/w  直到/v  研究生/n  毕业/vn  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">享受</Keywords>
+            <degree_adv start="15" position="14" modifier_word_position="16" modifier_word_length="2" end="15">我又</degree_adv>
+            <noword start="-1" position="2" modifier_word_position="3" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="然后，人生的节奏开始加快。">
+            <S_no>第9段第2句标注</S_no>
+            <Segmented_S> 然后/c  ，/w  人生/n  的/u  节奏/n  开始/v  加快/v  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">加快</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="当目的日益成为惟一的追求，时间便觉得越来越紧迫起来，眼睛盯着远方，焦灼的想一步跨到。">
+            <S_no>第9段第3句标注</S_no>
+            <Segmented_S> 当/p  目的/n  日益/d  成为/v  惟一/b  的/u  追求/vn  ，/w  时间/n  便/d  觉得/v  越来越/d  紧迫/a  起来/v  ，/w  眼睛/n  盯/v  着/u  远方/s  ，/w  焦灼/v  的/u  想/v  一/m  步/q  跨/v  到/v  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">追求</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">紧迫</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">盯</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="1.0" Anger="0">焦灼</Keywords>
+            <degree_adv start="-1" position="18" modifier_word_position="21" modifier_word_length="2" end="-1">越来越</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="15" modifier_word_position="1" modifier_word_length="11" end="-1">当</E_conjunction>
+            <E_conjunction start="-1" position="15" next_position="0" modifier_word_position="16" modifier_word_length="25" end="-1">便</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>1.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第10段情感标注</P_no>
+        <Joy>1.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="然而，除了真正的紧急之务，人真的要如此高效率么？">
+            <S_no>第10段第1句标注</S_no>
+            <Segmented_S>然而/c  ，/w  除了/p  真正/b  的/u  紧急/a  之/u  务/Ng  ，/w  人/n  真的/d  要/v  如此/r  高效率/n  么/y  ？</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">紧急</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高效率</Keywords>
+            <E_conjunction start="-1" position="3" next_position="3" modifier_word_position="5" modifier_word_length="7" end="-1">除了</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我很是怀疑。">
+            <S_no>第10段第2句标注</S_no>
+            <Segmented_S> 我/r  很/d  是/v  怀疑/v  。</Segmented_S>
+            <S_Length>6</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">怀疑</Keywords>
+            <degree_adv start="-1" position="1" modifier_word_position="3" modifier_word_length="2" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="古人们没有火车，更没有飞机，安步当车，或者骑头驴，慢慢的走，快乐和幸福不比现代人少；一生的成就，也不比现代人小。">
+            <S_no>第10段第3句标注</S_no>
+            <Segmented_S> 古人/n  们/k  没有/d  火车/v  ，/w  更/d  没有/v  飞机/n  ，/w  安步当车/v  ，/w  或者/c  骑/v  头/n  驴/n  ，/w  慢慢/d  的/u  走/v  ，/w  快乐/a  和/c  幸福/a  不/d  比/p  现代人/n  少/a  ；/w  一生/n  的/u  成就/n  ，/w  也/d  不/d  比/p  现代人/n  小/a  。</Segmented_S>
+            <S_Length>56</S_Length>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="1" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">快乐</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="1" Love="0" Joy="1.0" Hate="0" Expect="0" Anxiety="0" Anger="0">幸福</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="1" Love="0.7" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">成就</Keywords>
+            <noword start="-1" position="3" modifier_word_position="5" modifier_word_length="2" end="-1">没有</noword>
+            <noword start="-1" position="9" modifier_word_position="11" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">古人</Opinion_holder>
+            <Joy>1.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第11段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="火车又大提速了。">
+            <S_no>第11段第1句标注</S_no>
+            <Segmented_S>火车/n  又/d  大/a  提速/vn  了/y  。</Segmented_S>
+            <S_Length>8</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="车窗外的风景该愈发模糊不清，小的车站更也不停了；旅行，不过是从高楼的城市，到另一个高楼城市的一夜睡眠，或者几个小时的听ＭＰ３、看ＭＰ４，或玩几关游戏。">
+            <S_no>第11段第2句标注</S_no>
+            <Segmented_S> 车窗/n  外/f  的/u  风景/n  该/r  愈发/n  模糊不清/d  ，/w  小的/v  车站/n  更/d  也/d  不停/d  了/u  ；/w  旅行/v  ，/w  不过/c  是/v  从/p  高楼/n  的/u  城市/n  ，/w  到/p  另/r  一个/m  高楼/n  城市/n  的/u  一/m  夜/q  睡眠/v  ，/w  或者/c  几/m  个/q  小时/n  的/u  听/v  ＭＰ３/n  、/w  看/v  ＭＰ４/n  ，/w  或/c  玩/v  几/m  关/n  游戏/n  。</Segmented_S>
+            <S_Length>75</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">模糊不清</Keywords>
+            <Keywords start="-1" position="69" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">玩</Keywords>
+            <degree_adv start="-1" position="7" modifier_word_position="9" modifier_word_length="4" end="-1">愈发</degree_adv>
+            <noword start="20" position="20" modifier_word_position="21" modifier_word_length="1" end="20">不停</noword>
+            <E_conjunction start="-1" position="51" next_position="51" modifier_word_position="53" modifier_word_length="14" end="-1">或者</E_conjunction>
+            <E_conjunction start="-1" position="68" next_position="68" modifier_word_position="69" modifier_word_length="5" end="-1">或</E_conjunction>
+            <Rhetoric E_type="悲伤">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第12段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我很怀念那慢行的火车。">
+            <S_no>第12段第1句标注</S_no>
+            <Segmented_S>我/r  很/d  怀念/v  那/r  慢行/n  的/u  火车/n  。</Segmented_S>
+            <S_Length>11</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="1" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">怀念</Keywords>
+            <degree_adv start="-1" position="1" modifier_word_position="2" modifier_word_length="2" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">我</Opinion_holder>
+            <Opinion_target start="-1" position="8" end="-1">火车</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

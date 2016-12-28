@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.7</Sorrow>
+    <Anxiety>0.7</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>孤单 落寞</Topic>
+    <title T="有一种孤独叫做落寞">
+        <Segmented_S>有/v  一/m  种/q  孤独/a  叫做/v  落寞/n</Segmented_S>
+        <S_Length>9</S_Length>
+        <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">孤独</Keywords>
+        <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">落寞</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.8</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.8</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>孤单</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="这几天我一直在想，怎样的我才是最真实的呢？">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>这/r  几/m  天/q  我/r  一直/d  在/d  想/v  ，/w  怎样/r  的/u  我才/n  是/v  最/d  真实/a  的/u  呢/y  ？</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">真实</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">呢</Keywords>
+            <degree_adv start="-1" position="15" modifier_word_position="16" modifier_word_length="2" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这个问题真的很难回答，我忽然会在黄昏时陷入一种深深的沉思中。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 这个/r  问题/n  真的/d  很/d  难/a  回答/v  ，/w  我/r  忽然/d  会/v  在/p  黄昏/t  时/Ng  陷入/v  一/m  种/q  深深/d  的/u  沉思/n  中/f  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">真的</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">难</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">陷入</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">沉思</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="7" modifier_word_length="1" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.9</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="就像我曾在餐厅里看着来回奔走的人们傻傻地发呆想问题一样，不知道自己是在干什么，反而心里徒增一种孤独感，或许这种孤独就是落寞吧。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 就/d  像我/v  曾/d  在/p  餐厅/n  里/f  看着/v  来回/v  奔走/v  的/u  人们/n  傻傻/v  地/u  发呆/v  想/v  问题/n  一样/a  ，/w  不知道/v  自己/r  是/v  在/p  干什么/v  ，/w  反而/d  心里/s  徒/d  增/v  一/m  种/q  孤独感/n  ，/w  或许/d  这种/r  孤独/a  就/d  是/v  落寞/n  吧/y  。</Segmented_S>
+            <S_Length>63</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">傻傻</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">发呆</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">干什么</Keywords>
+            <Keywords start="43" position="43" end="44" Surprise="0.3" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">徒</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">孤独感</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">孤独</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">落寞</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0.2" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">吧</Keywords>
+            <noword start="28" position="28" modifier_word_position="29" modifier_word_length="2" end="28">不知道</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

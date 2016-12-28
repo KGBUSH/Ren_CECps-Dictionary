@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.6</Sorrow>
+    <Anxiety>0.8</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.7</Anger>
+    <Expect>0.5</Expect>
+    <Topic>捐献 成龙 国人的嘴</Topic>
+    <title T="成龙捐举，无关爱不爱国">
+        <Segmented_S>成/nr  龙/nr  捐/nr  举/v  ，/w  无关/v  爱/v  不/d  爱国/a</Segmented_S>
+        <S_Length>11</S_Length>
+        <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.4">无关</Keywords>
+        <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爱</Keywords>
+        <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爱国</Keywords>
+        <noword start="-1" position="8" modifier_word_position="9" modifier_word_length="2" end="-1">不</noword>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.6</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.7</Anger>
+        <Expect>0.0</Expect>
+        <Topic>口水之争</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="成龙要把价值数亿元，花２０年收藏的明清两代古建筑和古戏台、紫檀木等收藏品，捐献给新加坡。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>成龙/nr  要/v  把/p  价值/n  数亿/m  元/q  ，/w  花/v  ２０/n  年/q  收藏/v  的/u  明清/t  两/m  代/q  古/a  建筑/n  和/c  古/a  戏台/n  、/w  紫檀木/n  等/u  收藏品/n  ，/w  捐献/v  给/p  新加坡/ns  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">捐献</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">成龙</Opinion_holder>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在三人成虎、众口铄金的中华大地上，发生过很多无谓的口水之争。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 在/p  三/m  人/n  成/v  虎/n  、/w  众口/n  铄金/v  的/u  中华/nz  大地/n  上/f  ，/w  发生/v  过/u  很多/m  无谓/n  的/u  口水/n  之争/v  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="6" position="6" end="9" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">众口</Keywords>
+            <E_phrase start="1" position="1" end="4" Surprise="0" Sorrow="0" POS="m" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">三</E_phrase>
+            <E_phrase start="25" position="25" end="28" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">口水</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="巩俐加入新加坡国籍不久的今天，成龙把国家保护文物捐给外邦，很多“爱国者”心痛口痒，摩掌擦拳，准备要痛骂一顿成龙了。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 巩/nr  俐/nr  加入/v  新加坡/ns  国籍/n  不久/m  的/u  今天/t  ，/w  成龙/v  把/p  国家/n  保护/v  文物/n  捐/v  给/p  外/f  邦/Ng  ，/w  很多/m  “/w  爱国者/n  ”/w  心痛/n  口/a  痒/n  ，/w  摩/j  掌/n  擦/v  拳/n  ，/w  准备/v  要/v  痛骂/v  一顿/n  成龙/v  了/u  。</Segmented_S>
+            <S_Length>57</S_Length>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">心痛</Keywords>
+            <Keywords start="41" position="41" end="44" Surprise="0" Sorrow="0" POS="j" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.4">摩</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.8">痛骂</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.8</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.7</Anger>
+        <Expect>0.0</Expect>
+        <Topic>骂成龙 目光短浅 心胸狭窄</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="想骂成龙的人，只能表明他们目光短浅、心胸狭窄，跟站在祖国利益上讲爱不爱国，差十万八千里。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>想/v  骂/v  成龙/n  的/u  人/n  ，/w  只/d  能/v  表明/v  他们/r  目光短浅/v  、/w  心胸狭窄/n  ，/w  跟/p  站在/n  祖国/n  利益/n  上/f  讲/v  爱/v  不/d  爱国/a  ，/w  差/a  十万八千里/n  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">骂</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">目光短浅</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">心胸狭窄</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爱</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爱国</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">差</Keywords>
+            <noword start="-1" position="33" modifier_word_position="34" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>文物 捐</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="为什么不把这批价值庞大的文物，捐给国家，反而捐给外国呢？">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>为什么/r  不/d  把/p  这/r  批/q  价值/n  庞大/a  的/u  文物/n  ，/w  捐/v  给/p  国家/n  ，/w  反而/d  捐/v  给/p  外国/n  呢/y  ？</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">为什么</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">反而</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">呢</Keywords>
+            <noword start="-1" position="3" modifier_word_position="15" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>猜疑 做好事</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="成龙收藏的这批价值数亿之多的国家文物，如果是捐献给国家，也是无关痛痒之事。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>成龙/nr  收藏/v  的/u  这/r  批/q  价值/n  数亿/m  之多/q  的/u  国家/n  文物/n  ，/w  如果/c  是/v  捐献/v  给/p  国家/n  ，/w  也/d  是/v  无关/v  痛痒/n  之/u  事/n  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">捐献</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">痛痒</Keywords>
+            <noword start="-1" position="30" modifier_word_position="32" modifier_word_length="2" end="-1">无关</noword>
+            <E_conjunction start="-1" position="19" next_position="19" modifier_word_position="21" modifier_word_length="6" end="-1">如果</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.4</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="捐了之后，顶多是接收单位多谢几句而已，外界是不会有很多人称扬的。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 捐/v  了/u  之/u  后/f  ，/w  顶多/d  是/v  接收/v  单位/n  多谢/n  几/m  句/q  而已/y  ，/w  外界/n  是/v  不/d  会/v  有/v  很多/m  人/n  称扬/v  的/u  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">多谢</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">称扬</Keywords>
+            <noword start="22" position="22" modifier_word_position="28" modifier_word_length="2" end="23">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在中国，做了好事的，得不到认可倒还罢了，引来无端的猜疑、非议甚至是诽谤的，这在０８年可见得多了。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 在/p  中国/ns  ，/w  做/v  了/u  好事/n  的/u  ，/w  得/v  不/d  到/v  认可/vn  倒/d  还/d  罢/v  了/y  ，/w  引来/v  无端/n  的/u  猜疑/n  、/w  非议/v  甚至/d  是/v  诽谤/v  的/u  ，/w  这/r  在/p  ０８/n  年/q  可/v  见/v  得/u  多/a  了/y  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">好事</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">认可</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">无端</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">猜疑</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">非议</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">诽谤</Keywords>
+            <noword start="10" position="10" modifier_word_position="13" modifier_word_length="2" end="12">得</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="做了好事，反而给骂得狗血淋漓，谁还敢在国内做好事？">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 做/v  了/u  好事/n  ，/w  反而/d  给/p  骂/v  得/u  狗血/i  淋漓/v  ，/w  谁/r  还/d  敢/v  在/p  国内/s  做/v  好事/n  ？</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">好事</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">骂</Keywords>
+            <Keywords start="10" position="10" end="13" Surprise="0" Sorrow="0.7" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">狗血</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">敢</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">好事</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="现在的中国人，是不会做好事的，因为做好事，要有很大的“成本”来做，只差点也要上税的地步了。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 现在/t  的/u  中国/ns  人/n  ，/w  是/v  不/d  会/v  做/v  好事/n  的/u  ，/w  因为/c  做/v  好事/n  ，/w  要/v  有/v  很/d  大/a  的/u  “/w  成本/n  ”/w  来/v  做/v  ，/w  只/d  差点/d  也/d  要/v  上税/v  的/u  地步/n  了/y  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">好事</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">好事</Keywords>
+            <degree_adv start="-1" position="23" modifier_word_position="24" modifier_word_length="1" end="-1">很</degree_adv>
+            <noword start="8" position="8" modifier_word_position="10" modifier_word_length="1" end="9">不</noword>
+            <E_conjunction start="-1" position="15" next_position="15" modifier_word_position="17" modifier_word_length="27" end="-1">因为</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">“”</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="像成龙这种大名人，要做件大好事情，当然要跑到外国去做了。">
+            <S_no>第4段第6句标注</S_no>
+            <Segmented_S> 像/p  成龙/nr  这种/r  大/a  名人/n  ，/w  要/v  做/v  件/q  大/a  好/a  事情/n  ，/w  当然/d  要/v  跑/v  到/v  外国/n  去/v  做/v  了/u  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <degree_adv start="-1" position="12" modifier_word_position="13" modifier_word_length="1" end="-1">大</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>放得下心 捐到新加坡 成龙</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="而且，成龙把这批文物捐到新加坡，放得下心。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>而且/c  ，/w  成龙/v  把/p  这/r  批/q  文物/n  捐/v  到/v  新加坡/ns  ，/w  放/v  得/u  下/v  心/n  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="17" end="-1">而且</E_conjunction>
+            <E_phrase start="16" position="16" end="19" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">放</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="3" end="-1">成龙</Opinion_holder>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="人家新加坡是得到的，可不是一般的本国人士的捐献，而是来自外国的捐献，来自日益强大、在国际上呼风唤雨的中国。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 人家/r  新加坡/ns  是/v  得到/v  的/u  ，/w  可/v  不/d  是/v  一般/a  的/u  本国/r  人士/n  的/u  捐献/vn  ，/w  而是/c  来自/v  外国/n  的/u  捐献/vn  ，/w  来自/v  日益/d  强大/a  、/w  在/p  国际/n  上/f  呼风唤雨/v  的/u  中国/ns  。</Segmented_S>
+            <S_Length>53</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">得到</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">捐献</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">捐献</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">呼风唤雨</Keywords>
+            <E_conjunction start="11" position="11" next_position="24" modifier_word_position="13" modifier_word_length="10" end="12">不</E_conjunction>
+            <E_conjunction start="-1" position="24" next_position="11" modifier_word_position="26" modifier_word_length="26" end="-1">而是</E_conjunction>
+            <E_phrase start="0" position="36" end="0" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">日益</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="对待的态度，绝对要比对待本国的捐献好得多、严谨得多。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 对待/v  的/u  态度/n  ，/w  绝对/d  要/v  比/p  对待/v  本国/r  的/u  捐献/vn  好/a  得/u  多/a  、/w  严谨/a  得/u  多/a  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">捐献</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">严谨</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.3</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="新加坡都表示了，会把这些文物，当作教材来用。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 新加坡/ns  都/d  表示/v  了/u  ，/w  会/v  把/p  这些/r  文物/n  ，/w  当作/v  教材/n  来用/n  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这就充分地发挥、利用了文物的价值。">
+            <S_no>第5段第5句标注</S_no>
+            <Segmented_S> 这就/n  充分/ad  地/u  发挥/v  、/w  利用/v  了/u  文物/n  的/u  价值/n  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">发挥</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="而在中国，破坏文物、遗迹的丑行，屡见报端；更有甚者，砸毁烈士墓陵这等对死人大为不敬的事，都做得出来，成龙能放心把花了２０年收藏的东西捐出来吗？">
+            <S_no>第5段第6句标注</S_no>
+            <Segmented_S> 而/c  在/p  中国/ns  ，/w  破坏/v  文物/n  、/w  遗迹/n  的/u  丑行/n  ，/w  屡/d  见/v  报端/s  ；/w  更/d  有/v  甚者/n  ，/w  砸毁/v  烈士墓/n  陵/Ng  这/r  等/u  对/p  死人/n  大为/d  不/d  敬/v  的/u  事/n  ，/w  都/d  做/v  得/u  出来/v  ，/w  成龙/v  能/v  放心/v  把/p  花/n  了/u  ２０/n  年/q  收藏/v  的/u  东西/n  捐/v  出来/v  吗/y  ？</Segmented_S>
+            <S_Length>71</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">破坏</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">丑行</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">砸毁</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">放心</Keywords>
+            <Keywords start="-1" position="69" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">吗</Keywords>
+            <noword start="-1" position="39" modifier_word_position="40" modifier_word_length="1" end="-1">不</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="48" end="-1">而</E_conjunction>
+            <E_phrase start="16" position="16" end="19" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">屡</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="没准，这批文物的应有价值体现不出来，还是小事，说不定捐出不到一个月，便被人偷盗走了，或者给破坏掉了；更有可能直接转变成人民币，充进某类官人的腰包里了。">
+            <S_no>第5段第7句标注</S_no>
+            <Segmented_S> 没准/n  ，/w  这/r  批/q  文物/n  的/u  应有/vn  价值/n  体现/v  不/d  出来/v  ，/w  还是/c  小事/n  ，/w  说不定/l  捐/v  出/v  不/d  到/v  一个/m  月/n  ，/w  便/d  被/p  人/n  偷盗/v  走/v  了/u  ，/w  或者/c  给/p  破坏/v  掉/v  了/u  ；/w  更/d  有/v  可能/n  直接/ad  转变/v  成/v  人民币/n  ，/w  充/v  进/v  某/r  类/q  官人/n  的/u  腰包/n  里/f  了/y  。</Segmented_S>
+            <S_Length>75</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">价值</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">说不定</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">偷盗</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">破坏</Keywords>
+            <degree_adv start="-1" position="50" modifier_word_position="52" modifier_word_length="2" end="-1">更</degree_adv>
+            <noword start="-1" position="14" modifier_word_position="15" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="42" next_position="42" modifier_word_position="44" modifier_word_length="5" end="-1">或者</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.7</Anger>
+        <Expect>0.0</Expect>
+        <Topic>正当 成龙 捐献</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="捐献，只要超出法律、法规之外，便属正当的个人行为。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>捐献/v  ，/w  只要/c  超出/v  法律/n  、/w  法规/n  之/u  外/f  ，/w  便/d  属/v  正当/a  的/u  个人/n  行为/n  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">捐献</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">正当</Keywords>
+            <E_conjunction start="-1" position="3" next_position="3" modifier_word_position="5" modifier_word_length="9" end="-1">只要</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="虽说成龙捐献的是明清两代的遗物，但有人士咨询过相关律师了。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 虽说/c  成龙/v  捐献/v  的/u  是/v  明清/t  两/m  代/q  的/u  遗物/n  ，/w  但/c  有人/r  士/v  咨询/Ng  过/v  相关/vn  律师/n  了/y  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="“这批古物既然能被成龙买走，就可以证明它并非是国家级保护文物。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> “/w  这/r  批/q  古物/n  既然/c  能/v  被/p  成龙/v  买/v  走/v  ，/w  就/d  可以/v  证明/v  它/r  并非/v  是/v  国家级/b  保护/vn  文物/n  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”既然不算是国家级保护文物，那成龙当然有权力，拿出来，发挥下他的热心肠了。">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> ”/w  既然/c  不/d  算是/v  国家级/b  保护/vn  文物/n  ，/w  那/r  成龙/q  当然有/n  权力/n  ，/w  拿/v  出来/v  ，/w  发挥/v  下/f  他/r  的/u  热心肠/n  了/y  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">发挥</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">热心肠</Keywords>
+            <noword start="-1" position="3" modifier_word_position="4" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="1" next_position="14" modifier_word_position="3" modifier_word_length="10" end="-1">既然</E_conjunction>
+            <E_conjunction start="-1" position="14" next_position="1" modifier_word_position="15" modifier_word_length="21" end="-1">那</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="话又说回来，这批文物如果真是国家级保护文物，为什么国家就转卖给了民间？">
+            <S_no>第6段第5句标注</S_no>
+            <Segmented_S> 话/n  又/d  说/v  回来/v  ，/w  这/r  批/q  文物/n  如果/c  真是/v  国家级/b  保护/vn  文物/n  ，/w  为什么/r  国家/n  就/d  转卖/v  给/p  了/u  民间/n  ？</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">为什么</Keywords>
+            <E_conjunction start="-1" position="10" next_position="10" modifier_word_position="12" modifier_word_length="9" end="-1">如果</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这也充分暴露了，在中国，文物远远是比不上实在的货币。">
+            <S_no>第6段第6句标注</S_no>
+            <Segmented_S> 这也/n  充分/ad  暴露/v  了/u  ，/w  在/p  中国/ns  ，/w  文物/n  远远/d  是/v  比不上/n  实在/d  的/u  货币/n  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.5">暴露</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">比不上</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.6</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="文物既然得不到应有的重视，成龙把文物捐给有此需要的人、国家，文物还得感谢成龙呢。">
+            <S_no>第6段第7句标注</S_no>
+            <Segmented_S> 文物/n  既然/c  得/v  不/d  到/v  应/v  有/v  的/u  重视/vn  ，/w  成龙/v  把/p  文物/n  捐给/n  有此/v  需要/n  的/u  人/n  、/w  国家/n  ，/w  文物/n  还/d  得/v  感谢/v  成/v  龙/n  呢/y  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">需要</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感谢</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">呢</Keywords>
+            <noword start="4" position="4" modifier_word_position="10" modifier_word_length="2" end="6">得</noword>
+            <E_conjunction start="-1" position="2" next_position="2" modifier_word_position="4" modifier_word_length="8" end="-1">既然</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="要不是成龙花钱买来收藏，保不定在这２０年里，早就给人当柴烧了，或者当废墙给推倒了。">
+            <S_no>第6段第8句标注</S_no>
+            <Segmented_S> 要/v  不/d  是/v  成龙/v  花钱/v  买/v  来/v  收藏/v  ，/w  保不定/v  在这/n  ２０/v  年/q  里/f  ，/w  早就/d  给/p  人/n  当/v  柴/n  烧/v  了/u  ，/w  或者/c  当/v  废/v  墙/n  给/p  推倒/v  了/u  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">保不定</Keywords>
+            <E_conjunction start="-1" position="31" next_position="31" modifier_word_position="33" modifier_word_length="7" end="-1">或者</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>荣耀 成龙 个人行为</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="所以，别以爱不爱国来论事，成龙做的，只是属个人捐献行为，没那么高尚地、光荣地划分到爱不爱国的范畴里。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>所以/c  ，/w  别/d  以/p  爱/v  不/d  爱国/a  来/v  论事/v  ，/w  成龙/v  做/v  的/u  ，/w  只是/c  属/v  个人/n  捐献/v  行为/n  ，/w  没/d  那么/r  高尚/a  地/u  、/w  光荣/a  地/u  划分/v  到/v  爱/v  不/d  爱国/a  的/u  范畴/n  里/f  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爱</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爱国</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高尚</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">光荣</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爱</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爱国</Keywords>
+            <noword start="-1" position="3" modifier_word_position="10" modifier_word_length="2" end="-1">别</noword>
+            <noword start="-1" position="6" modifier_word_position="7" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="28" modifier_word_position="38" modifier_word_length="2" end="-1">没</noword>
+            <noword start="-1" position="42" modifier_word_position="43" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="9" end="-1">所以</E_conjunction>
+            <E_conjunction start="-1" position="18" next_position="18" modifier_word_position="20" modifier_word_length="7" end="-1">只是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="成龙把属于个人的行为，让新加坡翘指称道，大赞中国的热忱与友好，反而为国争了不少荣耀，何乐而不为？">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 成龙/nr  把/p  属于/v  个人/n  的/u  行为/n  ，/w  让/v  新加坡/ns  翘/ns  指/v  称道/v  ，/w  大/d  赞/Vg  中国/ns  的/u  热忱/n  与/p  友好/a  ，/w  反而/d  为/p  国/n  争了/n  不少/m  荣耀/a  ，/w  何乐而不为/l  ？</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="15" position="15" end="18" Surprise="0" Sorrow="0" POS="ns" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">翘</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">热忱</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">友好</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">荣耀</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">何乐而不为</Keywords>
+            <E_phrase start="20" position="20" end="21" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大</E_phrase>
+            <Rhetoric E_type="喜爱">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.6</Anger>
+        <Expect>0.6</Expect>
+        <Topic>国人的嘴 积极口德</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="国人的嘴，请为子孙后代，积积口德吧，老这样没头脑地乱骂，以后还有谁敢在国内做好事？">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>国人/n  的/u  嘴/n  ，/w  请/v  为/v  子孙/n  后代/n  ，/w  积/v  积/v  口德/n  吧/y  ，/w  老/a  这样/r  没头脑/v  地/u  乱/d  骂/v  ，/w  以后/f  还有/v  谁/r  敢/v  在/p  国内/s  做/v  好事/n  ？</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">请</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">口德</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">吧</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">没头脑</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.5">乱</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.4">骂</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">敢</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好事</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="只会逼着名人、大人物都往外国申办国籍，做个外国人，再来为中国做好事不成？">
+            <S_no>第8段第2句标注</S_no>
+            <Segmented_S> 只会/n  逼/v  着/u  名人/n  、/w  大人物/n  都/d  往/p  外国/n  申办/v  国籍/n  ，/w  做/v  个/q  外国人/n  ，/w  再/d  来/v  为/p  中国/ns  做/v  好事/n  不/d  成/v  ？</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">逼</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好事</Keywords>
+            <noword start="-1" position="33" modifier_word_position="34" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.4</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

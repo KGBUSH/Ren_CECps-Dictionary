@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.6</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.7</Anger>
+    <Expect>0.0</Expect>
+    <Topic>石油巨头 暴利 垄断</Topic>
+    <title T="石油巨头非获“暴利”不可吗？">
+        <Segmented_S>石油/n  巨头/n  非/h  获/v  “/w  暴利/n  ”/w  不可/v  吗/y  ？/w</Segmented_S>
+        <S_Length>14</S_Length>
+        <Keywords start="-1" position="5" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">获</Keywords>
+        <Keywords start="-1" position="7" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.5" Expect="0.0" Anxiety="0.0" Anger="0.0">暴利</Keywords>
+        <Keywords start="-1" position="12" end="-1" Surprise="0.0" Sorrow="0.0" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.5" Expect="0.0" Anxiety="0.0" Anger="0.0">吗</Keywords>
+        <noword start="-1" position="10" modifier_word_position="4" modifier_word_length="6" end="-1">不可</noword>
+        <Rhetoric E_type="憎恨">反问</Rhetoric>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <punctuation E_type="憎恨">“ ”</punctuation>
+        <punctuation E_type="憎恨">？</punctuation>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>亏损 成品油价 上调</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="昨天，中国石油和化学工业协会公布，上半年，尽管国家给了大量补贴，成品油价也作了小步上调，但中石油、中石化两公司的炼油企业仍严重亏损达５７．１亿元，比上年同期增亏４７．９％。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>昨天/t  ，/w  中国/ns  石油/n  和/c  化学工业/l  协会/n  公布/v  ，/w  上半年/t  ，/w  尽管/c  国家/n  给/p  了/u  大量/m  补贴/n  ，/w  成品油/n  价/n  也/d  作/v  了/u  小步/n  上调/v  ，/w  但/c  中/j  石油/n  、/w  中石化/n  两/m  公司/n  的/u  炼油/vn  企业/n  仍/d  严重/ad  亏损/v  达/v  ５７．１亿/m  元/q  ，/w  比/p  上年/t  同期/d  增亏/v  ４７．９％/n  。</Segmented_S>
+            <S_Length>86</S_Length>
+            <Keywords start="-1" position="29" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.2" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">补贴</Keywords>
+            <Keywords start="-1" position="63" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.5" Anger="0.0">亏损</Keywords>
+            <Keywords start="-1" position="78" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.5" Anger="0.0">增亏</Keywords>
+            <degree_adv start="-1" position="61" modifier_word_position="63" modifier_word_length="2" end="-1">严重</degree_adv>
+            <E_conjunction start="-1" position="21" next_position="44" modifier_word_position="23" modifier_word_length="20" end="-1">尽管</E_conjunction>
+            <E_conjunction start="-1" position="44" next_position="21" modifier_word_position="45" modifier_word_length="36" end="-1">但</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="据介绍，石化行业总产值３．０７万亿元，同比增长３０．２％，增幅同比提高９个百分点；但利润总额２７９０亿元，同比增长２．５％，增幅同比回落２４．９个百分点。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 据/p  介绍/v  ，/w  石化/j  行业/n  总产值/n  ３．０/m  ７万亿/n  元/q  ，/w  同比/j  增长/v  ３０．２％/m  ，/w  增幅/n  同比/j  提高/v  ９/n  个/q  百分点/n  ；/w  但/c  利润/n  总额/n  ２７９０亿/m  元/q  ，/w  同比/j  增长/v  ２．５％/m  ，/w  增幅/n  同比/j  回落/v  ２４．９/n  个/q  百分点/n  。</Segmented_S>
+            <S_Length>77</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="　化工协会副秘书长冯世良认为，现在国内成品油价还有上调空间。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 　/n  化工/n  协会/n  副/b  秘书长/n  冯/nr  世良/nr  认为/v  ，/w  现在/t  国内/s  成品/n  油价/n  还有/v  上调/v  空间/n  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.2" Anxiety="0.0" Anger="0.0">认为</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.4" Anxiety="0.0" Anger="0.0">还有</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">上调</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="9" position="9" end="11">冯</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="如果国际油价继续高位运行，国内成品油价再次上调是有可能的。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 如果/c  国际/n  油价/n  继续/v  高位/v  运行/n  ，/w  国内/s  成品油/n  价/n  再次/d  上调/v  是/v  有/v  可能/n  的/u  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.4" Anxiety="0.0" Anger="0.0">继续</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.5" Anxiety="0.0" Anger="0.0">可能</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="10" end="-1">如果</E_conjunction>
+            <E_phrase start="8" position="8" end="11" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">高位</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="（据７月２１日《京华时报》）">
+            <S_no>第1段第5句标注</S_no>
+            <Segmented_S> （/w  据/p  ７月/n  ２１日/v  《/w  京华/n  时报/n  》/w  ）/w</Segmented_S>
+            <S_Length>14</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.3</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.5</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="近年来，随着国际原油价格的不断攀升，国内石油巨头的“叫亏”以及“喊涨”之声也越来越响。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>近年来/l  ，/w  随着/p  国际/n  原油/n  价格/n  的/u  不断/d  攀升/v  ，/w  国内/s  石油/n  巨头/n  的/u  “/w  叫/v  亏/v  ”/w  以及/c  “/w  喊/v  涨/v  ”/w  之声/n  也/d  越来越/d  响/a  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.5" Anger="0.0">攀升</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.2" Expect="0.0" Anxiety="0.0" Anger="0.0">巨头</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">响</Keywords>
+            <degree_adv start="-1" position="13" modifier_word_position="15" modifier_word_length="2" end="-1">不断</degree_adv>
+            <degree_adv start="-1" position="38" modifier_word_position="41" modifier_word_length="1" end="-1">越来越</degree_adv>
+            <E_phrase start="26" position="26" end="27" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">叫</E_phrase>
+            <E_phrase start="32" position="32" end="33" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">喊</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“ ”</punctuation>
+            <punctuation E_type="憎恨">“ ”</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="到底亏了多少？">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 到底/d  亏/v  了/u  多少/r  ？</Segmented_S>
+            <S_Length>7</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.2" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">到底</Keywords>
+            <Keywords start="-1" position="2" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">亏</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0.2" Sorrow="0.0" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">多少</Keywords>
+            <Rhetoric E_type="憎恨">设问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.3</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="哦，炼油企业亏损达到５７．１亿元，这确实是一个不小的数字。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 哦/n  ，/w  炼油/v  企业/n  亏损/vn  达到/v  ５７．１亿/m  元/q  ，/w  这/r  确实/ad  是/v  一个/m  不/d  小的/v  数字/n  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.1" Anger="0.0">哦</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="vn" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">亏损</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0.0" Sorrow="0.0" POS="ad" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.2" Anger="0.0">确实</Keywords>
+            <noword start="23" position="23" modifier_word_position="24" modifier_word_length="1" end="23">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="可是，另一个数字却让我吃了一惊：利润总额２７９０亿元，同比增长２．５％。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 可是/c  ，/w  另/r  一个/m  数字/n  却/d  让/v  我/r  吃/v  了/u  一惊/n  ：/w  利润/n  总额/n  ２７９０亿/m  元/q  ，/w  同比/j  增长/v  ２．５％/m  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">利润</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">增长</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="12" end="-1">可是</E_conjunction>
+            <E_phrase start="11" position="11" end="14" Surprise="0.6" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">吃</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.6</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.4</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="原来，在炼油企业亏损５７．１亿元的情况下，两家石油巨头还赚了２７９０亿，而且利润率还在增长！">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>原/b  来/v  ，/w  在/p  炼油/v  企业/n  亏损/vn  ５７．１亿/n  元/q  的/u  情况/n  下/f  ，/w  两/m  家/q  石油/n  巨头/n  还/d  赚/v  了/u  ２７９０亿/n  ，/w  而且/c  利润率/n  还/d  在/p  增长/v  ！</Segmented_S>
+            <S_Length>46</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0.0" Sorrow="0.0" POS="vn" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">亏损</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.6" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">赚</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">利润率</Keywords>
+            <Keywords start="41" position="41" end="42" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.3" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">还</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.6" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">增长</Keywords>
+            <degree_adv start="-1" position="27" modifier_word_position="28" modifier_word_length="1" end="-1">还</degree_adv>
+            <E_conjunction start="-1" position="36" next_position="36" modifier_word_position="38" modifier_word_length="7" end="-1">而且</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="也就是说，虽然炼油厂在赔钱，但其他环节在大赚特赚，而且越赚越多。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 也/d  就/d  是/v  说/v  ，/w  虽然/c  炼油厂/n  在/p  赔钱/v  ，/w  但/c  其他/r  环节/n  在/p  大赚/n  特/d  赚/v  ，/w  而且/c  越/d  赚/v  越/d  多/a  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">赔钱</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.2" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">多</Keywords>
+            <degree_adv start="-1" position="27" modifier_word_position="28" modifier_word_length="1" end="-1">越</degree_adv>
+            <degree_adv start="-1" position="29" modifier_word_position="30" modifier_word_length="1" end="-1">越</degree_adv>
+            <E_conjunction start="-1" position="5" next_position="14" modifier_word_position="7" modifier_word_length="6" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="14" next_position="5" modifier_word_position="15" modifier_word_length="9" end="-1">但</E_conjunction>
+            <E_conjunction start="-1" position="25" next_position="25" modifier_word_position="27" modifier_word_length="4" end="-1">而且</E_conjunction>
+            <E_phrase start="20" position="20" end="23" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.6" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">大赚</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="要知道，最近的一次成品油涨价是６月２０日，上半年只有１０天享受到涨价后待遇，基本上可以忽略不计，这意味着那２７９０亿元的天量利润以及２．５％的同比增长都是在原来价位上赚来的。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 要/v  知道/v  ，/w  最近/t  的/u  一/m  次/q  成品油/n  涨价/v  是/v  ６月/n  ２０日/v  ，/w  上半年/t  只/d  有/v  １０/n  天/n  享受/v  到/v  涨价/v  后/f  待遇/n  ，/w  基本上/d  可以/v  忽略/v  不/d  计/v  ，/w  这/r  意味/v  着/u  那/r  ２７９０亿/n  元/q  的/u  天/n  量/n  利润/n  以及/c  ２．５％/n  的/u  同比/j  增长/v  都/d  是/v  在/p  原来/b  价位/n  上/f  赚/v  来/v  的/u  。</Segmented_S>
+            <S_Length>87</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.3" Anger="0.0">涨价</Keywords>
+            <Keywords start="24" position="24" end="25" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.2" Anger="0.0">只</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">享受</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">涨价</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">待遇</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.3" Anxiety="0.0" Anger="0.0">可以</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.2" Anxiety="0.0" Anger="0.0">意味</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">利润</Keywords>
+            <Keywords start="-1" position="73" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">增长</Keywords>
+            <Keywords start="-1" position="83" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">赚</Keywords>
+            <degree_adv start="-1" position="38" modifier_word_position="41" modifier_word_length="2" end="-1">基本上</degree_adv>
+            <E_phrase start="0" position="0" end="2" Surprise="0.4" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">要</E_phrase>
+            <E_phrase start="43" position="43" end="46" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.2" Anxiety="0.0" Anger="0.0">忽略</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.4</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在成品油价格上调８％以后，下半年的利润以及增长速度肯定更加可观。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 在/p  成品油/n  价格/n  上调/v  ８％/n  以后/f  ，/w  下半年/t  的/u  利润/n  以及/c  增长/v  速度/n  肯定/d  更加/d  可观/a  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.3" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">上调</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.5" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">利润</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">增长</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">可观</Keywords>
+            <degree_adv start="-1" position="27" modifier_word_position="29" modifier_word_length="2" end="-1">更加</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.3</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.4</Expect>
+        </sentence>
+        <sentence S="然而，就在这样的情况下，两大石油巨头竟然还在天天“叫亏”！">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> 然而/c  ，/w  就/d  在/p  这样/r  的/u  情况/n  下/f  ，/w  两/m  大/a  石油/n  巨头/n  竟然/d  还/d  在/p  天天/d  “/w  叫/v  亏/v  ”/w  ！</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0.4" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.4">竟然</Keywords>
+            <degree_adv start="-1" position="22" modifier_word_position="24" modifier_word_length="4" end="-1">天天</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="24" end="-1">然而</E_conjunction>
+            <E_phrase start="25" position="25" end="26" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.6" Expect="0.0" Anxiety="0.0" Anger="0.0">叫</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“ ”</punctuation>
+            <punctuation E_type="生气">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.4</Surprise>
+            <Anger>0.2</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.7</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="炼油企业同期增亏４７．９％，幅度确实不小，但其他环节的企业增赢多少，为何不说呢？">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>炼油/v  企业/n  同期/d  增亏/v  ４７．９％/n  ，/w  幅度/n  确实/ad  不/d  小/a  ，/w  但/c  其他/r  环节/n  的/u  企业/n  增/v  赢/v  多少/r  ，/w  为何/r  不/d  说/v  呢/y  ？</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">增亏</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.1" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">小</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">增</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">赢</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0.0" Sorrow="0.0" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.6">为何</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0.0" Sorrow="0.0" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.6">呢</Keywords>
+            <degree_adv start="-1" position="16" modifier_word_position="18" modifier_word_length="2" end="-1">确实</degree_adv>
+            <noword start="-1" position="18" modifier_word_position="19" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="36" modifier_word_position="37" modifier_word_length="1" end="-1">不</noword>
+            <E_conjunction start="-1" position="21" next_position="21" modifier_word_position="22" modifier_word_length="17" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="生气">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.6</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="利润增幅同比回落２４．９％，幅度确实挺大，但仍然增长了２．５％，这还不够吗？">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 利润/n  增幅/n  同比/j  回落/v  ２４．９％/n  ，/w  幅度/n  确实/ad  挺/d  大/a  ，/w  但/c  仍然/d  增长/v  了/u  ２．５％/n  ，/w  这还/v  不/d  够/v  吗/y  ？</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">回落</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0.0" Sorrow="0.2" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">大</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">增长</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.3" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">够</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0.0" Sorrow="0.0" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.7">吗</Keywords>
+            <degree_adv start="-1" position="16" modifier_word_position="18" modifier_word_length="2" end="-1">确实</degree_adv>
+            <degree_adv start="-1" position="18" modifier_word_position="19" modifier_word_length="1" end="-1">挺</degree_adv>
+            <degree_adv start="-1" position="22" modifier_word_position="24" modifier_word_length="2" end="-1">仍然</degree_adv>
+            <noword start="-1" position="34" modifier_word_position="35" modifier_word_length="1" end="-1">不</noword>
+            <E_conjunction start="-1" position="21" next_position="21" modifier_word_position="22" modifier_word_length="6" end="-1">但</E_conjunction>
+            <E_phrase start="0" position="32" end="0" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.7">这还</E_phrase>
+            <Rhetoric E_type="生气">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="生气">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="利润总额２７９０亿元，生产总值３．０７万亿元，利润率超过９％，而且这基本上是涨价前的业绩，全年的利润率肯定是两位数，而世界５００强的平均利润率只有７．３％&#8212;&#8212;难道中国的石油巨头非获“暴利”不可吗？">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 利润/n  总额/n  ２７９０亿/m  元/q  ，/w  生产/v  总值/n  ３．０/m  ７万亿/n  元/q  ，/w  利润率/n  超过/v  ９％/m  ，/w  而且/c  这/r  基本上/d  是/v  涨价/v  前/f  的/u  业绩/n  ，/w  全年/n  的/u  利润率/n  肯定/d  是/v  两/m  位/q  数/n  ，/w  而/c  世界/n  ５００/n  强/a  的/u  平均/a  利润率/n  只/d  有/v  ７．３％/n  &#8212;&#8212;/w  难道/d  中国/ns  的/u  石油/n  巨头/n  非/h  获/v  “/w  暴利/n  ”/w  不可/v  吗/y  ？</Segmented_S>
+            <S_Length>98</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">利润</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">利润率</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">超过</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.2" Anger="0.0">涨价</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">业绩</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">利润率</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.4" Anxiety="0.0" Anger="0.0">肯定</Keywords>
+            <Keywords start="-1" position="68" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">利润率</Keywords>
+            <Keywords start="71" position="71" end="72" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.2" Anger="0.0">只</Keywords>
+            <Keywords start="-1" position="79" end="-1" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.8">难道</Keywords>
+            <Keywords start="-1" position="91" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.7" Expect="0.0" Anxiety="0.0" Anger="0.0">暴利</Keywords>
+            <Keywords start="-1" position="96" end="-1" Surprise="0.0" Sorrow="0.0" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.7" Expect="0.0" Anxiety="0.0" Anger="0.8">吗</Keywords>
+            <noword start="-1" position="94" modifier_word_position="88" modifier_word_length="6" end="-1">不可</noword>
+            <E_conjunction start="-1" position="31" next_position="31" modifier_word_position="33" modifier_word_length="11" end="-1">而且</E_conjunction>
+            <E_conjunction start="-1" position="58" next_position="58" modifier_word_position="59" modifier_word_length="15" end="-1">而</E_conjunction>
+            <Rhetoric E_type="生气">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“ ”</punctuation>
+            <punctuation E_type="生气">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.8</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.1</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.7</Anger>
+        <Expect>0.1</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="追求利润的最大化是市场化企业的正常追求，但国有企业不应该这样，国有垄断企业更不能这样。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>追求/v  利润/n  的/u  最大化/v  是/v  市场化/v  企业/n  的/u  正常/a  追求/vn  ，/w  但/c  国有/vn  企业/n  不/d  应该/v  这样/r  ，/w  国有/vn  垄断/vn  企业/n  更/d  不/d  能/v  这样/r  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">追求</Keywords>
+            <Keywords start="-1" position="2" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">利润</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">最大化</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">正常</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0.0" Sorrow="0.0" POS="vn" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">追求</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.4">应该</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0.0" Sorrow="0.0" POS="vn" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.4">垄断</Keywords>
+            <noword start="-1" position="25" modifier_word_position="26" modifier_word_length="2" end="-1">不</noword>
+            <noword start="38" position="38" modifier_word_position="40" modifier_word_length="2" end="39">不</noword>
+            <E_conjunction start="-1" position="20" next_position="20" modifier_word_position="21" modifier_word_length="9" end="-1">但</E_conjunction>
+            <E_phrase start="37" position="37" end="39" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">更</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.4</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="对于垄断企业来说，获取暴利太容易了，尤其是像石油这种需求比较刚性的资源性产品，即使价格番一翻，该用的还是要用。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 对于/p  垄断/v  企业/n  来说/u  ，/w  获取/v  暴利/n  太/d  容易/a  了/y  ，/w  尤其/d  是/v  像/p  石油/n  这种/r  需求/n  比较/d  刚性/a  的/u  资源性/n  产品/n  ，/w  即使/c  价格/n  番/v  一翻/n  ，/w  该用/v  的/u  还是/d  要/v  用/p  。</Segmented_S>
+            <S_Length>55</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">垄断</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">获取</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">暴利</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.4">容易</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">需求</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">刚性</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">还是</Keywords>
+            <degree_adv start="-1" position="13" modifier_word_position="14" modifier_word_length="2" end="-1">太</degree_adv>
+            <degree_adv start="-1" position="28" modifier_word_position="30" modifier_word_length="2" end="-1">比较</degree_adv>
+            <E_conjunction start="-1" position="18" next_position="18" modifier_word_position="20" modifier_word_length="18" end="-1">尤其</E_conjunction>
+            <E_conjunction start="-1" position="39" next_position="39" modifier_word_position="41" modifier_word_length="5" end="-1">即使</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="然而，像这样获取暴利，与“豪夺”有什么区别？">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 然而/c  ，/w  像/p  这样/r  获取/v  暴利/n  ，/w  与/p  “/w  豪夺/n  ”/w  有/v  什么/r  区别/n  ？</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.4" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">获取</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.5">暴利</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.4">豪夺</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0.0" Sorrow="0.0" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.5">什么</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="7" end="-1">然而</E_conjunction>
+            <Rhetoric E_type="生气">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“ ”</punctuation>
+            <punctuation E_type="生气">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="国有垄断企业是靠公共财政创建并凭行政权力维持垄断地位的。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 国有/vn  垄断/vn  企业/n  是/v  靠/v  公共/b  财政/n  创建/v  并/c  凭/p  行政/n  权力/n  维持/v  垄断/v  地位/n  的/u  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="政府之所以垄断石油等行业，主要是为了控制国家的经济命脉，保持国有经济的控制力（这个理由是否成立另当别论），而不是为了获取超额垄断利润。">
+            <S_no>第5段第5句标注</S_no>
+            <Segmented_S> 政府/n  之所以/c  垄断/v  石油/n  等/u  行业/n  ，/w  主要/d  是/v  为了/p  控制/v  国家/n  的/u  经济/n  命脉/n  ，/w  保持/v  国有/vn  经济/n  的/u  控制力/n  （/w  这个/r  理由/n  是否/v  成立/v  另当别论/n  ）/w  ，/w  而/c  不/d  是/v  为了/p  获取/v  超额/v  垄断/v  利润/n  。</Segmented_S>
+            <S_Length>67</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.4">垄断</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0.0" Sorrow="0.0" POS="p" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.5" Anxiety="0.0" Anger="0.0">为了</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">命脉</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.4" Anxiety="0.0" Anger="0.0">保持</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0.0" Sorrow="0.0" POS="p" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.4" Anxiety="0.0" Anger="0.0">为了</Keywords>
+            <Keywords start="-1" position="58" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.3" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">获取</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">超额</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">垄断</Keywords>
+            <noword start="54" position="54" modifier_word_position="56" modifier_word_length="10" end="55">不</noword>
+            <E_conjunction start="-1" position="2" next_position="2" modifier_word_position="5" modifier_word_length="7" end="-1">之所以</E_conjunction>
+            <E_conjunction start="-1" position="53" next_position="53" modifier_word_position="54" modifier_word_length="12" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.6</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="同时，作为政府部门的延伸，国有垄断企业也应该服从和服务于政府的宏观调控以及社会管理目标。">
+            <S_no>第5段第6句标注</S_no>
+            <Segmented_S> 同时/c  ，/w  作为/p  政府/n  部门/n  的/u  延伸/vn  ，/w  国有/vn  垄断/vn  企业/n  也/d  应该/v  服从/v  和/c  服务/vn  于/p  政府/n  的/u  宏观/n  调控/vn  以及/c  社会/n  管理/vn  目标/n  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.4" Anxiety="0.0" Anger="0.0">应该</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0.0" Sorrow="0.0" POS="vn" Opinionholder="0" Love="0.3" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">服务</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.4</Expect>
+        </sentence>
+        <sentence S="目前，抑制通货膨胀就是政府最重要的任务之一，而成品油价格的上涨必然增大物价上涨的压力。">
+            <S_no>第5段第7句标注</S_no>
+            <Segmented_S> 目前/t  ，/w  抑制/v  通货膨胀/l  就/d  是/v  政府/n  最/d  重要/a  的/u  任务/n  之一/r  ，/w  而/c  成品油/n  价格/n  的/u  上涨/vn  必然/d  增大/v  物价/n  上涨/v  的/u  压力/n  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">抑制</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">重要</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.6" Anger="0.0">压力</Keywords>
+            <degree_adv start="-1" position="13" modifier_word_position="14" modifier_word_length="2" end="-1">最</degree_adv>
+            <degree_adv start="-1" position="31" modifier_word_position="33" modifier_word_length="2" end="-1">必然</degree_adv>
+            <E_conjunction start="-1" position="22" next_position="22" modifier_word_position="23" modifier_word_length="19" end="-1">而</E_conjunction>
+            <E_phrase start="0" position="5" end="0" Surprise="0.0" Sorrow="0.0" POS="l" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">通货膨胀</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在这种情况下，国有垄断的石油巨头怎么还能追求“暴利”甚至采用“逼宫”等手段呢？">
+            <S_no>第5段第8句标注</S_no>
+            <Segmented_S> 在/p  这种/r  情况/n  下/f  ，/w  国有/vn  垄断/vn  的/u  石油/n  巨头/n  怎么/r  还/d  能/v  追求/v  “/w  暴利/n  ”/w  甚至/d  采用/v  “/w  逼/v  宫/Ng  ”/w  等/u  手段/n  呢/y  ？</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0.0" Sorrow="0.0" POS="vn" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">垄断</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">巨头</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0.0" Sorrow="0.0" POS="r" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.4" Anger="0.0">怎么</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.7" Anxiety="0.0" Anger="0.0">追求</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.4">暴利</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">甚至</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">采用</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0.0" Sorrow="0.0" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.3">呢</Keywords>
+            <E_phrase start="18" position="18" end="19" Surprise="0.0" Sorrow="0.0" POS="d" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">还</E_phrase>
+            <E_phrase start="31" position="31" end="32" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.6" Expect="0.0" Anxiety="0.0" Anger="0.0">逼</E_phrase>
+            <Rhetoric E_type="憎恨">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“ ”</punctuation>
+            <punctuation E_type="憎恨">“ ”</punctuation>
+            <punctuation E_type="憎恨">?</punctuation>
+            <punctuation E_type="生气">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.8</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.1</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.1</Anger>
+        <Expect>0.1</Expect>
+        <Topic> 垄断逻辑</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="一个富翁腰缠万贯，却总说某一个口袋是空的，这是不是很好笑？">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>一个/m  富翁/n  腰缠/v  万贯/n  ，/w  却/d  总/d  说/v  某/r  一个/m  口袋/n  是/v  空/a  的/u  ，/w  这/r  是/v  不/d  是/v  很/d  好笑/a  ？</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="26" end="-1" Surprise="0.0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">好笑</Keywords>
+            <degree_adv start="-1" position="25" modifier_word_position="26" modifier_word_length="2" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="9" next_position="9" modifier_word_position="10" modifier_word_length="10" end="-1">却</E_conjunction>
+            <E_phrase start="4" position="4" end="7" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.3" Expect="0.0" Anxiety="0.0" Anger="0.0">腰缠</E_phrase>
+            <Rhetoric E_type="生气">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="生气">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.4</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="现在中国的石油巨头就是这样。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 现在/t  中国/ns  的/u  石油/n  巨头/n  就/d  是/v  这样/r  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">巨头</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="作为集团性的企业，首先应该算大账，而不是算小账。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 作为/p  集团性/n  的/u  企业/n  ，/w  首先/c  应该/v  算/v  大/a  账/n  ，/w  而/c  不/d  是/v  算/v  小账/n  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.5" Anxiety="0.0" Anger="0.0">应该</Keywords>
+            <noword start="18" position="18" modifier_word_position="20" modifier_word_length="3" end="19">不</noword>
+            <E_conjunction start="-1" position="9" next_position="9" modifier_word_position="11" modifier_word_length="5" end="-1">首先</E_conjunction>
+            <E_conjunction start="-1" position="17" next_position="17" modifier_word_position="18" modifier_word_length="5" end="-1">而</E_conjunction>
+            <E_phrase start="13" position="13" end="15" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.5" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.0">算</E_phrase>
+            <E_phrase start="20" position="20" end="22" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">算</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.4</Expect>
+        </sentence>
+        <sentence S="如果石油巨头们觉得某一个口袋不应该空着，那就从其他鼓囊囊的口袋匀一点儿过去就行了，然而它们偏偏不愿意这样做，只是一个劲儿地“叫亏”，这大概就是“垄断逻辑”吧。">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> 如果/c  石油/n  巨头/n  们/k  觉得/v  某/r  一个/m  口袋/n  不/d  应该/v  空/v  着/u  ，/w  那/r  就/d  从/p  其他/r  鼓囊囊/n  的/u  口袋/n  匀/v  一点儿/m  过去/t  就/d  行了/v  ，/w  然而/c  它们/r  偏偏/d  不/d  愿意/v  这样/r  做/v  ，/w  只是/c  一个/m  劲儿/n  地/u  “/w  叫/v  亏/v  ”/w  ，/w  这/r  大概/d  就/d  是/v  “/w  垄断/v  逻辑/n  ”/w  吧/y  。</Segmented_S>
+            <S_Length>79</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">巨头</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.4" Anxiety="0.0" Anger="0.0">应该</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0.0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">鼓囊囊</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.4" Anxiety="0.0" Anger="0.0">行了</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.5" Anxiety="0.0" Anger="0.0">愿意</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0.0" Sorrow="0.0" POS="c" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.4" Expect="0.0" Anxiety="0.0" Anger="0.0">只是</Keywords>
+            <Keywords start="-1" position="77" end="-1" Surprise="0.0" Sorrow="0.0" POS="y" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.4">吧</Keywords>
+            <degree_adv start="-1" position="45" modifier_word_position="47" modifier_word_length="3" end="-1">偏偏</degree_adv>
+            <degree_adv start="-1" position="67" modifier_word_position="69" modifier_word_length="2" end="-1">大概</degree_adv>
+            <noword start="-1" position="14" modifier_word_position="15" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="47" modifier_word_position="48" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="0" next_position="20" modifier_word_position="2" modifier_word_length="17" end="-1">如果</E_conjunction>
+            <E_conjunction start="-1" position="20" next_position="20" modifier_word_position="21" modifier_word_length="19" end="-1">那</E_conjunction>
+            <E_conjunction start="-1" position="41" next_position="41" modifier_word_position="43" modifier_word_length="10" end="-1">然而</E_conjunction>
+            <E_phrase start="31" position="31" end="34" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.4" Anxiety="0.0" Anger="0.0">匀</E_phrase>
+            <E_phrase start="62" position="62" end="63" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.0" Expect="0.0" Anxiety="0.0" Anger="0.4">叫</E_phrase>
+            <E_phrase start="72" position="72" end="75" Surprise="0.0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0.0" Joy="0.0" Hate="0.7" Expect="0.0" Anxiety="0.0" Anger="0.4">垄断</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“ ”</punctuation>
+            <punctuation E_type="生气">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.4</Anger>
+            <Expect>0.4</Expect>
+        </sentence>
+    </paragraph>
+</document>

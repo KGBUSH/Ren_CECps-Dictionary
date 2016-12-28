@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <title T="成龙来访">
+        <Segmented_S>成/nr  龙/nr  来访/v</Segmented_S>
+        <S_Length>4</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="成龙先生要来博物馆参观，助手提前打来电话，说成龙先生对我在《百家讲坛》讲座很感兴趣，我以为是客套话，也没太在意，只是觉得银幕上的英雄哪儿都会有人欢迎。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>成龙/nr  先生/n  要/v  来/v  博物馆/n  参观/v  ，/w  助手/n  提前/v  打/v  来/v  电话/n  ，/w  说/v  成龙/v  先生/n  对/p  我在/n  《/w  百/m  家/q  讲坛/n  》/w  讲座/n  很/d  感/Vg  兴趣/n  ，/w  我以为/v  是/v  客套话/n  ，/w  也/d  没/d  太/d  在意/v  ，/w  只是/c  觉得/v  银幕/n  上/f  的/u  英雄/n  哪儿/n  都/d  会/v  有人/r  欢迎/v  。</Segmented_S>
+            <S_Length>75</S_Length>
+            <Keywords start="-1" position="64" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">英雄</Keywords>
+            <Keywords start="-1" position="72" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">欢迎</Keywords>
+            <degree_adv start="-1" position="37" modifier_word_position="38" modifier_word_length="3" end="-1">很</degree_adv>
+            <noword start="-1" position="51" modifier_word_position="53" modifier_word_length="2" end="-1">没</noword>
+            <E_phrase start="38" position="38" end="40" Surprise="0" Sorrow="0" POS="Vg" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.5</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>成龙</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="一进博物馆，成龙就对我说看了我的讲座，并随便举例说明。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>一/m  进/v  博物馆/n  ，/w  成龙/v  就/d  对/p  我说/n  看/v  了/u  我的/n  讲座/n  ，/w  并/c  随便/ad  举例/v  说明/v  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在陶瓷馆，我简单地讲解中有一句话刚说，他就说这一段你在电视中讲过，这就让我开始惊讶。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 在/p  陶瓷/n  馆/Ng  ，/w  我/r  简单/a  地/u  讲解/v  中/f  有/v  一/m  句/q  话/n  刚/d  说/v  ，/w  他/r  就/d  说/v  这/r  一/m  段/q  你/r  在/p  电视/n  中/f  讲/v  过/u  ，/w  这/r  就/d  让/v  我/r  开始/v  惊讶/a  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="39" end="-1" Surprise="0.5" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">惊讶</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.5</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我意识到他看《百家讲坛》讲座是认真的，没有敷衍了事，愿意认真倾听，倾听传统文化的声音。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 我/r  意识/n  到/v  他/r  看/v  《/w  百/m  家/q  讲坛/n  》/w  讲座/n  是/v  认真/ad  的/u  ，/w  没有/v  敷衍了事/i  ，/w  愿意/v  认真/ad  倾听/v  ，/w  倾听/v  传统/a  文化/n  的/u  声音/n  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">认真</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">敷衍了事</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">愿意</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">认真</Keywords>
+            <noword start="-1" position="19" modifier_word_position="21" modifier_word_length="4" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="这让我对成龙先生的了解变得具体而丰满，我心目中的成龙是影坛巨星，为亚洲人（不仅仅是中国人）争了光，尤其打入好莱坞，没有真本事，凭运气是完全不可能的。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>这/r  让/v  我对/n  成龙/v  先生/n  的/u  了解/vn  变/v  得/u  具体/a  而/c  丰满/a  ，/w  我心/r  目中/n  的/u  成龙/n  是/v  影坛/n  巨星/v  ，/w  为/p  亚洲人/n  （/w  不仅仅/d  是/v  中国/ns  人/n  ）/w  争/v  了/u  光/n  ，/w  尤其/d  打入/v  好莱坞/ns  ，/w  没有/v  真本事/n  ，/w  凭/p  运气/n  是/v  完全/ad  不/d  可能/v  的/u  。</Segmented_S>
+            <S_Length>74</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">丰满</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">巨星</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">真本事</Keywords>
+            <noword start="-1" position="57" modifier_word_position="59" modifier_word_length="3" end="-1">没有</noword>
+            <noword start="-1" position="69" modifier_word_position="70" modifier_word_length="2" end="-1">不</noword>
+            <E_phrase start="45" position="45" end="47" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">争</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我对今天的社会充满信心，你若是一匹千里马，社会无法将你埋没。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 我对/n  今天/t  的/u  社会/n  充满/v  信心/n  ，/w  你/r  若是/v  一/m  匹/q  千里马/n  ，/w  社会/n  无法/v  将/d  你/r  埋没/v  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0.0" Anxiety="0" Anger="0">信心</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">千里马</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0.3" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">埋没</Keywords>
+            <degree_adv start="-1" position="7" modifier_word_position="9" modifier_word_length="2" end="-1">充满</degree_adv>
+            <noword start="-1" position="23" modifier_word_position="27" modifier_word_length="2" end="-1">无法</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="所以不成功时一定要先想想自己有什么不足，有什么低于别人的地方。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 所以/c  不/d  成功/a  时/Ng  一定/d  要/v  先/d  想想/v  自己/r  有什么/v  不足/a  ，/w  有什么/v  低于/v  别人/r  的/u  地方/n  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="知彼知己，百战不殆，详细解释即为：知彼长知己短，才能胜出。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 知彼/n  知己/v  ，/w  百战不殆/i  ，/w  详细/ad  解释/v  即/d  为/v  ：/w  知/v  彼/r  长/v  知己/n  短/a  ，/w  才/c  能/v  胜/v  出/v  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">百战不殆</Keywords>
+            <E_phrase start="26" position="26" end="27" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">胜</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>敬业精神</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我看过成龙的传记片，对他的敬业精神由衷地钦佩。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>我看/n  过/u  成龙/n  的/u  传记片/n  ，/w  对/p  他/r  的/u  敬业/vn  精神/n  由衷/d  地/u  钦佩/v  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">敬业</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">钦佩</Keywords>
+            <degree_adv start="-1" position="17" modifier_word_position="20" modifier_word_length="2" end="-1">由衷</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="当遇拍摄中的危险时，他说他也怕，但怕也要亲自做，体现一个演员的优秀品质和情操，这一点是他成为亚洲影坛无人能比的巨星的根本原因。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 当/p  遇/v  拍摄/v  中的/n  危险/a  时/Ng  ，/w  他/r  说/v  他/r  也怕/v  ，/w  但/c  怕/v  也/d  要/v  亲自/d  做/v  ，/w  体现/v  一个/m  演员/n  的/u  优秀品质/n  和/c  情操/n  ，/w  这/r  一/m  点/q  是/v  他/r  成为/v  亚洲/ns  影坛/n  无人/v  能/v  比/p  的/u  巨星/n  的/u  根本/a  原因/n  。</Segmented_S>
+            <S_Length>63</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">危险</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">也怕</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">怕</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">优秀品质</Keywords>
+            <Keywords start="50" position="50" end="53" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">无人</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">巨星</Keywords>
+            <E_conjunction start="-1" position="16" next_position="16" modifier_word_position="17" modifier_word_length="6" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.5</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="成龙先生快人快语，我们谈得投机，相约下次再见。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>成龙/nr  先生/n  快人快语/v  ，/w  我们/r  谈/v  得/u  投机/a  ，/w  相约/v  下次/n  再见/v  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">快人快语</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">相约</Keywords>
+            <E_phrase start="11" position="11" end="14" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">谈</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="中国传统文化无论用什么方式传播，都具备极大的魅力，影视作品也好，博物馆的艺术品也好，最代表中国的，就最让世界刮目相看。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 中国/ns  传统/a  文化/n  无论/c  用/p  什么/r  方式/n  传播/v  ，/w  都/d  具备/v  极/d  大/a  的/u  魅力/n  ，/w  影视/b  作品/n  也好/y  ，/w  博物馆/n  的/u  艺术品/n  也好/y  ，/w  最/d  代表/v  中国/ns  的/u  ，/w  就/d  最/d  让/v  世界/n  刮目相看/i  。</Segmented_S>
+            <S_Length>59</S_Length>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">魅力</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">艺术品</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">刮目相看</Keywords>
+            <degree_adv start="19" position="19" modifier_word_position="22" modifier_word_length="2" end="20">极</degree_adv>
+            <degree_adv start="-1" position="42" modifier_word_position="43" modifier_word_length="2" end="-1">最</degree_adv>
+            <degree_adv start="-1" position="50" modifier_word_position="54" modifier_word_length="4" end="-1">最</degree_adv>
+            <E_conjunction start="-1" position="6" next_position="16" modifier_word_position="8" modifier_word_length="7" end="-1">无论</E_conjunction>
+            <E_conjunction start="-1" position="16" next_position="6" modifier_word_position="17" modifier_word_length="7" end="-1">都</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

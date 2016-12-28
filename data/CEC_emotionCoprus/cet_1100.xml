@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <title T="纪念碑">
+        <Segmented_S>纪念碑/n</Segmented_S>
+        <S_Length>3</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="这些天没有心情做事，所有的工作安排都是打起精神，强迫自己完成的。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>这些/r  天/q  没有/d  心情/n  做事/v  ，/w  所有/b  的/u  工作/vn  安排/vn  都/d  是/v  打/v  起/v  精神/n  ，/w  强迫/v  自己/r  完成/v  的/u  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">强迫</Keywords>
+            <noword start="-1" position="3" modifier_word_position="5" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="电视直播的救灾仍在艰苦进行，国际国内的救援组织和个人仍陆续开进灾区，实行人道主义。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 电视/n  直播/v  的/u  救灾/vn  仍/d  在/d  艰苦/a  进行/v  ，/w  国际/n  国内/s  的/u  救援/vn  组织/n  和/c  个人/n  仍/d  陆续/d  开进/v  灾区/n  ，/w  实行/v  人道主义/n  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">艰苦</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">人道主义</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>遇难同胞</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我们遇难的同胞估计人数超过５万。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>我们/r  遇难/v  的/u  同胞/n  估计/v  人数/n  超过/v  ５万/m  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">遇难</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在和平时期，这是多么庞大的数字啊！">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 在/p  和平/a  时期/n  ，/w  这/r  是/v  多么/d  庞大/a  的/u  数字/n  啊/y  ！</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">和平</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.3" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">啊</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="上一次唐山大地震，遇难人数将近２５万人，听起来都不寒而栗，但那也并不是遥远的时期，今天许多人还真切地经历过那场劫难。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 上/f  一/m  次/q  唐山/ns  大/a  地震/n  ，/w  遇/v  难/a  人数/n  将近/d  ２５万/v  人/n  ，/w  听/v  起来/v  都/d  不寒而栗/i  ，/w  但/c  那也/n  并不/d  是/v  遥远/a  的/u  时期/n  ，/w  今天/t  许多/m  人/n  还/d  真切/a  地/u  经历/v  过/u  那场/r  劫难/n  。</Segmented_S>
+            <S_Length>58</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">地震</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0.7" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.0" Anger="0">不寒而栗</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">劫难</Keywords>
+            <noword start="-1" position="32" modifier_word_position="35" modifier_word_length="2" end="-1">并不</noword>
+            <E_conjunction start="-1" position="29" next_position="29" modifier_word_position="30" modifier_word_length="10" end="-1">但</E_conjunction>
+            <E_phrase start="9" position="9" end="10" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">遇</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>安抚伤悲</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="时值今日，生命的奇迹还在发生；但更多的是遇难者，他们的遗体要按科学的方法处置，迅速掩埋，防止疫病发生。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>时值/v  今日/t  ，/w  生命/n  的/u  奇迹/n  还/d  在/p  发生/v  ；/w  但/c  更/d  多/a  的/u  是/v  遇难者/n  ，/w  他们/r  的/u  遗体/n  要/v  按/p  科学/n  的/u  方法/n  处置/v  ，/w  迅速/ad  掩埋/v  ，/w  防止/v  疫病/n  发生/v  。</Segmented_S>
+            <S_Length>51</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">奇迹</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">遇难者</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">遗体</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">疫病</Keywords>
+            <degree_adv start="-1" position="16" modifier_word_position="17" modifier_word_length="1" end="-1">更</degree_adv>
+            <E_conjunction start="-1" position="15" next_position="15" modifier_word_position="16" modifier_word_length="7" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这场地质灾难，对我们远隔千里之外的人们都深感悲痛，那身处灾区的同胞们呢！">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 这/r  场/q  地质/n  灾难/n  ，/w  对/p  我们/r  远隔/v  千/m  里/q  之/u  外/f  的/u  人们/n  都/d  深感/v  悲痛/a  ，/w  那/r  身处/v  灾区/n  的/u  同胞/n  们/k  呢/y  ！</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">灾难</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0.8" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悲痛</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0.3" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">呢</Keywords>
+            <degree_adv start="-1" position="20" modifier_word_position="22" modifier_word_length="2" end="-1">深感</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="他们内心失去亲人的巨大伤悲怎样安抚？">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 他们/r  内心/n  失去/v  亲人/n  的/u  巨大/a  伤/n  悲/v  怎样/r  安抚/v  ？</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">失去</Keywords>
+            <degree_adv start="-1" position="9" modifier_word_position="11" modifier_word_length="2" end="-1">巨大</degree_adv>
+            <E_phrase start="11" position="11" end="12" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伤</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="谁来安抚？">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 谁/r  来/v  安抚/v  ？</Segmented_S>
+            <S_Length>5</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>灾难处理</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="报载，遇难者的认领时间有限，不论认领与否都要按规定在短时间内深埋。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>报载/v  ，/w  遇难者/n  的/u  认领/vn  时间/n  有限/a  ，/w  不论/c  认领/v  与否/n  都/d  要/v  按/p  规定/n  在/p  短/a  时间/n  内/f  深/d  埋/v  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我知这是灾难处理中没办法的办法，甚至是唯一的办法，但我仍愿意为遇难者拍照，ＤＮＡ取样，仍愿意为每一位遇难同胞祷告，愿他们在天之灵得以安息。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 我知/n  这/r  是/v  灾难/n  处理/v  中/f  没/d  办法/n  的/u  办法/n  ，/w  甚至/d  是/v  唯一/b  的/u  办法/n  ，/w  但/c  我仍/n  愿意/v  为/p  遇难者/n  拍照/v  ，/w  ＤＮＡ/v  取样/n  ，/w  仍/d  愿意/v  为/p  每/r  一/m  位/q  遇难/v  同胞/n  祷告/n  ，/w  愿/v  他们/r  在天/v  之灵/n  得以/v  安息/v  。</Segmented_S>
+            <S_Length>69</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">灾难</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">愿意</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">愿意</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">遇难</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">祷告</Keywords>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">愿</Keywords>
+            <noword start="-1" position="9" modifier_word_position="10" modifier_word_length="2" end="-1">没</noword>
+            <E_conjunction start="-1" position="25" next_position="25" modifier_word_position="26" modifier_word_length="16" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>文明</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我们文明的历史中有过许多记载，天灾一直是人类主宰这个星球的敌人，我们在与其对峙中建立了一整套完整的道德体系，掩埋同伴是人类由野蛮走向文明最重要的一步。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>我们/r  文明/a  的/u  历史/n  中/f  有/v  过/u  许多/m  记载/v  ，/w  天灾/n  一直/d  是/v  人类/n  主宰/v  这/r  个/q  星球/n  的/u  敌人/n  ，/w  我们/r  在/p  与/p  其/r  对峙/v  中/f  建立/v  了/u  一整套/m  完整/a  的/u  道德/n  体系/n  ，/w  掩埋/v  同伴/n  是/v  人类/n  由/p  野蛮/a  走向/vn  文明/n  最/d  重要/a  的/u  一/m  步/q  。</Segmented_S>
+            <S_Length>75</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">天灾</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">敌人</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">对峙</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">完整</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">野蛮</Keywords>
+            <Keywords start="-1" position="69" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">重要</Keywords>
+            <degree_adv start="-1" position="68" modifier_word_position="69" modifier_word_length="2" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>纪念碑</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我郑重向政府建议：在汶川地震中心，用捐献款建立地震遇难者纪念碑，籍以悼念他们。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>我/r  郑重/a  向/p  政府/n  建议/n  ：/w  在/p  汶川/n  地震/v  中心/n  ，/w  用/p  捐献/v  款/n  建立/v  地震/n  遇难者/n  纪念碑/n  ，/w  籍/v  以/p  悼念/v  他们/r  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">建议</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0.2" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">地震</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0.2" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">地震</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.0" Anger="0">悼念</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="纪念碑必须镌刻每一个遇难者的姓名，年龄，性别。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 纪念碑/n  必须/d  镌刻/v  每/r  一个/m  遇难者/n  的/u  姓名/n  ，/w  年龄/n  ，/w  性别/n  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">遇难者</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="不能漏掉一名。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 不/d  能/v  漏掉/v  一/m  名/q  。</Segmented_S>
+            <S_Length>7</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="让后人感受人类文明进程中的人道主义温暖，而不再是一组冰冷的数字。">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> 让/v  后人/n  感受/v  人类/n  文明/n  进程/n  中的/v  人道主义/n  温暖/vn  ，/w  而/c  不再/d  是/v  一/m  组/q  冰冷/n  的/u  数字/n  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">让</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">人道主义</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">温暖</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">冰冷</Keywords>
+            <noword start="-1" position="21" modifier_word_position="26" modifier_word_length="5" end="-1">不再</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+    </paragraph>
+</document>

@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.8</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.7</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.7</Anger>
+    <Expect>0.6</Expect>
+    <Topic>素质 手段 良心 负责</Topic>
+    <title T="中国某些富人很没素质">
+        <Segmented_S>中国/ns  某些/r  富人/n  很/d  没/v  素质/n</Segmented_S>
+        <S_Length>10</S_Length>
+        <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+        <degree_adv start="-1" position="6" modifier_word_position="7" modifier_word_length="3" end="-1">很</degree_adv>
+        <noword start="-1" position="7" modifier_word_position="8" modifier_word_length="2" end="-1">没</noword>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.8</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.7</Anger>
+        <Expect>0.0</Expect>
+        <Topic>门槛</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="北京有位房地产老板也是一位政协委员（北京市）说了一个理论，住房价格本身就是控制人口增长与控制人口素质的门槛。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>北京/ns  有位/n  房地产/j  老板/n  也/d  是/v  一/m  位/q  政协/j  委员/n  （/w  北京市/ns  ）/w  说/v  了/u  一个/m  理论/n  ，/w  住房/n  价格/n  本身/r  就/d  是/v  控制/v  人口/n  增长/v  与/c  控制/vn  人口/n  素质/n  的/u  门槛/n  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">控制</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">控制</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">门槛</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="换句话说，有钱买高价房就是有素质，如果我没有理解错的话，这句话也可以引申为：有钱就有素质。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 换句话说/c  ，/w  有钱/a  买/v  高价/n  房/n  就/d  是/v  有/v  素质/n  ，/w  如果/c  我没有/n  理解/v  错/v  的/u  话/n  ，/w  这/r  句/q  话/n  也/d  可以/v  引申/v  为/v  ：/w  有钱/a  就/d  有/v  素质/n  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">错</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <noword start="20" position="19" modifier_word_position="22" modifier_word_length="3" end="21">我没有</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="5" modifier_word_length="11" end="-1">换句话说</E_conjunction>
+            <E_conjunction start="-1" position="17" next_position="17" modifier_word_position="19" modifier_word_length="8" end="-1">如果</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一句非常可笑的话，而我却笑不出来。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 一/m  句/q  非常/d  可笑/a  的话/u  ，/w  而/c  我却/v  笑/v  不/d  出来/v  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">可笑</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="4" modifier_word_length="2" end="-1">非常</degree_adv>
+            <E_conjunction start="-1" position="9" next_position="9" modifier_word_position="10" modifier_word_length="6" end="-1">而</E_conjunction>
+            <E_phrase start="12" position="12" end="15" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">笑</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="可惜我不是政协委员，无法跟他一起开会，不然我会对他大声的说：“中国某些富人很没素质！">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 可惜/v  我不/n  是/v  政协/j  委员/n  ，/w  无法/v  跟/v  他/r  一起/d  开会/v  ，/w  不然/c  我会/v  对/p  他/r  大声/d  的/u  说/v  ：/w  “/w  中国/ns  某些/r  富人/n  很/d  没/v  素质/n  ！</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">可惜</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">无法</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <degree_adv start="-1" position="37" modifier_word_position="38" modifier_word_length="3" end="-1">很</degree_adv>
+            <noword start="3" position="2" modifier_word_position="5" modifier_word_length="4" end="4">我不</noword>
+            <noword start="-1" position="38" modifier_word_position="39" modifier_word_length="2" end="-1">没</noword>
+            <E_conjunction start="-1" position="19" next_position="19" modifier_word_position="21" modifier_word_length="20" end="-1">不然</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="21" position="21" end="21">我会</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”">
+            <S_no>第1段第5句标注</S_no>
+            <Segmented_S> ”/w</Segmented_S>
+            <S_Length>1</S_Length>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.7</Anger>
+        <Expect>0.0</Expect>
+        <Topic>质疑</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="按理，自己挣的钱自己花，凭自身的努力，凭自身的才干，合法致富的人们，我们不应该对他们有任何的偏见和不满。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>按理/d  ，/w  自己/r  挣/v  的/u  钱/n  自己/r  花/v  ，/w  凭/p  自身/r  的/u  努力/an  ，/w  凭/p  自身/r  的/u  才干/n  ，/w  合法/a  致富/vn  的/u  人们/n  ，/w  我们/r  不/d  应该/v  对/p  他们/r  有/v  任何/r  的/u  偏见/n  和/c  不满/a  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="an" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">努力</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">才干</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">合法</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">致富</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0.6">偏见</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0.6">不满</Keywords>
+            <noword start="-1" position="36" modifier_word_position="37" modifier_word_length="14" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="问题是那些通过非正常手段，那些利用自己手中的权利贪污受贿，那些巧取豪夺的为富不仁者，我们有权质疑他们收入的合法性，我们更有权质疑他们的道德和素养。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 问题/n  是/v  那些/r  通过/p  非正常/v  手段/n  ，/w  那些/r  利用/v  自己/r  手中/s  的/u  权利/n  贪污/v  受贿/v  ，/w  那些/r  巧取豪夺/i  的/u  为富不仁/n  者/k  ，/w  我们/r  有权/v  质疑/v  他们/r  收入/v  的/u  合法性/n  ，/w  我们/r  更/d  有权/v  质疑/v  他们/r  的/u  道德/n  和/c  素养/n  。</Segmented_S>
+            <S_Length>73</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">非正常</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">利用</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">贪污</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">受贿</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">巧取豪夺</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">为富不仁</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">有权</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">质疑</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">有权</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">质疑</Keywords>
+            <degree_adv start="-1" position="59" modifier_word_position="60" modifier_word_length="2" end="-1">更</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.6</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.8</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.8</Anger>
+        <Expect>0.0</Expect>
+        <Topic>素质</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="金钱的多少和素质没关系，穷人能够包的起二奶，三奶甚至是四奶吗？">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>金钱/n  的/u  多少/r  和/c  素质/n  没关系/n  ，/w  穷人/n  能够/v  包/v  的/u  起/f  二/m  奶/n  ，/w  三/m  奶/n  甚至/d  是/v  四/m  奶/n  吗/y  ？</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0.3" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">穷人</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">能够</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">吗</Keywords>
+            <Rhetoric E_type="生气">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="生气">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.6</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="穷人能够坐着豪华游艇在公海上彻夜狂赌吗？">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 穷人/n  能够/v  坐/v  着/u  豪华/a  游艇/n  在/p  公海/n  上/f  彻夜/d  狂/v  赌/a  吗/y  ？</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">穷人</Keywords>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">能够</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">豪华</Keywords>
+            <Keywords start="16" position="16" end="17" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">狂</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">吗</Keywords>
+            <Rhetoric E_type="憎恨">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="生气">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="穷人能够雇人强行拆除未动迁居民的住房吗？">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 穷人/n  能够/v  雇人/v  强行/d  拆除/v  未/d  动迁/v  居民/n  的/u  住房/n  吗/y  ？</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.0">穷人</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">强行</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">吗</Keywords>
+            <noword start="-1" position="10" modifier_word_position="11" modifier_word_length="2" end="-1">未</noword>
+            <E_phrase start="0" position="2" end="0" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">能够</E_phrase>
+            <Rhetoric E_type="憎恨">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">？</punctuation>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这些事儿只有富人才能办到。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 这些/r  事儿/n  只/d  有富/v  人/n  才/d  能/v  办到/v  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">办到</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="中国的某些富人当不了高素质，高品质的代表，而一名不文的穷人或者说普普通通的平民百姓，却能常常体现出素质和涵养。">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> 中国/ns  的/u  某些/r  富人/n  当/v  不/d  了/v  高/a  素质/n  ，/w  高/a  品质/n  的/u  代表/n  ，/w  而/c  一/m  名/q  不/d  文/v  的/u  穷人/n  或者说/c  普普通通/v  的/u  平民百姓/i  ，/w  却/d  能/v  常常/d  体现/v  出/v  素质/n  和/c  涵养/n  。</Segmented_S>
+            <S_Length>55</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">品质</Keywords>
+            <Keywords start="22" position="22" end="25" Surprise="0" Sorrow="0.4" POS="m" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">一</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">穷人</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">涵养</Keywords>
+            <noword start="7" position="7" modifier_word_position="10" modifier_word_length="10" end="9">当</noword>
+            <E_conjunction start="-1" position="21" next_position="21" modifier_word_position="22" modifier_word_length="32" end="-1">而</E_conjunction>
+            <E_conjunction start="-1" position="29" next_position="29" modifier_word_position="32" modifier_word_length="9" end="-1">或者说</E_conjunction>
+            <E_conjunction start="-1" position="42" next_position="42" modifier_word_position="43" modifier_word_length="11" end="-1">却</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.4</Expect>
+        <Topic>良心 素质</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="在为汶川地震募捐时，一位身有残疾的乞丐能几次捐献出别人给予他的施舍钱，一位平凡教师能捐出自己的一套新居。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>在/p  为/p  汶川/n  地震/v  募捐/v  时/Ng  ，/w  一/m  位/q  身/Ng  有/v  残疾/n  的/u  乞丐/n  能/v  几/m  次/q  捐献/v  出/v  别人/r  给予/v  他/r  的/u  施舍/n  钱/nr  ，/w  一/m  位/q  平凡/a  教师/n  能/v  捐/v  出/v  自己/r  的/u  一/m  套/q  新居/n  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">地震</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">募捐</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">残疾</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">捐献</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">给予</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">平凡</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="而更多的普通人则用自己的爱心，用各种方式支援灾区的建设。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 而/c  更/d  多/a  的/u  普通人/n  则用/n  自己/r  的/u  爱心/n  ，/w  用/p  各种/r  方式/n  支援/v  灾区/n  的/u  建设/vn  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爱心</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">支援</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">灾区</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">建设</Keywords>
+            <degree_adv start="-1" position="1" modifier_word_position="2" modifier_word_length="1" end="-1">更</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="26" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="解放军武警战士，公司白领，大学生，在职职工，农民工兄弟，下岗人士，他们都不是大富大贵之人，有的本身也还需要社会资助，但他们用行动体现出了中国人的良心，也体现出了什么叫素质。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 解放军/n  武警/n  战士/n  ，/w  公司/n  白领/b  ，/w  大学生/n  ，/w  在/p  职/Ng  职工/n  ，/w  农民工/n  兄弟/n  ，/w  下岗/vn  人士/n  ，/w  他们/r  都/d  不/d  是/v  大富大贵/n  之/u  人/n  ，/w  有的/r  本身/r  也/d  还/d  需要/v  社会/n  资助/v  ，/w  但/c  他们/r  用/p  行动/vn  体现/v  出/v  了/u  中国/ns  人/n  的/u  良心/n  ，/w  也/d  体现/v  出/v  了/u  什么/r  叫/v  素质/n  。</Segmented_S>
+            <S_Length>86</S_Length>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0.5" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">下岗</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大富大贵</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">需要</Keywords>
+            <Keywords start="-1" position="72" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">良心</Keywords>
+            <Keywords start="-1" position="83" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <degree_adv start="-1" position="35" modifier_word_position="36" modifier_word_length="2" end="-1">都</degree_adv>
+            <noword start="36" position="36" modifier_word_position="38" modifier_word_length="6" end="37">不</noword>
+            <E_conjunction start="-1" position="58" next_position="58" modifier_word_position="59" modifier_word_length="26" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.9</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>素质</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="不可否认，一些经济条件不好的民众素质有待提高，与此同时更不可否认，某些先富起来的所谓有钱人同样没有素质。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>不可/v  否认/v  ，/w  一些/m  经济/n  条件/n  不/d  好/a  的/u  民众/n  素质/n  有待/v  提高/v  ，/w  与此/v  同时/d  更/d  不可/v  否认/v  ，/w  某些/r  先富/n  起来/v  的/u  所谓/v  有钱人/n  同样/d  没有/d  素质/n  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.3">否认</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">提高</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.3">否认</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <degree_adv start="-1" position="27" modifier_word_position="28" modifier_word_length="4" end="-1">更</degree_adv>
+            <noword start="-1" position="0" modifier_word_position="2" modifier_word_length="2" end="-1">不可</noword>
+            <noword start="-1" position="11" modifier_word_position="12" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="28" modifier_word_position="30" modifier_word_length="2" end="-1">不可</noword>
+            <noword start="-1" position="47" modifier_word_position="49" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="开着高档车却随口向窗外吐痰，撞着行人之后开车逃跑，或者找人替罪的富人有之。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 开/v  着/u  高档/b  车/n  却/d  随口/d  向/p  窗外/s  吐/v  痰/n  ，/w  撞/v  着/u  行人/n  之/u  后/f  开车/v  逃跑/v  ，/w  或者/c  找人/v  替/p  罪/n  的/u  富人/n  有之/v  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高档</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0.0">随口</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">撞</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">逃跑</Keywords>
+            <E_conjunction start="-1" position="25" next_position="25" modifier_word_position="27" modifier_word_length="9" end="-1">或者</E_conjunction>
+            <E_phrase start="29" position="29" end="30" Surprise="0" Sorrow="0" POS="p" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0.5" Anger="0">替</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="做假帐偷税漏税，故意拖欠下属职工薪金的富人有之。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 做/v  假帐/n  偷税/v  漏税/v  ，/w  故意/d  拖欠/v  下属/n  职工/n  薪/Ng  金/Ng  的/u  富人/n  有之/v  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">假帐</Keywords>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">偷税</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">漏税</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">故意</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">拖欠</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="制假贩假欺瞒消费者，对各级领带大肆行贿的富人有之。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 制假/vn  贩假/vn  欺瞒/n  消费者/n  ，/w  对/p  各级/r  领带/n  大/a  肆行/n  贿/v  的/u  富人/n  有之/v  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">制假</Keywords>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">贩假</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">欺瞒</Keywords>
+            <E_phrase start="17" position="16" end="18" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.9" Expect="0" Anxiety="0" Anger="0">肆行</E_phrase>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="凡此种种恶行难道是有素质之人所为吗？">
+            <S_no>第5段第5句标注</S_no>
+            <Segmented_S> 凡/d  此/r  种种/q  恶行/n  难道/d  是/v  有/v  素质/n  之/u  人/n  所/u  为/v  吗/y  ？</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">恶行</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">难道</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">吗</Keywords>
+            <Rhetoric E_type="憎恨">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.8</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>坏事</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="说句老话：有钱能使鬼推磨。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>说/v  句/q  老话/n  ：/w  有钱/a  能/v  使/v  鬼/n  推磨/v  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="5" position="5" end="11" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">有钱</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="中国的某些富人们为了赚取更多的利润，扩大他的资本积累，什么肮脏龌龊，卑鄙无耻的坏事干不出来？">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 中国/ns  的/u  某些/r  富人/n  们/k  为了/p  赚取/v  更/d  多/a  的/u  利润/n  ，/w  扩大/v  他/r  的/u  资本/n  积累/v  ，/w  什么/r  肮脏/a  龌龊/n  ，/w  卑鄙无耻/v  的/u  坏事/n  干/v  不/d  出来/v  ？</Segmented_S>
+            <S_Length>46</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">赚取</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0.0" Anxiety="0" Anger="0">利润</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">扩大</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">肮脏</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">龌龊</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.9" Expect="0" Anxiety="0" Anger="0">卑鄙无耻</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">坏事</Keywords>
+            <degree_adv start="-1" position="12" modifier_word_position="13" modifier_word_length="1" end="-1">更</degree_adv>
+            <Rhetoric E_type="憎恨">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.7</Anger>
+        <Expect>0.6</Expect>
+        <Topic>负责</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="买的起高房价的人，只能证明有钱，无关乎素质不素质。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>买/v  的/u  起/f  高/a  房价/n  的/u  人/n  ，/w  只/d  能/v  证明/v  有钱/a  ，/w  无/v  关乎/v  素质/n  不/d  素质/n  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <noword start="-1" position="16" modifier_word_position="17" modifier_word_length="2" end="-1">无</noword>
+            <noword start="-1" position="21" modifier_word_position="22" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="希望那位房地产老板，不要因为盲目维护自己的利益而冲昏了头脑。">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 希望/v  那位/r  房地产/j  老板/n  ，/w  不要/d  因为/c  盲目/ad  维护/v  自己/r  的/u  利益/n  而/c  冲昏/v  了/u  头脑/n  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">希望</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">盲目</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">维护</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">利益</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">冲昏</Keywords>
+            <noword start="-1" position="10" modifier_word_position="12" modifier_word_length="17" end="-1">不要</noword>
+            <E_conjunction start="-1" position="12" next_position="12" modifier_word_position="14" modifier_word_length="9" end="-1">因为</E_conjunction>
+            <E_conjunction start="-1" position="23" next_position="23" modifier_word_position="24" modifier_word_length="5" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="自己有政协委员的身份，说出的话要负责，没经过大脑认真思考的话就不要说。">
+            <S_no>第7段第3句标注</S_no>
+            <Segmented_S> 自己/r  有/v  政协/j  委员/n  的/u  身份/n  ，/w  说/v  出/v  的/u  话/n  要/v  负责/v  ，/w  没/d  经过/v  大脑/n  认真/ad  思考/v  的/u  话/n  就/d  不/d  要/v  说/v  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">认真</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">思考</Keywords>
+            <noword start="-1" position="19" modifier_word_position="20" modifier_word_length="8" end="-1">没</noword>
+            <noword start="31" position="31" modifier_word_position="33" modifier_word_length="1" end="32">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="以免说了之后，被别人笑话没素质。">
+            <S_no>第7段第4句标注</S_no>
+            <Segmented_S> 以免/c  说/v  了/u  之/u  后/f  ，/w  被/p  别人/r  笑话/n  没/d  素质/n  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">笑话</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">素质</Keywords>
+            <noword start="-1" position="12" modifier_word_position="13" modifier_word_length="2" end="-1">没</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="4" end="-1">以免</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.6</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

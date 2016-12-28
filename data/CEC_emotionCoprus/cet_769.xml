@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.7</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>有趣的情人节</Topic>
+    <title T="我的情人节">
+        <Segmented_S>我/r  的/u  情人节/n</Segmented_S>
+        <S_Length>5</S_Length>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>现实的人</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="情人节，对我来说是大可以“高高挂起”的节日，因为我们家除了春节和中秋节其余节日都是可以忽略不计的。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>情人节/n  ，/w  对/p  我/r  来说/u  是/v  大/a  可以/v  “/w  高高挂起/n  ”/w  的/u  节日/n  ，/w  因为/c  我们/r  家/n  除了/p  春节/t  和/c  中秋节/n  其余/r  节日/n  都/d  是/v  可以/v  忽略/v  不/d  计/v  的/u  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">高高挂起</Keywords>
+            <E_conjunction start="-1" position="22" next_position="22" modifier_word_position="24" modifier_word_length="24" end="-1">因为</E_conjunction>
+            <E_phrase start="43" position="43" end="46" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">忽略</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="至于情人节的玫瑰嘛，还是换成吃饭比较实惠滴，我那聪明的老公一向就是头脑冷静、绝不随波逐流。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 至于/p  情人节/n  的/u  玫瑰/n  嘛/y  ，/w  还是/c  换/v  成/v  吃饭/v  比较/d  实惠/a  滴/n  ，/w  我/r  那/r  聪明/a  的/u  老公/n  一向/d  就/d  是/v  头脑/n  冷静/a  、/w  绝不/d  随波逐流/i  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0.1" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">嘛</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">实惠</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">聪明</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">冷静</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0.6" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">随波逐流</Keywords>
+            <noword start="-1" position="38" modifier_word_position="40" modifier_word_length="4" end="-1">绝不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="就算结婚的时候，手捧花也是用假花来代替的，理由是：大冬天的抗搓搓！">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 就算/d  结婚/v  的/u  时候/n  ，/w  手/n  捧/v  花/v  也/d  是/v  用/p  假/a  花/n  来/v  代替/v  的/u  ，/w  理由/n  是/v  ：/w  大/a  冬天/t  的/u  抗/v  搓/v  搓/n  ！</Segmented_S>
+            <S_Length>33</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="生气">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="不过这假花还真是比真花持久实用，到现在回婆婆家还能在柜子顶上的花瓶里找到它，要是真花的话指定活不这么久。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 不/d  过/v  这/r  假/a  花/n  还/d  真是/v  比/p  真/d  花/v  持久/a  实用/a  ，/w  到/p  现在/t  回/v  婆婆/n  家/n  还/d  能/v  在/p  柜子/n  顶/v  上/f  的/u  花瓶/n  里/f  找到/v  它/r  ，/w  要是/c  真/d  花/v  的/u  话/n  指定/v  活/v  不/d  这么/r  久/a  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">持久</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">实用</Keywords>
+            <degree_adv start="-1" position="48" modifier_word_position="50" modifier_word_length="1" end="-1">这么</degree_adv>
+            <noword start="-1" position="47" modifier_word_position="48" modifier_word_length="3" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.2</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>前年 不像样的情人节</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="记得是前年，我过了一个有生以来最隆重的情人节，记得那天老公下班后，不知道在哪个旮旯胡同花了几文钱换了三朵被蹂躏的不像样的月季花，然后带着我和女儿去吃了一顿比较丰盛的晚餐，哦，对了，还带着我一个老公不在家的朋友，我们开了一瓶华东庄园，死贵的酒那个死味叫我至今记忆犹新，老公说我死没品位！">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>记得/v  是/v  前年/t  ，/w  我过/v  了/u  一个/m  有生/n  以来/f  最/d  隆重/a  的/u  情人节/n  ，/w  记得/v  那天/r  老公/n  下班/v  后/f  ，/w  不知道/v  在/p  哪个/r  旮旯/n  胡同/n  花/n  了/u  几/m  文/n  钱/nr  换/nr  了/v  三/m  朵/q  被/p  蹂躏/v  的/u  不像样/n  的/u  月季花/n  ，/w  然后/c  带/v  着/u  我/r  和/c  女儿/n  去/v  吃/v  了/u  一顿/n  比较/d  丰盛/a  的/u  晚餐/n  ，/w  哦/e  ，/w  对/p  了/u  ，/w  还/d  带/v  着/u  我/r  一个/m  老公/n  不/d  在家/v  的/u  朋友/n  ，/w  我们/r  开/v  了/u  一/m  瓶/q  华东/n  庄园/n  ，/w  死/v  贵/a  的/u  酒/n  那个/r  死/v  味/Ng  叫我/n  至今/d  记忆犹新/i  ，/w  老公/n  说/v  我/r  死/v  没/v  品位/n  ！</Segmented_S>
+            <S_Length>142</S_Length>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">旮旯</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0.8" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">蹂躏</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">不像样</Keywords>
+            <Keywords start="-1" position="79" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">丰盛</Keywords>
+            <Keywords start="-1" position="85" end="-1" Surprise="0" Sorrow="0" POS="e" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">哦</Keywords>
+            <Keywords start="-1" position="122" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">死</Keywords>
+            <Keywords start="-1" position="128" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">记忆犹新</Keywords>
+            <Keywords start="-1" position="137" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">死</Keywords>
+            <degree_adv start="-1" position="15" modifier_word_position="16" modifier_word_length="2" end="-1">最</degree_adv>
+            <degree_adv start="-1" position="77" modifier_word_position="79" modifier_word_length="2" end="-1">比较</degree_adv>
+            <noword start="33" position="33" modifier_word_position="34" modifier_word_length="2" end="33">不知道</noword>
+            <noword start="-1" position="98" modifier_word_position="99" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="138" modifier_word_position="139" modifier_word_length="2" end="-1">没</noword>
+            <E_phrase start="116" position="116" end="117" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">死</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="生气">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="至今也没弄明白“情人节”到底是该谁来过的节日。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 至今/d  也/d  没/d  弄/v  明白/v  “/w  情人节/n  ”/w  到底/d  是/v  该/r  谁/r  来/v  过/u  的/u  节日/n  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <noword start="-1" position="3" modifier_word_position="4" modifier_word_length="3" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在心里就把它解释成“有情人的节日”。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 在心/v  里/f  就/d  把/p  它/r  解释/v  成/v  “/w  有情人/n  的/u  节日/n  ”/w  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">有情人</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="虽说我们也算是终成眷属的有情人，但我还是把它置办的很低调！">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 虽说/c  我们/r  也算/v  是/v  终成/n  眷属/v  的/u  有情人/n  ，/w  但/c  我/r  还是/d  把/p  它/r  置办/v  的/u  很/d  低调/a  ！</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">有情人</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">低调</Keywords>
+            <degree_adv start="-1" position="25" modifier_word_position="26" modifier_word_length="2" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="16" modifier_word_position="2" modifier_word_length="13" end="-1">虽说</E_conjunction>
+            <E_conjunction start="-1" position="16" next_position="0" modifier_word_position="17" modifier_word_length="11" end="-1">但</E_conjunction>
+            <E_phrase start="7" position="7" end="10" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">终成</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="高兴">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>快乐的情人节</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="这不，习惯了一直低调的老公今年还是一如既往的不拿情人节当回事，我真恼了。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>这不/n  ，/w  习惯/v  了/u  一直/d  低调/v  的/u  老公/n  今年/t  还是/d  一如既往/i  的/u  不/d  拿/v  情人节/n  当/v  回/q  事/n  ，/w  我/r  真/d  恼/v  了/y  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">低调</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">一如既往</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.7">恼</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="8" modifier_word_length="2" end="-1">一直</degree_adv>
+            <noword start="-1" position="22" modifier_word_position="27" modifier_word_length="3" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="约上朋友，怨妇一样的带着孩子打一的士扬长而去，来到商场娱乐、购物。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 约/d  上/v  朋友/n  ，/w  怨妇/v  一样/a  的/u  带/v  着/u  孩子/n  打/v  一/m  的士/n  扬长/v  而/c  去/v  ，/w  来到/v  商场/n  娱乐/vn  、/w  购物/v  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">朋友</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">怨妇</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">娱乐</Keywords>
+            <E_phrase start="18" position="18" end="21" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">扬长</E_phrase>
+            <Rhetoric E_type="生气">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="不是有个很有才的人说：自己疼自己，一疼一个准么？">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 不/d  是/v  有/v  个/q  很/d  有才/a  的/u  人/n  说/v  ：/w  自己/r  疼/v  自己/r  ，/w  一/m  疼/n  一个/m  准/a  么/y  ？</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">有才</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">疼</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">疼</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">么</Keywords>
+            <degree_adv start="-1" position="4" modifier_word_position="5" modifier_word_length="2" end="-1">很</degree_adv>
+            <Rhetoric E_type="喜爱">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们自己给自己买了礼物，然后回家置办了一桌丰盛的饭菜，拿出我自酿的葡萄酒（自觉比那华东庄园的味道地道多了）胡吃海喝了一顿。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 我们/r  自己/r  给/p  自己/r  买/v  了/u  礼物/n  ，/w  然后/c  回家/v  置办/v  了/u  一/m  桌/q  丰盛/a  的/u  饭菜/n  ，/w  拿/v  出/v  我/r  自/r  酿/v  的/u  葡萄酒/n  （/w  自觉/a  比/p  那/r  华东/n  庄园/n  的/u  味道/n  地道/a  多/a  了/y  ）/w  胡/nr  吃海/nr  喝/v  了/u  一顿/n  。</Segmented_S>
+            <S_Length>61</S_Length>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">丰盛</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">地道</Keywords>
+            <E_phrase start="53" position="53" end="56" Surprise="0" Sorrow="0" POS="nr" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">胡</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="虽说席间被孩子闹的溃不成军，感觉大不如婚前，但总比孤独着上火要好得多。">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> 虽说/c  席间/n  被/p  孩子/n  闹/v  的/u  溃不成军/n  ，/w  感觉/v  大/d  不如/v  婚前/v  ，/w  但/c  总/d  比/p  孤独/a  着/u  上火/n  要/v  好/a  得/u  多/a  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">溃不成军</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0.7" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">孤独</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.7">上火</Keywords>
+            <degree_adv start="-1" position="23" modifier_word_position="31" modifier_word_length="3" end="-1">总</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="22" modifier_word_position="2" modifier_word_length="19" end="-1">虽说</E_conjunction>
+            <E_conjunction start="-1" position="22" next_position="0" modifier_word_position="23" modifier_word_length="11" end="-1">但</E_conjunction>
+            <E_phrase start="31" position="31" end="33" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="四个女人外带四个孩子没有鲜花和巧克力的情人节也是很有意思滴……">
+            <S_no>第3段第6句标注</S_no>
+            <Segmented_S> 四/m  个/q  女人/n  外带/n  四/m  个/q  孩子/n  没有/d  鲜花/v  和/c  巧克力/n  的/u  情人节/n  也/d  是/v  很/d  有/v  意思/n  滴/v  ……/w</Segmented_S>
+            <S_Length>31</S_Length>
+            <degree_adv start="-1" position="24" modifier_word_position="25" modifier_word_length="3" end="-1">很</degree_adv>
+            <noword start="-1" position="10" modifier_word_position="12" modifier_word_length="6" end="-1">没有</noword>
+            <E_phrase start="25" position="25" end="27" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">有</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

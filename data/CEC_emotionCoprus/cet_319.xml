@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.6</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.7</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.2</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.8</Expect>
+    <Topic>祈福</Topic>
+    <title T="细雨祈福">
+        <Segmented_S>细雨/n  祈福/v</Segmented_S>
+        <S_Length>4</S_Length>
+        <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">祈福</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.2</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="雨，一直下，从昨天到今天，从去年到今天。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>雨/n  ，/w  一直/d  下/v  ，/w  从/p  昨天/t  到/p  今天/t  ，/w  从/p  去年/t  到/v  今天/t  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>期盼下雨</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="成都很久没有下雨了，一直盼着下雨。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>成都/ns  很/d  久/a  没有/v  下雨/v  了/y  ，/w  一直/d  盼/v  着/u  下雨/v  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">盼</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="3" modifier_word_length="1" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="10" modifier_word_position="12" modifier_word_length="1" end="-1">一直</degree_adv>
+            <noword start="-1" position="4" modifier_word_position="6" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="今天，新年的第一天，成都的街巷飘着若烟的雨。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>今天/t  ，/w  新年/t  的/u  第一/m  天/q  ，/w  成都/ns  的/u  街巷/n  飘/v  着/u  若/c  烟/n  的/u  雨/n  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="t" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">新年</Keywords>
+            <Rhetoric E_type="高兴">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.4</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="其实雨是昨天就开始下了。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>其实/d  雨/n  是/v  昨天/t  就/p  开始/v  下/f  了/y  。</Segmented_S>
+            <S_Length>12</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="　昨天，友人聚会的时候，一个朋友用诗样的目光望着一棵绿得还算苍翠的榕树&#8212;&#8212;那时候我正站在这棵冬日里仍然绿得葱茏的榕树下仰望呢，他却长长地叹了口气，说：哎，成都的树，无论什么季节，无论什么颜色，都是蒙着灰尘的。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 　/n  昨天/t  ，/w  友人/n  聚会/v  的/u  时候/n  ，/w  一个/m  朋友/n  用/p  诗/n  样/Ng  的/u  目光/n  望/v  着/u  一/m  棵/q  绿/a  得/u  还/d  算/v  苍翠/n  的/u  榕树/n  &#8212;&#8212;/w  那时候/n  我/r  正/d  站/v  在/p  这/r  棵/q  冬日/n  里/f  仍然/d  绿/a  得/u  葱茏/z  的/u  榕树下/n  仰望/v  呢/y  ，/w  他/r  却/d  长长地/v  叹/Vg  了/u  口/q  气/n  ，/w  说/v  ：/w  哎/n  ，/w  成都/ns  的/u  树/n  ，/w  无论/c  什么/r  季节/n  ，/w  无论/c  什么/r  颜色/n  ，/w  都/d  是/v  蒙/v  着/u  灰尘/n  的/u  。</Segmented_S>
+            <S_Length>104</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">友人</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="z" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">葱茏</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">呢</Keywords>
+            <Keywords start="-1" position="68" end="-1" Surprise="0" Sorrow="0" POS="Vg" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">叹</Keywords>
+            <Keywords start="-1" position="75" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">哎</Keywords>
+            <degree_adv start="-1" position="65" modifier_word_position="68" modifier_word_length="1" end="-1">长长地</degree_adv>
+            <E_conjunction start="-1" position="82" next_position="96" modifier_word_position="84" modifier_word_length="4" end="-1">无论</E_conjunction>
+            <E_conjunction start="-1" position="89" next_position="96" modifier_word_position="91" modifier_word_length="4" end="-1">无论</E_conjunction>
+            <E_conjunction start="-1" position="96" next_position="82" modifier_word_position="97" modifier_word_length="6" end="-1">都</E_conjunction>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="14" end="-1">朋友</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="这才注意到，几乎每一片叶儿，绿的黄的，真的都蒙着浅淡的一层灰。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>这才/n  注意/v  到/v  ，/w  几乎/d  每/r  一/m  片/q  叶儿/n  ，/w  绿/a  的/u  黄/nr  的/u  ，/w  真的/d  都/d  蒙/v  着/u  浅淡/n  的/u  一/m  层/q  灰/n  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.3</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="可是，又有什么关系呢？">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>可是/c  ，/w  又/c  有/v  什么/r  关系/n  呢/y  ？</Segmented_S>
+            <S_Length>11</S_Length>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="7" end="-1">可是</E_conjunction>
+            <E_conjunction start="-1" position="3" next_position="3" modifier_word_position="4" modifier_word_length="6" end="-1">又</E_conjunction>
+            <Rhetoric E_type="焦虑">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.4</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="想想，一个轻雨若烟的日子，一个淡泊幽怨的女人，于一个年头就要走过的时候，在一条苍凉的小路上，忽然相遇一树依然葱茏的绿叶儿，该是怎样的情景啊！">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>想想/v  ，/w  一个/m  轻/a  雨/n  若/c  烟/n  的/u  日子/n  ，/w  一个/m  淡泊/v  幽怨/n  的/u  女人/n  ，/w  于/p  一个/m  年头/n  就要/d  走过/v  的/u  时候/n  ，/w  在/p  一/m  条/q  苍凉/a  的/u  小路/n  上/f  ，/w  忽然/d  相遇/v  一树/n  依然/z  葱茏/z  的/u  绿叶儿/n  ，/w  该/r  是/v  怎样/r  的/u  情景/n  啊/y  ！</Segmented_S>
+            <S_Length>70</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">淡泊</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0.3">幽怨</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0.5" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">苍凉</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0" POS="z" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">葱茏</Keywords>
+            <Keywords start="-1" position="68" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0.2" Hate="0" Expect="0" Anxiety="0" Anger="0">啊</Keywords>
+            <E_phrase start="5" position="5" end="8" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">轻</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="高兴">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="谁都知道，世界上没有完美的东西，包括大自然，包括人世间。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>谁/r  都/d  知道/v  ，/w  世界/n  上/f  没有/v  完美/a  的/u  东西/n  ，/w  包括/v  大自然/n  ，/w  包括/v  人世间/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">完美</Keywords>
+            <noword start="-1" position="8" modifier_word_position="10" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第9段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="总是会有尘灰扑到树叶儿上的，在人来车往的凡尘之中，在来了又去了的日子里，哪个城市哪棵树又能够幸免呢？">
+            <S_no>第9段第1句标注</S_no>
+            <Segmented_S>总是/d  会/v  有/v  尘灰/n  扑/v  到/v  树叶儿/n  上/f  的/u  ，/w  在/p  人/n  来/v  车/n  往/v  的/u  凡尘/n  之/u  中/f  ，/w  在/p  来/v  了/y  又/u  去/v  了/u  的/u  日子/n  里/f  ，/w  哪个/r  城市/n  哪/r  棵/q  树/n  又/d  能够/v  幸免/v  呢/y  ？</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0.4" Anger="0">幸免</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.2" Anger="0">呢</Keywords>
+            <degree_adv start="-1" position="0" modifier_word_position="2" modifier_word_length="10" end="-1">总是</degree_adv>
+            <E_phrase start="15" position="15" end="18" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">人</E_phrase>
+            <Rhetoric E_type="焦虑">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第10段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="这树这绿这黄，每天都有洒水机一连几台地走过洗过，可是灰尘照样走了又来了，可见洁净是如何的短暂和难得。">
+            <S_no>第10段第1句标注</S_no>
+            <Segmented_S>这/r  树/n  这/r  绿/a  这/r  黄/a  ，/w  每天/r  都/d  有/v  洒水机/n  一连/d  几/m  台地/q  走过/v  洗过/n  ，/w  可是/c  灰尘/n  照样/d  走/v  了/u  又/d  来/v  了/y  ，/w  可/v  见/v  洁净/a  是/v  如何/r  的/u  短暂/a  和/c  难得/a  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">洁净</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">短暂</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">难得</Keywords>
+            <E_conjunction start="-1" position="24" next_position="24" modifier_word_position="26" modifier_word_length="9" end="-1">可是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第11段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="大自然尚且难得洁净，人又如何能够常常的持守洁净呢？">
+            <S_no>第11段第1句标注</S_no>
+            <Segmented_S>大自然/n  尚且/v  难得/a  洁净/a  ，/w  人/n  又/d  如何/r  能够/v  常常/d  的/u  持/v  守/v  洁净/a  呢/y  ？</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">洁净</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">洁净</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.2" Anger="0">呢</Keywords>
+            <degree_adv start="-1" position="16" modifier_word_position="19" modifier_word_length="4" end="-1">常常</degree_adv>
+            <noword start="-1" position="5" modifier_word_position="7" modifier_word_length="2" end="-1">难得</noword>
+            <Rhetoric E_type="焦虑">反问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="肉身走在红尘，灵魂行在闹市，要守得住灵与肉的安静和干净，更不是几台洒水机就可以办到的。">
+            <S_no>第11段第2句标注</S_no>
+            <Segmented_S> 肉身/n  走/v  在/p  红尘/n  ，/w  灵魂/n  行在/n  闹市/v  ，/w  要/v  守/v  得/u  住/v  灵/a  与/c  肉/n  的/u  安静/a  和/c  干净/a  ，/w  更/d  不/d  是/v  几/m  台/q  洒水机/n  就/d  可以/v  办到/v  的/u  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">红尘</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">干净</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">办到</Keywords>
+            <noword start="29" position="29" modifier_word_position="37" modifier_word_length="4" end="30">不</noword>
+            <Rhetoric E_type="焦虑">借代</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第12段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="雨，也是应运而生而下的。">
+            <S_no>第12段第1句标注</S_no>
+            <Segmented_S>雨/n  ，/w  也/d  是/v  应运而生/i  而/c  下/v  的/u  。</Segmented_S>
+            <S_Length>12</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">应运而生</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第13段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>滋养和安抚</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我们这座在２００８年蒙受了太多灾难流过太多眼泪的城市，真的需要一场绵长的细雨来滋养和安抚，来清洗和洁净。">
+            <S_no>第13段第1句标注</S_no>
+            <Segmented_S>我们/r  这/r  座/q  在/p  ２００８年/n  蒙受/v  了/u  太/d  多/a  灾难/n  流过/v  太/d  多/a  眼泪/n  的/u  城市/n  ，/w  真的/d  需要/v  一/m  场/q  绵长/n  的/u  细雨/n  来/v  滋养/v  和/c  安抚/vn  ，/w  来/v  清洗/v  和/c  洁净/a  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">蒙受</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">灾难</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">眼泪</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">需要</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">绵长</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">滋养</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">安抚</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">清洗</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">洁净</Keywords>
+            <degree_adv start="19" position="19" modifier_word_position="21" modifier_word_length="2" end="20">太</degree_adv>
+            <degree_adv start="-1" position="27" modifier_word_position="29" modifier_word_length="2" end="-1">真的</degree_adv>
+            <Rhetoric E_type="焦虑">拟人</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="于是雨，从昨天到今天，一直下，轻轻柔柔的，细细绵绵的，下过不停。">
+            <S_no>第13段第2句标注</S_no>
+            <Segmented_S> 于是/c  雨/n  ，/w  从/p  昨天/t  到/p  今天/t  ，/w  一直/d  下/v  ，/w  轻轻/d  柔/a  柔/a  的/u  ，/w  细细/d  绵绵/v  的/u  ，/w  下/f  过/v  不/d  停/v  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <noword start="-1" position="29" modifier_word_position="30" modifier_word_length="1" end="-1">不</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="29" end="-1">于是</E_conjunction>
+            <E_phrase start="15" position="15" end="18" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">轻轻</E_phrase>
+            <E_phrase start="21" position="21" end="24" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">细细</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第14段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.4</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>清新</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="此刻，雨的气息飘进我的窗户，格外的清新，格外的潮润，虽然有点冷，但毕竟是洁净之后的浸润，可以直透进肌肤与心境。">
+            <S_no>第14段第1句标注</S_no>
+            <Segmented_S>此刻/r  ，/w  雨/n  的/u  气息/n  飘/v  进/v  我/r  的/u  窗户/n  ，/w  格外/d  的/u  清新/a  ，/w  格外/d  的/u  潮润/n  ，/w  虽然/c  有/v  点/q  冷/a  ，/w  但/c  毕竟/d  是/v  洁净/a  之/u  后/f  的/u  浸润/vn  ，/w  可以/v  直/d  透/v  进/v  肌肤/n  与/p  心境/n  。</Segmented_S>
+            <S_Length>55</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">清新</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">潮润</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">冷</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">洁净</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">浸润</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">心境</Keywords>
+            <degree_adv start="-1" position="14" modifier_word_position="17" modifier_word_length="2" end="-1">格外</degree_adv>
+            <degree_adv start="-1" position="20" modifier_word_position="23" modifier_word_length="2" end="-1">格外</degree_adv>
+            <degree_adv start="28" position="28" modifier_word_position="30" modifier_word_length="1" end="29">有</degree_adv>
+            <E_conjunction start="-1" position="26" next_position="32" modifier_word_position="28" modifier_word_length="3" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="32" next_position="26" modifier_word_position="33" modifier_word_length="9" end="-1">但</E_conjunction>
+            <Rhetoric E_type="高兴">夸张</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第15段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>风调雨顺</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="都说，一个年头、一个日子、一桩事情，在开始的时候下雨，就寓意着“风调雨顺”，那么，新年的第一天下雨，就是一场喜雨了。">
+            <S_no>第15段第1句标注</S_no>
+            <Segmented_S>都/d  说/v  ，/w  一个/m  年头/n  、/w  一个/m  日子/n  、/w  一/m  桩/q  事情/n  ，/w  在/p  开始/v  的/u  时候/n  下雨/v  ，/w  就/d  寓意/v  着/u  “/w  风调雨顺/n  ”/w  ，/w  那么/c  ，/w  新年/t  的/u  第一/m  天/q  下雨/v  ，/w  就/d  是/v  一/m  场/q  喜雨/n  了/y  。</Segmented_S>
+            <S_Length>58</S_Length>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">风调雨顺</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">喜雨</Keywords>
+            <E_conjunction start="-1" position="38" next_position="38" modifier_word_position="41" modifier_word_length="8" end="-1">那么</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第16段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>祈福</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="就让我们在这场柔绵的喜雨中为我们的城市祈福吧：">
+            <S_no>第16段第1句标注</S_no>
+            <Segmented_S>就/p  让/v  我们/r  在/p  这/r  场/q  柔绵/n  的/u  喜雨/n  中/f  为/p  我们/r  的/u  城市/n  祈福/n  吧/y  ：/w</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">让</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">柔绵</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">喜雨</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">祈福</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">吧</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第17段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.5</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="新年好，成都！">
+            <S_no>第17段第1句标注</S_no>
+            <Segmented_S>新年好/n  ，/w  成都/ns  ！</Segmented_S>
+            <S_Length>7</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0.5" Hate="0" Expect="0.5" Anxiety="0" Anger="0">新年好</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Opinion_target start="-1" position="4" end="-1">成都</Opinion_target>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第18段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="新年好，中国！">
+            <S_no>第18段第1句标注</S_no>
+            <Segmented_S>新年/t  好/a  ，/w  中国/ns  ！</Segmented_S>
+            <S_Length>7</S_Length>
+            <Keywords start="0" position="0" end="2" Surprise="0" Sorrow="0" POS="t" Opinionholder="0" Love="0.5" Joy="0.5" Hate="0" Expect="0.5" Anxiety="0" Anger="0">新年</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_target start="-1" position="4" end="-1">中国</Opinion_target>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+    </paragraph>
+</document>

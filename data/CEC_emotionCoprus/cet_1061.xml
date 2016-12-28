@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <title T="雨花阁">
+        <Segmented_S>雨花阁/n</Segmented_S>
+        <S_Length>3</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>参观文物点</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="去故宫开会，主办方占有地利，先是殷勤招待一番，看一些不能对外开放的文物点。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>去/v  故宫/ns  开会/v  ，/w  主办方/n  占有/v  地利/n  ，/w  先是/d  殷勤/v  招待/n  一番/m  ，/w  看/v  一些/m  不/d  能/v  对外开放/l  的/u  文物点/n  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">地利</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">殷勤</Keywords>
+            <noword start="26" position="26" modifier_word_position="28" modifier_word_length="4" end="27">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这些点都是皇帝私密处，在清朝也是一般人的禁地，闲人免入。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 这些/r  点/n  都/d  是/v  皇帝/n  私/Ag  密/a  处/n  ，/w  在清/v  朝/j  也/d  是/v  一般/a  人/n  的/u  禁地/n  ，/w  闲人/v  免/v  入/v  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <E_phrase start="7" position="7" end="8" Surprise="0" Sorrow="0" POS="Ag" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">私</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="由于这些地方空间窄仄，无法对公众开放，所以故宫博物院成立以来，少有人进入过。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 由于/p  这些/r  地方/n  空间/n  窄/a  仄/n  ，/w  无法/v  对/p  公众/n  开放/v  ，/w  所以/c  故宫/ns  博物院/n  成立/v  以来/f  ，/w  少/d  有人/r  进入/v  过/u  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <noword start="-1" position="11" modifier_word_position="16" modifier_word_length="2" end="-1">无法</noword>
+            <E_conjunction start="-1" position="0" next_position="19" modifier_word_position="2" modifier_word_length="16" end="-1">由于</E_conjunction>
+            <E_conjunction start="-1" position="19" next_position="0" modifier_word_position="21" modifier_word_length="16" end="-1">所以</E_conjunction>
+            <E_phrase start="8" position="8" end="9" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">窄</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.3</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>佛堂雨花阁</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="清朝皇帝笃信佛教，在紫禁城内修建了多处佛堂，最大的佛堂叫雨花阁，名称特别诗意。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>清朝/t  皇帝/n  笃信/n  佛教/nz  ，/w  在/p  紫禁/n  城内/v  修建/v  了/u  多/a  处/q  佛堂/n  ，/w  最/d  大/a  的/u  佛堂/n  叫/v  雨花/v  阁/Ng  ，/w  名称/n  特别/d  诗意/a  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">笃信</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">诗意</Keywords>
+            <degree_adv start="-1" position="22" modifier_word_position="23" modifier_word_length="1" end="-1">最</degree_adv>
+            <degree_adv start="-1" position="34" modifier_word_position="36" modifier_word_length="1" end="-1">特别</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这座藏传佛教的密宗佛堂，改建于乾隆十四年（１７４９年），是座阁楼式建筑，采用明三暗四格局，即外观三层，内置四层，颇为神奇。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 这/r  座/q  藏传/b  佛教/nz  的/u  密宗/n  佛堂/v  ，/w  改建/v  于/p  乾隆/nr  十四/m  年/q  （/w  １７４９/n  年/q  ）/w  ，/w  是/v  座/q  阁楼/n  式/k  建筑/n  ，/w  采用/v  明/Ag  三/m  暗/a  四/m  格局/n  ，/w  即/v  外观/n  三/m  层/q  ，/w  内置/v  四/m  层/q  ，/w  颇为/d  神奇/a  。</Segmented_S>
+            <S_Length>61</S_Length>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">神奇</Keywords>
+            <degree_adv start="-1" position="56" modifier_word_position="58" modifier_word_length="2" end="-1">颇为</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我一进门，先看见紫檀七重檐佛塔大小各一对，铜胎画珐琅佛塔一对，还有一对粉彩佛塔，可见此佛堂等级之高。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 我/r  一/m  进/v  门/n  ，/w  先/d  看见/v  紫檀/n  七/m  重檐/n  佛塔/v  大小/n  各/r  一对/m  ，/w  铜/n  胎/n  画/v  珐琅/n  佛塔/v  一对/m  ，/w  还有/v  一对/m  粉彩/v  佛塔/n  ，/w  可见/c  此/r  佛堂/n  等级/n  之/u  高/a  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">粉彩</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>雨花阁</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="雨花阁的四层设计含义颇深，严格按照藏传密宗的四部设计，即事、行、瑜伽，无上瑜伽。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>雨花/n  阁/Ng  的/u  四/m  层/q  设计/vn  含义/n  颇/d  深/a  ，/w  严格/ad  按照/p  藏传密宗/n  的/u  四/m  部/q  设计/v  ，/w  即/v  事/n  、/w  行/v  、/w  瑜伽/n  ，/w  无上/v  瑜伽/n  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <degree_adv start="-1" position="10" modifier_word_position="11" modifier_word_length="1" end="-1">颇</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="底层智行层宽阔，设石座紫檀框大坛城三座，豪华庄重，据说这三座坛城是世界范围内最大的坛城，手电光照进去，神秘肃穆，让人颇感佛教之力量；沿窄梯拾级而上，达德行层，面积缩小不少，佛及供器也随之减少；再上一层是瑜伽层，楼梯又窄又陡，所供奉的佛像愤怒像增多，体现了密宗等级；顶层为无上层，面积缩至仅可站数人，但采光很好，供奉三座金刚。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 底层/n  智/Ng  行/v  层/n  宽阔/a  ，/w  设/v  石/Ng  座/Ng  紫檀/n  框/v  大/a  坛/n  城/n  三/m  座/q  ，/w  豪华/a  庄重/a  ，/w  据说/v  这/r  三/m  座/q  坛/n  城/n  是/v  世界/n  范围/n  内/f  最/d  大/a  的/u  坛/n  城/n  ，/w  手电/n  光照/v  进去/n  ，/w  神秘/a  肃穆/a  ，/w  让/v  人/n  颇/d  感/Vg  佛教/nz  之/u  力量/n  ；/w  沿/p  窄/a  梯/Ng  拾/v  级/n  而/c  上/v  ，/w  达/v  德行/m  层/q  ，/w  面积/n  缩小/v  不/d  少/a  ，/w  佛/n  及/c  供/v  器/n  也/d  随之/d  减少/v  ；/w  再/d  上/v  一/m  层/q  是/v  瑜伽/n  层/v  ，/w  楼梯/n  又/d  窄/a  又/d  陡/a  ，/w  所/u  供奉/v  的/u  佛像/n  愤怒/a  像/n  增多/v  ，/w  体现/v  了/u  密宗/n  等级/n  ；/w  顶层/n  为/v  无/v  上层/n  ，/w  面积/n  缩/m  至/p  仅/d  可/v  站/v  数/n  人/n  ，/w  但/c  采光/v  很/d  好/a  ，/w  供奉/v  三/m  座/q  金刚/n  。</Segmented_S>
+            <S_Length>162</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">宽阔</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">豪华</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">庄重</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">神秘</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">肃穆</Keywords>
+            <Keywords start="-1" position="118" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.1">愤怒</Keywords>
+            <Keywords start="-1" position="153" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <degree_adv start="-1" position="38" modifier_word_position="39" modifier_word_length="1" end="-1">最</degree_adv>
+            <degree_adv start="-1" position="152" modifier_word_position="153" modifier_word_length="1" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="149" next_position="149" modifier_word_position="150" modifier_word_length="4" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.3</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我走出顶层阁楼环廊，宽窄仅容一人，俯视故宫，一片金瓦连绵，远眺北海白塔，想想当年乾隆登高也不过如此，只不过我们没有那么虔诚的宗教信仰，是个后来者，感受物是人非而已。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>我/r  走/v  出/v  顶层/n  阁楼/v  环/n  廊/v  ，/w  宽窄/v  仅/d  容/v  一/m  人/n  ，/w  俯视/v  故宫/ns  ，/w  一/m  片/q  金/Ng  瓦/n  连绵/z  ，/w  远眺/v  北海/ns  白塔/n  ，/w  想想/v  当年/t  乾隆/nr  登高/v  也/d  不过如此/l  ，/w  只不过/d  我们/r  没有/v  那么/r  虔诚/a  的/u  宗教/n  信仰/vn  ，/w  是/v  个/q  后来者/n  ，/w  感受/v  物/Ng  是/v  人非/n  而已/y  。</Segmented_S>
+            <S_Length>82</S_Length>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">虔诚</Keywords>
+            <Keywords start="75" position="75" end="78" Surprise="0" Sorrow="0.3" POS="Ng" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">物</Keywords>
+            <degree_adv start="-1" position="57" modifier_word_position="59" modifier_word_length="2" end="-1">那么</degree_adv>
+            <noword start="-1" position="55" modifier_word_position="59" modifier_word_length="2" end="-1">没有</noword>
+            <E_phrase start="24" position="24" end="27" Surprise="0" Sorrow="0" POS="Ng" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">金</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>后来者的幸福</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="先行者比后来者幸福在于创造，后来者比先行者幸福在于有机会欣赏其创造。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>先行者/n  比/p  后来者/n  幸福/a  在于/v  创造/v  ，/w  后来者/n  比/p  先行者/n  幸福/a  在于/v  有/v  机会/n  欣赏/v  其/r  创造/v  。</Segmented_S>
+            <S_Length>34</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">幸福</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">创造</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">幸福</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">欣赏</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">创造</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我是后来者，深感文化带来的幸福。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 我是/n  后来者/v  ，/w  深感/v  文化/n  带来/v  的/u  幸福/a  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">幸福</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

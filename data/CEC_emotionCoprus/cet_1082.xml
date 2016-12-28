@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.7</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.8</Love>
+    <Sorrow>0.6</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>傅雷</Topic>
+    <title T="傅雷先生">
+        <Segmented_S>傅/nr  雷/nr  先生/n</Segmented_S>
+        <S_Length>4</S_Length>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.4</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>傅雷</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="至少有二十年未曾翻阅《傅雷译文集》了，当我把它从高高的书柜上层搬运下来时，心里多少有一丝对不起它的感觉。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>至少/d  有/v  二十/m  年/q  未曾/d  翻阅/v  《/w  傅/nr  雷/nr  译文/nr  集/Vg  》/w  了/u  ，/w  当我/v  把/p  它/r  从/p  高高的/z  书柜/n  上层/f  搬运/v  下/f  来/v  时/Ng  ，/w  心/n  里/f  多少/r  有/v  一丝/n  对不起/v  它/r  的/u  感觉/n  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">对不起</Keywords>
+            <degree_adv start="-1" position="42" modifier_word_position="44" modifier_word_length="3" end="-1">一丝</degree_adv>
+            <noword start="-1" position="6" modifier_word_position="8" modifier_word_length="2" end="-1">未曾</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="傅雷先生是译界泰斗，高山仰止，法国大作家巴尔扎克最重要的小说都是傅雷先生翻译的，像《欧也妮&#183;葛朗台》、《邦斯舅舅》的主人公都是文学大师塑造的不朽形象，也是我年轻时候必读的文学作品。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 傅/nr  雷/nr  先生/n  是/v  译/v  界/n  泰斗/v  ，/w  高山/n  仰止/n  ，/w  法国/ns  大作家/n  巴尔扎克/v  最/d  重要/a  的/u  小说/n  都/d  是/v  傅/nr  雷/nr  先生/n  翻译/v  的/u  ，/w  像/p  《/w  欧/j  也/d  妮/v  &#183;/w  葛/nr  朗/nr  台/n  》/w  、/w  《/w  邦/Ng  斯/Rg  舅舅/Rg  》/w  的/u  主人公/n  都/d  是/v  文学/n  大师/n  塑造/v  的/u  不朽/z  形象/n  ，/w  也/d  是/v  我/r  年轻/a  时候/n  必读/vn  的/u  文学/n  作品/n  。</Segmented_S>
+            <S_Length>90</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">泰斗</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大作家</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">重要</Keywords>
+            <Keywords start="-1" position="65" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大师</Keywords>
+            <Keywords start="-1" position="70" end="-1" Surprise="0" Sorrow="0" POS="z" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不朽</Keywords>
+            <degree_adv start="-1" position="24" modifier_word_position="25" modifier_word_length="2" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>借书</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="表哥的同学叶三午是叶圣陶先生的孙子，由于这层关系，七十年代后期我去过叶圣陶先生宅第多次，也向叶老问过安。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>表哥/n  的/u  同学/n  叶/nr  三/nr  午/m  是/v  叶/nr  圣陶/nr  先生/n  的/u  孙子/n  ，/w  由于/p  这/r  层/q  关系/n  ，/w  七十/m  年代/n  后期/f  我去/n  过/u  叶/nr  圣陶/nr  先生/n  宅第/v  多次/m  ，/w  也/d  向/p  叶老/n  问过/v  安/nr  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <E_phrase start="48" position="48" end="50" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">问过</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="叶三午兄为人大方，曾借给我一本小说，精装的巴尔扎克的名著《高老头》。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 叶/nr  三/nr  午/m  兄/q  为/v  人/n  大方/a  ，/w  曾/d  借/p  给/v  我/r  一/m  本/q  小说/n  ，/w  精装/v  的/u  巴尔扎克/n  的/u  名著/n  《/w  高/a  老头/n  》/w  。</Segmented_S>
+            <S_Length>34</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大方</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">精装</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">名著</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="扉页上有译者傅雷先生的亲笔字：圣陶先生教正。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 扉页/n  上/f  有/v  译者/n  傅/nr  雷/nr  先生/n  的/u  亲笔/b  字/n  ：/w  圣陶/n  先生/n  教正/v  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="字用毛笔竖写，圆厚丰润，署名日期俱全。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 字/n  用/p  毛笔/n  竖/v  写/v  ，/w  圆/Vg  厚/a  丰润/n  ，/w  署名/v  日期/n  俱全/v  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">丰润</Keywords>
+            <E_phrase start="7" position="7" end="8" Surprise="0" Sorrow="0" POS="Vg" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">圆</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那个缺书的年代，此书让我如获至宝，回家连夜苦读。">
+            <S_no>第2段第5句标注</S_no>
+            <Segmented_S> 那个/r  缺/v  书/n  的/u  年代/n  ，/w  此书/r  让/v  我/r  如获至宝/i  ，/w  回家/v  连夜/d  苦读/v  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0.2" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">缺</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.6" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">如获至宝</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>炫耀</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="那个没有艺术享受的年代，今天的年轻人无法想象，我获得（尽管是借的）这样一本名著，人立刻变得飘飘然，忘乎所以。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>那个/r  没有/v  艺术/n  享受/vn  的/u  年代/n  ，/w  今天/t  的/u  年轻人/n  无法/v  想象/v  ，/w  我/r  获得/v  （/w  尽管/c  是/v  借/p  的/u  ）/w  这样/r  一/m  本/q  名著/n  ，/w  人/n  立刻/d  变/v  得/u  飘飘然/z  ，/w  忘乎所以/i  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">艺术</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">享受</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">获得</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">名著</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="z" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">飘飘然</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">忘乎所以</Keywords>
+            <noword start="-1" position="2" modifier_word_position="4" modifier_word_length="4" end="-1">没有</noword>
+            <noword start="-1" position="18" modifier_word_position="20" modifier_word_length="2" end="-1">无法</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我向朋友吹牛，显摆，炫耀的热情去感染别人，也感染自己。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 我向/n  朋友/n  吹牛/v  ，/w  显摆/v  ，/w  炫耀/v  的/u  热情/an  去/v  感染/v  别人/r  ，/w  也/d  感染/v  自己/r  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">吹牛</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">显摆</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">炫耀</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="an" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">热情</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="终于，后果出现了，我的一个非常要好的朋友张口要借此书看，并说只看一天就还。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 终于/d  ，/w  后果/n  出现/v  了/u  ，/w  我的/v  一个/m  非常/d  要/v  好/a  的/u  朋友/n  张口/v  要/v  借/v  此书/r  看/v  ，/w  并/c  说/v  只/d  看/v  一/m  天/q  就/d  还/d  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">后果</Keywords>
+            <degree_adv start="-1" position="13" modifier_word_position="15" modifier_word_length="2" end="-1">非常</degree_adv>
+            <E_phrase start="15" position="15" end="16" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">要</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.6</Anger>
+        <Expect>0.0</Expect>
+        <Topic>丢书</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="我没有理由不借他。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>我没有/n  理由/n  不/d  借/v  他/r  。</Segmented_S>
+            <S_Length>9</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="第二天他没还我，第三天仍没还，第四第五天依然如此，在我近乎翻脸的质问下，他终于告诉我，书丢了！">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 第二/m  天/q  他/r  没/d  还/d  我/r  ，/w  第三/m  天/q  仍/d  没/d  还/d  ，/w  第四/m  第五/m  天/q  依然/z  如此/r  ，/w  在/p  我/r  近乎/v  翻脸/v  的/u  质问/n  下/v  ，/w  他/r  终于/d  告诉我/v  ，/w  书/n  丢/v  了/u  ！</Segmented_S>
+            <S_Length>47</S_Length>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">翻脸</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">质问</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">丢</Keywords>
+            <noword start="-1" position="4" modifier_word_position="5" modifier_word_length="1" end="-1">没</noword>
+            <noword start="-1" position="12" modifier_word_position="13" modifier_word_length="1" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.6</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="借的当天夹在自行车后架上，到家就没了，书是硬皮，夹不住。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 借/p  的/u  当天/t  夹/v  在/p  自行车/n  后/f  架/v  上/v  ，/w  到家/v  就/d  没/v  了/y  ，/w  书/n  是/v  硬/a  皮/n  ，/w  夹/v  不住/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <E_phrase start="16" position="16" end="17" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">没</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="他十分懊恼地说，我还没看呢！">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 他/r  十分/d  懊恼/a  地/u  说/v  ，/w  我还/v  没/d  看/v  呢/y  ！</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0.7" POS="a" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">懊恼</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0.2" POS="y" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">呢</Keywords>
+            <degree_adv start="-1" position="1" modifier_word_position="3" modifier_word_length="2" end="-1">十分</degree_adv>
+            <noword start="-1" position="10" modifier_word_position="11" modifier_word_length="1" end="-1">没</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <punctuation E_type="悲伤">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">他</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>傅雷</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="傅雷先生翻译《高老头》在１９４４年，１９５１年用了三个月时间重译了一遍，１９６３年再次修订，那本丢掉的《高老头》就是６３版的豪华装。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>傅/nr  雷/nr  先生/n  翻译/v  《/w  高/a  老头/n  》/w  在/p  １９４４年/n  ，/w  １９５１年/v  用/p  了/u  三/m  个/q  月/n  时间/n  重译/v  了/u  一/m  遍/q  ，/w  １９６３年/v  再次/d  修订/v  ，/w  那/r  本/q  丢掉/v  的/u  《/w  高/a  老头/n  》/w  就/d  是/v  ６３/n  版/n  的/u  豪华/a  装/v  。</Segmented_S>
+            <S_Length>66</S_Length>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">丢掉</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">豪华</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="傅雷先生１９６６年９月３日因不满世事，不屑与之一争，携夫人以弃世表达内心的独傲，凸显了旧知识分子高风亮节。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 傅/nr  雷/nr  先生/n  １９６６年/v  ９月/n  ３日/v  因/c  不/d  满/v  世事/n  ，/w  不屑/v  与/p  之/r  一/d  争/v  ，/w  携/v  夫人/n  以/p  弃世/n  表达/v  内心/n  的/u  独/d  傲/a  ，/w  凸显/v  了/u  旧/a  知识/n  分子/n  高风亮节/i  。</Segmented_S>
+            <S_Length>53</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">不屑</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.2">争</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">弃世</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高风亮节</Keywords>
+            <E_phrase start="14" position="14" end="15" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">不</E_phrase>
+            <E_phrase start="37" position="37" end="38" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">独</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

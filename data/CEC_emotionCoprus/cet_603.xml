@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.8</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.9</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>安静的美丽</Topic>
+    <title T="安静，是一种美丽">
+        <Segmented_S>安静/a  ，/w  是/v  一/m  种/q  美丽/a</Segmented_S>
+        <S_Length>8</S_Length>
+        <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+        <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.3</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="一缕阳光，一片心情的荡漾，热浪中的激情默默地暖暖的烤去潮湿的浮伤，不需要多余的心情，只需要一个人站在暖洋洋的风中享受那一片融融的包围，享受那一点点的安静，享受安静中回味流失的美丽。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>一缕/n  阳光/n  ，/w  一/m  片/q  心情/n  的/u  荡漾/n  ，/w  热浪/n  中的/n  激情/n  默默/d  地/u  暖暖的/v  烤/n  去/v  潮湿/v  的/u  浮/v  伤/v  ，/w  不/d  需要/v  多余/a  的/u  心情/n  ，/w  只需要/v  一个/m  人/n  站/v  在/p  暖洋洋/n  的/u  风中/n  享受/v  那/r  一/m  片/q  融融/z  的/u  包围/vn  ，/w  享受/v  那/r  一点点/m  的/u  安静/a  ，/w  享受/v  安静/a  中/f  回味/v  流失/v  的/u  美丽/a  。</Segmented_S>
+            <S_Length>90</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">荡漾</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">激情</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0.2" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">默默</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">暖暖的</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">潮湿</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">伤</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">多余</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">只需要</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">暖洋洋</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">享受</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0" POS="z" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">融融</Keywords>
+            <Keywords start="-1" position="67" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">享受</Keywords>
+            <Keywords start="-1" position="74" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="77" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">享受</Keywords>
+            <Keywords start="-1" position="79" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="82" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">回味</Keywords>
+            <Keywords start="-1" position="84" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">流失</Keywords>
+            <Keywords start="-1" position="87" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <degree_adv start="-1" position="70" modifier_word_position="74" modifier_word_length="2" end="-1">一点点</degree_adv>
+            <noword start="-1" position="33" modifier_word_position="34" modifier_word_length="2" end="-1">不</noword>
+            <Rhetoric E_type="喜爱">排比</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.4</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="一丝雨雾，一片心情的朦胧，潮湿中的淡漠浅浅地凉凉的渗透着暖的眷恋，不需要遗漏的心情，只需要一个人站在冷爽爽的雾中分享那一片模糊的含蓄，分享那一点点的安静，分享安静中回味遗忘的美丽。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>一/m  丝/q  雨雾/n  ，/w  一/m  片/q  心情/n  的/u  朦胧/a  ，/w  潮湿/a  中/f  的/u  淡漠/a  浅浅/n  地/u  凉凉的/v  渗透/v  着/u  暖/a  的/u  眷恋/n  ，/w  不/d  需要/v  遗漏/v  的/u  心情/n  ，/w  只需要/v  一个/m  人/n  站/v  在/p  冷/a  爽/n  爽/Ag  的/u  雾中/n  分享/v  那/r  一/m  片/q  模糊/a  的/u  含蓄/n  ，/w  分享/v  那/r  一点点/m  的/u  安静/a  ，/w  分享/v  安静/a  中/f  回味/v  遗忘/n  的/u  美丽/a  。</Segmented_S>
+            <S_Length>90</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">雨雾</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">朦胧</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">淡漠</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">眷恋</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">需要</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">遗漏</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">只需要</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爽</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">分享</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">模糊</Keywords>
+            <Keywords start="-1" position="64" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">含蓄</Keywords>
+            <Keywords start="-1" position="67" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">分享</Keywords>
+            <Keywords start="-1" position="74" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="77" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">分享</Keywords>
+            <Keywords start="-1" position="79" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="82" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">回味</Keywords>
+            <Keywords start="-1" position="84" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">遗忘</Keywords>
+            <Keywords start="-1" position="87" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <degree_adv start="-1" position="70" modifier_word_position="74" modifier_word_length="2" end="-1">一点点</degree_adv>
+            <noword start="-1" position="33" modifier_word_position="34" modifier_word_length="2" end="-1">不</noword>
+            <Rhetoric E_type="喜爱">排比</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.3</Sorrow>
+        <Anxiety>0.2</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="一丝心情，一片波澜的绽静，风轻云淡中的飘渺的心静，芳香淡淡覆没后的寂寞不会觉得清冷，那一丝丝的净化抚慰着留念的伤痛，带来了安静中的舒心的安宁，品味着生活，品味人生，回头思想着没一个细节，都有着微微一笑的美丽，尽管是微茫的，尽管是枯涩的，尽管是欢乐的尽管是孤独的，都有一种一掠而过的兴奋和安逸，现在的沉静和过去的浮躁都已经成为了蜡像，不那么憔悴了。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>一丝/n  心情/n  ，/w  一/m  片/q  波澜/n  的/u  绽/n  静/a  ，/w  风/n  轻/a  云淡/v  中的/n  飘渺/v  的/u  心静/n  ，/w  芳香/n  淡淡/z  覆没/n  后/f  的/u  寂寞/a  不会/v  觉得/v  清冷/n  ，/w  那/r  一丝丝/m  的/u  净化/vn  抚慰/n  着/u  留念/v  的/u  伤痛/n  ，/w  带来/v  了/u  安静/a  中/f  的/u  舒心/a  的/u  安宁/a  ，/w  品味/v  着/u  生活/vn  ，/w  品味/v  人生/n  ，/w  回头/d  思想/n  着/u  没/d  一个/m  细节/n  ，/w  都/d  有/v  着/u  微微一笑/n  的/u  美丽/a  ，/w  尽管/c  是/v  微茫/n  的/u  ，/w  尽管/c  是/v  枯涩/n  的/u  ，/w  尽管/c  是/v  欢乐/a  的/u  尽管/c  是/v  孤独/a  的/u  ，/w  都/d  有/v  一/m  种/q  一/m  掠/v  而/c  过/v  的/u  兴奋/a  和/c  安逸/n  ，/w  现在/t  的/u  沉静/n  和/c  过去/t  的/u  浮躁/a  都/d  已经/d  成为/v  了/u  蜡像/n  ，/w  不/d  那么/r  憔悴/a  了/y  。</Segmented_S>
+            <S_Length>173</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">一丝</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">波澜</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">静</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">飘渺</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">心静</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">芳香</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">覆没</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0.3" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">寂寞</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">清冷</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">净化</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0.2" Anxiety="0" Anger="0">抚慰</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">留念</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">伤痛</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="65" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.3" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">舒心</Keywords>
+            <Keywords start="-1" position="68" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">安宁</Keywords>
+            <Keywords start="-1" position="71" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">品味</Keywords>
+            <Keywords start="-1" position="77" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">品味</Keywords>
+            <Keywords start="-1" position="96" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">微微一笑</Keywords>
+            <Keywords start="-1" position="101" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Keywords start="-1" position="107" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">微茫</Keywords>
+            <Keywords start="-1" position="114" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">枯涩</Keywords>
+            <Keywords start="-1" position="121" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">欢乐</Keywords>
+            <Keywords start="-1" position="127" end="-1" Surprise="0" Sorrow="0.4" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">孤独</Keywords>
+            <Keywords start="-1" position="140" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">兴奋</Keywords>
+            <Keywords start="-1" position="143" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">安逸</Keywords>
+            <Keywords start="-1" position="149" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">沉静</Keywords>
+            <Keywords start="-1" position="155" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">浮躁</Keywords>
+            <Keywords start="-1" position="169" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">憔悴</Keywords>
+            <degree_adv start="-1" position="167" modifier_word_position="169" modifier_word_length="2" end="-1">那么</degree_adv>
+            <noword start="-1" position="35" modifier_word_position="39" modifier_word_length="2" end="-1">不会</noword>
+            <noword start="-1" position="166" modifier_word_position="169" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="104" next_position="131" modifier_word_position="106" modifier_word_length="4" end="-1">尽管</E_conjunction>
+            <E_conjunction start="-1" position="111" next_position="104" modifier_word_position="113" modifier_word_length="4" end="-1">尽管</E_conjunction>
+            <E_conjunction start="-1" position="118" next_position="104" modifier_word_position="120" modifier_word_length="4" end="-1">尽管</E_conjunction>
+            <E_conjunction start="-1" position="124" next_position="104" modifier_word_position="126" modifier_word_length="4" end="-1">尽管</E_conjunction>
+            <E_conjunction start="-1" position="131" next_position="104" modifier_word_position="132" modifier_word_length="13" end="-1">都</E_conjunction>
+            <E_phrase start="13" position="13" end="16" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">风</E_phrase>
+            <Rhetoric E_type="高兴">比喻</Rhetoric>
+            <Rhetoric E_type="喜爱">排比</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.2</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="安静，让我知道了等待的乐趣，让我知道了落寞的感受，让我懂得了激进的蹉跎，让我知道了在安静中可以等到美丽的颜色，等到期待中的快乐，得到了在急噪中不可能得不到的味道。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>安静/a  ，/w  让/v  我/r  知道/v  了/u  等待/v  的/u  乐趣/n  ，/w  让/v  我/r  知道/v  了/u  落寞/n  的/u  感受/vn  ，/w  让/v  我/r  懂得/v  了/u  激进/a  的/u  蹉跎/n  ，/w  让/v  我/r  知道/v  了/u  在/p  安静/a  中/f  可以/v  等到/v  美丽/a  的/u  颜色/n  ，/w  等到/v  期待/v  中/f  的/u  快乐/a  ，/w  得到/v  了/u  在/p  急/a  噪/n  中/f  不/d  可能/v  得/v  不/d  到/v  的/u  味道/n  。</Segmented_S>
+            <S_Length>81</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">等待</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">乐趣</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">落寞</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">懂得</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0.7" Anger="0">激进</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0.8" Anger="0">蹉跎</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">期待</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">快乐</Keywords>
+            <noword start="-1" position="71" modifier_word_position="72" modifier_word_length="2" end="-1">不</noword>
+            <Rhetoric E_type="喜爱">排比</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我知道，需要春天的美丽和生机，那要经过四季的轮回，要体会发芽到落叶的经历，要体会落叶到泥土的清香，等待是一种温和的情感，情感在温和中知道了安静，安静中才能享受到那分美丽的轮回的不易。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>我/r  知道/v  ，/w  需要/v  春天/t  的/u  美丽/a  和/c  生机/n  ，/w  那/r  要/v  经过/v  四季/n  的/u  轮回/n  ，/w  要/v  体会/v  发芽/v  到/v  落叶/n  的/u  经历/n  ，/w  要/v  体会/v  落叶/n  到/v  泥土/n  的/u  清香/n  ，/w  等待/v  是/v  一/m  种/q  温和/a  的/u  情感/n  ，/w  情感/n  在/p  温/nr  和/c  中/j  知道/v  了/u  安静/a  ，/w  安静/a  中/f  才/c  能/v  享受/v  到/v  那/r  分/q  美丽/a  的/u  轮回/n  的/u  不易/a  。</Segmented_S>
+            <S_Length>91</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">需要</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">生机</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">体会</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">体会</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">清香</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">等待</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">温和</Keywords>
+            <Keywords start="63" position="63" end="64" Surprise="0" Sorrow="0" POS="nr" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">温</Keywords>
+            <Keywords start="-1" position="69" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="72" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="77" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">享受</Keywords>
+            <Keywords start="-1" position="82" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Keywords start="-1" position="88" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">不易</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.9</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="当你漫步在草地上，感受阳光的味道时，也能嗅到青草的芳香，当你在沙滩上听海唱歌的时候，你会聆听到还的浪潮的汹涌和澎湃，当你在一曲悠扬的旋律中翩翩起舞的时候，你会情不自禁的飘扬，当你在森林你寻找失去的影子的时候，你会觉得后面有一个熟悉的脚步声跟随着你，当你在翻开自己的日记的时候，你会发现有那么多不同的眼睛在陪伴着你，这是什么，这是安静的美丽，是美丽的安静。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>当/p  你/r  漫步/v  在/p  草地/n  上/f  ，/w  感受/v  阳光/n  的/u  味道/n  时/Ng  ，/w  也/d  能/v  嗅/v  到/v  青草/n  的/u  芳香/n  ，/w  当/p  你/r  在/p  沙滩/ns  上/f  听/v  海/n  唱歌/v  的/u  时候/n  ，/w  你/r  会/v  聆听/v  到/v  还/d  的/u  浪潮/n  的/u  汹涌/a  和/c  澎湃/v  ，/w  当/p  你/r  在/p  一曲/n  悠扬/a  的/u  旋律/n  中/f  翩翩起舞/v  的/u  时候/n  ，/w  你/r  会/v  情不自禁/i  的/u  飘扬/n  ，/w  当/p  你/r  在/p  森林/n  你/r  寻找/v  失去/v  的/u  影子/n  的/u  时候/n  ，/w  你/r  会/v  觉得/v  后面/f  有/v  一个/m  熟悉/v  的/u  脚步/n  声/n  跟/v  随着/p  你/r  ，/w  当/p  你/r  在/p  翻开/v  自己/r  的/u  日记/n  的/u  时候/n  ，/w  你/r  会/v  发现/v  有/v  那么/r  多/a  不同/a  的/u  眼睛/n  在陪/v  伴/n  着/u  你/r  ，/w  这/r  是/v  什么/r  ，/w  这/r  是/v  安静/a  的/u  美丽/a  ，/w  是/v  美丽/a  的/u  安静/a  。</Segmented_S>
+            <S_Length>177</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">漫步</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">芳香</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">聆听</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">汹涌</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">澎湃</Keywords>
+            <Keywords start="-1" position="63" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悠扬</Keywords>
+            <Keywords start="-1" position="69" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">翩翩起舞</Keywords>
+            <Keywords start="-1" position="79" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">情不自禁</Keywords>
+            <Keywords start="-1" position="84" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">飘扬</Keywords>
+            <Keywords start="-1" position="93" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">寻找</Keywords>
+            <Keywords start="-1" position="113" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">熟悉</Keywords>
+            <Keywords start="152" position="151" end="153" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">在陪</Keywords>
+            <Keywords start="-1" position="164" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="167" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Keywords start="-1" position="171" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Keywords start="-1" position="174" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Rhetoric E_type="喜爱">排比</Rhetoric>
+            <Rhetoric E_type="喜爱">对偶</Rhetoric>
+            <Rhetoric E_type="喜爱">拟人</Rhetoric>
+            <Rhetoric E_type="喜爱">借代</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="安静，是美丽的。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>安静/a  ，/w  是/v  美丽/a  的/u  。</Segmented_S>
+            <S_Length>8</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="懂得安静的人，才会享受到安静的快乐，才能领悟到安静的品味。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>懂得/v  安静/a  的/u  人/n  ，/w  才/c  会/v  享受/v  到/v  安静/a  的/u  快乐/a  ，/w  才/c  能/v  领悟/v  到/v  安静/a  的/u  品味/n  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">懂得</Keywords>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">享受</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">快乐</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">领悟</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">品味</Keywords>
+            <E_conjunction start="-1" position="7" next_position="7" modifier_word_position="8" modifier_word_length="9" end="-1">才</E_conjunction>
+            <E_conjunction start="-1" position="18" next_position="18" modifier_word_position="19" modifier_word_length="9" end="-1">才</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第9段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.9</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="安静是打开爱的大门的钥匙，安静是打开智慧的大门，安静是排除忧郁和失望的启明星，是多味调和的开心剂，是包容一切和吸纳一切的熔炉，是从失望和颓废中站起来的支柱，是化解郁闷的良药，安静给了我许多的精神，昂我浮躁的心绪找到归属，让我寂寞的心学会欢笑，让我囚禁的心灵得到升华。">
+            <S_no>第9段第1句标注</S_no>
+            <Segmented_S>安静/a  是/v  打开/v  爱/v  的/u  大门/n  的/u  钥匙/n  ，/w  安静/a  是/v  打开/v  智慧/n  的/u  大门/n  ，/w  安静/a  是/v  排除/v  忧郁/n  和/c  失望/a  的/u  启明星/n  ，/w  是/v  多/a  味/Ng  调和/v  的/u  开心/a  剂/n  ，/w  是/v  包容/v  一切/r  和/c  吸纳/v  一切/r  的/u  熔炉/n  ，/w  是/v  从/p  失望/a  和/c  颓废/a  中站/n  起来/v  的/u  支柱/n  ，/w  是/v  化解/v  郁闷/v  的/u  良药/n  ，/w  安静/a  给/p  了/u  我/r  许多/m  的/u  精神/n  ，/w  昂/v  我/r  浮躁/a  的/u  心绪/n  找到/v  归属/v  ，/w  让/v  我/r  寂寞/a  的/u  心/n  学会/n  欢笑/v  ，/w  让/v  我/r  囚禁/v  的/u  心灵/n  得到/v  升华/vn  。</Segmented_S>
+            <S_Length>133</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爱</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">智慧</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0.3" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">忧郁</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">失望</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">开心</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">包容</Keywords>
+            <Keywords start="-1" position="65" end="-1" Surprise="0" Sorrow="0.2" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">失望</Keywords>
+            <Keywords start="-1" position="68" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">颓废</Keywords>
+            <Keywords start="-1" position="81" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">郁闷</Keywords>
+            <Keywords start="-1" position="84" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">良药</Keywords>
+            <Keywords start="-1" position="87" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="100" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">浮躁</Keywords>
+            <Keywords start="-1" position="112" end="-1" Surprise="0" Sorrow="0.4" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">寂寞</Keywords>
+            <Keywords start="-1" position="116" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">学会</Keywords>
+            <Keywords start="-1" position="118" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">欢笑</Keywords>
+            <Keywords start="-1" position="123" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">囚禁</Keywords>
+            <Keywords start="-1" position="130" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">升华</Keywords>
+            <noword start="-1" position="27" modifier_word_position="29" modifier_word_length="5" end="-1">排除</noword>
+            <noword start="-1" position="79" modifier_word_position="81" modifier_word_length="2" end="-1">化解</noword>
+            <E_phrase start="71" position="70" end="73" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0.6" Anxiety="0" Anger="0">中站</E_phrase>
+            <Rhetoric E_type="喜爱">排比</Rhetoric>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第10段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="安静，让亲情更加欢乐，让友情更加亲密，让爱情更加甜美，让生活更加阳光，让我们的心灵世界更加艳丽。">
+            <S_no>第10段第1句标注</S_no>
+            <Segmented_S>安静/a  ，/w  让/v  亲情/n  更加/d  欢乐/a  ，/w  让/v  友情/n  更加/d  亲密/a  ，/w  让/v  爱情/n  更加/d  甜美/a  ，/w  让/v  生活/vn  更加/d  阳光/a  ，/w  让/v  我们/r  的/u  心灵/n  世界/n  更加/d  艳丽/a  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">亲情</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">欢乐</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">友情</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">亲密</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爱情</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">甜美</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">阳光</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">艳丽</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="8" modifier_word_length="2" end="-1">更加</degree_adv>
+            <degree_adv start="-1" position="14" modifier_word_position="0" modifier_word_length="1" end="-1">更加</degree_adv>
+            <degree_adv start="-1" position="22" modifier_word_position="24" modifier_word_length="2" end="-1">更加</degree_adv>
+            <degree_adv start="-1" position="30" modifier_word_position="0" modifier_word_length="1" end="-1">更加</degree_adv>
+            <degree_adv start="-1" position="43" modifier_word_position="45" modifier_word_length="2" end="-1">更加</degree_adv>
+            <Rhetoric E_type="喜爱">排比</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第11段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="安静，是一道美丽的彩虹，是生命鲜活的纽带。">
+            <S_no>第11段第1句标注</S_no>
+            <Segmented_S>安静/a  ，/w  是/v  一/m  道/q  美丽/a  的/u  彩虹/n  ，/w  是/v  生命/n  鲜活/a  的/u  纽带/n  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">鲜活</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第12段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="听风轻唱，听雨低吟，听还有许多的声音，都在安静中轻轻的分享安静的美丽。">
+            <S_no>第12段第1句标注</S_no>
+            <Segmented_S>听/v  风/n  轻/a  唱/v  ，/w  听/v  雨/n  低吟/v  ，/w  听/v  还/d  有/v  许多/m  的/u  声音/n  ，/w  都/d  在/d  安静/a  中/f  轻轻/d  的/u  分享/v  安静/a  的/u  美丽/a  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">低吟</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">轻轻</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">分享</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <E_phrase start="2" position="2" end="3" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">轻</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

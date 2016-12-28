@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.8</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>元宵小记</Topic>
+    <title T="元宵小记">
+        <Segmented_S>元宵/n  小记/n</Segmented_S>
+        <S_Length>4</S_Length>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="今天又是一年一度的年宵节了，虽然上来深圳又有好几天了，班也上了（２月６号正式上班）好几天，但是我也不知道自己这几天是怎样过的，天天就在车间里瞎忙乱！">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>今天/t  又/d  是/v  一/m  年/q  一/m  度/q  的/u  年/q  宵/n  节/Vg  了/y  ，/w  虽然/c  上来/v  深圳/ns  又/d  有/v  好几/m  天/q  了/y  ，/w  班/n  也/d  上/v  了/u  （/w  ２月/n  ６/v  号/n  正式/ad  上班/v  ）/w  好几/m  天/q  ，/w  但是/c  我也不知道/n  自己/r  这几/v  天/n  是/v  怎样/r  过/v  的/u  ，/w  天天/q  就/d  在/p  车间/n  里/f  瞎忙/v  乱/d  ！</Segmented_S>
+            <S_Length>74</S_Length>
+            <Keywords start="4" position="4" end="7" Surprise="0" Sorrow="0" POS="m" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">一</Keywords>
+            <E_conjunction start="-1" position="14" next_position="45" modifier_word_position="16" modifier_word_length="10" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="45" next_position="14" modifier_word_position="47" modifier_word_length="15" end="-1">但是</E_conjunction>
+            <E_phrase start="70" position="70" end="72" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">瞎忙</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那心好像还在家里忘了带上来一样，天天想着家里的爹妈，想着家里还有很多没有做完的工作，想着家里还有很多好吃的东西，想着家里的一切一切．．．．．．">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 那/r  心/n  好像/v  还/d  在/p  家里/s  忘/v  了/u  带/v  上/v  来/v  一样/u  ，/w  天天/q  想着/n  家里/s  的/u  爹妈/n  ，/w  想着/v  家里/s  还有/v  很多/m  没有/v  做/v  完/v  的/u  工作/vn  ，/w  想着/v  家里/s  还有/v  很多/m  好吃/a  的/u  东西/n  ，/w  想着/v  家里/s  的/u  一切/r  一切/r  ．/w  ．/w  ．/w  ．/w  ．/w  ．/w</Segmented_S>
+            <S_Length>71</S_Length>
+            <Keywords start="8" position="8" end="9" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">忘</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">想着</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">想着</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">想着</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好吃</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">想着</Keywords>
+            <degree_adv start="32" position="32" modifier_word_position="33" modifier_word_length="1" end="32">很多</degree_adv>
+            <noword start="-1" position="34" modifier_word_position="36" modifier_word_length="5" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.3</Sorrow>
+        <Anxiety>0.8</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="因为金融危机的影响，一早上大家都在议论今年的元宵会有什么的菜式、有没有去年的丰富等等的。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>因为/c  金融/n  危机/n  的/u  影响/vn  ，/w  一早/d  上/v  大家/r  都/d  在/d  议论/v  今年/t  的/u  元宵/n  会/v  有/v  什么/r  的/u  菜/n  式/k  、/w  有/v  没/d  有/v  去年/t  的/u  丰富/a  等等/u  的/u  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">危机</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">丰富</Keywords>
+            <degree_adv start="-1" position="15" modifier_word_position="16" modifier_word_length="15" end="-1">都</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="7" end="-1">因为</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="13" end="-1">大家</Opinion_holder>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="可我却一点也提不起心情来，昨晚陪老婆去坐车，因为等了好久过了几部车都没有停，所以心情就有点烦躁骂了几句那些该死的３６１的司机，后来没有办法，她只有坐了８３９的车过布吉再转车了，送老婆去坐了车后回来车间坐了一会才回宿舍冲凉，因为四月份又要考试了，但是我的功课却一点也没有做，真的有点烦闷！">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 可/c  我却/v  一点也/n  提/v  不/d  起/v  心情/n  来/v  ，/w  昨晚/t  陪/v  老婆/n  去/v  坐/v  车/n  ，/w  因为/c  等/u  了/u  好久/m  过/v  了/u  几/m  部/q  车/n  都/d  没有/v  停/v  ，/w  所以/c  心情/n  就/d  有/v  点/q  烦躁/n  骂/v  了/u  几/m  句/q  那些/r  该死/v  的/u  ３６１/n  的/u  司机/n  ，/w  后来/t  没有/d  办法/n  ，/w  她/r  只/d  有/v  坐/v  了/u  ８３９/n  的/u  车/n  过/v  布吉/n  再/d  转车/v  了/u  ，/w  送/v  老婆/n  去/v  坐/v  了/u  车/n  后/f  回来/v  车间/n  坐/v  了/u  一会/m  才/d  回/v  宿舍/n  冲凉/n  ，/w  因为/c  四月份/v  又/d  要/v  考试/v  了/u  ，/w  但是/c  我/r  的/u  功课/n  却/d  一点也/v  没有/d  做/v  ，/w  真的/d  有点/d  烦闷/a  ！</Segmented_S>
+            <S_Length>143</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">陪</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">烦躁</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.8">骂</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">该死</Keywords>
+            <Keywords start="-1" position="140" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">烦闷</Keywords>
+            <degree_adv start="-1" position="3" modifier_word_position="6" modifier_word_length="6" end="-1">一点也</degree_adv>
+            <degree_adv start="43" position="43" modifier_word_position="45" modifier_word_length="2" end="44">有</degree_adv>
+            <degree_adv start="-1" position="129" modifier_word_position="132" modifier_word_length="3" end="-1">一点也</degree_adv>
+            <degree_adv start="-1" position="138" modifier_word_position="140" modifier_word_length="2" end="-1">有点</degree_adv>
+            <noword start="6" position="6" modifier_word_position="9" modifier_word_length="2" end="8">提</noword>
+            <noword start="-1" position="34" modifier_word_position="36" modifier_word_length="1" end="-1">没有</noword>
+            <noword start="-1" position="65" modifier_word_position="67" modifier_word_length="2" end="-1">没有</noword>
+            <noword start="-1" position="132" modifier_word_position="134" modifier_word_length="1" end="-1">没有</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="11" end="-1">可</E_conjunction>
+            <E_conjunction start="-1" position="22" next_position="38" modifier_word_position="24" modifier_word_length="13" end="-1">因为</E_conjunction>
+            <E_conjunction start="-1" position="38" next_position="22" modifier_word_position="40" modifier_word_length="22" end="-1">所以</E_conjunction>
+            <E_conjunction start="-1" position="111" next_position="111" modifier_word_position="113" modifier_word_length="8" end="-1">因为</E_conjunction>
+            <E_conjunction start="-1" position="122" next_position="122" modifier_word_position="124" modifier_word_length="11" end="-1">但是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.4</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="回宿舍冲完凉九点多就睡觉了（睡觉前给老婆打了个电话，但不知说了什么把她惹生气了）！">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 回/v  宿舍/n  冲/v  完/v  凉/a  九点/n  多/a  就/d  睡觉/v  了/u  （/w  睡觉/v  前/f  给/p  老婆/n  打/v  了/u  个/q  电话/n  ，/w  但/c  不知/v  说/v  了/u  什么/r  把/p  她/r  惹/v  生气/n  了/y  ）/w  ！</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.7">生气</Keywords>
+            <noword start="27" position="27" modifier_word_position="28" modifier_word_length="1" end="27">不知</noword>
+            <E_conjunction start="-1" position="26" next_position="26" modifier_word_position="27" modifier_word_length="12" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="今天早上还想着昨晚的事情，想想真的有点对不起她了，因为我老是惹祸！">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 今天/t  早上/t  还/d  想/v  着/u  昨晚/t  的/u  事情/n  ，/w  想想/v  真的/d  有点/d  对不起/v  她/r  了/y  ，/w  因为/c  我/r  老是/d  惹祸/v  ！</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">对不起</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">惹祸</Keywords>
+            <degree_adv start="-1" position="17" modifier_word_position="19" modifier_word_length="4" end="-1">有点</degree_adv>
+            <degree_adv start="-1" position="28" modifier_word_position="30" modifier_word_length="2" end="-1">老是</degree_adv>
+            <E_conjunction start="-1" position="25" next_position="25" modifier_word_position="27" modifier_word_length="5" end="-1">因为</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.8</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="不知什么时候老板他们上来厂的（因为这个对我来说没有什么要紧）到了十一点多的时候他们叫去拜关公了，所以就跟着大伙去上了柱香，跟着就过饭堂吃团圆饭了（因为年年的今天我们的香港老板都会上来同全厂的员工一起吃饭的）来到饭堂看到满堂都坐满了人，我正在找位置时厂长不知今天吃了什么药跑过来拉我叫我去前面同老板坐，我把他掷在一边自己到员工桌去坐下吃了起来（因为我不想同那些只会在老板面前耍小样，拍马屁的人一起吃饭）不知这样会不会惹毛那厂长呢！">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>不知/v  什么/r  时候/n  老板/n  他们/r  上来/v  厂/n  的/u  （/w  因为/c  这/r  个/q  对/p  我/r  来说/u  没有/d  什么/r  要紧/n  ）/w  到/v  了/u  十一点/n  多/a  的/u  时候/n  他们/r  叫/v  去/v  拜/v  关公/n  了/y  ，/w  所以/c  就/d  跟着/v  大伙/r  去/v  上/v  了/u  柱/n  香/a  ，/w  跟着/v  就/d  过/v  饭堂/n  吃/v  团圆饭/n  了/y  （/w  因为/c  年年/d  的/u  今天/t  我们/r  的/u  香港/ns  老板/n  都/d  会/v  上/v  来/v  同/p  全厂/n  的/u  员工/n  一/m  起/q  吃饭/v  的/u  ）/w  来到/v  饭堂/n  看到/v  满堂/n  都/d  坐/v  满/a  了/u  人/n  ，/w  我/r  正/d  在/p  找/v  位置/n  时/Ng  厂长/n  不知/v  今天/t  吃/v  了/u  什么/r  药/n  跑/v  过来/v  拉/v  我叫/n  我去/v  前面/f  同/p  老板/n  坐/v  ，/w  我/r  把/p  他/r  掷/v  在/p  一边/f  自己/r  到/v  员工/n  桌/Ng  去/v  坐下/v  吃/v  了/u  起来/v  （/w  因为/c  我不/v  想同/n  那些/r  只/d  会/v  在/p  老板/n  面前/f  耍/v  小样/n  ，/w  拍马屁/v  的/u  人/n  一起/d  吃饭/v  ）/w  不知/v  这样/r  会/v  不/d  会/v  惹/v  毛/nr  那/nr  厂长/r  呢！</Segmented_S>
+            <S_Length>214</S_Length>
+            <Keywords start="-1" position="68" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">团圆饭</Keywords>
+            <Keywords start="-1" position="190" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">拍马屁</Keywords>
+            <Keywords start="207" position="207" end="208" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.8">惹</Keywords>
+            <Keywords start="-1" position="212" end="-1" Surprise="0" Sorrow="0" POS="" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">呢！</Keywords>
+            <noword start="0" position="0" modifier_word_position="1" modifier_word_length="1" end="0">不知</noword>
+            <noword start="-1" position="23" modifier_word_position="27" modifier_word_length="2" end="-1">没有</noword>
+            <noword start="126" position="126" modifier_word_position="127" modifier_word_length="1" end="126">不知</noword>
+            <noword start="174" position="173" modifier_word_position="175" modifier_word_length="1" end="174">我不</noword>
+            <noword start="200" position="200" modifier_word_position="201" modifier_word_length="1" end="200">不知</noword>
+            <E_conjunction start="-1" position="15" next_position="15" modifier_word_position="17" modifier_word_length="12" end="-1">因为</E_conjunction>
+            <E_conjunction start="-1" position="48" next_position="48" modifier_word_position="50" modifier_word_length="10" end="-1">所以</E_conjunction>
+            <E_conjunction start="-1" position="73" next_position="73" modifier_word_position="75" modifier_word_length="27" end="-1">因为</E_conjunction>
+            <E_conjunction start="-1" position="171" next_position="171" modifier_word_position="173" modifier_word_length="16" end="-1">因为</E_conjunction>
+            <E_phrase start="186" position="186" end="188" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">耍</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="唉！">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S>唉！</Segmented_S>
+            <S_Length>2</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">唉！</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="真不知今年怎么了，老是得罪人的！">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S>真不知今年/n  怎么/r  了/y  ，/w  老是/d  得罪人/v  的/u  ！</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">得罪人</Keywords>
+            <noword start="1" position="0" modifier_word_position="2" modifier_word_length="1" end="1">真不知今年</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">！</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="烦燥．．．．．．">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 烦燥/n  ．/w  ．/w  ．/w  ．/w  ．/w  ．/w</Segmented_S>
+            <S_Length>8</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">烦燥</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">……</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

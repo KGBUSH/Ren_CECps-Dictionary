@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.7</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.9</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.6</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>猫</Topic>
+    <title T="猫">
+        <Segmented_S>猫/n</Segmented_S>
+        <S_Length>1</S_Length>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>1.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>猫</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="在一个星期天的下午，我的小孙女陆天和她妈妈从朋友家抱回了一只离开母体才一个多月的小猫。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>在/p  一个/m  星期天/t  的/u  下午/t  ，/w  我/r  的/u  小孙/n  女/b  陆/Ng  天/n  和/c  她/r  妈妈/n  从/p  朋友家/n  抱/v  回/v  了/u  一/m  只/q  离开/v  母体/n  才/d  一个/m  多/m  月/n  的/u  小猫/n  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这只猫看上去很漂亮，一身纯白的毛，两只湖蓝色的大眼睛，瘦瘦小小的身体，两只较大的耳朵，高高地竖在头顶上，走起路来，两只前腿交叉着一前一后在一条线上进行，好象模特儿在Ｔ型台上表演，非常潇洒。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 这只/n  猫/v  看/v  上去/v  很/d  漂亮/a  ，/w  一/m  身/q  纯白/n  的/u  毛/nr  ，/w  两/m  只/q  湖蓝/n  色/n  的/u  大/a  眼睛/n  ，/w  瘦瘦小小/v  的/u  身体/n  ，/w  两/m  只/q  较/d  大/a  的/u  耳朵/n  ，/w  高高地/v  竖/n  在/p  头顶/n  上/f  ，/w  走/v  起/v  路/n  来/v  ，/w  两/m  只/q  前腿/n  交叉/v  着/u  一/m  前/f  一/m  后/f  在/p  一/m  条/q  线/n  上/f  进行/v  ，/w  好象/v  模特儿/n  在/p  Ｔ型台/n  上/f  表演/v  ，/w  非常/d  潇洒/a  。</Segmented_S>
+            <S_Length>94</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">漂亮</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">瘦瘦小小</Keywords>
+            <Keywords start="-1" position="91" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">潇洒</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="7" modifier_word_length="2" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="89" modifier_word_position="91" modifier_word_length="2" end="-1">非常</degree_adv>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>1.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="从此，我们家增加了这样一位新成员，热闹的气氛也开始了。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 从此/d  ，/w  我们/r  家/n  增加/v  了/u  这样/r  一/m  位/q  新/a  成员/n  ，/w  热闹/a  的/u  气氛/n  也/d  开始/v  了/u  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">热闹</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>起名</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="首先，得给猫起名，叫什么好呢？">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>首先/c  ，/w  得/v  给/p  猫/n  起名/v  ，/w  叫什么/v  好/a  呢/y  ？</Segmented_S>
+            <S_Length>15</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">呢</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">？</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="各执己见，比如，“点点”，“咪咪”，“豆豆”等等，跟我们一起生活的小姑娘梅芳偏要搞特殊，明明是小猫偏要起名“小狗　”。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 各/r  执己/n  见/v  ，/w  比如/v  ，/w  “/w  点点/n  ”/w  ，/w  “/w  咪咪/n  ”/w  ，/w  “/w  豆豆/n  ”/w  等等/u  ，/w  跟/p  我们/r  一起/d  生活/v  的/u  小姑娘/n  梅芳/v  偏/v  要/v  搞/v  特殊/a  ，/w  明明/d  是/v  小猫/n  偏/v  要/v  起名/v  “/w  小狗/n  　/v  ”/w  。</Segmented_S>
+            <S_Length>59</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="小孙女叫猫“小梅芳”，梅芳叫猫“小陆天”。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 小孙/nr  女/b  叫/v  猫/n  “/w  小梅/nr  芳/nr  ”/w  ，/w  梅芳/v  叫/v  猫/n  “/w  小陆/n  天/n  ”/w  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <punctuation E_type="喜爱">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="最后，还是“咪咪”定了下来，因为小猫只认“咪咪”这个名字，只有叫“咪咪”它才听。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 最后/f  ，/w  还是/c  “/w  咪咪/n  ”/w  定/v  了/u  下来/v  ，/w  因为/c  小猫/v  只认/n  “/w  咪咪/n  ”/w  这个/r  名字/n  ，/w  只/d  有/v  叫/v  “/w  咪咪/n  ”/w  它/r  才/d  听/v  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <E_conjunction start="-1" position="14" next_position="14" modifier_word_position="16" modifier_word_length="12" end="-1">因为</E_conjunction>
+            <E_conjunction start="29" position="29" next_position="37" modifier_word_position="31" modifier_word_length="6" end="30">只</E_conjunction>
+            <E_conjunction start="-1" position="37" next_position="29" modifier_word_position="38" modifier_word_length="1" end="-1">才</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>猫</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="猫，是宠物，目前养宠物成了一种社会时尚，“咪咪”在我们家也受到特殊的待遇。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>猫/n  ，/w  是/v  宠物/n  ，/w  目前/t  养/v  宠物/n  成/v  了/u  一/m  种/q  社会/n  时尚/n  ，/w  “/w  咪咪/n  ”/w  在/p  我们/r  家/n  也/d  受到/v  特殊/a  的/u  待遇/n  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">宠物</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">宠物</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">时尚</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="它有从商场买来的猫沙和猫粮，晚上还得跟我们一起喝点牛奶。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 它/r  有/v  从/p  商场/n  买/v  来/v  的/u  猫/n  沙/n  和/c  猫粮/n  ，/w  晚上/t  还/d  得/v  跟/v  我们/r  一起/d  喝/v  点/n  牛奶/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="人有贫富之分，这些小动物也有贵贱之说。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 人/n  有/v  贫富/n  之/u  分/v  ，/w  这些/r  小/a  动物/n  也/d  有/v  贵贱/n  之/u  说/Ng  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这不，如果这个猫生活在环境比较差的家庭，那它也只能吃点残羹剩饭了。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 这不/n  ，/w  如果/c  这/r  个/q  猫/n  生活/vn  在/p  环境/n  比较/d  差/a  的/u  家庭/n  ，/w  那/r  它/r  也/d  只/d  能/v  吃/v  点/q  残羹剩饭/n  了/y  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">差</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">残羹剩饭</Keywords>
+            <degree_adv start="-1" position="13" modifier_word_position="15" modifier_word_length="1" end="-1">比较</degree_adv>
+            <E_conjunction start="-1" position="3" next_position="3" modifier_word_position="5" modifier_word_length="14" end="-1">如果</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>猫</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="猫作为小动物也是很可爱的，特别是它是波斯猫种。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>猫/n  作为/v  小/a  动物/n  也/d  是/v  很/d  可爱/a  的/u  ，/w  特别/d  是/v  它/r  是/v  波斯猫/n  种/v  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">可爱</Keywords>
+            <degree_adv start="-1" position="8" modifier_word_position="9" modifier_word_length="2" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="尽管它还不是很纯，因为它的父亲不知是属于什么品种，但还是有母波斯猫的血统。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 尽管/c  它/r  还/d  不/d  是/v  很/d  纯/a  ，/w  因为/c  它/r  的/u  父亲/n  不知/v  是/v  属于/v  什么/r  品种/n  ，/w  但/c  还是/d  有/v  母/Ng  波斯猫/n  的/u  血统/n  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">纯</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="7" modifier_word_length="1" end="-1">很</degree_adv>
+            <noword start="-1" position="4" modifier_word_position="7" modifier_word_length="1" end="-1">不</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="6" end="-1">尽管</E_conjunction>
+            <E_conjunction start="-1" position="9" next_position="9" modifier_word_position="11" modifier_word_length="13" end="-1">因为</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="有时，它两个眼睛凝神望着你，有时又用它的前爪摸你的腿，这里跑跑，那里跳跳，疯跑一阵后就安静地躺下。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 有时/d  ，/w  它/r  两/m  个/q  眼睛/n  凝神/v  望/v  着/u  你/r  ，/w  有时/d  又用/v  它/r  的/u  前爪/n  摸/v  你/r  的/u  腿/n  ，/w  这里/r  跑/v  跑/v  ，/w  那里/r  跳/v  跳/v  ，/w  疯/v  跑/v  一阵/m  后/f  就/d  安静/a  地/u  躺/v  下/v  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.2" Expect="0" Anxiety="0" Anger="0">疯</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">安静</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="白天它爱睡懒觉，晚上可精神啦。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 白天/t  它/r  爱/v  睡/v  懒/a  觉/Ng  ，/w  晚上/t  可/v  精神/n  啦/y  。</Segmented_S>
+            <S_Length>15</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爱</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">啦</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="它要吃东西时围着你的腿“咪咪”地叫。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 它/r  要/v  吃/v  东西/n  时/Ng  围/v  着/u  你/r  的/u  腿/n  “/w  咪咪/n  ”/w  地/u  叫/v  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="晚上，我们把它关在小屋里，天亮时，它又咪咪地叫着想开门出来。">
+            <S_no>第4段第6句标注</S_no>
+            <Segmented_S> 晚上/t  ，/w  我们/r  把/p  它/r  关/v  在/p  小/a  屋里/s  ，/w  天亮/v  时/Ng  ，/w  它/r  又/d  咪咪/v  地/u  叫/v  着/u  想/v  开门/v  出来/v  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>烦</Topic>
+        <Summarize_Sentences>4</Summarize_Sentences>
+        <sentence S="但是，有时它的一些动作又叫人烦。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>但是/c  ，/w  有时/d  它/r  的/u  一些/m  动作/n  又/d  叫/v  人/n  烦/v  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">烦</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="12" end="-1">但是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="总归它是动物，有一定的攻击性，不时地乱咬你，再就是乱咬东西，报纸、小孙女的歌谱也被它咬坏了。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 总归/n  它/r  是/v  动物/n  ，/w  有/v  一定/b  的/u  攻击性/n  ，/w  不时/d  地/u  乱/d  咬/v  你/r  ，/w  再就是/d  乱/a  咬/v  东西/n  ，/w  报纸/n  、/w  小孙/n  女/b  的/u  歌谱/n  也/d  被/p  它/r  咬/v  坏/a  了/u  。</Segmented_S>
+            <S_Length>46</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">攻击性</Keywords>
+            <E_phrase start="18" position="18" end="19" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">乱</E_phrase>
+            <E_phrase start="25" position="25" end="26" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">乱</E_phrase>
+            <E_phrase start="42" position="42" end="43" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">咬</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="它爬高上低，爬到电话机上，踩响了免提键，它就吓得“哧溜”一下跳下来，任何地方都可以是它的床铺，这里舔舔，那里闻闻，唉！">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 它/r  爬高/v  上/f  低/a  ，/w  爬/v  到/v  电话机/n  上/f  ，/w  踩/v  响了/n  免提键/v  ，/w  它/r  就/d  吓得/v  “/w  哧溜/n  ”/w  一下/m  跳/v  下/v  来/v  ，/w  任何/r  地方/n  都/d  可以/v  是/v  它/r  的/u  床铺/n  ，/w  这里/r  舔/v  舔/n  ，/w  那里/r  闻闻/v  ，/w  唉/v  ！</Segmented_S>
+            <S_Length>59</S_Length>
+            <Keywords start="22" position="22" end="22" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">吓得</Keywords>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0.0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">唉</Keywords>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0" POS="" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">！</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.3</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="还真有点烦。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 还/d  真/d  有/v  点/q  烦/n  。</Segmented_S>
+            <S_Length>6</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">烦</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="有生以来，我还是第一次与小动物生活在一起。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>有生/n  以来/f  ，/w  我还/v  是/v  第一/m  次/q  与/p  小/a  动物/n  生活/vn  在/p  一/m  起/q  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="它的习性，它的表情，我根本就不懂。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 它/r  的/u  习性/n  ，/w  它/r  的/u  表情/n  ，/w  我/r  根本/d  就/d  不/d  懂/v  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <noword start="-1" position="14" modifier_word_position="15" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="也许，有些是误解吧。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 也许/d  ，/w  有些/r  是/v  误解/v  吧/y  。</Segmented_S>
+            <S_Length>10</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">误解</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="但它是我孙女的小宠物，她每天放学回来，首先就是找她的宝贝咪咪，然后把它抱在怀中亲亲，非常疼爱。">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> 但/c  它/r  是/v  我/r  孙女/n  的/u  小/a  宠物/n  ，/w  她/r  每天/r  放学/v  回来/v  ，/w  首先/c  就/d  是/v  找/v  她/r  的/u  宝贝/n  咪咪/n  ，/w  然后/c  把/p  它/r  抱/v  在/p  怀中/n  亲亲/v  ，/w  非常/d  疼爱/v  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="1" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">宠物</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="1" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">宝贝</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">抱</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">亲亲</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">疼爱</Keywords>
+            <degree_adv start="-1" position="42" modifier_word_position="44" modifier_word_length="2" end="-1">非常</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="9" end="-1">但</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="4" end="-1">孙女</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="所以，我必须去熟悉它，了解它，与它和平共处，">
+            <S_no>第6段第5句标注</S_no>
+            <Segmented_S> 所以/c  ，/w  我/r  必须/d  去/v  熟悉/v  它/r  ，/w  了解/v  它/r  ，/w  与它/v  和平共处/l  ，/w</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">必须</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">和平共处</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="18" end="-1">所以</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="咳！">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>咳/v  ！</Segmented_S>
+            <S_Length>2</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">咳</Keywords>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">！</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="高兴">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="谁叫我是我孙女的奶奶呢？">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 谁/r  叫/v  我/r  是/v  我/r  孙女/n  的/u  奶奶/n  呢/y  ？</Segmented_S>
+            <S_Length>12</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">呢</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">？</Keywords>
+            <Rhetoric E_type="高兴">设问</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="高兴">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

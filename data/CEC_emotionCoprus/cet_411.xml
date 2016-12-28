@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.8</Hate>
+    <Love>0.0</Love>
+    <Sorrow>1.0</Sorrow>
+    <Anxiety>1.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.8</Expect>
+    <Topic>时间</Topic>
+    <title T="忘掉时间的忧伤，回到自然的节奏">
+        <Segmented_S>忘掉/v  时间/n  的/u  忧伤/n  ，/w  回到/v  自然/n  的/u  节奏/n</Segmented_S>
+        <S_Length>15</S_Length>
+        <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">忧伤</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.4</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="“自从钟表被发明以来，人类生活便没有了永恒。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>“/w  自从/p  钟表/n  被/p  发明/v  以来/f  ，/w  人类/n  生活/vn  便/d  没有/v  了/u  永恒/z  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> ”/w</Segmented_S>
+            <S_Length>1</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>1.0</Sorrow>
+        <Anxiety>1.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>惶恐 忧伤</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="早已经没有了邮筒，新年的书信、贺卡也就成了久远的旧事；新朋故旧从指尖上的问候，提醒我，又是一年。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>早/ad  已经/d  没有/v  了/u  邮筒/n  ，/w  新年/t  的/u  书信/n  、/w  贺卡/n  也/d  就/d  成/v  了/u  久远/z  的/u  旧事/n  ；/w  新朋/n  故旧/v  从/p  指尖/n  上/f  的/u  问候/vn  ，/w  提醒/v  我/r  ，/w  又/c  是/v  一/m  年/q  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">旧事</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">新朋</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">故旧</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">问候</Keywords>
+            <noword start="-1" position="3" modifier_word_position="6" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="从进入１２月就开始的对旧年过去的的惶恐和忧伤，在无奈中，达到极点。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 从/p  进入/v  １２月/n  就/d  开始/v  的/u  对/p  旧/a  年/q  过去/v  的/u  的/u  惶恐/n  和/c  忧伤/n  ，/w  在/p  无奈/a  中/f  ，/w  达到/v  极点/m  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">惶恐</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0.8" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">忧伤</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0.3" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">无奈</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>1.0</Sorrow>
+            <Anxiety>1.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.8</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>时间 紧迫</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="还记得儿时，从来没有时间的紧迫，那时候的时间就像自己玩耍的田野一样自由舒展。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>还/d  记得/v  儿时/t  ，/w  从来/d  没有/d  时间/n  的/u  紧迫/a  ，/w  那/r  时候/n  的/u  时间/n  就/d  像/v  自己/r  玩耍/v  的/u  田野/n  一样/a  自由/a  舒展/a  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">紧迫</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">自由</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">舒展</Keywords>
+            <noword start="-1" position="8" modifier_word_position="13" modifier_word_length="2" end="-1">没有</noword>
+            <Rhetoric E_type="高兴">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们的心，自从被引入严格的时间维度，童年也就结束了。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 我们/r  的/u  心/n  ，/w  自从/p  被/p  引入/v  严格/ad  的/u  时间/n  维度/v  ，/w  童年/t  也/d  就/d  结束/v  了/u  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">严格</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们陷入了无所不在计时工具织就的时间的网格中，随着年龄的增大，越感受它的紧迫，从皮肤勒到心灵。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 我们/r  陷入/v  了/u  无所/n  不/d  在/v  计时/v  工具/n  织就/n  的/u  时间/n  的/u  网格/n  中/f  ，/w  随着/p  年龄/n  的/u  增大/v  ，/w  越感/v  受/v  它/r  的/u  紧迫/a  ，/w  从/p  皮肤/n  勒/v  到/v  心灵/n  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">陷入</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">紧迫</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">勒</Keywords>
+            <Rhetoric E_type="焦虑">拟人</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.8</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>1.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>束缚</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="新年一觉醒来，时间紧身衣又收了一个刻度。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>新年/t  一觉/n  醒/v  来/v  ，/w  时间/n  紧身衣/v  又/d  收/v  了/u  一个/m  刻度/n  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <degree_adv start="-1" position="12" modifier_word_position="13" modifier_word_length="1" end="-1">又</degree_adv>
+            <Rhetoric E_type="焦虑">拟人</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="它就这样把生命不断收缩，直到在垂垂老矣的眼神里，收缩出死亡的恐惧。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 它/r  就/d  这样/r  把/p  生命/n  不断/d  收缩/v  ，/w  直到/v  在/p  垂垂老矣/n  的/u  眼神/n  里/f  ，/w  收缩/v  出/v  死亡/v  的/u  恐惧/a  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.9" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">垂垂老矣</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="1.0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">死亡</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="1.0" Anger="0">恐惧</Keywords>
+            <Rhetoric E_type="焦虑">拟人</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>1.0</Sorrow>
+            <Anxiety>1.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="时钟刻度蚀刻到了内心的节奏，它们就像监狱的一条条钢筋一样，束缚住渴望超越时间的自由的心。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 时钟/n  刻度/v  蚀刻/n  到/v  了/u  内心/n  的/u  节奏/n  ，/w  它们/r  就/d  像/v  监狱/n  的/u  一条条/m  钢筋/n  一样/a  ，/w  束缚/v  住/v  渴望/v  超越/v  时间/n  的/u  自由/a  的/u  心/n  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">监狱</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0.8" Anger="0">束缚</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="1.0" Anxiety="0" Anger="0">渴望</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">自由</Keywords>
+            <Rhetoric E_type="焦虑">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>1.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.8</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="其实，这个世界，从根本上还是儿时的世界；天空，也依然还是童年的天空，只是我们的心，已经不再新鲜。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>其实/d  ，/w  这/r  个/q  世界/n  ，/w  从/p  根本/n  上/f  还是/d  儿时/t  的/u  世界/n  ；/w  天空/n  ，/w  也/d  依然/z  还是/d  童年/t  的/u  天空/n  ，/w  只是/c  我们/r  的/u  心/n  ，/w  已经/d  不再/d  新鲜/a  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">新鲜</Keywords>
+            <noword start="-1" position="43" modifier_word_position="45" modifier_word_length="2" end="-1">不再</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="44" end="-1">其实</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="童年的时间是三维的，没有时间的维度；当我们引入了计时到秒的时间，生活就被点化和碎片化，不但快乐被分割难以长久，痛苦也被网格而更加深重。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 童年/t  的/u  时间/n  是/v  三维/m  的/u  ，/w  没有/v  时间/n  的/u  维度/n  ；/w  当/p  我们/r  引入/v  了/u  计时/v  到/v  秒/m  的/u  时间/n  ，/w  生活/vn  就/d  被/p  点化/v  和/c  碎片/n  化/v  ，/w  不但/c  快乐/a  被/p  分割/v  难以/d  长久/ad  ，/w  痛苦/a  也/d  被/p  网格/n  而/c  更加/d  深重/a  。</Segmented_S>
+            <S_Length>67</S_Length>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">快乐</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0.7" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">痛苦</Keywords>
+            <Keywords start="-1" position="64" end="-1" Surprise="0" Sorrow="0.7" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">深重</Keywords>
+            <degree_adv start="-1" position="62" modifier_word_position="64" modifier_word_length="2" end="-1">更加</degree_adv>
+            <noword start="-1" position="10" modifier_word_position="15" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="-1" position="18" next_position="34" modifier_word_position="19" modifier_word_length="12" end="-1">当</E_conjunction>
+            <E_conjunction start="-1" position="34" next_position="18" modifier_word_position="35" modifier_word_length="7" end="-1">就</E_conjunction>
+            <E_conjunction start="-1" position="43" next_position="43" modifier_word_position="45" modifier_word_length="9" end="-1">不但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="分、秒、小时和阳历的年，本是一种现代发明。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>分/v  、/w  秒/v  、/w  小时/n  和/c  阳历/n  的/u  年/q  ，/w  本/d  是/v  一/m  种/q  现代/t  发明/n  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="时间其实就是天上的飘云，或者没有堤岸的河流，以至自由游泳的大海。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 时间/n  其实/d  就/d  是/v  天上/s  的/u  飘/v  云/n  ，/w  或者/c  没有/d  堤岸/v  的/u  河流/n  ，/w  以至/c  自由/a  游泳/vn  的/u  大海/n  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="所谓的童年，不就是没有时钟的生活，能够把什么分钟、小时一切关于时间的东西全忘掉，让时间弯曲液化，变成闲逛的田野，畅游的大海。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 所谓/v  的/u  童年/t  ，/w  不/d  就/d  是/v  没有/v  时钟/n  的/u  生活/vn  ，/w  能够/v  把/p  什么/r  分钟/n  、/w  小时/n  一切/r  关于/p  时间/n  的/u  东西/n  全/a  忘掉/n  ，/w  让/v  时间/n  弯曲/a  液化/vn  ，/w  变成/v  闲逛/n  的/u  田野/n  ，/w  畅游/v  的/u  大海/n  。</Segmented_S>
+            <S_Length>62</S_Length>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0.4" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">忘掉</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">闲逛</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">畅游</Keywords>
+            <degree_adv start="-1" position="36" modifier_word_position="37" modifier_word_length="2" end="-1">全</degree_adv>
+            <noword start="-1" position="9" modifier_word_position="11" modifier_word_length="2" end="-1">没有</noword>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.8</Hate>
+        <Love>0.0</Love>
+        <Sorrow>1.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="而当我们一旦让钟表支配自己生活，也就走出了童年，永远失去了那种忘记时间的快乐。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>而/c  当/p  我们/r  一旦/d  让/v  钟表/n  支配/v  自己/r  生活/v  ，/w  也/d  就/d  走/v  出/v  了/u  童年/t  ，/w  永远/d  失去/v  了/u  那种/r  忘记/v  时间/n  的/u  快乐/a  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0.8" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">失去</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">快乐</Keywords>
+            <degree_adv start="-1" position="24" modifier_word_position="26" modifier_word_length="2" end="-1">永远</degree_adv>
+            <E_conjunction start="-1" position="4" next_position="17" modifier_word_position="6" modifier_word_length="8" end="-1">一旦</E_conjunction>
+            <E_conjunction start="-1" position="17" next_position="4" modifier_word_position="18" modifier_word_length="20" end="-1">就</E_conjunction>
+            <Rhetoric E_type="悲伤">拟人</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="当我们把时间收缩到一条严格的高速路，人成了加上油无法停靠减速的时间快车的奴隶，陷入自造的时间的忧伤。">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 当/p  我们/r  把/p  时间/n  收缩/v  到/v  一/m  条/q  严格/ad  的/u  高速路/n  ，/w  人/n  成/v  了/u  加上/v  油/n  无法/v  停靠/v  减速/n  的/u  时间/n  快车/n  的/u  奴隶/n  ，/w  陷入/v  自造/n  的/u  时间/n  的/u  忧伤/n  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">严格</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0.8" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="1.0" Expect="0" Anxiety="0" Anger="0">奴隶</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">陷入</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="1.0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">忧伤</Keywords>
+            <noword start="-1" position="24" modifier_word_position="26" modifier_word_length="4" end="-1">无法</noword>
+            <Rhetoric E_type="悲伤">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>1.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="特别是每一次新年来临，旧年逝去，生命的堤岸又塌陷了一块。">
+            <S_no>第7段第3句标注</S_no>
+            <Segmented_S> 特别/d  是/v  每/r  一/m  次/q  新/a  年/n  来临/v  ，/w  旧年/v  逝去/n  ，/w  生命/n  的/u  堤岸/n  又/d  塌陷/v  了/u  一/m  块/q  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0.8" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">逝去</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0.8" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">塌陷</Keywords>
+            <degree_adv start="-1" position="21" modifier_word_position="22" modifier_word_length="2" end="-1">又</degree_adv>
+            <Rhetoric E_type="悲伤">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>1.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我们要善于忘却，丢掉精密理性的现代时间发明，回归到自然节奏里。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>我们/r  要/v  善于/v  忘却/v  ，/w  丢掉/v  精密/a  理性/n  的/u  现代/t  时间/n  发明/v  ，/w  回归/v  到/v  自然/n  节奏/n  里/f  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">丢掉</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">回归</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="至少，我们可以在节日中做到。">
+            <S_no>第8段第2句标注</S_no>
+            <Segmented_S> 至少/d  ，/w  我们/r  可以/v  在/p  节日/n  中/f  做到/v  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">节日</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第9段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.8</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="就像我连手表闹钟都不认识的老母亲，一直生活在没有计时工具的传统时间世界里。">
+            <S_no>第9段第1句标注</S_no>
+            <Segmented_S>就/p  像/p  我/r  连/d  手表/v  闹钟/n  都/d  不/d  认识/v  的/u  老/a  母亲/n  ，/w  一直/d  生活/v  在/p  没有/v  计时/v  工具/n  的/u  传统/a  时间/n  世界/n  里/f  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">母亲</Keywords>
+            <noword start="-1" position="9" modifier_word_position="10" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="22" modifier_word_position="26" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="-1" position="3" next_position="8" modifier_word_position="4" modifier_word_length="4" end="-1">连</E_conjunction>
+            <E_conjunction start="-1" position="8" next_position="3" modifier_word_position="9" modifier_word_length="7" end="-1">都</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="它由太阳月亮鸡叫季节组成。">
+            <S_no>第9段第2句标注</S_no>
+            <Segmented_S> 它/r  由/p  太阳/n  月亮/n  鸡叫/n  季节/n  组成/v  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在她的世界里，没有分钟，也没有小时，更没有秒。">
+            <S_no>第9段第3句标注</S_no>
+            <Segmented_S> 在/p  她/r  的/u  世界/n  里/f  ，/w  没有/v  分钟/n  ，/w  也没有/v  小时/n  ，/w  更/d  没有/v  秒/n  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="日头出来了，她起床；日头落了，她休息。">
+            <S_no>第9段第4句标注</S_no>
+            <Segmented_S> 日头/n  出来/v  了/y  ，/w  她/r  起床/v  ；/w  日头/n  落/v  了/u  ，/w  她/r  休息/v  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="母亲生活在时间的田间小道上，在自然的节奏中缓缓而行。">
+            <S_no>第9段第5句标注</S_no>
+            <Segmented_S> 母亲/n  生活/v  在/p  时间/n  的/u  田间/s  小道/n  上/f  ，/w  在/p  自然/n  的/u  节奏/n  中/f  缓缓/d  而行/v  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">自然</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这是时间的自然节奏，而我们生活在人造的节奏中。">
+            <S_no>第9段第6句标注</S_no>
+            <Segmented_S> 这/r  是/v  时间/n  的/u  自然/n  节奏/n  ，/w  而/c  我们/r  生活/v  在/p  人造/b  的/u  节奏/n  中/f  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">自然</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">人造</Keywords>
+            <E_conjunction start="-1" position="10" next_position="10" modifier_word_position="11" modifier_word_length="11" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第10段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="小时候，我冬天早上六点就要出发上学，她却在五点半就给我做好了饭。">
+            <S_no>第10段第1句标注</S_no>
+            <Segmented_S>小时候/t  ，/w  我/r  冬天/t  早上/t  六点/n  就要/d  出发/v  上学/v  ，/w  她/r  却/d  在/p  五点半/n  就/d  给/p  我/r  做好/v  了/y  饭/u  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0.6" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">却</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.6</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="她是闻鸡而起，拥有着人类几千年的计时本能。">
+            <S_no>第10段第2句标注</S_no>
+            <Segmented_S> 她/r  是/v  闻/v  鸡/n  而/c  起/v  ，/w  拥有/v  着/u  人类/n  几千/m  年/q  的/u  计时/vn  本能/n  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">拥有</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="母亲说，鸡叫三遍后，天就亮了；院子里树上的鸡叫第一次的时候，母亲就起来了，怎么也不会晚。">
+            <S_no>第10段第3句标注</S_no>
+            <Segmented_S> 母亲/n  说/v  ，/w  鸡/n  叫/v  三/m  遍/q  后/f  ，/w  天/n  就/d  亮/v  了/u  ；/w  院子/n  里/f  树上/s  的/u  鸡/n  叫/v  第一/m  次/q  的/u  时候/n  ，/w  母亲/n  就/d  起来/v  了/y  ，/w  怎么/r  也/d  不会/v  晚/a  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第11段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.7</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="小时后很奇怪，自己怎么听不到鸡叫呢？">
+            <S_no>第11段第1句标注</S_no>
+            <Segmented_S>小时/n  后/f  很/d  奇怪/v  ，/w  自己/r  怎么/r  听/v  不/d  到/v  鸡/n  叫/v  呢/y  ？</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0.7" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">奇怪</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0.7" Sorrow="0" POS="" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">？</Keywords>
+            <degree_adv start="-1" position="3" modifier_word_position="4" modifier_word_length="2" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="惊讶">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.8</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="如今，我才明白，自己一旦戴上手表、用上闹钟，就慢慢的丧失了听鸡叫得本领。">
+            <S_no>第11段第2句标注</S_no>
+            <Segmented_S> 如今/t  ，/w  我才/v  明白/a  ，/w  自己/r  一旦/d  戴/v  上/v  手表/n  、/w  用/v  上/v  闹钟/n  ，/w  就/d  慢慢/d  的/u  丧失/vn  了/u  听/v  鸡/n  叫/v  得/u  本领/n  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0.8" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">丧失</Keywords>
+            <E_conjunction start="-1" position="10" next_position="22" modifier_word_position="0" modifier_word_length="1" end="-1">一旦</E_conjunction>
+            <E_conjunction start="-1" position="22" next_position="10" modifier_word_position="0" modifier_word_length="1" end="-1">就</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那种由鸡提醒时辰的自然，也就永远不得了。">
+            <S_no>第11段第3句标注</S_no>
+            <Segmented_S> 那种/r  由/p  鸡/n  提醒/v  时辰/n  的/u  自然/n  ，/w  也/d  就/d  永远/d  不得了/v  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不得了</Keywords>
+            <degree_adv start="-1" position="14" modifier_word_position="16" modifier_word_length="3" end="-1">永远</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第12段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="燕子飞来的时候，母亲知道，春天来了；大雁从家上空飞过的时候，她给儿时的我说，冬天要到了。">
+            <S_no>第12段第1句标注</S_no>
+            <Segmented_S>燕子/n  飞/v  来/v  的/u  时候/n  ，/w  母亲/n  知道/v  ，/w  春天/t  来/v  了/y  ；/w  大雁/n  从/p  家/n  上空/s  飞/v  过/v  的/u  时候/n  ，/w  她/r  给/p  儿时/t  的/u  我说/n  ，/w  冬天/t  要/v  到/v  了/u  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="母亲听到第一声布谷鸟，就开始念叨准备收麦子的镰刀。">
+            <S_no>第12段第2句标注</S_no>
+            <Segmented_S> 母亲/n  听到/v  第一/m  声/q  布谷鸟/n  ，/w  就/d  开始/v  念叨/v  准备/v  收/v  麦子/n  的/u  镰刀/n  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">念叨</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">母亲</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="燕子来了又飞，大雁从我们家上空不知过了多少回，我从不注意，母亲每年都注意，却也不记录。">
+            <S_no>第12段第3句标注</S_no>
+            <Segmented_S> 燕子/n  来/v  了/y  又/u  飞/d  ，/w  大雁/v  从/p  我们/r  家/n  上空/s  不知/v  过/u  了/u  多少/r  回/q  ，/w  我/r  从不/d  注意/v  ，/w  母亲/n  每年/r  都/d  注意/v  ，/w  却/d  也/d  不/d  记录/v  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="她在自然的节奏中，已经活到八十岁。">
+            <S_no>第12段第4句标注</S_no>
+            <Segmented_S> 她/r  在/p  自然/n  的/u  节奏/n  中/f  ，/w  已经/d  活/v  到/v  八十/m  岁/q  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">自然</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第13段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="这个世界上没有新年，又时时是新年，阳光、微风、天空、星星，都是新鲜的。">
+            <S_no>第13段第1句标注</S_no>
+            <Segmented_S>这/r  个/q  世界/n  上/f  没有/v  新年/t  ，/w  又/c  时时/d  是/v  新年/t  ，/w  阳光/n  、/w  微风/n  、/w  天空/n  、/w  星星/n  ，/w  都/d  是/v  新鲜/a  的/u  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">新鲜</Keywords>
+            <noword start="-1" position="5" modifier_word_position="7" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="脱掉时间的紧身衣，我们就会回到云卷云舒的自然时间里，不知老之将至。">
+            <S_no>第13段第2句标注</S_no>
+            <Segmented_S> 脱/v  掉/v  时间/n  的/u  紧身衣/n  ，/w  我们/r  就/d  会/v  回到/v  云/n  卷/v  云/n  舒/nr  的/u  自然/n  时间/n  里/f  ，/w  不知/v  老/a  之/u  将/d  至/p  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <E_phrase start="15" position="15" end="18" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">云</E_phrase>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

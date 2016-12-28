@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.9</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.5</Expect>
+    <Topic>喜吃甜食 立志少吃</Topic>
+    <title T="食甜者言">
+        <Segmented_S>食/v  甜/a  者言/n</Segmented_S>
+        <S_Length>4</S_Length>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.4</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="二月一日是年初七，恰逢春节收假第一天，木木捂着痛牙又要立志，此番是关于甜食。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>二月/t  一日/t  是/v  年初七/n  ，/w  恰逢/v  春节/t  收/v  假/a  第一/m  天/q  ，/w  木木/v  捂/n  着/u  痛/a  牙/n  又/d  要/v  立志/v  ，/w  此番/v  是/v  关于/p  甜食/v  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">痛</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">立志</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>过年吃甜食</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="过年回到华县老家，老爸囤积有百元大钞买的猪肉，下厨烹调江湖中不传之秘“薛氏凉拌肉”。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>过年/v  回到/v  华县/n  老家/v  ，/w  老爸/v  囤积/n  有/v  百元大钞/n  买/v  的/u  猪肉/n  ，/w  下厨/v  烹调/n  江湖/v  中/f  不/d  传/v  之/u  秘/Ng  “/w  薛氏/n  凉拌/v  肉/n  ”/w  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <E_phrase start="30" position="30" end="33" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="9" end="-1">老爸</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="木木日进斗斤外，还中意于一盘柿饼。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 木木/n  日/Ng  进/v  斗/v  斤/n  外/f  ，/w  还/d  中/f  意/Ng  于/p  一/m  盘/q  柿饼/n  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="9" position="9" end="10" Surprise="0" Sorrow="0" POS="f" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">中</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="霜得极嫩，甜软入口。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 霜/n  得/u  极/d  嫩/a  ，/w  甜/a  软/a  入口/n  。</Segmented_S>
+            <S_Length>10</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">嫩</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">甜</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="3" modifier_word_length="1" end="-1">极</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="木木用半边牙齿每日食两枚，渐觉甜香口外，牙齿隐隐有松动，如旧阁楼上咯吱作响的陈年木梯声。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 木木/n  用/v  半边/n  牙齿/v  每/r  日食/q  两/m  枚/q  ，/w  渐/d  觉/v  甜香/Ng  口/n  外/f  ，/w  牙齿/n  隐隐/v  有/v  松动/n  ，/w  如/v  旧/a  阁楼/n  上/f  咯吱/v  作响/n  的/u  陈年/n  木梯/v  声/n  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="Ng" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">甜香</Keywords>
+            <Rhetoric E_type="焦虑">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.4</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>吃甜食 牙坏了</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="木木右齿从元月份在兰州沦陷后，一直无暇去医院修补。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>木木/n  右/f  齿/n  从/p  元月份/n  在/p  兰州/ns  沦陷/n  后/f  ，/w  一直/d  无暇/d  去/v  医院/n  修补/v  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0.8" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">沦陷</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">无暇</Keywords>
+            <degree_adv start="-1" position="15" modifier_word_position="17" modifier_word_length="2" end="-1">一直</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="每日繁重的伙食、零食输送加工均由右边牙齿负担。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 每日/r  繁重/a  的/u  伙食/n  、/w  零食/n  输送/v  加工/v  均/d  由/p  右边/n  牙齿/f  负担/n  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">繁重</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">负担</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="军情告急，左边牙齿成了“国之利器，不可不备”的紧要关隘。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 军情/n  告急/v  ，/w  左边/n  牙齿/f  成/v  了/u  “/w  国/n  之/u  利器/n  ，/w  不可不/d  备/v  ”/w  的/u  紧要/a  关隘/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">告急</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">紧要</Keywords>
+            <E_phrase start="17" position="17" end="20" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不可不</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.9</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.3</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>极喜甜食</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="呜呼，甜食之于木木，犹如槟榔之于湖南人，二奶之于贪官。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>呜呼/n  ，/w  甜食/v  之/u  于/p  木木/n  ，/w  犹如/v  槟榔/n  之/u  于/p  湖南/ns  人/n  ，/w  二/m  奶/n  之于/n  贪官/v  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">呜呼</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="木木对于甜食的喜好，从朴素层面来自于细沙八宝。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 木木/n  对于/p  甜食/n  的/u  喜好/vn  ，/w  从/p  朴素/a  层面/n  来自于/n  细沙/v  八/m  宝/n  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜好</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">朴素</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一份火候到位的细沙八宝，满勺入木口，温软流苏，时间为之静止。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 一/m  份/q  火候/n  到位/v  的/u  细沙/n  八宝/v  ，/w  满/a  勺/n  入/v  木/Ng  口/n  ，/w  温软/v  流苏/n  ，/w  时间/n  为/v  之/r  静止/v  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">温软</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">流苏</Keywords>
+            <E_phrase start="2" position="2" end="5" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">火候</E_phrase>
+            <Rhetoric E_type="喜爱">夸张</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="舌尖上的一瞬美好是杏花春雨江南的迷离。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 舌尖/n  上/f  的/u  一瞬/t  美好/a  是/v  杏花/n  春雨/n  江南/s  的/u  迷离/n  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美好</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">迷离</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>1.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="但凡短暂而猝不及防的快乐背后，往往埋伏深切的忧伤。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 但凡/n  短暂/a  而/c  猝不及防/v  的/u  快乐/a  背后/f  ，/w  往往/d  埋伏/v  深切/a  的/u  忧伤/n  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0.8" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">猝不及防</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">快乐</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">忧伤</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="细沙八宝的甜美后，是高热量的卡路里及猪油的腻味。">
+            <S_no>第4段第6句标注</S_no>
+            <Segmented_S> 细沙/n  八宝/v  的/u  甜美/a  后/f  ，/w  是/v  高/a  热量/n  的/u  卡路里/n  及/c  猪油/n  的/u  腻味/n  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">甜美</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">腻味</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.9</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>汤圆之美</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="甜食之中品为汤圆，尤其是上海城隍庙黑芝麻汤圆及三全凌黑糯米汤圆。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>甜食/n  之/u  中/f  品/v  为/v  汤圆/n  ，/w  尤其/d  是/v  上海/ns  城隍庙/n  黑芝麻/v  汤圆/n  及/c  三/m  全/a  凌/n  黑/a  糯米/n  汤圆/v  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="木木在北京欧陆经典附近街道，有一家上海小吃。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 木木/n  在/p  北京/ns  欧陆/n  经典/a  附近/f  街道/n  ，/w  有/v  一家/n  上海/ns  小吃/n  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="其中上海城隍庙黑芝麻汤圆一碗四个，三元五角。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 其中/r  上海/ns  城隍庙/n  黑芝麻/v  汤圆/n  一/m  碗/q  四/m  个/q  ，/w  三元/b  五/m  角/q  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="轻咬弹指可破的粉皮后，黑芝麻八宝陷轻轻泄出，如从香肩上不意滑落的丝绒晚装。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 轻/a  咬/v  弹/v  指/v  可/v  破/v  的/u  粉皮/n  后/f  ，/w  黑芝麻/v  八/m  宝/n  陷/v  轻轻/d  泄/Vg  出/v  ，/w  如/v  从/p  香/a  肩上/n  不意/s  滑落/v  的/u  丝绒/n  晚装/v  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">轻轻</Keywords>
+            <Keywords start="24" position="24" end="25" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">香</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="s" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不意</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="为了这碗汤圆瞬间的香甜，木木与冰雪交加天气里，多走数百米泥泞的街道。">
+            <S_no>第5段第5句标注</S_no>
+            <Segmented_S> 为了/p  这/r  碗/q  汤圆/n  瞬间/t  的/u  香甜/a  ，/w  木木/v  与/p  冰雪/n  交加/v  天气/n  里/f  ，/w  多/d  走/v  数百/m  米/q  泥泞/a  的/u  街道/n  。</Segmented_S>
+            <S_Length>34</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">香甜</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">泥泞</Keywords>
+            <E_phrase start="15" position="15" end="18" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">冰雪</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>最好的甜食</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="甜食之上者，最近在兰州曾食到。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>甜食/n  之/u  上/f  者/k  ，/w  最近/t  在/p  兰州/ns  曾/d  食/v  到/v  。</Segmented_S>
+            <S_Length>15</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="兰州城盛产百合，餐桌上总少不了此君。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 兰州/ns  城/n  盛产/v  百合/n  ，/w  餐桌/n  上/f  总/d  少不了/v  此君/n  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">盛产</Keywords>
+            <Rhetoric E_type="喜爱">拟人</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="兰州人对于百合作法花样繁多，其中一种是用玫瑰花瓣的甜酱调理过，唇红齿白，感觉是《红楼梦》大观园里宝钗用西洋雪花糖精制。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 兰州/ns  人/n  对于/p  百合/n  作法/v  花样/n  繁多/a  ，/w  其中/r  一/m  种/q  是/v  用/p  玫瑰花/n  瓣/v  的/u  甜酱/n  调理/v  过/u  ，/w  唇红齿白/v  ，/w  感觉/v  是/v  《/w  红楼梦/nz  》/w  大观园/n  里/f  宝钗/v  用/p  西洋/n  雪花/n  糖/n  精制/v  。</Segmented_S>
+            <S_Length>59</S_Length>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">唇红齿白</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">精制</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="另一种兰州本地小吃，用小麦发酵过甜酒味的粥，名字忘了，在吃遍手抓羊肉后吃一碗，通体清透，不知上古时杜康是否如此制作，难怪纣王会乱性。">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> 另/r  一/m  种/q  兰州/ns  本地/r  小吃/n  ，/w  用/p  小麦/n  发酵/v  过/u  甜/a  酒味/n  的/u  粥/n  ，/w  名字/n  忘/v  了/u  ，/w  在/p  吃/v  遍/v  手/n  抓/v  羊肉/n  后/f  吃/v  一/m  碗/q  ，/w  通体/v  清/a  透/v  ，/w  不知/v  上/f  古时/v  杜康/n  是否/v  如此/r  制作/v  ，/w  难怪/d  纣王/v  会/n  乱/d  性/v  。</Segmented_S>
+            <S_Length>66</S_Length>
+            <E_phrase start="41" position="41" end="42" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">清</E_phrase>
+            <E_phrase start="63" position="63" end="64" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">乱</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="说了如此多甜食的好吃，木木却要立志少吃甜食，下笔不由得心猿意马。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>说/v  了/u  如此/r  多/a  甜食/n  的/u  好吃/a  ，/w  木木/v  却/d  要/v  立志/v  少/a  吃/v  甜食/n  ，/w  下/f  笔/q  不由得心猿意马/n  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好吃</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">立志</Keywords>
+            <E_conjunction start="-1" position="13" next_position="13" modifier_word_position="14" modifier_word_length="7" end="-1">却</E_conjunction>
+            <E_phrase start="27" position="24" end="30" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.0" Anxiety="0.6" Anger="0">不由得心猿意马</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>难舍难离</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="打开沈宏非的《写食主义》，内有“甜点”一文，沈君写道：甜品是亲密纵欲的极致，甜蜜的悲伤一旦泛滥，容易聚合为密度大到令人窒息的妖艳以及麻木。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>打开/v  沈/nr  宏/nr  非/h  的/u  《/w  写/v  食/v  主义/n  》/w  ，/w  内/f  有/v  “/w  甜/a  点/n  ”/w  一文/n  ，/w  沈/nr  君/nr  写道/v  ：/w  甜品/n  是/v  亲密/a  纵欲/n  的/u  极致/n  ，/w  甜蜜/a  的/u  悲伤/a  一旦/d  泛滥/v  ，/w  容易/ad  聚合/v  为/v  密度/n  大/a  到/p  令/v  人/n  窒息/v  的/u  妖艳/n  以及/c  麻木/a  。</Segmented_S>
+            <S_Length>69</S_Length>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">亲密</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">纵欲</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悲伤</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">泛滥</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">窒息</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">妖艳</Keywords>
+            <Keywords start="-1" position="66" end="-1" Surprise="0" Sorrow="0.5" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">麻木</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="2" position="2" end="4">沈</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="乖乖，甜食危害于斯，那就戒呗，浅尝辄止。">
+            <S_no>第8段第2句标注</S_no>
+            <Segmented_S> 乖乖/d  ，/w  甜食/v  危害/v  于斯/n  ，/w  那/r  就/d  戒/v  呗/n  ，/w  浅尝辄止/i  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">乖乖</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">危害</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.1" Anxiety="0" Anger="0">呗</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">浅尝辄止</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="甜品诚可贵，牙齿价更高。">
+            <S_no>第8段第3句标注</S_no>
+            <Segmented_S> 甜品/n  诚可贵/v  ，/w  牙齿/n  价/n  更/d  高/a  。</Segmented_S>
+            <S_Length>12</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">诚可贵</Keywords>
+            <degree_adv start="-1" position="9" modifier_word_position="10" modifier_word_length="1" end="-1">更</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="若为美食故，两者谁可抛？">
+            <S_no>第8段第4句标注</S_no>
+            <Segmented_S> 若/c  为/v  美食/n  故/c  ，/w  两者/r  谁/r  可/v  抛/v  ？</Segmented_S>
+            <S_Length>12</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="大凡成功者注重细节，木木作此文从月初立志，每日甜食最多一次，限饭后，当然，冰淇淋不算。">
+            <S_no>第8段第5句标注</S_no>
+            <Segmented_S> 大凡/d  成功者/v  注重/v  细节/n  ，/w  木木/v  作/v  此文/n  从/p  月初/n  立志/v  ，/w  每日/r  甜食/n  最/d  多/a  一/m  次/q  ，/w  限/v  饭后/n  ，/w  当然/d  ，/w  冰淇淋/n  不/d  算/v  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">成功者</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">注重</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">立志</Keywords>
+            <degree_adv start="-1" position="25" modifier_word_position="26" modifier_word_length="1" end="-1">最</degree_adv>
+            <noword start="-1" position="40" modifier_word_position="41" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.4</Expect>
+        </sentence>
+    </paragraph>
+</document>

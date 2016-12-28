@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.6</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.8</Surprise>
+    <Anger>0.6</Anger>
+    <Expect>0.0</Expect>
+    <Topic>讨价还价</Topic>
+    <title T="也说美国的讨价还价">
+        <Segmented_S>也/d  说/v  美国/ns  的/u  讨价/n  还价/v</Segmented_S>
+        <S_Length>9</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.8</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>讨价还价</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="回国购物，我最头疼的事情就是讨价还价。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>回国/v  购物/v  ，/w  我最/v  头疼/a  的/u  事情/n  就/d  是/v  讨价还价/i  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">头疼</Keywords>
+            <degree_adv start="6" position="5" modifier_word_position="7" modifier_word_length="2" end="6">我最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="虽然说美国也有讨价还价一说，但远没有国内那么普及。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 虽然/c  说/v  美国/ns  也/d  有/v  讨价还价/i  一/m  说/v  ，/w  但/c  远/a  没有/d  国内/s  那么/r  普及/v  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <noword start="-1" position="16" modifier_word_position="18" modifier_word_length="6" end="-1">没有</noword>
+            <E_conjunction start="-1" position="0" next_position="14" modifier_word_position="2" modifier_word_length="11" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="14" next_position="0" modifier_word_position="15" modifier_word_length="9" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="比如，食品不用讨价还价，衣服不用讨价还价，虽然买家具和买汽车时，会有很大的讨价空间，但这两件东西都不是日常消费品，即使是需要讨价还价，讨价次数也有限。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 比如/v  ，/w  食品/n  不/d  用/v  讨价还价/n  ，/w  衣服/n  不/d  用/v  讨价还价/n  ，/w  虽然/c  买/v  家具/n  和/c  买/v  汽车/n  时/Ng  ，/w  会/v  有/v  很/d  大/a  的/u  讨价/n  空间/n  ，/w  但/c  这/r  两/m  件/q  东西/n  都/d  不/d  是/v  日常/b  消费品/n  ，/w  即使/c  是/v  需要/v  讨价还价/i  ，/w  讨价/v  次数/n  也/d  有限/a  。</Segmented_S>
+            <S_Length>75</S_Length>
+            <degree_adv start="34" position="34" modifier_word_position="35" modifier_word_length="1" end="34">很</degree_adv>
+            <noword start="5" position="5" modifier_word_position="7" modifier_word_length="4" end="6">不</noword>
+            <noword start="14" position="14" modifier_word_position="16" modifier_word_length="4" end="15">不</noword>
+            <noword start="49" position="49" modifier_word_position="51" modifier_word_length="5" end="50">不</noword>
+            <E_conjunction start="-1" position="21" next_position="42" modifier_word_position="23" modifier_word_length="18" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="42" next_position="21" modifier_word_position="43" modifier_word_length="13" end="-1">但</E_conjunction>
+            <E_conjunction start="-1" position="57" next_position="71" modifier_word_position="59" modifier_word_length="7" end="-1">即使</E_conjunction>
+            <E_conjunction start="-1" position="71" next_position="57" modifier_word_position="72" modifier_word_length="2" end="-1">也</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>砍价 杀价</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="在美国，比较常见也比较值的讨价还价，应该是在购屋买房时。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>在/p  美国/ns  ，/w  比较/d  常见/a  也/d  比较/d  值的/a  讨价还价/n  ，/w  应该/v  是/v  在/p  购屋/n  买房/v  时/Ng  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="11" position="11" end="11" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">值的</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="笔者来美国十几年，在美国两个不同的城市买过两次房子。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 笔者/n  来/v  美国/ns  十几/m  年/q  ，/w  在/p  美国/ns  两/m  个/q  不同/a  的/u  城市/n  买/v  过/u  两/m  次/q  房子/n  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <noword start="-1" position="14" modifier_word_position="17" modifier_word_length="2" end="-1">不同</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="每次购屋，我们都经历了有趣的砍价和杀价的过程。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 每次/r  购屋/v  ，/w  我们/r  都/d  经历/v  了/u  有趣/a  的/u  砍价/n  和/c  杀价/n  的/u  过程/n  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">有趣</Keywords>
+            <degree_adv start="-1" position="7" modifier_word_position="8" modifier_word_length="2" end="-1">都</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>买房</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="在美国，买房的基本程序是，找到房地产经纪人，明确要买的学区，在感兴趣的学区内留意要出售的房子，挑出价格和样式都能接受的房子，签买房合同，和对方谈价钱，最后成交。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>在/p  美国/ns  ，/w  买房/v  的/u  基本/a  程序/n  是/v  ，/w  找到/v  房地产/j  经纪人/n  ，/w  明确/ad  要/v  买/v  的/u  学区/n  ，/w  在/p  感/Vg  兴趣/n  的/u  学区/n  内/f  留意/v  要/v  出售/v  的/u  房子/n  ，/w  挑/v  出/v  价格/n  和/c  样式/n  都/d  能/v  接受/v  的/u  房子/n  ，/w  签/v  买房/v  合同/n  ，/w  和/p  对方/n  谈/v  价钱/n  ，/w  最后/f  成交/v  。</Segmented_S>
+            <S_Length>80</S_Length>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">挑</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">接受</Keywords>
+            <degree_adv start="54" position="54" modifier_word_position="56" modifier_word_length="2" end="55">都</degree_adv>
+            <E_phrase start="31" position="31" end="33" Surprise="0" Sorrow="0" POS="Vg" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>杀价 成功</Topic>
+        <Summarize_Sentences>11</Summarize_Sentences>
+        <sentence S="我们在圣路易斯郊区买第一个房子时，就经历了一次长达十天的讨价还价过程。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>我们/r  在/p  圣路/n  易斯/v  郊区/s  买/v  第一/m  个/q  房子/n  时/Ng  ，/w  就/d  经历/v  了/u  一/m  次/q  长/a  达/v  十/m  天/q  的/u  讨价还价/i  过程/n  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="１９９９年时，我们看上了圣路易斯西郊的一套３３０平方米的别墅。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> １９９９年/n  时/Ng  ，/w  我们/r  看上/v  了/u  圣路易斯/n  西郊/s  的/u  一/m  套/q  ３３０/n  平方米/v  的/u  别墅/n  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">看上</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="7" end="-1">我们</Opinion_holder>
+            <Opinion_target start="-1" position="28" end="-1">别墅</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这个房子在　１９８８初建时，出售价是１９万。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 这个/r  房子/n  在　１９８８/n  初/f  建/v  时/Ng  ，/w  出/v  售价/n  是/v  １９万/n  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="过了十年，卖方要价２６万。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 过/v  了/u  十/m  年/q  ，/w  卖方/n  要价/v  ２６万/n  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="十年涨七万，这样的涨幅基本是比较合理的。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 十/m  年/q  涨/v  七万/n  ，/w  这样/r  的/u  涨幅/n  基本/a  是/v  比较/d  合理/a  的/u  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">合理</Keywords>
+            <degree_adv start="-1" position="14" modifier_word_position="16" modifier_word_length="2" end="-1">比较</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.3</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在看了几十栋房子之后，这个有着四个卧室，三个厅，三个厕所的别墅，成了我们首选的房子。">
+            <S_no>第4段第6句标注</S_no>
+            <Segmented_S> 在看/n  了/y  几十/u  栋/m  房子/n  之/u  后/f  ，/w  这个/r  有/v  着/u  四/m  个/q  卧室/n  ，/w  三/m  个/q  厅/n  ，/w  三/m  个/q  厕所/n  的/u  别墅/n  ，/w  成/v  了/u  我们/r  首选/v  的/u  房子/n  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">首选</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="当时，屋主急着要搬走，而购房者却寥寥无几。">
+            <S_no>第4段第7句标注</S_no>
+            <Segmented_S> 当时/t  ，/w  屋主/v  急/a  着/u  要/v  搬走/v  ，/w  而/c  购房者/n  却/d  寥寥无几/i  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.9" Anger="0">急</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="3" end="-1">屋主</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.9</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在这样的情况下，讨价还价就是个很好的机会。">
+            <S_no>第4段第8句标注</S_no>
+            <Segmented_S> 在/p  这样/r  的/u  情况/n  下/f  ，/w  讨价还价/i  就/d  是/v  个/q  很/d  好/a  的/u  机会/n  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0.0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">机会</Keywords>
+            <degree_adv start="-1" position="15" modifier_word_position="16" modifier_word_length="1" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="我们先出价２０万，他们返回２３万。">
+            <S_no>第4段第9句标注</S_no>
+            <Segmented_S> 我们/r  先/d  出价/v  ２０万/n  ，/w  他们/r  返回/v  ２３万/n  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">出价</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="我们再要价２１万，他们加了五千块后，双方最后决定拍板同意。">
+            <S_no>第4段第10句标注</S_no>
+            <Segmented_S> 我们/r  再要/v  价/n  ２１万/v  ，/w  他们/r  加/v  了/u  五千/m  块/q  后/f  ，/w  双方/n  最后/f  决定/v  拍板/v  同意/v  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <E_phrase start="3" position="2" end="4" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">再要</E_phrase>
+            <E_phrase start="24" position="24" end="27" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">拍板</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="一个二十几万的房子，成交价比列出价少五万，这样的杀价还是很成功的。">
+            <S_no>第4段第11句标注</S_no>
+            <Segmented_S> 一个/m  二十几万/n  的/u  房子/n  ，/w  成交价/v  比/p  列/v  出价/v  少/a  五万/m  ，/w  这样/r  的/u  杀价/n  还是/d  很/d  成功/a  的/u  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">成功</Keywords>
+            <degree_adv start="-1" position="28" modifier_word_position="29" modifier_word_length="2" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>讨价还价</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我们搬家到华盛顿附近后，我们又经历了类似的讨价还价过程。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>我们/r  搬家/v  到/v  华盛顿/ns  附近/f  后/f  ，/w  我们/r  又/d  经历/v  了/u  类似/a  的/u  讨价还价/i  过程/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <degree_adv start="-1" position="14" modifier_word_position="15" modifier_word_length="2" end="-1">又</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这次，还是屋主急着要走。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 这次/r  ，/w  还是/c  屋主/n  急/a  着/u  要/v  走/v  。</Segmented_S>
+            <S_Length>12</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">急</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="5" end="-1">屋主</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="经过几番回合，一个列出价为６５万的房子，最后被我们以５７万拿下。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 经过/v  几/m  番/q  回合/n  ，/w  一个/m  列/v  出价/v  为/p  ６５万/n  的/u  房子/n  ，/w  最后/f  被/p  我们/r  以/p  ５７万/n  拿下/v  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">拿下</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.4</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>讨价还价</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="在美国买房时，除了在房价上要大砍特砍，其他方面也有做文章的空间。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>在/p  美国/ns  买房/v  时/Ng  ，/w  除了/p  在/p  房价/n  上/f  要/v  大/d  砍/v  特/d  砍/v  ，/w  其他/r  方面/n  也/d  有/v  做文章/v  的/u  空间/n  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <E_phrase start="14" position="14" end="17" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">大</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="比如，让卖方修理破损的室内设施时，那些可修可不修的地方，一定要争取拿到补偿资金。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 比如/v  ，/w  让/v  卖方/n  修理/v  破损/v  的/u  室内/s  设施/n  时/Ng  ，/w  那些/r  可/v  修/v  可/v  不/d  修/v  的/u  地方/n  ，/w  一定/d  要/v  争取/v  拿/v  到/v  补偿/vn  资金/n  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">破损</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">争取</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="还有，让卖方提供房屋保险，也可以变相达到讨价还价的目的。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 还有/v  ，/w  让/v  卖方/n  提供/v  房屋/n  保险/vn  ，/w  也/d  可以/v  变相/v  达到/v  讨价还价/m  的/u  目的/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">达到</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="其实，不管在哪里，学会讨价还价，是我们需要的一种生存本领。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>其实/d  ，/w  不管/c  在/p  哪里/r  ，/w  学会/v  讨价还价/i  ，/w  是/v  我们/r  需要/v  的/u  一/m  种/q  生存/v  本领/n  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="工薪族挣钱不易，讨价还价就是为自己赢得利益的一种间接方式。">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 工薪族/n  挣钱/v  不易/a  ，/w  讨价还价/i  就/d  是/v  为/p  自己/r  赢得/v  利益/n  的/u  一/m  种/q  间接/b  方式/n  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.0" Expect="0" Anxiety="0.6" Anger="0">不易</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">赢得</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">利益</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="在美国，除了私家购物，即使是公家交易，也有一定的讲价空间。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>在/p  美国/ns  ，/w  除了/p  私家/b  购物/vn  ，/w  即使/c  是/v  公家/n  交易/v  ，/w  也/d  有/v  一定/b  的/u  讲价/n  空间/n  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <E_conjunction start="-1" position="11" next_position="19" modifier_word_position="14" modifier_word_length="4" end="-1">即使</E_conjunction>
+            <E_conjunction start="-1" position="19" next_position="11" modifier_word_position="20" modifier_word_length="8" end="-1">也</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第9段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="几天前，我为我们这里的中文学校发招生广告时，我和美国报纸的广告部门打过交道。">
+            <S_no>第9段第1句标注</S_no>
+            <Segmented_S>几/m  天/q  前/f  ，/w  我/r  为/p  我们/r  这里/r  的/u  中文/nz  学校/n  发/v  招生/v  广告/n  时/Ng  ，/w  我和/v  美国/ns  报纸/n  的/u  广告/n  部门/n  打/v  过/u  交道/n  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在我们这里，一个大约６００字的广告，在美国的两家报纸上做一星期的广告，大约要收费￥５２０美金。">
+            <S_no>第9段第2句标注</S_no>
+            <Segmented_S> 在/p  我们/r  这里/r  ，/w  一个/m  大约/d  ６００/v  字/n  的/u  广告/n  ，/w  在/p  美国/ns  的/u  两/m  家/q  报纸/n  上/f  做/v  一星期/n  的/u  广告/n  ，/w  大约/d  要/v  收费￥５２０/v  美金/n  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="美国的中文学校属于非盈利部门，一切资金均来自学费。">
+            <S_no>第9段第3句标注</S_no>
+            <Segmented_S> 美国/ns  的/u  中文/nz  学校/n  属于/v  非盈利/n  部门/n  ，/w  一切/r  资金/n  均/d  来自/v  学费/n  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="平时，学校的各种支出都是精打细算的。">
+            <S_no>第9段第4句标注</S_no>
+            <Segmented_S> 平时/t  ，/w  学校/n  的/u  各种/r  支出/n  都/d  是/v  精打细算/i  的/u  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">精打细算</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="3" end="-1">学校</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一看这个价钱，校长连连摇头。">
+            <S_no>第9段第5句标注</S_no>
+            <Segmented_S> 一看/n  这个/r  价钱/n  ，/w  校长/n  连连/d  摇头/v  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">摇头</Keywords>
+            <degree_adv start="-1" position="9" modifier_word_position="11" modifier_word_length="2" end="-1">连连</degree_adv>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="7" end="-1">校长</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第10段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.6</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>降价空间</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="就在我和校长在讨论价钱问题过程中，那家广告部的负责人沉不住气了。">
+            <S_no>第10段第1句标注</S_no>
+            <Segmented_S>就/p  在/p  我和/n  校长/n  在/p  讨论/v  价钱/n  问题/n  过程/n  中/f  ，/w  那/r  家/q  广告部/n  的/u  负责人/n  沉/v  不/d  住/v  气/n  了/y  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <E_phrase start="26" position="26" end="29" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">沉</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="23" end="-1">负责人</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="他主动来信说，如果我们诚心在那里做广告，他们会给我们一定的折扣。">
+            <S_no>第10段第2句标注</S_no>
+            <Segmented_S> 他/r  主动/ad  来信/v  说/v  ，/w  如果/c  我们/r  诚心/v  在/p  那里/r  做/v  广告/n  ，/w  他们/r  会/v  给/p  我们/r  一定/d  的/u  折扣/vn  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">主动</Keywords>
+            <E_conjunction start="-1" position="7" next_position="7" modifier_word_position="9" modifier_word_length="10" end="-1">如果</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">他</Opinion_holder>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="瞧，美国的报纸广告费里，也有讲价空间呢。">
+            <S_no>第10段第3句标注</S_no>
+            <Segmented_S> 瞧/v  ，/w  美国/ns  的/u  报纸/n  广告费/n  里/f  ，/w  也/d  有/v  讲价/n  空间/n  呢/y  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">瞧</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0.3" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">呢</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.3</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第11段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.5</Surprise>
+        <Anger>0.6</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="不管在中国还是在美国，学会讨价还价并不是件丢人现眼的事。">
+            <S_no>第11段第1句标注</S_no>
+            <Segmented_S>不管/c  在/p  中国/ns  还是/d  在/p  美国/ns  ，/w  学会/v  讨价还价/i  并不/d  是/v  件/q  丢人现眼/n  的/u  事/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">丢人现眼</Keywords>
+            <noword start="-1" position="17" modifier_word_position="21" modifier_word_length="4" end="-1">并不</noword>
+            <E_conjunction start="-1" position="0" next_position="5" modifier_word_position="2" modifier_word_length="3" end="-1">不管</E_conjunction>
+            <E_conjunction start="-1" position="5" next_position="0" modifier_word_position="7" modifier_word_length="3" end="-1">还是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我很不解，为什么一位在纽约商店里和经理合理讨价还价的同胞，会受到那么多人的批评。">
+            <S_no>第11段第2句标注</S_no>
+            <Segmented_S> 我/r  很/d  不解/v  ，/w  为什么/r  一/m  位/q  在/p  纽约/ns  商店/n  里/f  和/c  经理/n  合理/a  讨价还价/n  的/u  同胞/n  ，/w  会/v  受到/v  那么/r  多/a  人/n  的/u  批评/vn  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0.5" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不解</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">合理</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0.0" Expect="0" Anxiety="0" Anger="0.6">批评</Keywords>
+            <degree_adv start="-1" position="1" modifier_word_position="2" modifier_word_length="2" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="32" modifier_word_position="34" modifier_word_length="1" end="-1">那么</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.5</Surprise>
+            <Anger>0.6</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <title T="兰花">
+        <Segmented_S>兰花/n</Segmented_S>
+        <S_Length>2</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>兰花</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="我爱逛花市，去年买了两盆兰花。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>我爱/n  逛/v  花市/n  ，/w  去年/t  买/v  了/u  两/m  盆/q  兰花/n  。</Segmented_S>
+            <S_Length>15</S_Length>
+            <E_phrase start="1" position="0" end="1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">我爱</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我知道兰花不好养，买它只是因为文学的缘故，梅兰竹菊，兰最清雅，古典文化中少不了它。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 我知道/n  兰花/v  不/d  好/a  养/v  ，/w  买/v  它/r  只是/d  因为/c  文学/n  的/u  缘故/n  ，/w  梅兰/v  竹菊/n  ，/w  兰/nr  最/d  清雅/a  ，/w  古典/b  文化/n  中/f  少不了/l  它/r  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">清雅</Keywords>
+            <degree_adv start="-1" position="27" modifier_word_position="28" modifier_word_length="2" end="-1">最</degree_adv>
+            <noword start="-1" position="5" modifier_word_position="6" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我的司机嫌这两盆兰花贵，告诉我他家乡漫山遍野地都是，都比这好，一副鸡蛋瞧不起鸭蛋的架式；我就揶揄说赶明你回老家时弄几盆回来。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 我的/n  司机/n  嫌/v  这/r  两/m  盆/q  兰花/n  贵/a  ，/w  告诉我/v  他/r  家乡/n  漫山遍野/n  地/u  都/d  是/v  ，/w  都/d  比/p  这/r  好/a  ，/w  一/m  副/q  鸡蛋/n  瞧不起/n  鸭蛋/v  的/u  架式/n  ；/w  我就/n  揶揄/v  说/v  赶/v  明/n  你/r  回老家/v  时/Ng  弄/v  几/m  盆/q  回来/v  。</Segmented_S>
+            <S_Length>62</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">嫌</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="1" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">贵</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="2" end="-1">司机</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="两盆兰花在我的办公室窗台上勉强生长，不死不活地。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>两/m  盆/q  兰花/n  在我的/v  办公室/n  窗台/n  上/f  勉强/ad  生长/v  ，/w  不死不活/v  地/u  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">不死不活</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="模模糊糊地记得它开过一次花，鼻子凑上去嗅了嗅，花瓣都钻进鼻孔中了，也没闻见香味；这种改良的温室花卉，徒有其表，一副不负责你也不能把我怎么样的态度。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 模模糊糊/n  地/u  记得/v  它/r  开/v  过/u  一/m  次/q  花/v  ，/w  鼻子/n  凑/v  上去/v  嗅/v  了/u  嗅/v  ，/w  花瓣/n  都/d  钻/v  进/v  鼻孔/n  中了/v  ，/w  也/d  没/d  闻见/v  香味/n  ；/w  这种/r  改良/v  的/u  温室/n  花卉/n  ，/w  徒/d  有/v  其表/n  ，/w  一/m  副/q  不/d  负责/v  你/r  也/d  不/d  能/v  把/p  我/r  怎么样/r  的/u  态度/n  。</Segmented_S>
+            <S_Length>73</S_Length>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">香味</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">改良</Keywords>
+            <Keywords start="50" position="50" end="53" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">徒</Keywords>
+            <noword start="-1" position="34" modifier_word_position="35" modifier_word_length="2" end="-1">没</noword>
+            <noword start="-1" position="57" modifier_word_position="58" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="今年春节，司机开车回了老家安徽六安，欢度春节时没忘让其叔刨几棵兰花，据他说，他叔上自家身后的山上，二十分钟就回来了，抱了一大捆兰花，不能都带回来，给我只带了几棵。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>今年/t  春节/t  ，/w  司机/n  开车/v  回/v  了/u  老家/n  安徽/ns  六安/ns  ，/w  欢度/v  春节/t  时/Ng  没/d  忘/v  让/v  其/r  叔/n  刨/v  几/m  棵/q  兰花/n  ，/w  据/p  他/r  说/v  ，/w  他/r  叔/v  上/f  自家/r  身后/f  的/u  山上/s  ，/w  二十/m  分钟/q  就/d  回来/v  了/y  ，/w  抱/v  了/u  一大/j  捆/v  兰花/n  ，/w  不/d  能/v  都/d  带/v  回来/v  ，/w  给/p  我/r  只/d  带/v  了/u  几/m  棵/q  。</Segmented_S>
+            <S_Length>81</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这几棵兰花品相真不好看，有点儿像早年菜市场关门前散落的大葱，蔫头搭脑的，完全提不起精神，装在一个劣质的口袋里；我连家门都没让它进，就把它装盆放在了阳台一角。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 这几/n  棵/v  兰花/n  品相/v  真/d  不/d  好看/a  ，/w  有点儿/v  像/p  早年/t  菜市场/v  关/n  门前/s  散落/v  的/u  大葱/n  ，/w  蔫/v  头/n  搭/v  脑/n  的/u  ，/w  完全/ad  提/v  不/d  起/v  精神/n  ，/w  装/v  在/p  一个/m  劣质/b  的/u  口袋/n  里/f  ；/w  我/r  连/d  家门/v  都/d  没/d  让/v  它/r  进/v  ，/w  就/d  把/p  它/r  装/v  盆/n  放/v  在/p  了/u  阳台/n  一角/n  。</Segmented_S>
+            <S_Length>78</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">好看</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">劣质</Keywords>
+            <degree_adv start="-1" position="7" modifier_word_position="8" modifier_word_length="3" end="-1">真</degree_adv>
+            <noword start="-1" position="8" modifier_word_position="9" modifier_word_length="2" end="-1">不</noword>
+            <noword start="38" position="38" modifier_word_position="41" modifier_word_length="2" end="40">提</noword>
+            <E_phrase start="30" position="30" end="33" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">蔫</E_phrase>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>开花</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="五天以后，司机告诉我兰花开花了，我狐疑地上阳台看了一眼，一支梃，三朵花，香气流溢，这让我高兴地不行。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>五/m  天/q  以后/f  ，/w  司机/n  告诉我/v  兰花/n  开花/v  了/u  ，/w  我/r  狐疑/v  地上/s  阳台/n  看/v  了/u  一眼/d  ，/w  一/m  支/q  梃/n  ，/w  三/m  朵花/n  ，/w  香气/v  流溢/n  ，/w  这/r  让我/n  高兴/a  地/u  不行/a  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">狐疑</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">香气</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">高兴</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="司机还遗憾地说，这在我们家一支梃都开一串花，怎么进了城就不行了呢？">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 司机/n  还/d  遗憾/a  地/u  说/v  ，/w  这/r  在/p  我们/r  家/n  一/m  支/q  梃/n  都/d  开/v  一/m  串/q  花/v  ，/w  怎么/r  进/v  了/u  城/n  就/d  不行了/v  呢/y  ？</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0.4" POS="a" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">遗憾</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不行了</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0.2" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">呢</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <punctuation E_type="悲伤">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">司机</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="古时兄弟结拜要递上兰谱，不是让你养兰花，而是告知自己的族系，暗喻大家臭味相投，典出《易经》：同心之言，其臭如兰。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>古时/t  兄弟/n  结拜/n  要/v  递/v  上/v  兰谱/n  ，/w  不/d  是/v  让/v  你/r  养/v  兰花/n  ，/w  而是/c  告知/v  自己/r  的/u  族/n  系/v  ，/w  暗喻/v  大家/r  臭味相投/i  ，/w  典/n  出/v  《/w  易经/nz  》/w  ：/w  同心/v  之/u  言/Ng  ，/w  其/r  臭/a  如/v  兰/nr  。</Segmented_S>
+            <S_Length>56</S_Length>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">臭味相投</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.1" Expect="0" Anxiety="0" Anger="0">臭</Keywords>
+            <E_conjunction start="12" position="12" next_position="20" modifier_word_position="14" modifier_word_length="5" end="13">不</E_conjunction>
+            <E_conjunction start="-1" position="20" next_position="12" modifier_word_position="22" modifier_word_length="33" end="-1">而是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="只不过“臭”字在古汉语中与“嗅”通假，不似今日之臭味。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 只不过/d  “/w  臭/a  ”/w  字/n  在/p  古汉语/n  中/f  与/p  “/w  嗅/v  ”/w  通假/n  ，/w  不似/v  今日/t  之/u  臭味/n  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

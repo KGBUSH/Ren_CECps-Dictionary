@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.9</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.8</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.7</Expect>
+    <Topic>父爱是山 母爱是河 激励 家长会</Topic>
+    <title T="三次家长会，见证父母心">
+        <Segmented_S>三/m  次/q  家长会/n  ，/w  见证/n  父/Ng  母心/n</Segmented_S>
+        <S_Length>11</S_Length>
+        <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">见证</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.4</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.7</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>表扬 家长会 幼儿园</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="一个母亲，当她第一次参加家长会时，幼儿园的老师说：“你的儿子有多动症，在板凳上连三分钟都坐不了，你最好带他去医院看一看。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>一个/m  母亲/n  ，/w  当/p  她/r  第一/m  次/q  参加/v  家长会/n  时/Ng  ，/w  幼儿园/n  的/u  老师/n  说/v  ：/w  “/w  你/r  的/u  儿子/n  有/v  多/d  动/v  症/Ng  ，/w  在/p  板凳/n  上/f  连/u  三/m  分钟/q  都/d  坐/v  不/d  了/v  ，/w  你/r  最好/d  带/v  他/r  去/v  医院/n  看/v  一/m  看/v  。</Segmented_S>
+            <S_Length>60</S_Length>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">最好</Keywords>
+            <noword start="44" position="44" modifier_word_position="40" modifier_word_length="3" end="46">坐</noword>
+            <E_phrase start="31" position="31" end="33" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">多</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="21" end="-1">老师</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="”回家的路上，母亲说“老师表扬你了，说宝宝原来在板凳上坐不了一分钟，现在能坐三分钟了。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> ”/w  回家/v  的/u  路上/s  ，/w  母亲/n  说/v  “/w  老师/n  表扬/v  你/r  了/y  ，/w  说/v  宝宝/n  原来/d  在/p  板凳/n  上/f  坐/v  不/d  了/v  一/m  分钟/q  ，/w  现在/t  能/v  坐/v  三/m  分钟/q  了/y  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">表扬</Keywords>
+            <noword start="27" position="27" modifier_word_position="30" modifier_word_length="3" end="29">坐</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="7" end="-1">母亲</Opinion_holder>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="其他的妈妈都非常羡慕妈妈，因为全班只有宝宝进步了。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 其他/r  的/u  妈妈/n  都/d  非常/d  羡慕/v  妈妈/n  ，/w  因为/c  全班/n  只有/c  宝宝/n  进步/v  了/y  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">羡慕</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">进步</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="8" modifier_word_length="2" end="-1">非常</degree_adv>
+            <E_conjunction start="-1" position="13" next_position="13" modifier_word_position="15" modifier_word_length="9" end="-1">因为</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”那天晚上，她儿子破天荒地吃了两碗米饭，并且没让她喂。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> ”/w  那天/r  晚上/t  ，/w  她/r  儿子/n  破天荒/v  地/u  吃/v  了/u  两/m  碗/q  米饭/n  ，/w  并且/c  没/d  让/v  她/r  喂/v  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0.7" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">破天荒</Keywords>
+            <noword start="-1" position="22" modifier_word_position="23" modifier_word_length="3" end="-1">没</noword>
+            <E_conjunction start="-1" position="20" next_position="20" modifier_word_position="22" modifier_word_length="4" end="-1">并且</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.7</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>障碍 小学  充满信心</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="儿子上小学时，家长会上，老师说：“全班５０名同学，这次数学考试，你儿子排４９名。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>儿子/n  上/f  小学/n  时/Ng  ，/w  家长会/n  上/f  ，/w  老师/n  说/v  ：/w  “/w  全班/n  ５０/n  名/Ng  同学/n  ，/w  这次/r  数学/n  考试/vn  ，/w  你/r  儿子/n  排/v  ４９/n  名/Ng  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们怀疑他智力上有些障碍，您最好能带他去医院查一查。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 我们/r  怀疑/v  他/r  智力/n  上/f  有些/r  障碍/n  ，/w  您/r  最/d  好/a  能/v  带/v  他/r  去/v  医院/n  查/v  一查/n  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">怀疑</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">障碍</Keywords>
+            <E_phrase start="14" position="14" end="15" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">最</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="”回去的路上，她流下了泪。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> ”/w  回去/v  的/u  路上/s  ，/w  她/r  流下/v  了/u  泪/n  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">泪</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="然而，当她回到家里，却对坐在桌前的儿子说：“老师对你充满信心。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 然而/c  ，/w  当/p  她/r  回到/v  家/n  里/f  ，/w  却/d  对/p  坐/v  在/p  桌前/n  的/u  儿子/n  说/v  ：/w  “/w  老师/n  对/p  你/r  充满/v  信心/n  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">信心</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="27" end="-1">然而</E_conjunction>
+            <E_conjunction start="-1" position="10" next_position="10" modifier_word_position="11" modifier_word_length="19" end="-1">却</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="他说了，你并不是一个笨孩子，只要能细心些，会超过你的同桌，这次你的同桌排在第２１名。">
+            <S_no>第2段第5句标注</S_no>
+            <Segmented_S> 他/r  说/v  了/u  ，/w  你/r  并不/d  是/v  一个/m  笨/a  孩子/n  ，/w  只要能/v  细心/a  些/q  ，/w  会/v  超过/v  你/r  的/u  同桌/n  ，/w  这次/r  你/r  的/u  同桌/n  排/v  在/p  第２１/n  名/Ng  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">笨</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">细心</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">超过</Keywords>
+            <noword start="6" position="5" modifier_word_position="10" modifier_word_length="3" end="7">并不</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="”第二天上学时，儿子去得比平时都要早。">
+            <S_no>第2段第6句标注</S_no>
+            <Segmented_S> ”/w  第二/m  天/q  上学时/n  ，/w  儿子/n  去/v  得/u  比/p  平时/t  都/d  要/v  早/ad  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>成就 录取通知书 家长会</Topic>
+        <Summarize_Sentences>9</Summarize_Sentences>
+        <sentence S="孩子上初中了，又一次家长会。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>孩子/n  上/f  初中/n  了/y  ，/w  又一次/v  家长会/n  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="母亲等着老师在差等生的行列中点她儿子的名字，然而，这次却出乎她的预料，直到结束，她都没听到。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 母亲/n  等/u  着/u  老师/n  在/p  差等生/n  的/u  行列/n  中点/n  她/r  儿子/n  的/u  名字/n  ，/w  然而/c  ，/w  这次/r  却/d  出乎/v  她/r  的/u  预料/vn  ，/w  直到/v  结束/v  ，/w  她/r  都/d  没/d  听到/v  。</Segmented_S>
+            <S_Length>46</S_Length>
+            <noword start="-1" position="42" modifier_word_position="43" modifier_word_length="2" end="-1">没</noword>
+            <E_conjunction start="-1" position="22" next_position="22" modifier_word_position="25" modifier_word_length="20" end="-1">然而</E_conjunction>
+            <E_phrase start="28" position="28" end="33" Surprise="0.8" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">出乎</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">母亲</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.7</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="临别，她去问老师，老师告诉她：“按你儿子现在的成绩，考重点高中有点危险。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 临别/v  ，/w  她/r  去/v  问/v  老师/n  ，/w  老师/n  告诉/v  她/r  ：/w  “/w  按/p  你/r  儿子/n  现在/t  的/u  成绩/n  ，/w  考/v  重点/n  高中/n  有/v  点/q  危险/a  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">危险</Keywords>
+            <degree_adv start="31" position="31" modifier_word_position="33" modifier_word_length="2" end="32">有</degree_adv>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="9" end="-1">老师</Opinion_holder>
+            <Opinion_target start="-1" position="13" end="-1">她</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”回家后，母亲告诉儿子：“班主任对你非常满意，他说了，只要你努力，是很有希望考上重点高中的。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> ”/w  回家/v  后/f  ，/w  母亲/n  告诉/v  儿子/n  ：/w  “/w  班主任/n  对/p  你/r  非常/d  满意/v  ，/w  他/r  说/v  了/u  ，/w  只要/c  你/r  努力/ad  ，/w  是/v  很/d  有/v  希望/n  考上/v  重点/n  高中/n  的/u  。</Segmented_S>
+            <S_Length>46</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">满意</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0.5" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">努力</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">希望</Keywords>
+            <degree_adv start="-1" position="18" modifier_word_position="20" modifier_word_length="2" end="-1">非常</degree_adv>
+            <degree_adv start="-1" position="34" modifier_word_position="35" modifier_word_length="3" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="27" next_position="27" modifier_word_position="29" modifier_word_length="3" end="-1">只要</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="5" end="-1">母亲</Opinion_holder>
+            <Joy>0.9</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="”高中毕业了。">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> ”/w  高中/n  毕业/v  了/u  。</Segmented_S>
+            <S_Length>7</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一个第一批大学录取通知书下达的日子。">
+            <S_no>第3段第6句标注</S_no>
+            <Segmented_S> 一个/m  第一/m  批/q  大学/n  录取/v  通知书/n  下达/v  的/u  日子/n  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="学校打电话让她儿子到学校去一趟。">
+            <S_no>第3段第7句标注</S_no>
+            <Segmented_S> 学校/n  打电话/v  让/v  她/r  儿子/n  到/v  学校/n  去/v  一/m  趟/q  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="她儿子从学校回来，把一封印有清华大学招生办公室的特快专递交到这个母亲的手里，突然转身跑到自己房间里大哭起来。">
+            <S_no>第3段第8句标注</S_no>
+            <Segmented_S> 她/r  儿子/n  从/p  学校/n  回来/v  ，/w  把/p  一封/n  印有/v  清华大学/nt  招生/v  办公室/n  的/u  特快/b  专递/n  交/v  到/v  这/r  个/q  母亲/n  的/u  手里/s  ，/w  突然/ad  转身/v  跑/v  到/v  自己/r  房间/n  里/f  大哭/v  起来/v  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大哭</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="边哭边说：“妈妈，我一直都知道我不是个聪明的孩子，是您的阳光让我成就了自己”">
+            <S_no>第3段第9句标注</S_no>
+            <Segmented_S> 边/d  哭/v  边/n  说/v  ：/w  “/w  妈妈/n  ，/w  我/r  一直都/v  知道/v  我不/n  是/v  个/q  聪明/a  的/u  孩子/n  ，/w  是/v  您/r  的/u  阳光/n  让/v  我/r  成就/n  了/u  自己/r  ”/w</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">哭</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">聪明</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">成就</Keywords>
+            <noword start="16" position="15" modifier_word_position="19" modifier_word_length="2" end="17">我不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.5</Expect>
+        <Topic>父爱是山 母爱是河 呵护儿子</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="如果成长是一首诗，那么，父爱是山，母爱是河。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>如果/c  成长/v  是/v  一/m  首/q  诗/n  ，/w  那么/c  ，/w  父爱/v  是/v  山/n  ，/w  母爱/n  是/v  河/n  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">成长</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">父爱</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">母爱</Keywords>
+            <E_conjunction start="-1" position="0" next_position="9" modifier_word_position="2" modifier_word_length="6" end="-1">如果</E_conjunction>
+            <E_conjunction start="-1" position="9" next_position="9" modifier_word_position="12" modifier_word_length="9" end="-1">那么</E_conjunction>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="在父爱的高山之下，儿子可以找到人生的坐标，在母爱温馨的河里，儿子如游鱼趟过暗礁，绕过荆棘，游过秋，漂过冬，终于到达春。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 在/p  父爱/n  的/u  高山/n  之下/f  ，/w  儿子/n  可以/v  找到/v  人生/n  的/u  坐标/n  ，/w  在/p  母爱/n  温馨/a  的/u  河里/n  ，/w  儿子/n  如/v  游鱼/n  趟/v  过/u  暗礁/n  ，/w  绕/v  过/u  荆棘/n  ，/w  游/v  过/u  秋/Tg  ，/w  漂/v  过冬/v  ，/w  终于/d  到达/v  春/Tg  。</Segmented_S>
+            <S_Length>59</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">父爱</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">可以</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">找到</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">母爱</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">温馨</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">荆棘</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">到达</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="不管道路如何崎岖，环境怎样恶劣，严爱是山，滋爱是河，永远高大温暖，呵护儿子亘古不变。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 不/d  管/v  道路/n  如何/r  崎岖/v  ，/w  环境/n  怎样/r  恶劣/a  ，/w  严/ad  爱/v  是/v  山/n  ，/w  滋/v  爱/v  是/v  河/n  ，/w  永远/d  高大/a  温暖/a  ，/w  呵护/v  儿子/n  亘古/n  不/d  变/v  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">崎岖</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">恶劣</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">温暖</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">呵护</Keywords>
+            <E_conjunction start="0" position="0" next_position="0" modifier_word_position="2" modifier_word_length="13" end="1">不</E_conjunction>
+            <E_phrase start="37" position="37" end="40" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">亘古</E_phrase>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>激励 家长会 谆谆教诲</Topic>
+        <Summarize_Sentences>4</Summarize_Sentences>
+        <sentence S="三次家长会，儿子四个阶段的成长历程，诠释了父母始终不渝的关怀、支持，家长的宽厚、伟大。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>三/m  次/q  家长会/n  ，/w  儿子/n  四/m  个/q  阶段/n  的/u  成长/vn  历程/n  ，/w  诠释/v  了/u  父母/n  始终不渝/i  的/u  关怀/vn  、/w  支持/v  ，/w  家长/n  的/u  宽厚/a  、/w  伟大/a  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">关怀</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">支持</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_target start="-1" position="21" end="-1">父母</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="三次家长会，三次难言的现实，母亲以博大的胸怀面对，以积极向上的语言叮嘱。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 三/m  次/q  家长会/n  ，/w  三/m  次/q  难/a  言/Vg  的/u  现实/a  ，/w  母亲/n  以/p  博大/a  的/u  胸怀/n  面对/v  ，/w  以/p  积极向上/l  的/u  语言/n  叮嘱/v  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="8" position="8" end="9" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">难</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">博大</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">积极向上</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="每一次对儿子的谆谆教诲，都是突显激励的主旋律。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 每/r  一/m  次/q  对/p  儿子/n  的/u  谆谆教诲/n  ，/w  都/d  是/v  突显/n  激励/v  的/u  主旋律/n  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">谆谆教诲</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">激励</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="这一次次朴素而催人上进的话语，激励儿子奋力向前游，终于由一位孱弱的小鱼成长为“跳龙门”的鲤鱼。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 这/r  一次次/m  朴素/a  而/c  催/v  人/n  上进/a  的/u  话语/n  ，/w  激励/v  儿子/n  奋力/d  向前/v  游/v  ，/w  终于/d  由/p  一/m  位/q  孱弱/n  的/u  小鱼/n  成长/v  为/v  “/w  跳龙门/n  ”/w  的/u  鲤鱼/n  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">上进</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">激励</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">奋力</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">孱弱</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="高兴">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.9</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>激励 可怕 失去希望</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="不如意不可怕，痛苦不可怕，可怕的是失去希望，失去充满信心的激励。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>不如意/n  不/d  可怕/a  ，/w  痛苦/a  不/d  可怕/a  ，/w  可怕/a  的/u  是/v  失去/v  希望/n  ，/w  失去/v  充满/v  信心/n  的/u  激励/vn  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不如意</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">可怕</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0.8" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">痛苦</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">可怕</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">可怕</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">失去</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">希望</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">信心</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">激励</Keywords>
+            <noword start="-1" position="3" modifier_word_position="4" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="9" modifier_word_position="10" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="“不是个聪明的孩子”的儿子的每一点成功，无不是父母亲像太阳一样照耀种子生根、发芽、长大的结果。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> “/w  不/d  是/v  个/q  聪明/a  的/u  孩子/n  ”/w  的/u  儿子/n  的/u  每/r  一/m  点/q  成功/a  ，/w  无不/d  是/v  父母亲/n  像/v  太阳/n  一样/a  照耀/v  种子/n  生根/v  、/w  发芽/v  、/w  长大/v  的/u  结果/n  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">聪明</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">成功</Keywords>
+            <noword start="1" position="1" modifier_word_position="4" modifier_word_length="2" end="2">不</noword>
+            <Rhetoric E_type="高兴">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.9</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.5</Joy>
+    <Hate>0.7</Hate>
+    <Love>0.5</Love>
+    <Sorrow>0.6</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>发烧</Topic>
+    <title T="发烧">
+        <Segmented_S>发/v  烧/v</Segmented_S>
+        <S_Length>2</S_Length>
+        <E_phrase start="0" position="0" end="1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">发</E_phrase>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>发烧</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="俗语说：“病来如山倒，病去如抽丝。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>俗语说/n  ：/w  “/w  病来如山倒/n  ，/w  病/n  去/v  如/v  抽丝/n  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">病来如山倒</Keywords>
+            <Keywords start="11" position="11" end="15" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">病</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”早上一起床，浑身头疼，就知大事不妙，一量体温，３８．７℃，久违的发烧终于又来了。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> ”/w  早/ad  上/v  一/m  起/q  床/n  ，/w  浑身/n  头疼/a  ，/w  就/d  知/v  大事/n  不妙/n  ，/w  一量/v  体温/n  ，/w  ３８．７/v  ℃/n  ，/w  久违/v  的/u  发烧/n  终于/d  又/d  来/v  了/y  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">头疼</Keywords>
+            <Keywords start="14" position="14" end="17" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大事</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">发烧</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="对个人来说，真的不幸，但对于人类来说，此乃大幸。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 对/p  个人/n  来说/u  ，/w  真的/d  不幸/a  ，/w  但/c  对于/p  人类/n  来说/u  ，/w  此/r  乃/r  大幸/v  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0.5" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不幸</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大幸</Keywords>
+            <E_conjunction start="-1" position="11" next_position="11" modifier_word_position="12" modifier_word_length="11" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>发烧</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="发烧让我老实地躺了一天，坚定地不去医院。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>发烧/v  让/v  我/r  老实/a  地/u  躺/v  了/u  一/m  天/q  ，/w  坚定/v  地/u  不/d  去/v  医院/n  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">发烧</Keywords>
+            <noword start="-1" position="15" modifier_word_position="16" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我知道一去医院准没好事，医生一定是化验，打吊针，吃药，三套程序下来，几天照旧难受；熬完该熬的难受，大约一周准好。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 我知道/n  一去/v  医院/n  准/a  没/d  好事/v  ，/w  医生/n  一定/d  是/v  化验/v  ，/w  打吊针/v  ，/w  吃药/v  ，/w  三/m  套/q  程序/n  下来/v  ，/w  几/m  天/q  照旧/n  难受/v  ；/w  熬/v  完/v  该/v  熬/v  的/u  难受/n  ，/w  大约/d  一/m  周/q  准/a  好/a  。</Segmented_S>
+            <S_Length>56</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">好事</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">难受</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">难受</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <noword start="-1" position="8" modifier_word_position="9" modifier_word_length="2" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>发烧</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="其实身体不适时一定自己最清楚轻重。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>其实/d  身体/n  不/d  适时/a  一定/b  自己/r  最/d  清楚/a  轻重/n  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <degree_adv start="-1" position="11" modifier_word_position="12" modifier_word_length="2" end="-1">最</degree_adv>
+            <E_phrase start="4" position="4" end="5" Surprise="0" Sorrow="0.5" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我知道此次发烧，一定是久蓄疲惫的爆发，不是炎症，用不着惊惶失措，对症下药才是正事。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 我知道/n  此次/r  发烧/v  ，/w  一定/d  是/v  久/a  蓄/v  疲惫/a  的/u  爆发/vn  ，/w  不/d  是/v  炎症/n  ，/w  用不着/v  惊惶失措/n  ，/w  对症下药/i  才/d  是/v  正事/n  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">发烧</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0.5" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">疲惫</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">炎症</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.0" Expect="0" Anxiety="0.5" Anger="0">惊惶失措</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">对症下药</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">正事</Keywords>
+            <noword start="-1" position="19" modifier_word_position="21" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="24" modifier_word_position="27" modifier_word_length="4" end="-1">用不着</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我连忙找出“霍香正气水”，连灌两瓶，虽然说明书告知成人每次一瓶，但我仍认为矫枉必须过正，两瓶下肚，昏昏欲睡，此是后话。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 我/r  连忙/d  找/v  出/v  “/w  霍/nr  香/nr  正气/n  水/n  ”/w  ，/w  连/u  灌/v  两/m  瓶/q  ，/w  虽然/c  说明书/n  告知/v  成人/n  每次/r  一/m  瓶/q  ，/w  但/c  我仍/n  认为/v  矫/v  枉/n  必须/d  过/v  正/d  ，/w  两/m  瓶/q  下肚/n  ，/w  昏昏欲睡/v  ，/w  此/r  是/v  后话/n  。</Segmented_S>
+            <S_Length>59</S_Length>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">昏昏欲睡</Keywords>
+            <E_conjunction start="-1" position="18" next_position="32" modifier_word_position="20" modifier_word_length="11" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="32" next_position="18" modifier_word_position="33" modifier_word_length="10" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>霍香正气水</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="霍香正气水是一味良剂，是我吃过的最苦的药，间有麻辣，入口即如蜂蜇，下喉如过热油，但药效奇佳，凡暑天略感不适时，吃下一剂，可谓药到病除。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>霍/nr  香/nr  正气/n  水/n  是/v  一/m  味/Ng  良/Ag  剂/Ng  ，/w  是/v  我/r  吃/v  过/u  的/u  最/d  苦/a  的/u  药/n  ，/w  间/f  有/v  麻辣/n  ，/w  入口/n  即/d  如/v  蜂/Ng  蜇/n  ，/w  下/f  喉/v  如/v  过/u  热油/n  ，/w  但/c  药效/n  奇佳/v  ，/w  凡/d  暑天/v  略/d  感/Vg  不/d  适时/a  ，/w  吃/v  下/v  一/m  剂/q  ，/w  可谓/v  药/n  到/v  病除/n  。</Segmented_S>
+            <S_Length>67</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">苦</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">奇佳</Keywords>
+            <Keywords start="62" position="62" end="64" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">药</Keywords>
+            <degree_adv start="-1" position="16" modifier_word_position="17" modifier_word_length="1" end="-1">最</degree_adv>
+            <E_conjunction start="-1" position="40" next_position="40" modifier_word_position="41" modifier_word_length="3" end="-1">但</E_conjunction>
+            <E_phrase start="8" position="8" end="9" Surprise="0" Sorrow="0" POS="Ag" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">良</E_phrase>
+            <E_phrase start="30" position="30" end="31" Surprise="0" Sorrow="0" POS="Ng" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">蜂</E_phrase>
+            <E_phrase start="51" position="51" end="52" Surprise="0" Sorrow="0.3" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不</E_phrase>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>疾病</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我们人类自打闯入地球起，所面临的最大敌人从未改变过，就是疾病。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>我们/r  人类/n  自打/n  闯入/v  地球/n  起/v  ，/w  所/u  面临/v  的/u  最/d  大/a  敌人/n  从未/d  改变/v  过/u  ，/w  就/d  是/v  疾病/n  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">敌人</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">疾病</Keywords>
+            <degree_adv start="-1" position="16" modifier_word_position="17" modifier_word_length="1" end="-1">最</degree_adv>
+            <noword start="-1" position="20" modifier_word_position="22" modifier_word_length="2" end="-1">从未</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在自然灾害，人类战争，疾病三大敌手之中，疾病高高在上，永拿金牌。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 在/p  自然/n  灾害/n  ，/w  人类/n  战争/n  ，/w  疾病/n  三/m  大/a  敌手/n  之/u  中/f  ，/w  疾病/n  高高在上/i  ，/w  永/d  拿/v  金牌/n  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">灾害</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">战争</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">疾病</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">敌手</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">疾病</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高高在上</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">金牌</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="所以人类在不停地强化自己的体质，筑起一道道防线，就是我们体内防疫系统，发烧仅是防疫的一个小手段。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 所以/c  人类/n  在/p  不停/d  地/u  强化/v  自己/r  的/u  体质/n  ，/w  筑/v  起/v  一道道/m  防线/n  ，/w  就/d  是/v  我们/r  体内/s  防疫/v  系统/n  ，/w  发烧/v  仅/d  是/v  防疫/v  的/u  一个/m  小/a  手段/n  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">强化</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">发烧</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="12" end="-1">所以</E_conjunction>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="后来，由于人类急功近利，发明了各类疫苗，用一百多年的时间，渐渐摧毁着我们人类用三百万年建立起的自身防疫系统。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 后来/t  ，/w  由于/p  人类/n  急功近利/i  ，/w  发明/v  了/u  各类/r  疫苗/n  ，/w  用/p  一百/m  多/m  年/q  的/u  时间/n  ，/w  渐渐/d  摧毁/v  着/u  我们/r  人类/n  用/p  三百万/n  年/q  建立/v  起/v  的/u  自身/r  防疫/v  系统/n  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">急功近利</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.1" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">发明</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">摧毁</Keywords>
+            <degree_adv start="-1" position="29" modifier_word_position="31" modifier_word_length="2" end="-1">渐渐</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="懂得这个道理，就应知道现代医药是个救急措施，能不用就不用，许多小疾病扛扛就过去了，像我，一天工夫就好了，焕然一新。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>懂得/v  这/r  个/q  道理/n  ，/w  就/d  应/v  知道/v  现代/t  医药/n  是/v  个/q  救急/n  措施/n  ，/w  能/v  不/d  用/v  就/d  不/d  用/v  ，/w  许多/m  小/a  疾病/n  扛/v  扛/v  就/d  过去/v  了/y  ，/w  像我/v  ，/w  一/m  天/q  工夫/n  就/d  好/a  了/y  ，/w  焕然一新/i  。</Segmented_S>
+            <S_Length>57</S_Length>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">疾病</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">焕然一新</Keywords>
+            <noword start="-1" position="23" modifier_word_position="24" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="26" modifier_word_position="27" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.8</Joy>
+    <Hate>0.6</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.3</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.7</Expect>
+    <Topic>燃烧 圣火</Topic>
+    <title T="燃烧吧，奥运圣火">
+        <Segmented_S>燃烧/v  吧/y  ，/w  奥运/j  圣火/n</Segmented_S>
+        <S_Length>8</S_Length>
+        <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">吧</Keywords>
+        <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">圣火</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.9</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="因为平时工作比较忙，很难得看电视新闻，我了解新闻的途径基本上是互联网。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>因为/c  平时/t  工作/vn  比较/d  忙/a  ，/w  很/d  难得/a  看/v  电视/n  新闻/n  ，/w  我/r  了解/v  新闻/n  的/u  途径/n  基本上/d  是/v  互联网/n  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">忙</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0.4" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">难得</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="8" modifier_word_length="1" end="-1">比较</degree_adv>
+            <degree_adv start="-1" position="10" modifier_word_position="11" modifier_word_length="2" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="7" end="-1">因为</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这样有个好处，就是可以通过各方面的报道，还有网友的亲身经历留言，更真实地知道这个世界在发生着什么。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 这样/r  有/v  个/q  好处/n  ，/w  就/d  是/v  可以/v  通过/p  各/r  方面/n  的/u  报道/n  ，/w  还有/v  网友/n  的/u  亲身/b  经历/n  留言/v  ，/w  更/d  真实/a  地/u  知道/v  这/r  个/q  世界/n  在/p  发生/v  着/u  什么/r  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">好处</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">真实</Keywords>
+            <degree_adv start="-1" position="32" modifier_word_position="33" modifier_word_length="2" end="-1">更</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.9</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>自豪 激动</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="自从３月２４日奥运圣火在希腊点燃，我就一直关注着它的行踪，并为之而自豪着、激动着。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>自从/p  ３月/n  ２４日/v  奥运/j  圣火/n  在/p  希腊/ns  点燃/v  ，/w  我就/v  一直/d  关注/v  着/u  它/r  的/u  行踪/n  ，/w  并/c  为/p  之/r  而/c  自豪/a  着/u  、/w  激动/a  着/u  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">圣火</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">关注</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">自豪</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">激动</Keywords>
+            <degree_adv start="-1" position="19" modifier_word_position="21" modifier_word_length="2" end="-1">一直</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="想一下吧，我们这个有着五千年悠久历史的民族，我们这个近百年来历尽忧患和沧桑的国家，终于在我们自己的土地上举办世界性的奥运盛会，以我们的微笑和实力，笑迎八方来客，展我锦绣中华。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 想/v  一下/m  吧/y  ，/w  我们/r  这个/r  有/v  着/u  五千/m  年/q  悠久/a  历史/n  的/u  民族/n  ，/w  我们/r  这/r  个/q  近/a  百年/m  来/f  历尽/v  忧患/n  和/c  沧桑/n  的/u  国家/n  ，/w  终于/d  在/p  我们/r  自己/r  的/u  土地/n  上/f  举办/v  世界性/n  的/u  奥运/j  盛会/n  ，/w  以我/v  们/k  的/u  微笑/vn  和/c  实力/n  ，/w  笑/v  迎/v  八方来客/n  ，/w  展/Vg  我/r  锦绣/b  中华/nz  。</Segmented_S>
+            <S_Length>87</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">吧</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悠久</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">忧患</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">沧桑</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">盛会</Keywords>
+            <Keywords start="-1" position="67" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">微笑</Keywords>
+            <Keywords start="-1" position="70" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">实力</Keywords>
+            <Keywords start="73" position="73" end="74" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">笑</Keywords>
+            <Keywords start="-1" position="75" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">八方来客</Keywords>
+            <Keywords start="-1" position="82" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">锦绣</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.9</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这是一个标志，它标志着这个历史悠久的民族焕发了青春的光和热，它标志着这个沧桑历尽的国家正雄起于世界的东方。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 这/r  是/v  一个/m  标志/n  ，/w  它/r  标志/v  着/u  这/r  个/q  历史/n  悠久/a  的/u  民族/n  焕发/v  了/u  青春/n  的/u  光/n  和/c  热/a  ，/w  它/r  标志/v  着/u  这/r  个/q  沧桑/n  历尽/v  的/u  国家/n  正/d  雄/v  起/f  于/p  世界/n  的/u  东方/f  。</Segmented_S>
+            <S_Length>53</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悠久</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">焕发</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">青春</Keywords>
+            <Keywords start="36" position="36" end="39" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">沧桑</Keywords>
+            <Keywords start="44" position="44" end="45" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">雄</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.8</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>阴影</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="但是，全体中华儿女盼望的奥运盛事，却因藏独分子的捣乱而蒙上阴影。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>但是/c  ，/w  全体/n  中华/nz  儿女/n  盼望/v  的/u  奥运/j  盛事/n  ，/w  却/d  因/p  藏独/n  分子/n  的/u  捣乱/vn  而/c  蒙/v  上/v  阴影/n  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.9" Anxiety="0" Anger="0">盼望</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">盛事</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">藏独</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">捣乱</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">阴影</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="13" end="-1">但是</E_conjunction>
+            <E_conjunction start="-1" position="17" next_position="17" modifier_word_position="18" modifier_word_length="13" end="-1">却</E_conjunction>
+            <E_conjunction start="-1" position="18" next_position="28" modifier_word_position="19" modifier_word_length="12" end="-1">因</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.9</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="２００８奥运之年，注定是一个光荣与苦难，圣洁与丑陋交错之年。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> ２００８/n  奥运/j  之年/n  ，/w  注定/v  是/v  一个/m  光荣/a  与/c  苦难/n  ，/w  圣洁/a  与/c  丑陋/n  交错/v  之/u  年/n  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">注定</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">光荣</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">苦难</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">圣洁</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">丑陋</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="３月１４日，拉萨打砸抢的暴力与血腥场面国人还记忆尤新，繁华的商业街被烧成满目疮痍，五位被藏独分子活活烧死的花季少女还在灼疼国人的神经。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> ３月/n  １４日/v  ，/w  拉萨/ns  打砸抢/ns  的/u  暴力/n  与/c  血腥/n  场面/n  国人/n  还/d  记忆/v  尤/n  新/d  ，/w  繁华/a  的/u  商业街/n  被/p  烧/v  成/v  满目疮痍/n  ，/w  五/m  位/q  被/p  藏独/v  分子/n  活活/v  烧死/n  的/u  花季/n  少女/v  还/d  在/p  灼/n  疼/v  国人/n  的/u  神经/n  。</Segmented_S>
+            <S_Length>67</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="ns" Opinionholder="0" Love="0" Joy="0" Hate="0.9" Expect="0" Anxiety="0" Anger="0">打砸抢</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.9" Expect="0" Anxiety="0" Anger="0">暴力</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.9" Expect="0" Anxiety="0" Anger="0">血腥</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">繁华</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">满目疮痍</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0.0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.9" Anger="0">藏独</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">烧死</Keywords>
+            <Keywords start="53" position="53" end="56" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">花季</Keywords>
+            <Keywords start="59" position="59" end="60" Surprise="0" Sorrow="0.8" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">灼</Keywords>
+            <E_phrase start="22" position="22" end="25" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">记忆</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.9</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="而在奥运圣火全球传递的圣洁之旅上，又因藏独分子的屡次破坏而杂上不和谐的噪音。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 而/c  在/p  奥运/j  圣火/n  全球/n  传递/v  的/u  圣洁/a  之旅/n  上/f  ，/w  又/c  因/p  藏独/n  分子/n  的/u  屡次/n  破坏/v  而/c  杂/a  上/f  不/d  和谐/a  的/u  噪音/n  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">圣洁</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">藏独</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">破坏</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">和谐</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">噪音</Keywords>
+            <degree_adv start="-1" position="24" modifier_word_position="26" modifier_word_length="2" end="-1">屡次</degree_adv>
+            <noword start="-1" position="31" modifier_word_position="32" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="18" next_position="18" modifier_word_position="19" modifier_word_length="18" end="-1">因</E_conjunction>
+            <Rhetoric E_type="憎恨">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="而全球中华儿女对祖国的热爱，对圣火的保护更是让人感动。">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> 而/c  全球/n  中华/nz  儿女/n  对/p  祖国/n  的/u  热爱/vn  ，/w  对/p  圣火/n  的/u  保护/vn  更/d  是/v  让/v  人/n  感动/v  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">热爱</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">保护</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">感动</Keywords>
+            <degree_adv start="-1" position="20" modifier_word_position="21" modifier_word_length="5" end="-1">更</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="25" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="奥运圣火传递之途是不平坦的，但正因如此，才更显出它是和平与暴乱，圣洁与丑陋，正义与邪恶殊死较量的征途。">
+            <S_no>第3段第6句标注</S_no>
+            <Segmented_S> 奥运/j  圣火/n  传递/v  之/u  途/Ng  是/v  不/d  平坦/a  的/u  ，/w  但/c  正因如此/n  ，/w  才/c  更/d  显出/v  它/r  是/v  和平/ad  与/c  暴乱/n  ，/w  圣洁/a  与/c  丑陋/n  ，/w  正义/n  与/c  邪恶/a  殊死/n  较量/v  的/u  征途/n  。</Segmented_S>
+            <S_Length>51</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">平坦</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0.7" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">和平</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">暴乱</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">圣洁</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">丑陋</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">正义</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">邪恶</Keywords>
+            <degree_adv start="-1" position="21" modifier_word_position="22" modifier_word_length="2" end="-1">更</degree_adv>
+            <noword start="-1" position="9" modifier_word_position="10" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="14" next_position="14" modifier_word_position="15" modifier_word_length="4" end="-1">但</E_conjunction>
+            <E_phrase start="43" position="43" end="46" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">殊死</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.9</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.9</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.9</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="四月六日，奥运圣火在英国伦敦传递，藏独分子不断冲击圣火传递队伍，甚至抢夺圣火，但没有得逞。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>四月/t  六日/t  ，/w  奥运/j  圣火/n  在/p  英国/ns  伦敦/ns  传递/v  ，/w  藏独/v  分子/n  不断/d  冲击/v  圣火/n  传递/v  队伍/n  ，/w  甚至/d  抢夺/v  圣火/n  ，/w  但/c  没有/d  得逞/v  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">藏独</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">冲击</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.8">抢夺</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">得逞</Keywords>
+            <degree_adv start="-1" position="21" modifier_word_position="23" modifier_word_length="2" end="-1">不断</degree_adv>
+            <degree_adv start="-1" position="32" modifier_word_position="34" modifier_word_length="2" end="-1">甚至</degree_adv>
+            <noword start="-1" position="40" modifier_word_position="42" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="-1" position="39" next_position="39" modifier_word_position="40" modifier_word_length="4" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="因为有无数华侨和中国留学生从各个城市赶到伦敦，手持五星红旗陪跑，保护火炬，高唱国歌与藏独分子对峙。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 因为/c  有/v  无数/m  华侨/n  和/c  中国/ns  留学生/n  从/p  各个/r  城市/n  赶到/v  伦敦/ns  ，/w  手持/v  五星/n  红旗/v  陪/n  跑/v  ，/w  保护/v  火炬/n  ，/w  高唱/v  国歌/n  与/p  藏独/n  分子/n  对峙/v  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">保护</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高唱</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">藏独</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.9">对峙</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="20" end="-1">因为</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一个网友留言说，从来没有唱国歌这么投入和激动。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 一个/m  网友/n  留言/n  说/v  ，/w  从来/d  没有/d  唱/v  国歌/n  这么/r  投入/v  和/c  激动/a  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">国歌</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">投入</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.9" Hate="0" Expect="0" Anxiety="0" Anger="0">激动</Keywords>
+            <noword start="-1" position="10" modifier_word_position="12" modifier_word_length="10" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="很多人嗓子唱哑了，很多人泪流满面，仍在寒风中挥舞着国旗。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 很多/m  人/n  嗓子/n  唱/v  哑/v  了/y  ，/w  很多/m  人/n  泪流满面/v  ，/w  仍/d  在/d  寒风/v  中/f  挥舞/v  着/u  国旗/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0.8" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">泪流满面</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">挥舞</Keywords>
+            <degree_adv start="0" position="0" modifier_word_position="1" modifier_word_length="1" end="0">很多</degree_adv>
+            <degree_adv start="9" position="9" modifier_word_position="10" modifier_word_length="1" end="9">很多</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.6</Anger>
+        <Expect>0.0</Expect>
+        <Topic>誓死保卫</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="四月七日，奥运圣火在法国巴黎传递的过程中，第三棒的火炬手是轮椅击剑运动员金晶，这位被称为“轮椅上的微笑天使”的美丽女孩，以她纯洁甜美的微笑，更以她誓死保卫圣火的勇敢感动了世界。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>四月/t  七日/t  ，/w  奥运/j  圣火/n  在/p  法国/ns  巴黎/ns  传递/v  的/u  过程/n  中/f  ，/w  第三/m  棒/Ng  的/u  火炬手/n  是/v  轮椅/n  击剑/n  运动员/n  金/nr  晶/nr  ，/w  这位/v  被/p  称为/v  “/w  轮椅/n  上/f  的/u  微笑/vn  天使/n  ”/w  的/u  美丽/a  女孩/n  ，/w  以/p  她/r  纯洁/a  甜美/a  的/u  微笑/vn  ，/w  更/d  以/p  她/r  誓死/d  保卫/v  圣火/n  的/u  勇敢/a  感动/a  了/y  世界/u  。</Segmented_S>
+            <S_Length>88</S_Length>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">微笑</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">天使</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">纯洁</Keywords>
+            <Keywords start="-1" position="64" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">甜美</Keywords>
+            <Keywords start="-1" position="67" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">微笑</Keywords>
+            <Keywords start="-1" position="75" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">保卫</Keywords>
+            <Keywords start="-1" position="80" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">勇敢</Keywords>
+            <Keywords start="-1" position="82" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感动</Keywords>
+            <degree_adv start="-1" position="73" modifier_word_position="75" modifier_word_length="2" end="-1">誓死</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="当藏独暴徒悍然抢夺她手中的火炬时，这位身体残疾的女孩弯下身体，任凭藏独分子揪打她的头发、手臂和后背，她双手紧紧抱着火炬宁死不松手，直至警察赶来制服暴徒。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 当/p  藏独/n  暴徒/v  悍然/n  抢夺/d  她/r  手中/s  的/u  火炬/n  时/Ng  ，/w  这/r  位/q  身体/n  残疾/n  的/u  女孩/n  弯/v  下/v  身体/n  ，/w  任凭/c  藏独/v  分子/n  揪/v  打/v  她/r  的/u  头发/n  、/w  手臂/n  和/c  后背/n  ，/w  她/r  双手/n  紧紧/d  抱/v  着/u  火炬/n  宁/vn  死/d  不/d  松手/v  ，/w  直至/v  警察/n  赶来/v  制服/v  暴徒/n  。</Segmented_S>
+            <S_Length>76</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">藏独</Keywords>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">暴徒</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.7">抢夺</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0.3" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">残疾</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">藏独</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.5">揪</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">打</Keywords>
+            <Keywords start="-1" position="71" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">制服</Keywords>
+            <Keywords start="-1" position="73" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">暴徒</Keywords>
+            <degree_adv start="-1" position="53" modifier_word_position="55" modifier_word_length="2" end="-1">紧紧</degree_adv>
+            <noword start="-1" position="61" modifier_word_position="62" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这是一幕怎样惊心动魄的伟大啊，当金晶以她的残弱之躯誓死保卫火炬时，当藏独暴徒对一个轮椅上的女孩拳脚相加时，正义与邪恶，美丽与丑陋，忠贞与叛国，在这一刻的对比是如此鲜明！">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 这/r  是/v  一/m  幕/q  怎样/r  惊心动魄/i  的/u  伟大/a  啊/y  ，/w  当/p  金/nr  晶/nr  以/p  她/r  的/u  残弱/n  之/u  躯/Ng  誓死/n  保卫/v  火炬/n  时/Ng  ，/w  当/p  藏独/n  暴徒/v  对/p  一个/m  轮椅/n  上/f  的/u  女孩/n  拳脚/n  相加/v  时/Ng  ，/w  正义/n  与/c  邪恶/a  ，/w  美丽/a  与/c  丑陋/n  ，/w  忠贞/n  与/p  叛国/n  ，/w  在/p  这/r  一刻/m  的/u  对比/vn  是/v  如此/r  鲜明/a  ！</Segmented_S>
+            <S_Length>84</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">惊心动魄</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">啊</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">残弱</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">保卫</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">藏独</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">暴徒</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">正义</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0.0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">邪恶</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">丑陋</Keywords>
+            <Keywords start="-1" position="65" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">忠贞</Keywords>
+            <Keywords start="-1" position="68" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">叛国</Keywords>
+            <Keywords start="-1" position="81" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">鲜明</Keywords>
+            <degree_adv start="-1" position="25" modifier_word_position="27" modifier_word_length="2" end="-1">誓死</degree_adv>
+            <degree_adv start="-1" position="79" modifier_word_position="81" modifier_word_length="2" end="-1">如此</degree_adv>
+            <E_phrase start="47" position="47" end="50" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.8">拳脚</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>保护 圣火</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="四月九日，奥运圣火抵达美国旧金山。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>四月/t  九日/t  ，/w  奥运/j  圣火/n  抵达/v  美国/ns  旧金山/ns  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="因为圣火在巴黎的遭遇，数万在美华侨、留学生赶到旧金山保护圣火。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 因为/c  圣火/n  在/p  巴黎/ns  的/u  遭遇/n  ，/w  数万/m  在/p  美/j  华侨/n  、/w  留学生/n  赶到/v  旧金山/ns  保护/v  圣火/n  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">保护</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="8" end="-1">因为</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="鲜艳的五星红旗汇成一片红色的海洋。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 鲜艳/a  的/u  五星红旗/n  汇/v  成/v  一/m  片/q  红色/n  的/u  海洋/n  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">鲜艳</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="当藏独分子举起他们所谓的旗帜时，华人无数挥舞的五星红旗迅速把他们淹没。">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> 当/p  藏独/n  分子/n  举起/v  他们/r  所谓/v  的/u  旗帜/n  时/Ng  ，/w  华人/n  无数/m  挥舞/v  的/u  五星红旗/n  迅速/ad  把/p  他们/r  淹没/v  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">藏独</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">挥舞</Keywords>
+            <degree_adv start="-1" position="18" modifier_word_position="20" modifier_word_length="2" end="-1">无数</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在火炬传递的路线上，无数的华人陪跑，保护圣火。">
+            <S_no>第6段第5句标注</S_no>
+            <Segmented_S> 在/p  火炬/n  传递/vn  的/u  路线/n  上/f  ，/w  无数/m  的/u  华人/n  陪/v  跑/v  ，/w  保护/v  圣火/n  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">保护</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.9</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="几个藏独破坏分子被警方迅速制服。">
+            <S_no>第6段第6句标注</S_no>
+            <Segmented_S> 几/m  个/q  藏独/n  破坏/v  分子/n  被/p  警方/n  迅速/ad  制服/v  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">藏独</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.7">破坏</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">制服</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="旧金山的圣火传递四月九日下午胜利结束，正义的力量完全压倒了邪恶。">
+            <S_no>第6段第7句标注</S_no>
+            <Segmented_S> 旧金山/ns  的/u  圣火/n  传递/v  四月/t  九日/t  下午/t  胜利/v  结束/v  ，/w  正义/n  的/u  力量/n  完全/ad  压倒/v  了/u  邪恶/a  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">胜利</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">正义</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">邪恶</Keywords>
+            <degree_adv start="-1" position="24" modifier_word_position="26" modifier_word_length="2" end="-1">完全</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.9</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>维护 祖国统一</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="通过网络报道我还了解到，３月２９日下午，加拿大华人自发组织起来，从东岸到西岸，多伦多、温哥华、卡尔加里、蒙特利尔等城市都爆发了以“宣传西藏真相，反对暴力”为主题的和平活动。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>通过/p  网络/n  报道/v  我还/n  了解/v  到/v  ，/w  ３月/v  ２９日/n  下午/t  ，/w  加拿大/ns  华人/n  自发/d  组织/v  起来/v  ，/w  从/p  东岸/n  到/v  西岸/s  ，/w  多伦多/ns  、/w  温哥华/ns  、/w  卡尔加里/n  、/w  蒙特利尔/ns  等/u  城市/n  都/d  爆发/v  了/u  以/p  “/w  宣传/v  西藏/ns  真相/n  ，/w  反对/v  暴力/n  ”/w  为/v  主题/n  的/u  和平/a  活动/vn  。</Segmented_S>
+            <S_Length>86</S_Length>
+            <Keywords start="-1" position="60" end="-1" Surprise="0.5" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">爆发</Keywords>
+            <Keywords start="-1" position="65" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">宣传</Keywords>
+            <Keywords start="-1" position="72" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.5">反对</Keywords>
+            <Keywords start="-1" position="74" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">暴力</Keywords>
+            <Keywords start="-1" position="81" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">和平</Keywords>
+            <degree_adv start="-1" position="59" modifier_word_position="60" modifier_word_length="2" end="-1">都</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.3</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="他们不惧藏独分子闹场打人的威胁，在寒风中挥舞国旗，散发传单，反对不真实报导，反对藏独，维护祖国统一。">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 他们/r  不/d  惧/v  藏/j  独/a  分子/n  闹场/v  打/v  人/n  的/u  威胁/vn  ，/w  在/p  寒风/n  中/f  挥舞/v  国旗/n  ，/w  散发/v  传单/n  ，/w  反对/v  不/d  真实/a  报导/n  ，/w  反对/v  藏/j  独/a  ，/w  维护/v  祖国/n  统一/v  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">惧</Keywords>
+            <Keywords start="4" position="4" end="5" Surprise="0" Sorrow="0" POS="j" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">藏</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.7">闹场</Keywords>
+            <Keywords start="10" position="10" end="11" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.7">打</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0.6">威胁</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">挥舞</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.3">反对</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0.0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">真实</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.4">反对</Keywords>
+            <Keywords start="40" position="40" end="41" Surprise="0" Sorrow="0" POS="j" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">藏</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">维护</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">统一</Keywords>
+            <noword start="-1" position="2" modifier_word_position="3" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="32" modifier_word_position="33" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="他们在寒风中坚毅伫立的照片让我感动。">
+            <S_no>第7段第3句标注</S_no>
+            <Segmented_S> 他们/r  在/p  寒风/n  中/f  坚毅/a  伫立/v  的/u  照片/n  让/v  我/r  感动/v  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">坚毅</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">感动</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>中国必胜</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我国外的朋友们，伦敦的云丹，加拿大的徐哥，潘哥，王哥，在那些陪圣火跑动的人群中，在那些为反对不真实报导，维护祖国统一而在寒风中游行的人群中，有你们的身影吗？">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>我国/r  外/f  的/u  朋友/n  们/k  ，/w  伦敦/ns  的/u  云/n  丹/j  ，/w  加拿大/ns  的/u  徐/nr  哥/nr  ，/w  潘/nr  哥/nr  ，/w  王/nr  哥/nr  ，/w  在/p  那些/r  陪/v  圣火/n  跑动/n  的/u  人群中/n  ，/w  在/p  那些/r  为/p  反对/v  不/d  真实/a  报导/n  ，/w  维护/v  祖国/n  统一/v  而/c  在/p  寒风/n  中/f  游行/v  的/u  人群中/n  ，/w  有/v  你们/r  的/u  身影/n  吗/y  ？</Segmented_S>
+            <S_Length>78</S_Length>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">陪</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.5">反对</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">真实</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">维护</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">统一</Keywords>
+            <Keywords start="-1" position="76" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0.0" Anger="0">吗</Keywords>
+            <noword start="-1" position="46" modifier_word_position="47" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="我相信一定会有的！">
+            <S_no>第8段第2句标注</S_no>
+            <Segmented_S> 我/r  相信/v  一定/d  会/v  有的/r  ！</Segmented_S>
+            <S_Length>9</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">相信</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="不管你们走到哪里，不管我们相距多远，我相信在我们胸腔里跳动的，都是一颗鲜红的中国心；我们血管里流动的，都是一腔沸腾的炎黄血！">
+            <S_no>第8段第3句标注</S_no>
+            <Segmented_S> 不管/c  你们/r  走/v  到/v  哪里/r  ，/w  不管/c  我们/r  相距/v  多远/n  ，/w  我/r  相信/v  在/p  我们/r  胸腔/n  里/f  跳动/v  的/u  ，/w  都/d  是/v  一/m  颗/q  鲜红/z  的/u  中国/ns  心/n  ；/w  我们/r  血管/n  里/f  流动/v  的/u  ，/w  都/d  是/v  一/m  腔/q  沸腾/v  的/u  炎黄/j  血/n  ！</Segmented_S>
+            <S_Length>62</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">相信</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">沸腾</Keywords>
+            <degree_adv start="-1" position="31" modifier_word_position="32" modifier_word_length="9" end="-1">都</degree_adv>
+            <degree_adv start="-1" position="51" modifier_word_position="52" modifier_word_length="9" end="-1">都</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="6" end="-1">不管</E_conjunction>
+            <E_conjunction start="-1" position="9" next_position="0" modifier_word_position="11" modifier_word_length="6" end="-1">不管</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这话不仅仅是对你们说的，同样是对在全球的中华儿女说的，因为同一个梦想，因为同样的光荣与苦难，我们中华儿女的心，会更紧紧地联系在一起。">
+            <S_no>第8段第4句标注</S_no>
+            <Segmented_S> 这话/r  不仅仅/d  是/v  对/p  你们/r  说/v  的/u  ，/w  同样/d  是/v  对/p  在/p  全球/n  的/u  中华/nz  儿女/n  说/v  的/u  ，/w  因为/c  同一/b  个/q  梦想/n  ，/w  因为/c  同样/d  的/u  光荣/a  与/c  苦难/n  ，/w  我们/r  中华/nz  儿女/n  的/u  心/n  ，/w  会/v  更/d  紧紧/d  地/u  联系/v  在/p  一/m  起/q  。</Segmented_S>
+            <S_Length>66</S_Length>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">梦想</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">光荣</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">苦难</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">会</Keywords>
+            <degree_adv start="-1" position="56" modifier_word_position="57" modifier_word_length="8" end="-1">更</degree_adv>
+            <degree_adv start="-1" position="57" modifier_word_position="60" modifier_word_length="2" end="-1">紧紧</degree_adv>
+            <E_conjunction start="-1" position="27" next_position="27" modifier_word_position="29" modifier_word_length="5" end="-1">因为</E_conjunction>
+            <E_conjunction start="-1" position="35" next_position="27" modifier_word_position="37" modifier_word_length="7" end="-1">因为</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="在这２００８，奥运之年，让我们发出共同的心声：燃烧吧，圣火！">
+            <S_no>第8段第5句标注</S_no>
+            <Segmented_S> 在这/n  ２００８/v  ，/w  奥运/j  之年/n  ，/w  让/v  我们/r  发出/v  共同/b  的/u  心声/n  ：/w  燃烧/v  吧/y  ，/w  圣火/n  ！</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">让</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">心声</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0.0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">吧</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">圣火</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="挥舞吧，国旗！">
+            <S_no>第8段第6句标注</S_no>
+            <Segmented_S> 挥舞/v  吧/y  ，/w  国旗/n  ！</Segmented_S>
+            <S_Length>7</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">挥舞</Keywords>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">吧</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">国旗</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="高歌吧，国歌！">
+            <S_no>第8段第7句标注</S_no>
+            <Segmented_S> 高歌/v  吧/y  ，/w  国歌/n  ！</Segmented_S>
+            <S_Length>7</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">高歌</Keywords>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0" Joy="0.0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">吧</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">国歌</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="维护统一，反对分裂，保卫圣火！">
+            <S_no>第8段第8句标注</S_no>
+            <Segmented_S> 维护/v  统一/vn  ，/w  反对/v  分裂/v  ，/w  保卫/v  圣火/n  ！</Segmented_S>
+            <S_Length>15</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">维护</Keywords>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">统一</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">反对</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">分裂</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">保卫</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">圣火</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.9</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="奥运必胜！">
+            <S_no>第8段第9句标注</S_no>
+            <Segmented_S> 奥运/j  必胜/v  ！</Segmented_S>
+            <S_Length>5</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0.6" Anxiety="0" Anger="0">必胜</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="中国必胜！">
+            <S_no>第8段第10句标注</S_no>
+            <Segmented_S> 中国/ns  必胜/v  ！</Segmented_S>
+            <S_Length>5</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0.8" Anxiety="0" Anger="0">必胜</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+    </paragraph>
+</document>

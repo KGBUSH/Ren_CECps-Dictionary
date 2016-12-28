@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.5</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.7</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.3</Anger>
+    <Expect>0.0</Expect>
+    <Topic>迟到 疼爱 分不清尺寸</Topic>
+    <title T="孩子迟到，两种教育方法哪最好？">
+        <Segmented_S>孩子/n  迟到/v  ，/w  两/m  种/q  教育/vn  方法/n  哪/r  最/d  好/a  ？/w</Segmented_S>
+        <S_Length>15</S_Length>
+        <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">迟到</Keywords>
+        <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+        <degree_adv start="-1" position="12" modifier_word_position="13" modifier_word_length="1" end="-1">最</degree_adv>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <punctuation E_type="焦虑">？</punctuation>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="今天早上，俺上班去，路过一蒸饺王店，进去点了份拌面吃">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>今天/t  早上/t  ，/w  俺/r  上班/v  去/v  ，/w  路过/v  一/m  蒸饺/n  王/nr  店/nr  ，/w  进去/v  点/n  了/y  份/u  拌/v  面/n  吃/v</Segmented_S>
+            <S_Length>26</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>迟到</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="刚吃了两口，一个妇女带着个男孩子进来，男孩子说不吃了，快迟到了。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>刚/d  吃/v  了/u  两/m  口/q  ，/w  一个/m  妇女/n  带/v  着/u  个/q  男/b  孩子/n  进来/v  ，/w  男/b  孩子/n  说/v  不/d  吃/v  了/u  ，/w  快/d  迟到/v  了/u  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">迟到</Keywords>
+            <noword start="-1" position="23" modifier_word_position="24" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那妇女看看表，说，这大冷天的，不吃点东西咋行？">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 那/r  妇女/n  看看/v  表/n  ，/w  说/v  ，/w  这/r  大/d  冷天/v  的/u  ，/w  不/d  吃/v  点/q  东西/n  咋/r  行/v  ？</Segmented_S>
+            <S_Length>23</S_Length>
+            <noword start="-1" position="15" modifier_word_position="16" modifier_word_length="1" end="-1">不</noword>
+            <E_phrase start="0" position="20" end="0" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">咋</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="迟到就迟到呗，再怎么着，也不能饿着自己、冻着自己啊。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 迟到/v  就/d  迟到/v  呗/n  ，/w  再/d  怎么/r  着/u  ，/w  也/d  不/d  能/v  饿/v  着/u  自己/r  、/w  冻/v  着/u  自己/r  啊/y  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">迟到</Keywords>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">迟到</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">呗</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">怎么</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">饿</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">冻</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">啊</Keywords>
+            <noword start="13" position="13" modifier_word_position="15" modifier_word_length="9" end="14">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>吃早餐 疼爱孩子</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我吃了愣想，这妇女还真疼爱孩子，是啊，一大早的，孩子空着肚子去上课，天气这么冷，不吃点东西暖和暖和下，咋行？">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>我/r  吃/v  了/u  愣/n  想/v  ，/w  这/r  妇女/n  还/d  真/d  疼爱/v  孩子/n  ，/w  是/v  啊/y  ，/w  一大早/d  的/u  ，/w  孩子/n  空/v  着/u  肚子/n  去/v  上课/v  ，/w  天气/n  这么/r  冷/a  ，/w  不/d  吃/v  点/q  东西/n  暖和/v  暖和/n  下/f  ，/w  咋/r  行/v  ？</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">疼爱</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="y" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">啊</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">冷</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">暖和</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">暖和</Keywords>
+            <degree_adv start="-1" position="10" modifier_word_position="11" modifier_word_length="2" end="-1">真</degree_adv>
+            <degree_adv start="-1" position="36" modifier_word_position="38" modifier_word_length="1" end="-1">这么</degree_adv>
+            <noword start="-1" position="40" modifier_word_position="41" modifier_word_length="1" end="-1">不</noword>
+            <E_phrase start="51" position="51" end="52" Surprise="0" Sorrow="0" POS="r" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">咋</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">我</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="早上吃早餐，对孩子的发育有利无害，要是不吃，不饿坏了？">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 早/ad  上/v  吃/v  早餐/n  ，/w  对/p  孩子/n  的/u  发育/vn  有利/a  无害/v  ，/w  要/v  是/v  不/d  吃/v  ，/w  不/d  饿/v  坏/a  了/u  ？</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">有利</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">无害</Keywords>
+            <noword start="-1" position="19" modifier_word_position="20" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="22" modifier_word_position="23" modifier_word_length="2" end="-1">不</noword>
+            <E_phrase start="24" position="23" end="25" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">饿</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>迟到 不吃</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="恰恰在这时，店门口又有个妇女，领着两个孩子，在急速地跑过。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>恰恰/d  在/v  这时/r  ，/w  店门口/v  又/d  有/v  个/q  妇女/n  ，/w  领/v  着/u  两/m  个/q  孩子/n  ，/w  在/p  急速/n  地/u  跑/v  过/u  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">急速</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="12" end="-1">妇女</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那妇女边跑边吆喝她的两个孩子，快跑，要迟到了，今天就不吃一餐早餐。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 那/r  妇女/n  边/d  跑/v  边/n  吆喝/v  她/r  的/u  两/m  个/q  孩子/n  ，/w  快/d  跑/v  ，/w  要/v  迟到/v  了/u  ，/w  今天/t  就/p  不/d  吃/v  一餐/n  早餐/v  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">吆喝</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">迟到</Keywords>
+            <noword start="-1" position="26" modifier_word_position="27" modifier_word_length="1" end="-1">不</noword>
+            <E_phrase start="15" position="15" end="16" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">快</E_phrase>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="1" end="-1">妇女</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.3</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>严管孩子 守时守规</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我一听，又愣想了，这妇女还真严管孩子哪。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>我/r  一听/v  ，/w  又/c  愣/v  想/v  了/u  ，/w  这/r  妇女/n  还/d  真/d  严管/a  孩子/n  哪/r  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">严管</Keywords>
+            <degree_adv start="-1" position="13" modifier_word_position="14" modifier_word_length="2" end="-1">真</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">我</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="打这么小，就教会守时守规，哪怕是迟到一两分钟，都马虎不得。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 打/v  这么/r  小/a  ，/w  就/d  教会/v  守/v  时/Ng  守/v  规/n  ，/w  哪怕/c  是/v  迟到/v  一两/m  分钟/q  ，/w  都/d  马虎/a  不得/v  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">迟到</Keywords>
+            <E_phrase start="8" position="8" end="11" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">守</E_phrase>
+            <E_phrase start="24" position="24" end="27" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">马虎</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="虽然只是一次早餐不吃而已，但孩子改天就会知道起早点，才能即不迟到，也能吃到早餐，长大后，自然就晓得严行令止、安分守己了。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 虽然/c  只/d  是/v  一/m  次/q  早餐/n  不/d  吃/v  而已/n  ，/w  但/c  孩子/n  改天/d  就/p  会/v  知道/v  起/v  早/a  点/q  ，/w  才/c  能/v  即/d  不/d  迟到/v  ，/w  也/d  能/v  吃/v  到/v  早餐/n  ，/w  长大/v  后/f  ，/w  自然/d  就/d  晓得/v  严/a  行令/n  止/v  、/w  安分守己/n  了/y  。</Segmented_S>
+            <S_Length>60</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">知道</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">迟到</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">晓得</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">安分守己</Keywords>
+            <noword start="-1" position="8" modifier_word_position="9" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="29" modifier_word_position="30" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="0" next_position="13" modifier_word_position="2" modifier_word_length="10" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="13" next_position="0" modifier_word_position="14" modifier_word_length="45" end="-1">但</E_conjunction>
+            <E_conjunction start="-1" position="26" next_position="0" modifier_word_position="27" modifier_word_length="5" end="-1">才</E_conjunction>
+            <E_phrase start="49" position="49" end="52" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">严</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>分不清尺寸 疼爱 </Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="前头那妇女，只知道疼爱自己的孩子，太疼爱了，分不清尺寸了。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>前头/f  那/r  妇女/n  ，/w  只/d  知道/v  疼爱/v  自己/r  的/u  孩子/n  ，/w  太/d  疼爱/a  了/y  ，/w  分/v  不/d  清/a  尺寸/n  了/y  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">疼爱</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">疼爱</Keywords>
+            <degree_adv start="-1" position="17" modifier_word_position="18" modifier_word_length="2" end="-1">太</degree_adv>
+            <noword start="22" position="22" modifier_word_position="25" modifier_word_length="2" end="24">分</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="她的孩子长期这样教导下去，一到危急关头，一定只顾自己的安危利益，变成个自私自利的卑琐小人。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 她/r  的/u  孩子/n  长期/d  这样/r  教导/v  下去/v  ，/w  一到/v  危急/a  关头/n  ，/w  一定/d  只顾/v  自己/r  的/u  安危/n  利益/n  ，/w  变成/v  个/q  自私自利/n  的/u  卑琐/n  小人/v  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="15" position="15" end="18" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">危急</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.0" Anger="0.7">只顾</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">自私自利</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">卑琐</Keywords>
+            <degree_adv start="-1" position="20" modifier_word_position="22" modifier_word_length="2" end="-1">一定</degree_adv>
+            <E_phrase start="0" position="27" end="0" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">安危</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

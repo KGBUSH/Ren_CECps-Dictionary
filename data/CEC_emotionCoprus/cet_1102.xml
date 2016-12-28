@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <title T="西红柿">
+        <Segmented_S>西/j  红柿/j</Segmented_S>
+        <S_Length>3</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="睡觉前有点儿饿，又不愿吃点心，怕肥，忽然发现菜筐里有西红柿，随即洗了两个，切开撒上白糖，吃得愉快。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>睡觉/v  前/f  有/v  点儿/n  饿/v  ，/w  又/c  不/d  愿/v  吃/v  点心/n  ，/w  怕/v  肥/a  ，/w  忽然/d  发现/v  菜筐里有西红柿/n  ，/w  随即/d  洗/v  了/u  两/m  个/q  ，/w  切开/v  撒/v  上/v  白糖/n  ，/w  吃/v  得/u  愉快/a  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.2" Anger="0">饿</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">愿</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">怕</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">愉快</Keywords>
+            <noword start="-1" position="9" modifier_word_position="10" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>西红柿</Topic>
+        <Summarize_Sentences>4</Summarize_Sentences>
+        <sentence S="我们这一代人对西红柿大都有感情，没感情的也有深刻记忆。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>我们/r  这/r  一/m  代/q  人/n  对/p  西红柿/n  大都/d  有/v  感情/n  ，/w  没/d  感情/n  的/u  也/d  有/v  深刻/a  记忆/n  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">深刻</Keywords>
+            <noword start="-1" position="16" modifier_word_position="17" modifier_word_length="2" end="-1">没</noword>
+            <E_phrase start="12" position="12" end="14" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">有</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="小时候，水果很贵，西红柿便宜，最便宜的时候一分钱一斤，几毛钱可买一大筐。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 小时候/t  ，/w  水果/n  很/d  贵/a  ，/w  西红柿/n  便宜/v  ，/w  最/d  便宜/a  的/u  时候/n  一/m  分/q  钱/n  一/m  斤/q  ，/w  几/m  毛/q  钱/n  可/v  买/v  一/m  大/a  筐/n  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">贵</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">便宜</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">便宜</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="7" modifier_word_length="1" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="15" modifier_word_position="16" modifier_word_length="2" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我记得一到西红柿下来，父亲就忙着做西红柿酱，窗台上一溜葡萄糖瓶子装得满满的。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 我/r  记得/v  一/m  到/p  西红柿/n  下/f  来/v  ，/w  父亲/n  就/d  忙/v  着/u  做/v  西红柿/n  酱/v  ，/w  窗台/n  上/f  一溜/v  葡萄糖/n  瓶子/v  装得/n  满满/d  的/u  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">忙</Keywords>
+            <E_phrase start="34" position="34" end="36" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">满满</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="西红柿在担当蔬菜这个主角时，还担当了水果这个配角。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 西红柿/n  在/p  担当/v  蔬菜/n  这个/r  主角/n  时/Ng  ，/w  还/d  担当/v  了/u  水果/n  这个/r  配角/n  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">主角</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">配角</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>西红柿</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我家住军队大院，大院内只种花草，没有菜地；可院外有菜地，黄瓜、扁豆、西红柿整齐划分，一目了然。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>我家/r  住/v  军队/n  大院/n  ，/w  大院/n  内/f  只/d  种花草/v  ，/w  没有/v  菜地/n  ；/w  可/v  院外/v  有/v  菜地/n  ，/w  黄瓜/n  、/w  扁豆/n  、/w  西红柿/n  整齐/a  划分/v  ，/w  一目了然/i  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">整齐</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">一目了然</Keywords>
+            <noword start="-1" position="16" modifier_word_position="18" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我们几个孩子最愿在西红柿地旁边溜溜达达，趁看菜园的老农不留神时，摘下几个西红柿就跑。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 我们/r  几/m  个/q  孩子/n  最/d  愿/v  在/p  西红柿/n  地/u  旁边/v  溜溜达达/f  ，/w  趁/p  看/v  菜园/n  的/u  老农/n  不/d  留神/v  时/Ng  ，/w  摘下/v  几/m  个/q  西红柿/n  就/d  跑/v  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">愿</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="7" modifier_word_length="1" end="-1">最</degree_adv>
+            <noword start="-1" position="27" modifier_word_position="28" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="每次得手后都会高兴地唱歌，享受成果。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 每次/r  得手/v  后/f  都/d  会/v  高兴/a  地/u  唱歌/v  ，/w  享受/v  成果/n  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">高兴</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">唱歌</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">享受</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">成果</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="后来，去农村插队，劳动休息时坐在地头上，由队长允许，一人捧一个大西红柿解渴又解馋，今天想起来，口水还流了一嘴。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>后来/t  ，/w  去/v  农村/n  插队/n  ，/w  劳动/vn  休息/vn  时/Ng  坐/v  在/p  地头/s  上/f  ，/w  由/p  队长/n  允许/v  ，/w  一/m  人/n  捧/v  一个/m  大/a  西红柿/n  解渴/v  又/d  解馋/v  ，/w  今天/t  想/v  起来/v  ，/w  口水/n  还/d  流/v  了/u  一/m  嘴/n  。</Segmented_S>
+            <S_Length>55</S_Length>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">解渴</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">解馋</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>西红柿吃法</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="西红柿吃的方法不多，大名鼎鼎的有西红柿炒鸡蛋，会做一个菜的人恐怕就会这道菜。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>西红柿/n  吃/v  的/u  方法/n  不/d  多/a  ，/w  大名鼎鼎/i  的/u  有/v  西红柿/n  炒鸡蛋/v  ，/w  会/v  做/v  一个/m  菜/n  的/u  人/n  恐怕/d  就/d  会/v  这/r  道/q  菜/n  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大名鼎鼎</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.2" Anger="0">恐怕</Keywords>
+            <noword start="-1" position="7" modifier_word_position="8" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="其实做这道菜先放西红柿还是先放鸡蛋大有学问，一般人我不告诉他。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 其实/d  做/v  这/r  道/q  菜/n  先/d  放/v  西红柿/n  还是/d  先/d  放/v  鸡蛋/n  大/a  有/v  学问/n  ，/w  一般/ad  人/n  我不/v  告诉/v  他/r  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <noword start="26" position="25" modifier_word_position="27" modifier_word_length="2" end="26">我不</noword>
+            <E_phrase start="17" position="17" end="20" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我可以说的是糖拌西红柿，想好吃有两点，一是要冰镇，二是用手撕，不动刀。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 我/r  可以/v  说/v  的/u  是/v  糖/n  拌/v  西红柿/n  ，/w  想好/v  吃/v  有/v  两/m  点/q  ，/w  一/m  是/v  要/v  冰镇/v  ，/w  二/m  是/v  用/p  手/n  撕/v  ，/w  不/d  动/v  刀/n  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>缺陷</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="今天生活好了，吃个西红柿就感慨良多，早年吃啥也没想过。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>今天/t  生活/vn  好/a  了/y  ，/w  吃/v  个/q  西红柿/n  就/d  感慨/v  良多/z  ，/w  早年/t  吃/v  啥/r  也/d  没/d  想过/v  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="z" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">良多</Keywords>
+            <noword start="-1" position="23" modifier_word_position="24" modifier_word_length="2" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="但仔细一想，还有缺陷，西红柿吃得愉快，但不知其价是高于水果还是低于水果？">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 但/c  仔/Ng  细/ad  一想/v  ，/w  还有/v  缺陷/n  ，/w  西红柿/n  吃/v  得/u  愉/i  快/d  ，/w  但/c  不知/v  其/r  价/n  是/v  高于/v  水果/n  还是/c  低于/v  水果/n  ？</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.0" Expect="0" Anxiety="0.4" Anger="0">缺陷</Keywords>
+            <E_conjunction start="-1" position="19" next_position="19" modifier_word_position="20" modifier_word_length="15" end="-1">但</E_conjunction>
+            <E_phrase start="16" position="16" end="17" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">愉</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

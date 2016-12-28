@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.6</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.6</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.7</Expect>
+    <Topic>过年</Topic>
+    <title T="年三十">
+        <Segmented_S>年/n  三十/m</Segmented_S>
+        <S_Length>3</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="今天开始过年，比往年提前一天，显得比较人情味。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>今天/t  开始/v  过年/v  ，/w  比/p  往年/t  提前/v  一/m  天/q  ，/w  显得/v  比较/d  人情味/a  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">人情味</Keywords>
+            <degree_adv start="-1" position="17" modifier_word_position="19" modifier_word_length="3" end="-1">比较</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="过去年三十都还在忙，记得我曾在２０多年前写过一篇小说，就是描写一个人在年三十还在为生活奔波，所描绘的都是真人真事，今天想起来还有几分酸楚。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 过去/t  年三十/v  都/d  还/d  在/p  忙/v  ，/w  记得/v  我曾/n  在/p  ２０/n  多/a  年/q  前/f  写/v  过/u  一/m  篇/q  小说/n  ，/w  就/d  是/v  描写/v  一个/m  人/n  在年/v  三十/m  还/d  在为/v  生活/vn  奔波/v  ，/w  所/u  描绘/v  的/u  都/d  是/v  真/a  人/n  真事/v  ，/w  今天/t  想/v  起来/v  还有/v  几/m  分/q  酸楚/n  。</Segmented_S>
+            <S_Length>69</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">忙</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">奔波</Keywords>
+            <Keywords start="-1" position="66" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">酸楚</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>文化的作用</Topic>
+        <Summarize_Sentences>4</Summarize_Sentences>
+        <sentence S="这些年百姓的生活好了许多，虽然年味儿淡了，但过年的质量提高了不少，吃喝对大部分人已不再是发愁的事；所以过去吃的乐趣消失了，由此显得年味儿不足。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>这些年/n  百姓/n  的/u  生活/vn  好/a  了/y  许多/u  ，/w  虽然/c  年/q  味儿/n  淡/a  了/y  ，/w  但/c  过年/v  的/u  质量/n  提高/v  了/u  不/d  少/a  ，/w  吃喝/v  对/p  大部分/m  人/n  已/d  不再/d  是/v  发愁/v  的/u  事/n  ；/w  所以/c  过去/t  吃/v  的/u  乐趣/n  消失/v  了/y  ，/w  由此/d  显得/v  年味儿/i  不足/v  。</Segmented_S>
+            <S_Length>71</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">提高</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">发愁</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">乐趣</Keywords>
+            <degree_adv start="-1" position="10" modifier_word_position="8" modifier_word_length="1" end="-1">许多</degree_adv>
+            <degree_adv start="30" position="30" modifier_word_position="27" modifier_word_length="2" end="31">不</degree_adv>
+            <noword start="-1" position="41" modifier_word_position="44" modifier_word_length="2" end="-1">不再</noword>
+            <noword start="-1" position="57" modifier_word_position="55" modifier_word_length="2" end="-1">消失</noword>
+            <E_conjunction start="-1" position="13" next_position="21" modifier_word_position="15" modifier_word_length="5" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="21" next_position="13" modifier_word_position="22" modifier_word_length="10" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.2</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="好在又允许放爆竹了，爆竹声中最能传递过年的信息了，这让过年又像过年了。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 好在/d  又/d  允许/v  放/v  爆竹/n  了/y  ，/w  爆竹声/v  中/f  最/d  能/v  传递/v  过年/v  的/u  信息/n  了/y  ，/w  这/r  让/v  过年/v  又/d  像/v  过年/v  了/y  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">好在</Keywords>
+            <degree_adv start="-1" position="14" modifier_word_position="15" modifier_word_length="1" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="爆竹是中华民族传统文化，可见文化的作用多大。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 爆竹/n  是/v  中华/nz  民族/n  传统/a  文化/n  ，/w  可见/c  文化/n  的/u  作用/n  多/a  大/a  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <E_phrase start="3" position="3" end="10" Surprise="0" Sorrow="0" POS="nz" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">中华</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="文化就是这样，你远离它就知它的重要性，你身在其中常常会漫不经心，有时还会烦它。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 文化/n  就/d  是/v  这样/r  ，/w  你/r  远离/v  它/r  就/d  知/v  它/r  的/u  重要性/n  ，/w  你/r  身/Ng  在/v  其中/r  常常/d  会/v  漫不经心/v  ，/w  有时/d  还/d  会/v  烦/v  它/r  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>中国的未来</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="农历戊子鼠年即将过去，己丑牛年马上到来。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>农历/n  戊子/n  鼠年/v  即将/d  过去/v  ，/w  己丑/v  牛年/n  马上/d  到来/v  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">到来</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="今年中华人民共和国建国６０周年，大庆，所以就要阅兵，让世界人民看看中国的变化。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 今年/t  中华人民共和国/ns  建国/v  ６０/n  周年/v  ，/w  大庆/ns  ，/w  所以/c  就要/d  阅兵/v  ，/w  让/v  世界/n  人民/n  看看/v  中国/ns  的/u  变化/vn  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="ns" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">大庆</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="报载２００８年国民生产总值超过３０，０００，０００，０００，０００人民币，每个中国人人均创造２３，０００元，这是一个了不起的数字，再有６０年，中国会成为什么样子，我们还不敢设想，但我们清楚照此发展下去，中国会在那时成为世界第一强国。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 报载/v  ２００８年/n  国民/n  生产/vn  总值/n  超过/v  ３０/m  ，/w  ０００/v  ，/w  ０００/v  ，/w  ０００/v  ，/w  ０００/v  人民币/n  ，/w  每个/r  中国/ns  人人/n  均/d  创造/v  ２３/n  ，/w  ０００/v  元/q  ，/w  这/r  是/v  一个/m  了不起/a  的/u  数字/n  ，/w  再有/c  ６０/v  年/q  ，/w  中国/ns  会/v  成/v  为什么/r  样子/n  ，/w  我们/r  还/d  不/d  敢/v  设想/v  ，/w  但/c  我们/r  清楚/a  照此/v  发展/v  下去/v  ，/w  中国/ns  会/v  在/p  那时/r  成为/v  世界/n  第一/m  强国/n  。</Segmented_S>
+            <S_Length>116</S_Length>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">了不起</Keywords>
+            <Keywords start="-1" position="86" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">设想</Keywords>
+            <Keywords start="-1" position="111" end="-1" Surprise="0" Sorrow="0" POS="m" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">第一</Keywords>
+            <Keywords start="-1" position="113" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">强国</Keywords>
+            <noword start="84" position="84" modifier_word_position="86" modifier_word_length="2" end="85">不</noword>
+            <E_conjunction start="-1" position="89" next_position="89" modifier_word_position="90" modifier_word_length="25" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>拜年</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="新年照例给大家拜年：牛在中国传统文化中是踏实肯干的形象，憨厚并无斗志；斗牛则为欧美文化，进入中国后水土不服，所以牛市老不牛。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>新年/t  照例/d  给/v  大家/r  拜年/v  ：/w  牛/n  在/p  中国/ns  传统/a  文化/n  中/f  是/v  踏实/a  肯/v  干/v  的/u  形象/n  ，/w  憨厚/a  并无/n  斗志/n  ；/w  斗牛/n  则/d  为/v  欧/j  美/j  文化/n  ，/w  进入/v  中国/ns  后/f  水土不服/v  ，/w  所以/c  牛市/n  老/a  不/d  牛/v  。</Segmented_S>
+            <S_Length>62</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">踏实</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">憨厚</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0.3" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">水土不服</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">牛市</Keywords>
+            <noword start="-1" position="30" modifier_word_position="32" modifier_word_length="2" end="-1">并无</noword>
+            <noword start="-1" position="59" modifier_word_position="60" modifier_word_length="1" end="-1">不</noword>
+            <E_conjunction start="-1" position="54" next_position="54" modifier_word_position="56" modifier_word_length="5" end="-1">所以</E_conjunction>
+            <E_phrase start="22" position="22" end="23" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">肯</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="时逢己丑，未都拱手长揖，祝各位牛年安康，如意吉祥！">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 时/Ng  逢/v  己/r  丑/a  ，/w  未/d  都/d  拱手/v  长揖/n  ，/w  祝/nr  各位/nr  牛/n  年/n  安康/q  ，/w  如意/nz  吉祥/n  ！</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="nr" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">祝</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="q" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">安康</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="nz" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">如意</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">吉祥</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.3</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="另，我的《瓷之色》从初一到初七分七段登在博客上，为大家春节期间消遣。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>另/d  ，/w  我的/v  《/w  瓷/n  之/u  色/n  》/w  从/p  初一/n  到/v  初七/n  分/v  七/m  段/q  登/v  在/p  博客/n  上/f  ，/w  为/p  大家/r  春节/t  期间/f  消遣/v  。</Segmented_S>
+            <S_Length>34</S_Length>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">消遣</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.3</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+</document>

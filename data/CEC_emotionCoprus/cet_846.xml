@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.6</Love>
+    <Sorrow>0.6</Sorrow>
+    <Anxiety>0.7</Anxiety>
+    <Surprise>0.6</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.8</Expect>
+    <Topic>不受欢迎 布什 和平</Topic>
+    <title T="布什：最不受欢迎的美国总统">
+        <Segmented_S>布什/nr  ：/w  最/d  不/d  受/v  欢迎/vn  的/u  美国/ns  总统/n</Segmented_S>
+        <S_Length>13</S_Length>
+        <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">欢迎</Keywords>
+        <degree_adv start="-1" position="3" modifier_word_position="4" modifier_word_length="1" end="-1">最</degree_adv>
+        <noword start="-1" position="4" modifier_word_position="5" modifier_word_length="3" end="-1">不</noword>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.5</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>尴尬 总统布什 最不受欢迎</Topic>
+        <Summarize_Sentences>5</Summarize_Sentences>
+        <sentence S="１２月１４日，美国总统布什访问伊拉克，并与伊拉克总理马利基签署了美国驻军协议和两国间战略框架协议。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>１２月/n  １４日/v  ，/w  美国/ns  总统/n  布什/nr  访问/v  伊拉克/ns  ，/w  并/c  与/p  伊拉克/ns  总理/n  马/nr  利基/nr  签署/v  了/u  美国/ns  驻军/n  协议/n  和/c  两/m  国/n  间/f  战略/n  框架/n  协议/n  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="记者会上，布什说：“我们还有很多事情需要做。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 记者会/n  上/f  ，/w  布什/nr  说/v  ：/w  “/w  我们/r  还有/v  很多/m  事情/n  需要/v  做/v  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">需要</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="5" end="-1">布什</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.3</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这场战争没有结束。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 这/r  场/q  战争/n  没有/d  结束/v  。</Segmented_S>
+            <S_Length>9</S_Length>
+            <noword start="-1" position="4" modifier_word_position="6" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”一名伊拉克记者突然用两只鞋袭击了布什。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> ”/w  一/m  名/q  伊拉克/ns  记者/n  突然/ad  用/v  两/m  只/q  鞋/n  袭击/v  了/u  布什/nr  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0.4" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">突然</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">袭击</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.6</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这一尴尬，恰好诠释了他自己的预测：他可能成为美国总统史上最不受欢迎的总统之一。">
+            <S_no>第1段第5句标注</S_no>
+            <Segmented_S> 这/r  一/m  尴尬/a  ，/w  恰好/d  诠释/v  了/u  他/r  自己/r  的/u  预测/vn  ：/w  他/r  可能/v  成为/v  美国/ns  总统/n  史/nr  上/f  最/d  不/d  受/v  欢迎/vn  的/u  总统/n  之一/r  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">尴尬</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">欢迎</Keywords>
+            <degree_adv start="-1" position="28" modifier_word_position="29" modifier_word_length="4" end="-1">最</degree_adv>
+            <noword start="-1" position="29" modifier_word_position="30" modifier_word_length="3" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>遗憾 布什 伊拉克战争</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="布什在接受英国《世界新闻报》记者查尔斯&#183;吉布森的采访时称，自己最大的遗憾就是轻信了萨达姆拥有大规模杀伤性武器的情报，在没做好准备的情况下轻率地发动了伊拉克战争。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>布什/nr  在/p  接受/v  英国/ns  《/w  世界/n  新闻/n  报/n  》/w  记者/n  查尔斯&#183;吉布森/nr  的/u  采访/vn  时/Ng  称/v  ，/w  自己/r  最/d  大/a  的/u  遗憾/a  就/d  是/v  轻信/v  了/u  萨达姆/n  拥有/v  大规模/b  杀伤性/n  武器/n  的/u  情报/n  ，/w  在/p  没/d  做好/v  准备/vn  的/u  情况下/n  轻率/a  地/u  发动/v  了/u  伊拉克/ns  战争/n  。</Segmented_S>
+            <S_Length>80</S_Length>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.0" Anger="0">遗憾</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">轻信</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">拥有</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">做好</Keywords>
+            <Keywords start="-1" position="68" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">轻率</Keywords>
+            <degree_adv start="-1" position="31" modifier_word_position="32" modifier_word_length="1" end="-1">最</degree_adv>
+            <noword start="-1" position="59" modifier_word_position="60" modifier_word_length="2" end="-1">没</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">布什</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="另外，布什在接受一家阿拉伯电视台采访时首次承认，自己对伊拉克阿布格莱布监狱虐俘事件负有部分责任。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 另外/c  ，/w  布什/nr  在/p  接受/v  一家/n  阿拉伯/ns  电视台/n  采访/v  时/Ng  首次/m  承认/v  ，/w  自己/r  对/p  伊拉克/ns  阿布格莱布/n  监狱/n  虐/n  俘/Ng  事件/n  负有/v  部分/m  责任/n  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">虐</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">负有</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="44" end="-1">另外</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="3" end="-1">布什</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.8</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.5</Expect>
+        <Topic>艰苦 伊拉克战争 理由</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="根据《美国驻军协议》，美国将在明年上半年撤出伊拉克城镇，并于２０１２年之前从伊拉克全部撤军。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>根据/p  《/w  美国/ns  驻军/n  协议/n  》/w  ，/w  美国/ns  将/d  在/p  明年/t  上半年/t  撤出/v  伊拉克/ns  城镇/n  ，/w  并/c  于/p  ２０１２年/n  之/u  前/f  从/p  伊拉克/ns  全部/m  撤军/v  。</Segmented_S>
+            <S_Length>46</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="对这场战争，布什的辩辩解理由是：伊拉克战争进行得很艰苦，但战争对美国国家安全、伊拉克的未来和世界和平是必须的。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 对/p  这/r  场/q  战争/n  ，/w  布什/nr  的/u  辩/n  辩解/v  理由/n  是/v  ：/w  伊拉克/ns  战争/n  进行/v  得/u  很/d  艰苦/a  ，/w  但/c  战争/n  对/p  美国/ns  国家/n  安全/an  、/w  伊拉克/ns  的/u  未来/t  和/c  世界/n  和平/a  是/v  必须/d  的/u  。</Segmented_S>
+            <S_Length>55</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">辩解</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">艰苦</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="an" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">安全</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">和平</Keywords>
+            <degree_adv start="-1" position="24" modifier_word_position="25" modifier_word_length="2" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="28" next_position="28" modifier_word_position="29" modifier_word_length="25" end="-1">但</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="6" end="-1">布什</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.9</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>非法的战争 伊拉克 借口</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="美国打着萨达姆拥有大规模的杀伤性武器的借口，在联合国没有授权的情况下，悍然攻打了一个主权国家。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>美国/ns  打/v  着/u  萨达姆/n  拥有/v  大规模/b  的/u  杀伤性/n  武器/n  的/u  借口/n  ，/w  在/p  联合国/nt  没有/v  授权/v  的/u  情况/n  下/f  ，/w  悍然/d  攻打/v  了/u  一个/m  主权/n  国家/n  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">借口</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">悍然</Keywords>
+            <noword start="-1" position="26" modifier_word_position="28" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一仗下来，结果证明：伊拉克战争，是一场彻头彻尾的侵略战争，美国不是反恐，而是在制造恐怖，是为了控制伊拉克石油，是控制整个中东，毫无疑团是一场非法的战争。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 一仗/n  下来/v  ，/w  结果/n  证明/v  ：/w  伊拉克/ns  战争/n  ，/w  是/v  一/m  场/q  彻头彻尾/n  的/u  侵略/vn  战争/n  ，/w  美国/ns  不/d  是/v  反/v  恐/n  ，/w  而是/c  在/p  制造/v  恐怖/a  ，/w  是/v  为了/p  控制/v  伊拉克/ns  石油/n  ，/w  是/v  控制/v  整个/b  中东/ns  ，/w  毫无/v  疑团/n  是/v  一/m  场/q  非法/b  的/u  战争/n  。</Segmented_S>
+            <S_Length>76</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">彻头彻尾</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">侵略</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">恐怖</Keywords>
+            <Keywords start="-1" position="70" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">非法</Keywords>
+            <E_conjunction start="31" position="31" next_position="36" modifier_word_position="33" modifier_word_length="2" end="32">不</E_conjunction>
+            <E_conjunction start="-1" position="36" next_position="31" modifier_word_position="38" modifier_word_length="24" end="-1">而是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.8</Sorrow>
+        <Anxiety>0.8</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>不可收拾 伊拉克战争 动荡不安</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="随着战争硝烟渐渐散去，萨达姆被绞刑，伊拉克局势并没有按着布什的愿望发展，而是越来越让他头疼得不可收拾。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>随着/p  战争/n  硝烟/n  渐渐/d  散/v  去/v  ，/w  萨达姆/v  被/p  绞刑/v  ，/w  伊拉克/ns  局势/n  并/c  没有/v  按着/n  布什/nr  的/u  愿望/n  发展/v  ，/w  而是/c  越来越/d  让/v  他/r  头疼/a  得/u  不可收拾/i  。</Segmented_S>
+            <S_Length>51</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0.4" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">绞刑</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">愿望</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0.7" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">头疼</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">不可收拾</Keywords>
+            <noword start="-1" position="24" modifier_word_position="26" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="-1" position="36" next_position="36" modifier_word_position="38" modifier_word_length="12" end="-1">而是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.8</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="伊拉克局势动荡不安，经济发展缓慢，失业人口庞大，居民生命安全和日常生活得不到有效保障。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 伊拉克/ns  局势/n  动荡不安/l  ，/w  经济/n  发展/vn  缓慢/a  ，/w  失业/vn  人口/n  庞大/a  ，/w  居民/n  生命/n  安全/a  和/c  日常/b  生活/vn  得/u  不/d  到/v  有效/a  保障/vn  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.9" Anger="0">动荡不安</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0.7" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">失业</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">有效</Keywords>
+            <noword start="35" position="35" modifier_word_position="38" modifier_word_length="4" end="37">得</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="美国１６万占领军介入伊拉克内战，深陷比越战更难以自拔的泥淖。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 美国/ns  １６万/n  占领军/v  介入/n  伊拉克/v  内战/n  ，/w  深陷/v  比/p  越战/j  更/d  难以/d  自拔/v  的/u  泥淖/n  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">深陷</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">泥淖</Keywords>
+            <degree_adv start="-1" position="21" modifier_word_position="0" modifier_word_length="1" end="-1">更</degree_adv>
+            <E_phrase start="22" position="22" end="25" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">难以</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="美军阵亡人数于２００８年已突破４２００人大关，超过了９．１１恐怖袭击的死亡人数；三万多人受伤，许多人留下残疾，导致家庭破裂等悲剧。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 美军/n  阵亡/vn  人数/n  于/p  ２００８年/n  已/d  突破/v  ４２００/m  人/n  大/a  关/n  ，/w  超过/v  了/u  ９．１/n  １/v  恐怖袭击/n  的/u  死亡/vn  人数/n  ；/w  三万/m  多/m  人/n  受伤/v  ，/w  许多/m  人/n  留下/v  残疾/n  ，/w  导致/v  家庭/n  破裂/v  等/u  悲剧/n  。</Segmented_S>
+            <S_Length>65</S_Length>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">恐怖袭击</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0.6" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">死亡</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">受伤</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">残疾</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">破裂</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悲剧</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="直接军费支出６０００亿美元，这个数值正在直追美国在越南战争的总战争费用６６３０亿美元。">
+            <S_no>第5段第5句标注</S_no>
+            <Segmented_S> 直接/ad  军费/v  支出/n  ６０００亿/v  美元/n  ，/w  这个/r  数值/n  正在/d  直追/v  美国/ns  在/p  越南/ns  战争/n  的/u  总/b  战争/n  费用/n  ６６３０亿/n  美元/v  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="同时，这场战争造成了６０多万平民的死亡，几百万人民的流离失所，无家可归。">
+            <S_no>第5段第6句标注</S_no>
+            <Segmented_S> 同时/c  ，/w  这/r  场/q  战争/n  造成/v  了/u  ６０/n  多/a  万/m  平民/n  的/u  死亡/vn  ，/w  几百万/m  人民/n  的/u  流离失所/i  ，/w  无家可归/i  。</Segmented_S>
+            <S_Length>36</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0.7" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">死亡</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0.8" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">流离失所</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">无家可归</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="32" end="-1">同时</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.9</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>所料不及 伊拉克战争 金融危机</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="伊拉克战争对经济的影响主要体现在：国际石油价格居高不下，旅游业和航空业遭受重创，投资者和消费者信心受到打击，美国经济复苏步履艰难，最终暴发全球性“金融危机”。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>伊拉克/ns  战争/n  对/p  经济/n  的/u  影响/vn  主要/d  体现/v  在/p  ：/w  国际/n  石油/n  价格/n  居高不下/l  ，/w  旅游业/n  和/c  航空业/n  遭受/v  重创/vn  ，/w  投资者/n  和/c  消费者/n  信心/n  受到/v  打击/vn  ，/w  美国/ns  经济/n  复苏/v  步履艰难/l  ，/w  最终/d  暴发/v  全球性/n  “/w  金融/n  危机/n  ”/w  。</Segmented_S>
+            <S_Length>79</S_Length>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">居高不下</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">遭受</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0.7" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">重创</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0" Sorrow="0.6" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">打击</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0.8" POS="l" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">步履艰难</Keywords>
+            <Keywords start="-1" position="67" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">暴发</Keywords>
+            <Keywords start="-1" position="75" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">危机</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这一结果，恐怕是布什所料不及的。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 这/r  一/m  结果/n  ，/w  恐怕/d  是/v  布什/nr  所/u  料/v  不/d  及/v  的/u  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">恐怕</Keywords>
+            <E_phrase start="0" position="10" end="0" Surprise="0" Sorrow="0" POS="u" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">所</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>和平 和谐 发展道路</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="哪里有压迫，哪里就有反抗，以暴制暴，只能得到更多的暴力。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>哪里/r  有/v  压迫/vn  ，/w  哪里/r  就/d  有/v  反抗/vn  ，/w  以暴/v  制暴/n  ，/w  只/d  能/v  得到/v  更/d  多/a  的/u  暴力/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">压迫</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">反抗</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">暴力</Keywords>
+            <degree_adv start="-1" position="22" modifier_word_position="23" modifier_word_length="1" end="-1">更</degree_adv>
+            <E_phrase start="13" position="13" end="16" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">以暴</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.8</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一个国家，要想强大，必须走和谐、和平的发展道路，绝不能把自己的幸福建立在他国的痛苦之上。">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 一个/m  国家/n  ，/w  要/v  想/v  强大/a  ，/w  必须/d  走/v  和谐/a  、/w  和平/a  的/u  发展/vn  道路/n  ，/w  绝不/d  能/v  把/p  自己/r  的/u  幸福/a  建立/v  在/p  他国/r  的/u  痛苦/a  之/u  上/f  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">强大</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">和谐</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">和平</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">幸福</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0.9" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">痛苦</Keywords>
+            <noword start="25" position="24" modifier_word_position="27" modifier_word_length="1" end="26">绝不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="这样看来，布什遭袭，也就不是两只鞋子那么简单了。">
+            <S_no>第7段第3句标注</S_no>
+            <Segmented_S> 这样/r  看来/v  ，/w  布什/nr  遭袭/nr  ，/w  也/d  就/d  不/d  是/v  两/m  只/q  鞋子/n  那么/r  简单/a  了/y  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="nr" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.8" Anger="0">遭袭</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">简单</Keywords>
+            <noword start="12" position="12" modifier_word_position="20" modifier_word_length="2" end="13">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

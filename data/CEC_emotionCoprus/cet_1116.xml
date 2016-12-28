@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.6</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.9</Love>
+    <Sorrow>0.7</Sorrow>
+    <Anxiety>0.6</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>福井县</Topic>
+    <title T="有一种荒凉存在于海天之间">
+        <Segmented_S>有/v  一/m  种/q  荒凉/a  存在于/n  海天/v  之间/f</Segmented_S>
+        <S_Length>12</S_Length>
+        <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">荒凉</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.4</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.7</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>荒原</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我头一次去福井县旅行坐的是列车，在车窗外奔流的荒原陡然令我有些吃惊，因为日本的山多，树多，人口密集，从视觉上似乎从来没有荒凉的感受，在乡村，不是沃野纵横、就是绿树繁枝；在城市则是高密度的楼群和私宅小巷；有时到岸边观潮，　那海水的荡漾也如汁如液，别说什么荒凉，就连一丁点儿松散的气氛都难以寻觅。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>我/r  头/n  一/m  次/q  去/v  福井县/v  旅行/v  坐/v  的/u  是/v  列车/n  ，/w  在/p  车窗/n  外/f  奔流/v  的/u  荒原/n  陡然/d  令/v  我/r  有些/r  吃惊/a  ，/w  因为/c  日本/ns  的/u  山/n  多/a  ，/w  树/n  多/a  ，/w  人口/n  密集/a  ，/w  从/p  视觉/n  上/f  似乎/d  从来/d  没有/d  荒凉/a  的/u  感受/vn  ，/w  在/p  乡村/n  ，/w  不/d  是/v  沃野/n  纵横/v  、/w  就/d  是/v  绿树/n  繁/v  枝/Ag  ；/w  在/p  城市/n  则/d  是/v  高/a  密度/n  的/u  楼群/n  和/c  私宅/n  小巷/n  ；/w  有时/d  到/v  岸边/s  观潮/v  ，/w  　/v  那/r  海水/n  的/u  荡漾/n  也/d  如/v  汁/Ng  如/v  液/Ng  ，/w  别/d  说/v  什么/r  荒凉/a  ，/w  就/d  连/u  一丁/n  点儿/v  松散/a  的/u  气氛/n  都/d  难以/d  寻觅/v  。</Segmented_S>
+            <S_Length>146</S_Length>
+            <Keywords start="-1" position="31" end="-1" Surprise="0.6" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">吃惊</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0.5" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">荒凉</Keywords>
+            <Keywords start="-1" position="126" end="-1" Surprise="0" Sorrow="0.3" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">荒凉</Keywords>
+            <Keywords start="-1" position="135" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.1" Expect="0" Anxiety="0" Anger="0">松散</Keywords>
+            <Keywords start="-1" position="141" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">难以</Keywords>
+            <Keywords start="-1" position="143" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">寻觅</Keywords>
+            <degree_adv start="-1" position="29" modifier_word_position="31" modifier_word_length="2" end="-1">有些</degree_adv>
+            <noword start="-1" position="58" modifier_word_position="60" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="-1" position="34" next_position="34" modifier_word_position="36" modifier_word_length="13" end="-1">因为</E_conjunction>
+            <E_conjunction start="70" position="70" next_position="77" modifier_word_position="72" modifier_word_length="4" end="71">不</E_conjunction>
+            <E_conjunction start="-1" position="77" next_position="70" modifier_word_position="78" modifier_word_length="5" end="-1">就</E_conjunction>
+            <E_phrase start="79" position="79" end="82" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">绿树</E_phrase>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.6</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>荒凉</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="天是阴雨天，气温不高，路人稀少，尤其从车窗往外望的时候，视线几乎与海面持平，天空显得格外地高亢，乌云也显得格外地幽远。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>天/n  是/v  阴雨天/n  ，/w  气温/n  不/d  高/a  ，/w  路人/n  稀少/a  ，/w  尤其/d  从/p  车窗/n  往/p  外/f  望/v  的/u  时候/n  ，/w  视线/n  几乎/d  与/p  海面/n  持平/v  ，/w  天空/n  显得/v  格外/d  地/u  高亢/v  ，/w  乌云/n  也/d  显得/v  格外/d  地/u  幽远/v  。</Segmented_S>
+            <S_Length>59</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">阴雨天</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">幽远</Keywords>
+            <noword start="-1" position="8" modifier_word_position="9" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="说来也怪，　天高云远应该给人辽阔的感觉　，可不知为什么，我反而被行驶中的那种开阔感弄得有些荒凉的感受。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 说来/v  也/d  怪/v  ，/w  　/v  天/n  高云/v  远/a  应该/v  给/p  人/n  辽阔/a  的/u  感觉/n  　/v  ，/w  可/v  不知为什么/v  ，/w  我/r  反而/d  被/p  行驶/v  中/f  的/u  那种/r  开阔/v  感/Vg  弄/v  得/u  有些/r  荒凉/a  的/u  感受/vn  。</Segmented_S>
+            <S_Length>51</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">怪</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">辽阔</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">开阔</Keywords>
+            <Keywords start="-1" position="45" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">荒凉</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>两道景致  日本  中国 </Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="静下心来想想，自己似乎陷入了两道景致的交错：一道是我对中国故乡的记忆；另一道则是对现实日本的感知。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>静/a  下/v  心/n  来/v  想想/v  ，/w  自己/r  似乎/d  陷入/v  了/u  两/m  道/q  景致/n  的/u  交错/v  ：/w  一道/d  是/v  我对/n  中国/ns  故乡/n  的/u  记忆/n  ；/w  另/r  一/m  道/q  则是/n  对/p  现实/n  日本/ns  的/u  感知/vn  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">陷入</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">景致</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="如果不在日本而在中国的话：无论到哪里旅行，只要坐上列车，那车窗外流逝的农舍、田园、河水和山峰，都是疏散的，没有稠密的人烟，更没有高密度的楼群，车窗外的参照物永远是那样清疏淡远，车窗内外，密集和松弛的景象频繁地在眼前交换。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 如果/c  不/d  在/v  日本/ns  而/c  在/p  中国/ns  的/u  话/n  ：/w  无论/c  到/v  哪里/r  旅行/v  ，/w  只要/c  坐/v  上/v  列车/n  ，/w  那/r  车窗/n  外/f  流逝/v  的/u  农舍/n  、/w  田园/n  、/w  河水/n  和/c  山峰/n  ，/w  都/d  是/v  疏散/v  的/u  ，/w  没有/v  稠密/a  的/u  人烟/n  ，/w  更/d  没有/v  高/a  密度/n  的/u  楼群/n  ，/w  车窗/n  外/f  的/u  参照物/n  永远/d  是/v  那样/r  清/a  疏/Ag  淡远/n  ，/w  车窗/n  内外/f  ，/w  密集/a  和/c  松弛/a  的/u  景象/n  频繁/a  地/u  在/p  眼前/s  交换/v  。</Segmented_S>
+            <S_Length>110</S_Length>
+            <degree_adv start="-1" position="61" modifier_word_position="62" modifier_word_length="2" end="-1">更</degree_adv>
+            <noword start="-1" position="2" modifier_word_position="3" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="53" modifier_word_position="58" modifier_word_length="2" end="-1">没有</noword>
+            <noword start="-1" position="62" modifier_word_position="68" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="-1" position="13" next_position="13" modifier_word_position="15" modifier_word_length="5" end="-1">无论</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>故乡的旅途</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="当然，所谓密集，是指满车厢游客们的欢声笑语，此景此情再往车窗外远眺，空旷感也就随之而来。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>当然/d  ，/w  所谓/v  密集/a  ，/w  是/v  指/v  满/a  车厢/n  游客/n  们/k  的/u  欢声笑语/l  ，/w  此景/n  此情/v  再往/n  车窗/v  外/f  远眺/v  ，/w  空旷/a  感/Vg  也/d  就/d  随之而来/l  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">欢声笑语</Keywords>
+            <E_phrase start="34" position="34" end="36" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">空旷</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="故乡的旅途是愉快的，尽管它已经成为我珍贵的回忆，但那份感受会随时生发，令人遐想联翩，乃至将完全不同的景色胶合在一起，　牢牢黏在我的心上，这也是现在继续往下写的内容吧。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 故乡/n  的/u  旅途/n  是/v  愉快/a  的/u  ，/w  尽管/c  它/r  已经/d  成为/v  我/r  珍贵/a  的/u  回忆/vn  ，/w  但/c  那/r  份/q  感受/vn  会/v  随时/d  生发/v  ，/w  令/v  人/n  遐想/v  联翩/n  ，/w  乃至/c  将/p  完全/ad  不同/a  的/u  景色/n  胶合/n  在/p  一/m  起/q  ，/w  　/v  牢牢/d  黏/v  在我的/n  心上/v  ，/w  这也/v  是/v  现在/t  继续/v  往/p  下/f  写/v  的/u  内容/n  吧/y  。</Segmented_S>
+            <S_Length>83</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">愉快</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">珍贵</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">遐想</Keywords>
+            <E_conjunction start="-1" position="10" next_position="24" modifier_word_position="12" modifier_word_length="11" end="-1">尽管</E_conjunction>
+            <E_conjunction start="-1" position="24" next_position="10" modifier_word_position="25" modifier_word_length="9" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.7</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>荒凉感</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="列车沿着福井县的海岸线前行，我去的目的地是观光名胜“东寻坊”，一处幽深而神秘的断壁悬崖。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>列车/n  沿着/p  福/n  井县/n  的/u  海岸线/n  前行/v  ，/w  我去/v  的/u  目的地/n  是/v  观光/v  名胜/n  “/w  东/f  寻/v  坊/n  ”/w  ，/w  一/m  处/q  幽深/a  而/c  神秘/a  的/u  断壁/n  悬崖/v  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">名胜</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">神秘</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="一路上，车窗外飞逝的景物令我不禁想起熟悉的日本城市，这或许是我多年来栖居城市的缘故，也许是城市风光在视觉中早已有了丰富的储存，所以当我从车窗内看见福井县那海天一色的景象时，　一种荒凉感油然而来，那是在城市中遍寻不得，在下意识中又久久期待的别一样的感受。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 一路上/n  ，/w  车窗/n  外/f  飞逝/n  的/u  景物/n  令/v  我/r  不禁/d  想/v  起/v  熟悉/v  的/u  日本/ns  城市/n  ，/w  这/r  或许/d  是/v  我多/n  年/q  来/f  栖/n  居/v  城市/n  的/u  缘故/n  ，/w  也许/d  是/v  城市/n  风光/n  在/p  视觉/n  中/f  早/ad  已有/v  了/u  丰富/a  的/u  储存/vn  ，/w  所以/c  当我/n  从/p  车窗/n  内/f  看见/v  福井县/n  那/r  海天一色/n  的/u  景象/n  时/Ng  ，/w  　/v  一/m  种/q  荒凉/a  感/Vg  油然/n  而/c  来/v  ，/w  那/r  是/v  在/p  城市/n  中/f  遍/v  寻/v  不得/v  ，/w  在/p  下/f  意识/n  中/f  又/d  久久/d  期待/v  的/u  别/d  一样/a  的/u  感受/vn  。</Segmented_S>
+            <S_Length>126</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">熟悉</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">风光</Keywords>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">丰富</Keywords>
+            <Keywords start="-1" position="77" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">海天一色</Keywords>
+            <Keywords start="-1" position="89" end="-1" Surprise="0" Sorrow="0.7" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">荒凉</Keywords>
+            <Keywords start="-1" position="116" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">期待</Keywords>
+            <degree_adv start="-1" position="114" modifier_word_position="116" modifier_word_length="2" end="-1">久久</degree_adv>
+            <E_conjunction start="-1" position="63" next_position="63" modifier_word_position="65" modifier_word_length="31" end="-1">所以</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>东寻坊</Topic>
+        <Summarize_Sentences>4</Summarize_Sentences>
+        <sentence S="面对眼前的景象，我当然是先从视觉上接受的，　但这并不是我有所感怀的唯一源泉，因为深藏在心灵深处的记忆，历经岁月的积淀，愈来愈加厚重，无论走向哪里，　这份温馨的乡恋永远不会消逝。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>面对/v  眼前/s  的/u  景象/n  ，/w  我/r  当然/d  是/v  先从/n  视觉/n  上/f  接受/v  的/u  ，/w  　/v  但这/n  并不/d  是/v  我/r  有所/v  感怀/v  的/u  唯一/b  源泉/n  ，/w  因为/c  深藏/v  在/p  心灵/n  深处/s  的/u  记忆/n  ，/w  历经/v  岁月/n  的/u  积淀/vn  ，/w  愈来愈/d  加/v  厚重/a  ，/w  无论/c  走向/v  哪里/r  ，/w  　/v  这/r  份/q  温馨/a  的/u  乡/n  恋/v  永远/d  不会/v  消逝/v  。</Segmented_S>
+            <S_Length>88</S_Length>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">感怀</Keywords>
+            <Keywords start="-1" position="76" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">温馨</Keywords>
+            <Keywords start="-1" position="85" end="-1" Surprise="0" Sorrow="0.3" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">消逝</Keywords>
+            <noword start="-1" position="83" modifier_word_position="85" modifier_word_length="2" end="-1">不会</noword>
+            <E_conjunction start="22" position="22" next_position="22" modifier_word_position="24" modifier_word_length="13" end="22">但这</E_conjunction>
+            <E_conjunction start="-1" position="38" next_position="38" modifier_word_position="40" modifier_word_length="25" end="-1">因为</E_conjunction>
+            <E_phrase start="79" position="79" end="80" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">乡</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="列车到达目的地了，　天还是阴的，　湿润润的空气中似乎还弥漫着雨丝，蒙蒙碎雨是下还是不下，谁也说不准。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 列车/n  到达/v  目的地/n  了/y  ，/w  　/v  天/n  还是/d  阴/a  的/u  ，/w  　/v  湿润/a  润/v  的/u  空气/n  中/f  似乎/d  还/d  弥漫/v  着/u  雨丝/n  ，/w  蒙蒙/v  碎/a  雨/n  是/v  下/f  还是/d  不/d  下/v  ，/w  谁/r  也/d  说/v  不准/v  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">阴</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="说来也怪，　这样的天气倒是跟目的地的东寻坊十分相似，尤其是海岸边高耸的山崖，怪石磷磷，水击浪打，惊涛拍岸，在这阴雨绵绵的天气，与阳光明媚的日子相比，显然是凄美而黯然的，站在礁石上仰首望天，历史传说如烟如云，追寻它的踪影，不免令人荡气回肠。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 说来/v  也/d  怪/v  ，/w  　/v  这样/r  的/u  天气/n  倒是/d  跟/p  目的地/n  的/u  东/f  寻/v  坊/n  十分/d  相似/a  ，/w  尤其/d  是/v  海岸边/n  高耸/v  的/u  山崖/n  ，/w  怪石/n  磷磷/v  ，/w  水/n  击/Vg  浪/n  打/v  ，/w  惊涛拍岸/v  ，/w  在这/v  阴雨/n  绵绵/z  的/u  天气/n  ，/w  与/p  阳光/n  明媚/a  的/u  日子/n  相比/v  ，/w  显然/ad  是/v  凄/v  美/j  而/c  黯然/v  的/u  ，/w  站/v  在/p  礁石/n  上/f  仰首/v  望/v  天/n  ，/w  历史/n  传说/n  如/v  烟/n  如云/n  ，/w  追寻/v  它/r  的/u  踪影/n  ，/w  不免/d  令/v  人/n  荡气回肠/i  。</Segmented_S>
+            <S_Length>119</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">怪</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">惊涛拍岸</Keywords>
+            <Keywords start="-1" position="80" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">黯然</Keywords>
+            <Keywords start="-1" position="103" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">追寻</Keywords>
+            <Keywords start="-1" position="114" end="-1" Surprise="0" Sorrow="0.6" POS="i" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">荡气回肠</Keywords>
+            <degree_adv start="-1" position="21" modifier_word_position="23" modifier_word_length="2" end="-1">十分</degree_adv>
+            <E_phrase start="55" position="55" end="58" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">阴雨</E_phrase>
+            <E_phrase start="64" position="64" end="67" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">阳光</E_phrase>
+            <E_phrase start="77" position="77" end="78" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">凄</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这就是名为“东寻坊”的胜地。">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> 这/r  就/d  是/v  名/Ng  为/v  “/w  东/f  寻/v  坊/n  ”/w  的/u  胜地/n  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">胜地</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

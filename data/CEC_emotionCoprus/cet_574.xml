@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.8</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.8</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>乌龙茶 功夫茶  </Topic>
+    <title T="闻香品茗">
+        <Segmented_S>闻香/n  品茗/v</Segmented_S>
+        <S_Length>4</S_Length>
+        <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">闻香</Keywords>
+        <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">品茗</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="刚沏了一道乌龙茶，心情又跟着美丽起来。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>刚/d  沏/v  了/u  一/m  道/q  乌龙茶/n  ，/w  心情/n  又/d  跟着/v  美丽/a  起来/v  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.9" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="闲聊几句茶话，请君倾听。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 闲聊/v  几/m  句/q  茶话/n  ，/w  请/v  君/Ng  倾听/v  。</Segmented_S>
+            <S_Length>12</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">倾听</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>茶</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="茶，被誉为国之饮品。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>茶/n  ，/w  被/p  誉/Vg  为/v  国/n  之/u  饮品/n  。</Segmented_S>
+            <S_Length>10</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="Vg" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">誉</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="发于先民神农，鼎盛于唐，后流传至今，经久不衰。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 发/v  于/p  先民/n  神农/n  ，/w  鼎盛/z  于/p  唐/nr  ，/w  后/f  流传/v  至/p  今/Tg  ，/w  经久不衰/i  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="z" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">鼎盛</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">经久不衰</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="与“咖啡”“可可”齐名，并称为世界三大饮品。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 与/p  “/w  咖啡/n  ”/w  “/w  可可/n  ”/w  齐名/v  ，/w  并/c  称为/v  世界/n  三/m  大/a  饮品/n  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>乌龙茶</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="最富盛名的是我国闽南一代的乌龙茶，又称功夫乌龙。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>最/d  富/a  盛名/n  的/u  是/v  我国/r  闽南/ns  一代/n  的/u  乌龙茶/n  ，/w  又/c  称/v  功夫/n  乌龙/v  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">盛名</Keywords>
+            <degree_adv start="-1" position="0" modifier_word_position="1" modifier_word_length="1" end="-1">最</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="后经台湾盛传于海外。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 后/f  经/p  台湾/ns  盛传/n  于/p  海外/s  。</Segmented_S>
+            <S_Length>10</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">盛传</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="功夫茶，故名思义，沏茶的手法是要有讲究的。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 功夫茶/n  ，/w  故名思义/v  ，/w  沏茶/v  的/u  手法/n  是/v  要/v  有/v  讲究/vn  的/u  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.5" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">讲究</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="此泡茶可非北京乾门的大碗茶，痛饮一碗，只做解渴。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 此/r  泡茶/n  可/v  非/Vg  北京/ns  乾/n  门/n  的/u  大碗茶/n  ，/w  痛饮/v  一/m  碗/q  ，/w  只做/v  解渴/n  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">痛饮</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">解渴</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="而功夫茶，要讲水，讲火，讲沏，是需要一些火候在里面的。">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> 而/c  功夫茶/v  ，/w  要/v  讲/v  水/n  ，/w  讲/v  火/n  ，/w  讲/v  沏/n  ，/w  是/v  需要/v  一些/m  火候/n  在/p  里面/f  的/u  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="若不会此道的人，拿来了好茶，请来了好水，也难尝那沁人心脾的茶香。">
+            <S_no>第3段第6句标注</S_no>
+            <Segmented_S> 若/c  不/d  会/v  此/r  道/v  的/u  人/n  ，/w  拿/v  来/v  了/y  好/u  茶/a  ，/w  请来/v  了/u  好/a  水/n  ，/w  也难/v  尝/v  那/r  沁人心脾/i  的/u  茶香/n  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="u" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">沁人心脾</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">茶香</Keywords>
+            <noword start="1" position="1" modifier_word_position="3" modifier_word_length="2" end="2">不</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="6" end="-1">若</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="　诸君要问了，茶分好坏自是道理，这水怎也分得出好坏。">
+            <S_no>第3段第7句标注</S_no>
+            <Segmented_S> 　/n  诸君/v  要/v  问/v  了/u  ，/w  茶/n  分/v  好/a  坏/a  自/r  是/v  道理/n  ，/w  这/r  水/n  怎/r  也/d  分得/v  出/v  好坏/n  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.3</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.9</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>沏茶</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="古人沏茶，讲一个“活”字。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>古人/n  沏茶/v  ，/w  讲/v  一个/m  “/w  活/a  ”/w  字/n  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="“活水”“活火”才能沏出上好的茶香。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> “/w  活水/n  ”/w  “/w  活火/n  ”/w  才/c  能/v  沏/v  出/v  上好/b  的/u  茶香/n  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">上好</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">茶香</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="被尊为茶圣的陆羽在《茶经》上讲到“泉水为上，江水为中，井水为下”可见这水在茶道中的重要了。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 被/p  尊/Vg  为/v  茶圣/n  的/u  陆/nr  羽/nr  在/p  《/w  茶经/n  》/w  上/f  讲/v  到/v  “/w  泉水/n  为/v  上/f  ，/w  江水/n  为/v  中/j  ，/w  井水/n  为/v  下/f  ”/w  可见/c  这/r  水/n  在/p  茶道/n  中的/v  重要/a  了/y  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="Vg" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">尊</Keywords>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">茶圣</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="记得红楼梦里的妙玉，采下梅花萼上的雪，用那染了冷香的雪水来煮茶，不用品，单是这种闲情逸致，便可让人一叹了！">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 记得/v  红楼梦/n  里/f  的/u  妙/a  玉/n  ，/w  采下/v  梅/nr  花萼/nr  上/f  的/u  雪/n  ，/w  用/p  那/r  染/v  了/u  冷/a  香的/n  雪水/v  来/v  煮茶/v  ，/w  不/d  用品/v  ，/w  单/d  是/v  这种/r  闲情/n  逸致/v  ，/w  便/d  可/v  让/v  人/n  一/m  叹/Vg  了/u  ！</Segmented_S>
+            <S_Length>53</S_Length>
+            <Keywords start="40" position="40" end="43" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">闲情</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0.7" Sorrow="0" POS="Vg" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">叹</Keywords>
+            <noword start="-1" position="32" modifier_word_position="33" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.9</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="不过现代人喝茶都是用自来水冲泡，其中的茶趣，茶道已是没了许多。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>不过/c  现代人/n  喝茶/v  都/d  是/v  用/p  自来水/n  冲/v  泡/v  ，/w  其中/r  的/u  茶/n  趣/Ng  ，/w  茶道/n  已/d  是/v  没/d  了/y  许多/u  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="19" position="19" end="20" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">茶</Keywords>
+            <degree_adv start="-1" position="7" modifier_word_position="9" modifier_word_length="1" end="-1">都</degree_adv>
+            <noword start="-1" position="26" modifier_word_position="19" modifier_word_length="5" end="-1">没</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="2" modifier_word_length="13" end="-1">不过</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.3</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="说到这里不禁的忆起古来，月上西窗，小榭轻风，抚琴品茗，闻香润齿，古人的这番悠然自得，真是羡煞小女了。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 说/v  到/v  这/r  里/q  不禁/n  的/u  忆/n  起/v  古/a  来/v  ，/w  月/n  上/f  西窗/v  ，/w  小榭轻风/v  ，/w  抚琴/v  品茗/n  ，/w  闻香/v  润/n  齿/v  ，/w  古人/n  的/u  这/r  番/q  悠然/n  自得/a  ，/w  真是/v  羡/n  煞/v  小/a  女/b  了/u  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">小榭轻风</Keywords>
+            <Keywords start="37" position="37" end="40" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">悠然</Keywords>
+            <Keywords start="44" position="44" end="45" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">羡</Keywords>
+            <E_phrase start="22" position="22" end="25" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">抚琴</E_phrase>
+            <E_phrase start="27" position="27" end="30" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">闻香</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>品茶</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="沏茶讲究功夫，品茶却更让人心怡。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>沏茶/n  讲究/v  功夫/n  ，/w  品茶/v  却/d  更/d  让/v  人/n  心怡/v  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">心怡</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="中国茶文化的精神体现在“清，敬，雅，怡”。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 中国/ns  茶/n  文化/n  的/u  精神/n  体现/v  在/p  “/w  清/a  ，/w  敬/v  ，/w  雅/Ag  ，/w  怡/v  ”/w  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="对喝茶的方式，环境很有讲究。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 对/p  喝茶/v  的/u  方式/n  ，/w  环境/n  很/d  有/v  讲究/vn  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">讲究</Keywords>
+            <degree_adv start="-1" position="9" modifier_word_position="11" modifier_word_length="2" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="沏功夫茶时，每一道工序都做了的修饰，添加了意境在里面。">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> 沏/v  功夫茶/n  时/Ng  ，/w  每/r  一/m  道/q  工序/n  都/d  做/v  了/u  的/u  修饰/n  ，/w  添加/v  了/u  意境/n  在/p  里面/f  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">修饰</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="如：洁具，叫烫壶温盏；注水，为悬壶高冲；盖上壶盖，为推梅抽茉；　倒茶时，为乌龙出宫。">
+            <S_no>第6段第5句标注</S_no>
+            <Segmented_S> 如/v  ：/w  洁具/n  ，/w  叫/v  烫/v  壶/a  温/Ng  盏/Ag  ；/w  注水/n  ，/w  为/p  悬壶/n  高/a  冲/v  ；/w  盖/v  上/v  壶盖/n  ，/w  为/p  推/v  梅/nr  抽/nr  茉；　倒茶/v  时/Ng  ，/w  为/p  乌龙/n  出/v  宫/Ng  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="如此，这一道道，一序序都有非常好听的名字。">
+            <S_no>第6段第6句标注</S_no>
+            <Segmented_S> 如此/r  ，/w  这/r  一/m  道道/q  ，/w  一/m  序/n  序/n  都/d  有/v  非常/d  好听/a  的/u  名字/n  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好听</Keywords>
+            <degree_adv start="-1" position="11" modifier_word_position="12" modifier_word_length="1" end="-1">都</degree_adv>
+            <degree_adv start="-1" position="13" modifier_word_position="15" modifier_word_length="1" end="-1">非常</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="此时若饮上这盏香茗，便觉齿颊留香，回味甘甜，心旷神怡之感。">
+            <S_no>第6段第7句标注</S_no>
+            <Segmented_S> 此时/r  若/c  饮/v  上/v  这/r  盏/q  香茗/n  ，/w  便/d  觉/v  齿/n  颊/v  留香/n  ，/w  回味/v  甘甜/n  ，/w  心旷神怡之感/v  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">香茗</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">留香</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">甘甜</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.9" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">心旷神怡之感</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="其中的清，敬，雅，怡便被很好的诠释了，成了道，此为茶道。">
+            <S_no>第6段第8句标注</S_no>
+            <Segmented_S> 其中/r  的/u  清/Tg  ，/w  敬/v  ，/w  雅/Ag  ，/w  怡/v  便/d  被/p  很/d  好/a  的/u  诠释/vn  了/y  ，/w  成/v  了/u  道/n  ，/w  此/r  为/v  茶道/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <degree_adv start="-1" position="12" modifier_word_position="13" modifier_word_length="1" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="常听人说喝茶，觉得意境上差了好多。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>常/nr  听/nr  人/n  说/v  喝茶/v  ，/w  觉得/v  意境/n  上/f  差/a  了/y  好多/u  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">差</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="就好像喝的是白水一般，没有什么味道可言。">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 就/d  好像/v  喝/v  的/u  是/v  白水/n  一般/a  ，/w  没有/v  什么/r  味道/n  可言/v  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <noword start="-1" position="11" modifier_word_position="15" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.3</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="而茶是要用品的。">
+            <S_no>第7段第3句标注</S_no>
+            <Segmented_S> 而/c  茶/n  是/v  要/v  用品/n  的/u  。</Segmented_S>
+            <S_Length>8</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="是一种心情，一种意境，一种回味。">
+            <S_no>第7段第4句标注</S_no>
+            <Segmented_S> 是/v  一/m  种/q  心情/n  ，/w  一/m  种/q  意境/n  ，/w  一/m  种/q  回味/n  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">意境</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">回味</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="“欲把西湖比西子，从来佳茗似佳人”如果不是这般心境，岂不白白浪费了一杯好茶。">
+            <S_no>第7段第5句标注</S_no>
+            <Segmented_S> “/w  欲/Vg  把/p  西湖/ns  比/p  西子/nz  ，/w  从来/d  佳茗/v  似/Vg  佳人/n  ”/w  如果/c  不/d  是/v  这般/r  心境/n  ，/w  岂/d  不/d  白白/v  浪费/v  了/u  一/m  杯/q  好茶/n  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">浪费</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好茶</Keywords>
+            <E_conjunction start="-1" position="17" next_position="17" modifier_word_position="19" modifier_word_length="6" end="-1">如果</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.3</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="品茶，如同品人。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>品茶/n  ，/w  如同/v  品/v  人/n  。</Segmented_S>
+            <S_Length>8</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="君之品，可为茶乎？">
+            <S_no>第8段第2句标注</S_no>
+            <Segmented_S> 君/Ng  之/u  品/Ng  ，/w  可/v  为/p  茶/n  乎/n  ？</Segmented_S>
+            <S_Length>9</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

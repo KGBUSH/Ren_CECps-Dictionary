@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.8</Joy>
+    <Hate>0.6</Hate>
+    <Love>0.7</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.6</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>同学会</Topic>
+    <title T="同学会">
+        <Segmented_S>同学会/n</Segmented_S>
+        <S_Length>3</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>同学会</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="最近这些年兴同学聚会。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>最近/t  这些年/v  兴/v  同学/n  聚会/v  。</Segmented_S>
+            <S_Length>11</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">兴</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="小学会，中学会，大学会，海外同学会，干校同学会五花八门。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 小/a  学会/n  ，/w  中/j  学会/n  ，/w  大/d  学会/v  ，/w  海外/s  同学会/n  ，/w  干校/n  同学会/v  五花/n  八/m  门/q  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="23" position="23" end="26" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">五花</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>同学会</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="我小学四年级“文化大革命”开始，因此就没正经再上过学。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>我/r  小学/n  四/m  年级/n  “/w  文化大革命/nz  ”/w  开始/v  ，/w  因此/c  就/d  没/v  正经/n  再/d  上/v  过/u  学/v  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="nz" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">文化大革命</Keywords>
+            <noword start="-1" position="19" modifier_word_position="23" modifier_word_length="3" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="所以同学几乎都记不清，也不亲，故来往不多。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 所以/c  同学/n  几乎/d  都/d  记不清/v  ，/w  也/d  不/d  亲/a  ，/w  故/c  来往/v  不/d  多/a  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">亲</Keywords>
+            <noword start="-1" position="12" modifier_word_position="13" modifier_word_length="1" end="-1">不</noword>
+            <noword start="-1" position="18" modifier_word_position="19" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="后来有一次忘了谁通知去参加小学同学会活动，我兴致勃勃去了，还上台发了言，说了什么忘得一干二净。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 后来/t  有/v  一/m  次/q  忘/v  了/u  谁/r  通知/v  去/v  参加/v  小学/n  同学会/n  活动/vn  ，/w  我/r  兴致/n  勃勃/a  去/v  了/u  ，/w  还/d  上台/v  发/v  了/u  言/Vg  ，/w  说/v  了/u  什么/r  忘/v  得/u  一干/i  二/m  净/a  。</Segmented_S>
+            <S_Length>47</S_Length>
+            <Keywords start="22" position="22" end="25" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">兴致</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="没过多久，我又被告知再去一个类似的活动，大家都很兴奋，要照方抓药再来一回。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 没/d  过/v  多久/r  ，/w  我又/v  被/p  告知/v  再去/n  一个/m  类似/a  的/u  活动/vn  ，/w  大家/r  都/d  很/d  兴奋/a  ，/w  要/v  照/p  方/Ng  抓药/n  再/d  来/v  一/m  回/q  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">兴奋</Keywords>
+            <degree_adv start="-1" position="23" modifier_word_position="24" modifier_word_length="2" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>久别重逢</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="这就让我犹豫了。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>这/r  就/d  让/v  我/r  犹豫/a  了/y  。</Segmented_S>
+            <S_Length>8</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">犹豫</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我很欣赏或曰愿意体会“久别重逢”的感觉。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 我/r  很/d  欣赏/v  或曰/n  愿意/v  体会/v  “/w  久别重逢/n  ”/w  的/u  感觉/n  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">欣赏</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">愿意</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">久别重逢</Keywords>
+            <degree_adv start="-1" position="1" modifier_word_position="2" modifier_word_length="2" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="今人由于沟通的便利，久别重逢的感觉一般不算强烈，可古人强烈：“欢笑情如旧，萧疏鬓已斑。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 今人/n  由于/c  沟通/v  的/u  便利/vn  ，/w  久别重逢/v  的/u  感觉/n  一般/ad  不/d  算/v  强烈/a  ，/w  可/v  古人/v  强烈/a  ：/w  “/w  欢笑/v  情/n  如/v  旧/a  ，/w  萧疏/v  鬓/n  已/d  斑/v  。</Segmented_S>
+            <S_Length>43</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">便利</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">久别重逢</Keywords>
+            <Keywords start="31" position="31" end="35" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">欢笑</Keywords>
+            <Keywords start="37" position="37" end="41" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">萧疏</Keywords>
+            <noword start="-1" position="19" modifier_word_position="21" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="”（唐&#183;韦应物）">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> ”/w  （/w  唐&#183;韦应物/n  ）/w</Segmented_S>
+            <S_Length>8</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.3</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>久别重逢</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="过去古人久别重逢所诉说的都是个性化极强的内容，而我们今天，社会共性化的东西太多，你知一个人的职业就知他的生存状况，猜测与实际之间差距不会很大。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>过去/t  古人/n  久别重逢/v  所/u  诉说/v  的/u  都/d  是/v  个性化/v  极/d  强/a  的/u  内容/n  ，/w  而/c  我们/r  今天/t  ，/w  社会/n  共性/n  化/v  的/u  东西/n  太/d  多/a  ，/w  你/r  知/v  一个/m  人/n  的/u  职业/n  就/d  知/v  他/r  的/u  生存/vn  状况/n  ，/w  猜测/v  与/p  实际/a  之/u  间/f  差距/n  不会/v  很/d  大/a  。</Segmented_S>
+            <S_Length>71</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">久别重逢</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">强</Keywords>
+            <degree_adv start="-1" position="17" modifier_word_position="18" modifier_word_length="1" end="-1">极</degree_adv>
+            <degree_adv start="-1" position="37" modifier_word_position="38" modifier_word_length="1" end="-1">太</degree_adv>
+            <degree_adv start="-1" position="68" modifier_word_position="69" modifier_word_length="1" end="-1">很</degree_adv>
+            <noword start="-1" position="66" modifier_word_position="68" modifier_word_length="2" end="-1">不会</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这就使重逢变得实际：交往有用没有？">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 这就/n  使/v  重逢/v  变/v  得/u  实际/a  ：/w  交往/v  有用/a  没有/v  ？</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">重逢</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">？</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="于是关系网织好，铺开，利用。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 于是/c  关系网/n  织/v  好/a  ，/w  铺开/v  ，/w  利用/v  。</Segmented_S>
+            <S_Length>14</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">利用</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>人情</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="中国是个关系社会，用人情维系，谁也摆脱不开。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>中国/ns  是/v  个/q  关系/n  社会/n  ，/w  用/p  人情/n  维系/v  ，/w  谁/r  也/d  摆脱/v  不/d  开/v  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <E_phrase start="17" position="17" end="20" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">摆脱</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="随着年龄增长，人际就越发复杂，居高居中居低都有难处的一面。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 随着/p  年龄/n  增长/v  ，/w  人际/n  就/d  越发/v  复杂/a  ，/w  居高/v  居中/n  居/v  低/a  都/d  有/v  难处/n  的/u  一面/f  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">复杂</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">难处</Keywords>
+            <degree_adv start="-1" position="10" modifier_word_position="12" modifier_word_length="2" end="-1">越发</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="其实，人情社会在贫穷时对社会的支撑力起过加强作用，但进入富足，人情之间的美好就会被利用，其结果人所皆知，无需我多说。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 其实/d  ，/w  人情/n  社会/n  在/p  贫穷/a  时/Ng  对/p  社会/n  的/u  支撑力/n  起/v  过/u  加强/v  作用/n  ，/w  但/c  进入/v  富足/a  ，/w  人情/n  之/u  间/f  的/u  美好/a  就/d  会/v  被/p  利用/v  ，/w  其/r  结果/n  人/n  所/u  皆/d  知/v  ，/w  无需/v  我/r  多/d  说/v  。</Segmented_S>
+            <S_Length>58</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0.4" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">贫穷</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">加强</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">富足</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美好</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">利用</Keywords>
+            <E_conjunction start="-1" position="25" next_position="25" modifier_word_position="26" modifier_word_length="17" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我们今天常常喟叹为人情所累，尽管如此，我们仍会鄙视西方人不谙人情。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>我们/r  今天/t  常常/d  喟叹/v  为/p  人情/n  所/u  累/v  ，/w  尽管/c  如/v  此/r  ，/w  我们/r  仍/d  会/v  鄙视/v  西方人/n  不谙/v  人情/n  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">喟叹</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">累</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">鄙视</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">不谙</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="今天上午，我的远房同学们来看我，顺便看了博物馆，我高兴地送给他们每人一本《观复宝典》，摄影留念时倏然想起韦应物那首《淮上喜会梁州故人》。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 今天/t  上午/t  ，/w  我/r  的/u  远房/n  同学/n  们/k  来/v  看/v  我/r  ，/w  顺便/d  看/v  了/u  博物馆/n  ，/w  我/r  高兴/a  地/u  送给/v  他们/r  每人/r  一/m  本/q  《/w  观/Vg  复/Vg  宝典/n  》/w  ，/w  摄影/v  留念/v  时/Ng  倏然/v  想起/v  韦/nr  应/v  物/Ng  那/r  首/q  《/w  淮/j  上/f  喜/v  会/v  梁/nr  州/nr  故人/n  》/w  。</Segmented_S>
+            <S_Length>68</S_Length>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">高兴</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

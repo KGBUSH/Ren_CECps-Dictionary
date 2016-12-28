@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.7</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.6</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.5</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.6</Expect>
+    <Topic>飞机</Topic>
+    <title T="飞机">
+        <Segmented_S>飞机/n</Segmented_S>
+        <S_Length>2</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>机场  飞机</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="北京有个南苑机场，我小时候就知道是个军用机场。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>北京/ns  有个/n  南苑/v  机场/n  ，/w  我/r  小时候/t  就/d  知道/v  是/v  个/q  军用/b  机场/n  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="记得父亲带我来过若干次，那时小，不关心大人为何而来，所以今天猛地想起仍很困惑。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 记得/v  父亲/n  带/v  我/r  来/v  过/u  若干/m  次/q  ，/w  那时/r  小/a  ，/w  不/d  关心/v  大人/n  为何/r  而/c  来/v  ，/w  所以/c  今天/t  猛地/d  想起/v  仍/d  很/d  困惑/a  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">关心</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">困惑</Keywords>
+            <degree_adv start="-1" position="35" modifier_word_position="36" modifier_word_length="2" end="-1">很</degree_adv>
+            <noword start="-1" position="16" modifier_word_position="17" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="26" next_position="26" modifier_word_position="28" modifier_word_length="10" end="-1">所以</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那时的机场空荡荡的，孤零零散落着几架飞机，少见多怪的我很想凑近它们，可惜飞机旁有当兵的持枪守卫，一副神圣不可侵犯的凛然正气，让我却步。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 那时/r  的/u  机场/n  空荡荡/n  的/u  ，/w  孤零零/v  散落/n  着/u  几/m  架/q  飞机/n  ，/w  少见多怪/v  的/u  我/r  很/d  想/v  凑近/v  它们/r  ，/w  可惜/v  飞机/n  旁/f  有/v  当兵/v  的/u  持枪/vn  守卫/n  ，/w  一/m  副/q  神圣/a  不可/v  侵犯/v  的/u  凛然正气/n  ，/w  让/v  我/r  却步/v  。</Segmented_S>
+            <S_Length>67</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0.3" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">孤零零</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0.4" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">少见多怪</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">想</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">可惜</Keywords>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">凛然正气</Keywords>
+            <Keywords start="-1" position="64" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">却步</Keywords>
+            <degree_adv start="-1" position="27" modifier_word_position="28" modifier_word_length="1" end="-1">很</degree_adv>
+            <E_phrase start="50" position="50" end="55" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">神圣</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="跑道的尽头，有一架趴窝飞机，走近一看，内部已拆得七零八落，但没有人看管，我便高兴地钻了进去。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 跑道/n  的/u  尽头/f  ，/w  有/v  一/m  架/q  趴窝/n  飞机/n  ，/w  走近/v  一看/n  ，/w  内部/f  已/d  拆/v  得/u  七零八落/i  ，/w  但/c  没有人/n  看管/v  ，/w  我便/v  高兴/a  地/u  钻/v  了/u  进去/v  。</Segmented_S>
+            <S_Length>46</S_Length>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0.2" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">七零八落</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">高兴</Keywords>
+            <E_conjunction start="-1" position="29" next_position="29" modifier_word_position="30" modifier_word_length="5" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>坐飞机</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="这是我平生第一次坐飞机，没飞，比飞了还高兴。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>这/r  是/v  我/r  平生/n  第一/m  次/q  坐/v  飞机/n  ，/w  没/d  飞/v  ，/w  比/p  飞/v  了/u  还/d  高兴/a  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">高兴</Keywords>
+            <noword start="-1" position="12" modifier_word_position="13" modifier_word_length="1" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那时，大部分人没坐过飞机，坐飞机是个奢望。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 那时/r  ，/w  大部分/m  人/n  没/d  坐/v  过/u  飞机/n  ，/w  坐/v  飞机/n  是/v  个/q  奢望/n  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">奢望</Keywords>
+            <noword start="-1" position="7" modifier_word_position="8" modifier_word_length="2" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="甭说坐，连看见天上的飞机都极为兴奋，把个脖子仰到酸了为止。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 甭/v  说/v  坐/v  ，/w  连/u  看见/v  天上/s  的/u  飞机/n  都/d  极为/d  兴奋/a  ，/w  把/p  个/q  脖子/n  仰/v  到/v  酸/a  了/u  为止/u  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">兴奋</Keywords>
+            <degree_adv start="-1" position="13" modifier_word_position="15" modifier_word_length="2" end="-1">极为</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="父亲是空军，让我能有机会近距离地接触飞机，显得很牛。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 父亲/n  是/v  空军/n  ，/w  让/v  我能/n  有/v  机会/n  近/v  距离/n  地/u  接触/v  飞机/n  ，/w  显得/v  很/d  牛/a  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">牛</Keywords>
+            <degree_adv start="-1" position="23" modifier_word_position="24" modifier_word_length="1" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.5</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>坐飞机</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="奇怪的是我怎么也想不起我第一次坐飞机上天的情景，反而是小时候没飞的飞机印象深刻。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>奇怪/v  的/u  是/v  我/r  怎么/r  也/d  想/v  不/d  起/v  我/r  第一/m  次/q  坐/v  飞机/n  上天/v  的/u  情景/n  ，/w  反而/d  是/v  小时候/t  没/d  飞/v  的/u  飞机/n  印象/n  深刻/a  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.5" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">奇怪</Keywords>
+            <noword start="8" position="8" modifier_word_position="21" modifier_word_length="2" end="10">想</noword>
+            <noword start="-1" position="30" modifier_word_position="31" modifier_word_length="1" end="-1">没</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.5</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="努力回想早期坐飞机声响巨大，轰鸣声让人无法在机内说话，似乎只有巨大的轰鸣声才显出飞机的伟大，飞行的壮烈。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 努力/ad  回想/v  早期/f  坐/v  飞机/n  声响/n  巨大/a  ，/w  轰鸣声/n  让/v  人/n  无法/v  在/p  机内/n  说话/v  ，/w  似乎/d  只/d  有/v  巨大/a  的/u  轰鸣声/n  才/d  显出/v  飞机/n  的/u  伟大/a  ，/w  飞行/v  的/u  壮烈/a  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">努力</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">壮烈</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>飞行</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="人类一直渴望象鸟一样飞行，至今还没有完成这一简单设想。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>人类/n  一直/d  渴望/v  象/v  鸟/n  一样/a  飞行/vn  ，/w  至今/d  还/d  没有/d  完成/v  这/r  一/m  简单/a  设想/vn  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">渴望</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">设想</Keywords>
+            <noword start="-1" position="16" modifier_word_position="18" modifier_word_length="1" end="-1">没有</noword>
+            <Rhetoric E_type="期待">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="我们今天的上天，是一种异样飞行，不扇动翅膀，全凭一股蛮劲，所以今天最先进的飞机也不能彻底抵御突如其来的气流。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 我们/r  今天/t  的/u  上天/n  ，/w  是/v  一/m  种/q  异样/n  飞行/v  ，/w  不/d  扇动/v  翅膀/n  ，/w  全/a  凭/p  一/m  股/q  蛮劲/n  ，/w  所以/c  今天/t  最/d  先进/a  的/u  飞机/n  也/d  不/d  能/v  彻底/ad  抵御/v  突如其来/i  的/u  气流/n  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">蛮劲</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">先进</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0.2" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">突如其来</Keywords>
+            <degree_adv start="-1" position="33" modifier_word_position="34" modifier_word_length="2" end="-1">最</degree_adv>
+            <noword start="-1" position="16" modifier_word_position="17" modifier_word_length="2" end="-1">不</noword>
+            <noword start="-1" position="40" modifier_word_position="44" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="29" next_position="29" modifier_word_position="31" modifier_word_length="22" end="-1">所以</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="一遇气流颠簸，把人吓个半死；而鸟呢，上下翻飞，一副蔑视自然的态度。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 一/m  遇/v  气流/n  颠簸/v  ，/w  把/p  人/n  吓/v  个/q  半死/n  ；/w  而/c  鸟/n  呢/y  ，/w  上下/f  翻飞/v  ，/w  一/m  副/q  蔑视/b  自然/n  的/u  态度/n  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">颠簸</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">蔑视</Keywords>
+            <E_phrase start="9" position="9" end="12" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">吓</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.4</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="每次坐飞机，我都对我们人类的聪明才智由衷钦佩，这么大的家伙居然翅膀不动就腾空而起；我曾在天上设想过，如果透窗看去，飞机在象鸟一样扇动翅膀，也是非常吓人的举动。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>每次/r  坐/v  飞机/n  ，/w  我/r  都/d  对/p  我们/r  人类/n  的/u  聪明才智/i  由衷/d  钦佩/v  ，/w  这么/r  大/a  的/u  家伙/n  居然/d  翅膀/n  不/d  动/v  就/d  腾空而起/v  ；/w  我曾/n  在/p  天上/s  设想/v  过/u  ，/w  如果/c  透/v  窗/Ng  看/v  去/v  ，/w  飞机/n  在/p  象/ns  鸟/n  一样/a  扇动/v  翅膀/n  ，/w  也/d  是/v  非常/d  吓人/a  的/u  举动/n  。</Segmented_S>
+            <S_Length>79</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">聪明才智</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">钦佩</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">腾空而起</Keywords>
+            <Keywords start="-1" position="73" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">吓人</Keywords>
+            <degree_adv start="-1" position="71" modifier_word_position="73" modifier_word_length="2" end="-1">非常</degree_adv>
+            <noword start="-1" position="33" modifier_word_position="34" modifier_word_length="2" end="-1">不</noword>
+            <Rhetoric E_type="焦虑">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

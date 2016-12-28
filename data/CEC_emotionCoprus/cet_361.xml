@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.6</Joy>
+    <Hate>0.5</Hate>
+    <Love>0.6</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.9</Expect>
+    <Topic>胸襟 情怀 负责任</Topic>
+    <title T="大国不是用来自豪的">
+        <Segmented_S>大国/n  不/d  是/v  用/p  来自/v  豪/n  的/u</Segmented_S>
+        <S_Length>9</S_Length>
+        <Keywords start="6" position="5" end="7" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">来自</Keywords>
+        <noword start="2" position="2" modifier_word_position="6" modifier_word_length="2" end="3">不</noword>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.7</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>打击海盗</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="安理会索马里海盗问题部长级会议上，中国表示正积极考虑近期派军舰赴索马里海域参加护航活动。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>安理会/j  索马里/ns  海盗/n  问题/n  部长级/b  会议/n  上/f  ，/w  中国/ns  表示/v  正/d  积极/ad  考虑/v  近期/t  派/v  军舰/n  赴/v  索马里/ns  海域/n  参加/v  护航/v  活动/vn  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">海盗</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">考虑</Keywords>
+            <degree_adv start="-1" position="22" modifier_word_position="24" modifier_word_length="2" end="-1">积极</degree_adv>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="这一消息证实了近段时间中国海军将赴索马里打击海盗的传言。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 这/r  一/m  消息/n  证实/v  了/u  近/v  段/m  时间/q  中国/ns  海军/n  将/d  赴/v  索马里/ns  打击/v  海盗/n  的/u  传言/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">打击</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">海盗</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.4</Love>
+        <Sorrow>0.3</Sorrow>
+        <Anxiety>0.3</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>责任</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="　　索马里海域海盗活动猖獗，危及世界贸易秩序，损害全球各国利益，中国也深受其害，其中包括中国海运人员生命安全受到安全威胁和损伤、货物运输难获正常保证等等。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>　/n  　/v  索马里/ns  海域/n  海盗/n  活动/vn  猖獗/a  ，/w  危及/v  世界/n  贸易/vn  秩序/n  ，/w  损害/v  全球/n  各国/r  利益/n  ，/w  中国/ns  也/d  深受/v  其/r  害/n  ，/w  其中/r  包括/v  中国/ns  海运/v  人员/n  生命/n  安全/a  受到/v  安全/a  威胁/vn  和/c  损伤/v  、/w  货物/n  运输/vn  难/a  获/v  正常/a  保证/vn  等等/u  。</Segmented_S>
+            <S_Length>77</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">海盗</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0.7" Anger="0">猖獗</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">危及</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">损害</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">利益</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">深受</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">害</Keywords>
+            <Keywords start="-1" position="58" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">威胁</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">损伤</Keywords>
+            <Keywords start="-1" position="68" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">难</Keywords>
+            <Keywords start="-1" position="70" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">正常</Keywords>
+            <E_conjunction start="-1" position="40" next_position="40" modifier_word_position="42" modifier_word_length="34" end="-1">其中</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="但中国参与打击索马里海域的海盗活动，与其说是基于自身利益所受到的损害，不如说是由于自身的发展，越来越多地明白了大国的责任。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 但/c  中国/ns  参与/v  打击/v  索马里/ns  海域/n  的/u  海盗/n  活动/vn  ，/w  与其/c  说是/v  基于/p  自身/r  利益/n  所/u  受到/v  的/u  损害/vn  ，/w  不如/c  说是/v  由于/p  自身/r  的/u  发展/vn  ，/w  越来越/d  多/a  地/u  明白/v  了/u  大国/n  的/u  责任/n  。</Segmented_S>
+            <S_Length>61</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">参与</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">打击</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">海盗</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">利益</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0.6" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">损害</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">发展</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">明白</Keywords>
+            <degree_adv start="-1" position="47" modifier_word_position="50" modifier_word_length="2" end="-1">越来越</degree_adv>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="16" end="-1">但</E_conjunction>
+            <E_conjunction start="-1" position="18" next_position="35" modifier_word_position="20" modifier_word_length="14" end="-1">与其</E_conjunction>
+            <E_conjunction start="-1" position="35" next_position="18" modifier_word_position="37" modifier_word_length="9" end="-1">不如</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.3</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="　　现在，在联合国维和行动、国际慈善和救济活动等事务中已经有中国的身影，参与打击索马里海盗，可视为中国在联合国框架内积极维护世界秩序的开端。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>　/n  　/v  现在/t  ，/w  在/p  联合国/nt  维和/j  行动/vn  、/w  国际/n  慈善/a  和/c  救济/n  活动/vn  等/u  事务/n  中/f  已经/d  有/v  中国/ns  的/u  身影/n  ，/w  参与/v  打击/v  索马里/ns  海盗/n  ，/w  可/v  视为/v  中国/ns  在/p  联合国/nt  框架/n  内/f  积极/ad  维护/v  世界/n  秩序/n  的/u  开端/n  。</Segmented_S>
+            <S_Length>70</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">慈善</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">救济</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">参与</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">打击</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">海盗</Keywords>
+            <Keywords start="-1" position="60" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">维护</Keywords>
+            <degree_adv start="-1" position="58" modifier_word_position="0" modifier_word_length="1" end="-1">积极</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.4</Anger>
+        <Expect>0.7</Expect>
+        <Topic>负责任</Topic>
+        <Summarize_Sentences>5</Summarize_Sentences>
+        <sentence S="　　近代以来，中国人对国际事务的理解，经历了从屈辱到站立的转变。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>　　/n  近代/t  以来/f  ，/w  中国/ns  人/n  对/p  国际/n  事务/n  的/u  理解/vn  ，/w  经历/v  了/u  从/p  屈辱/n  到/v  站立/v  的/u  转变/vn  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">屈辱</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0.7" Anxiety="0" Anger="0">转变</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="屈辱的历史，给一个国家在跨国事务中的存在几乎赋予了“到处插手”的固定意义。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 屈辱/n  的/u  历史/n  ，/w  给/p  一个/m  国家/n  在/p  跨国/b  事务/n  中的/n  存在/v  几乎/d  赋予/v  了/u  “/w  到处/d  插手/v  ”/w  的/u  固定/a  意义/n  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">屈辱</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0.6">插手</Keywords>
+            <degree_adv start="-1" position="20" modifier_word_position="22" modifier_word_length="2" end="-1">几乎</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="悲伤">“”</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="三十年前的一段时期，中国人在“支援世界革命”的意义上理解国际秩序，我们要“支援世界革命”，以反对大国“到处插手”。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 三十/m  年/q  前/f  的/u  一/m  段/q  时期/n  ，/w  中国/ns  人/n  在/p  “/w  支援/v  世界/n  革命/vn  ”/w  的/u  意义上/n  理解/v  国际/n  秩序/n  ，/w  我们/r  要/v  “/w  支援/v  世界/n  革命/vn  ”/w  ，/w  以/p  反对/v  大国/n  “/w  到处/d  插手/v  ”/w  。</Segmented_S>
+            <S_Length>57</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0.5" Anxiety="0" Anger="0">支援</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">革命</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">理解</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">要</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0.5" Anxiety="0" Anger="0">支援</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">反对</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0.5">插手</Keywords>
+            <degree_adv start="-1" position="51" modifier_word_position="53" modifier_word_length="2" end="-1">到处</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="近三十年间，中国注重自身发展，同时反对大国“到处插手”。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 近/a  三十/m  年/q  间/f  ，/w  中国/ns  注重/v  自身/r  发展/v  ，/w  同时/c  反对/v  大国/n  “/w  到处/d  插手/v  ”/w  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0.6" Anxiety="0" Anger="0">发展</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0.5">反对</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0.4">插手</Keywords>
+            <degree_adv start="-1" position="22" modifier_word_position="24" modifier_word_length="2" end="-1">到处</degree_adv>
+            <E_conjunction start="-1" position="15" next_position="15" modifier_word_position="17" modifier_word_length="9" end="-1">同时</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“”</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="进入新世纪以来，随着作为一个新兴经济体而迅速成长，中国越来越多地参与全球事务，“负责任的大国”成为中国在国际事务中必须担当的角色。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 进入/v  新世纪/n  以来/f  ，/w  随着/p  作为/v  一个/m  新兴/b  经济体/n  而/c  迅速/ad  成长/v  ，/w  中国/ns  越来越/d  多/a  地/u  参与/v  全球/n  事务/n  ，/w  “/w  负责任/n  的/u  大国/n  ”/w  成为/v  中国/ns  在/p  国际/n  事务/n  中/f  必须/d  担当/v  的/u  角色/n  。</Segmented_S>
+            <S_Length>65</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">新兴</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">成长</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">参与</Keywords>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">必须</Keywords>
+            <degree_adv start="-1" position="20" modifier_word_position="22" modifier_word_length="2" end="-1">迅速</degree_adv>
+            <degree_adv start="-1" position="27" modifier_word_position="30" modifier_word_length="1" end="-1">越来越</degree_adv>
+            <E_phrase start="0" position="40" end="0" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">负责任</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+        <Topic>权利主体</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="　　在相当一部分人的头脑里，大国一直是一种可以带给国民以荣耀的称号。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>　　/n  在/p  相当/d  一部分/m  人/n  的/u  头脑/n  里/f  ，/w  大国/n  一直/d  是/v  一/m  种/q  可以/v  带/v  给/p  国民/n  以/p  荣耀/a  的/u  称号/n  。</Segmented_S>
+            <S_Length>34</S_Length>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="p" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">给</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">荣耀</Keywords>
+            <degree_adv start="-1" position="3" modifier_word_position="5" modifier_word_length="3" end="-1">相当</degree_adv>
+            <degree_adv start="-1" position="16" modifier_word_position="18" modifier_word_length="2" end="-1">一直</degree_adv>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="成为世界公认的大国或者成为名副其实的大国，因而成为许多人内心自豪感的源泉。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 成为/v  世界/n  公认/v  的/u  大国/n  或者/c  成为/v  名副其实/i  的/u  大国/n  ，/w  因而/c  成为/v  许多/m  人/n  内心/n  自豪感/n  的/u  源泉/n  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">成为</Keywords>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">公认</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">成为</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">名副其实</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">成为</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0.3" Anxiety="0" Anger="0">自豪感</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">源泉</Keywords>
+            <E_conjunction start="-1" position="21" next_position="21" modifier_word_position="23" modifier_word_length="13" end="-1">因而</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="但实际上，大国不应当是国民自豪感的来源，世界上无论大国小国，国民一样可以拥有自豪感，国民自豪感的来源，在于国家是否能够让公民作为权利主体获得自由发展。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 但/c  实际上/d  ，/w  大国/n  不/d  应当/v  是/v  国民/n  自豪感/n  的/u  来源/n  ，/w  世界/n  上/f  无论/c  大国/n  小国/n  ，/w  国民/n  一样/a  可以/v  拥有/v  自豪感/n  ，/w  国民/n  自豪感/n  的/u  来源/n  ，/w  在于/v  国家/n  是否/v  能够/v  让/v  公民/n  作为/v  权利/n  主体/n  获得/v  自由/a  发展/vn  。</Segmented_S>
+            <S_Length>75</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">应当</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">自豪感</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">可以</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">拥有</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">自豪感</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">自豪感</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">是否</Keywords>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">能够</Keywords>
+            <Keywords start="-1" position="64" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">权利</Keywords>
+            <Keywords start="-1" position="68" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">获得</Keywords>
+            <Keywords start="-1" position="70" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">自由</Keywords>
+            <Keywords start="-1" position="72" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">发展</Keywords>
+            <noword start="-1" position="7" modifier_word_position="8" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="18" end="-1">但</E_conjunction>
+            <E_conjunction start="-1" position="23" next_position="23" modifier_word_position="25" modifier_word_length="4" end="-1">无论</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>贡献</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="　　大国不是供自豪用的，而是一种责任。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>　　/n  大国/n  不/d  是/v  供/v  自豪/a  用的/n  ，/w  而/c  是/v  一/m  种/q  责任/n  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">自豪</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">责任</Keywords>
+            <E_conjunction start="-1" position="4" next_position="12" modifier_word_position="6" modifier_word_length="5" end="-1">不</E_conjunction>
+            <E_conjunction start="12" position="12" next_position="4" modifier_word_position="14" modifier_word_length="4" end="13">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="一个大国，首先自身应当体现道义，并能够主持国际道义。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 一个/m  大国/n  ，/w  首先/c  自身/r  应当/v  体现/v  道义/n  ，/w  并/c  能够/v  主持/v  国际/n  道义/n  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">应当</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">道义</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">能够</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">道义</Keywords>
+            <E_conjunction start="-1" position="5" next_position="5" modifier_word_position="7" modifier_word_length="8" end="-1">首先</E_conjunction>
+            <E_conjunction start="-1" position="16" next_position="16" modifier_word_position="17" modifier_word_length="7" end="-1">并</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="真正的大国，应有普世价值的坚持，而非助长“拳头真理论”，应当对世界承担起应有的义务，为维护世界和平、秩序和发展作出贡献。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 真正/d  的/u  大国/n  ，/w  应/v  有/v  普/n  世/Ng  价值/n  的/u  坚持/v  ，/w  而/c  非/Vg  助长/h  “/w  拳头/n  真理/n  论/Ng  ”/w  ，/w  应当/v  对/p  世界/n  承担/v  起/v  应有/v  的/u  义务/n  ，/w  为/p  维护/v  世界/n  和平/a  、/w  秩序/n  和/c  发展/v  作出/v  贡献/n  。</Segmented_S>
+            <S_Length>60</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">应</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">价值</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">坚持</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="h" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0.0">助长</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">真理</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">应当</Keywords>
+            <Keywords start="-1" position="33" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">承担</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">应有</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">义务</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">维护</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">和平</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">发展</Keywords>
+            <Keywords start="-1" position="57" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">贡献</Keywords>
+            <degree_adv start="-1" position="0" modifier_word_position="3" modifier_word_length="2" end="-1">真正</degree_adv>
+            <noword start="-1" position="17" modifier_word_position="18" modifier_word_length="2" end="-1">非</noword>
+            <E_conjunction start="-1" position="16" next_position="16" modifier_word_position="17" modifier_word_length="9" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.4</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>履行 责任</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="　　大国之所以必须履行责任，在于大国比小国有更大的尽责能力，这种能力基于国家实力，但不是国家实力的炫耀、挥霍与任意作为。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>　　/n  大国/n  之所以/c  必须/d  履行/v  责任/n  ，/w  在于/v  大国/n  比/p  小/a  国有/vn  更/d  大/a  的/u  尽责/a  能力/n  ，/w  这种/r  能力/n  基于/p  国家/n  实力/n  ，/w  但/c  不/d  是/v  国家/n  实力/n  的/u  炫耀/n  、/w  挥霍/v  与/p  任意/d  作为/v  。</Segmented_S>
+            <S_Length>60</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">必须</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">履行</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">能力</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">能力</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">实力</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">实力</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">炫耀</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">挥霍</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0.4" Anger="0">任意</Keywords>
+            <degree_adv start="-1" position="22" modifier_word_position="23" modifier_word_length="1" end="-1">更</degree_adv>
+            <noword start="42" position="42" modifier_word_position="49" modifier_word_length="10" end="43">不</noword>
+            <E_conjunction start="-1" position="4" next_position="4" modifier_word_position="7" modifier_word_length="6" end="-1">之所以</E_conjunction>
+            <E_conjunction start="-1" position="14" next_position="14" modifier_word_position="16" modifier_word_length="13" end="-1">在于</E_conjunction>
+            <E_conjunction start="-1" position="41" next_position="41" modifier_word_position="42" modifier_word_length="17" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="一个国家作为大国而存在，必然对国际秩序有着更大的关注。">
+            <S_no>第7段第2句标注</S_no>
+            <Segmented_S> 一个/m  国家/n  作为/v  大国/n  而/c  存在/v  ，/w  必然/d  对/p  国际/n  秩序/n  有/v  着/u  更/d  大/a  的/u  关注/vn  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">存在</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">关注</Keywords>
+            <degree_adv start="-1" position="21" modifier_word_position="22" modifier_word_length="1" end="-1">更</degree_adv>
+            <E_conjunction start="-1" position="12" next_position="12" modifier_word_position="14" modifier_word_length="12" end="-1">必然</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="维护正常国际秩序，既是世界的利益，也是大国利益之所系。">
+            <S_no>第7段第3句标注</S_no>
+            <Segmented_S> 维护/v  正常/a  国际/n  秩序/n  ，/w  既/c  是/v  世界/n  的/u  利益/n  ，/w  也/d  是/v  大国/n  利益/n  之/u  所/u  系/v  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">维护</Keywords>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">正常</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">利益</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">利益</Keywords>
+            <E_conjunction start="-1" position="9" next_position="17" modifier_word_position="10" modifier_word_length="6" end="-1">既</E_conjunction>
+            <E_conjunction start="-1" position="17" next_position="9" modifier_word_position="18" modifier_word_length="8" end="-1">也</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="中国作为一个大国而存在的时间越长，国人当能更多地理解承担责任与“到处插手”的区别。">
+            <S_no>第7段第4句标注</S_no>
+            <Segmented_S> 中国/ns  作为/p  一个/m  大国/n  而/c  存在/v  的/u  时间/n  越长/v  ，/w  国人/n  当/v  能/v  更/d  多/a  地/u  理解/v  承担/v  责任/n  与/c  “/w  到处/d  插手/v  ”/w  的/u  区别/n  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">存在</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">能</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">理解</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">承担</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">插手</Keywords>
+            <degree_adv start="-1" position="21" modifier_word_position="22" modifier_word_length="1" end="-1">更</degree_adv>
+            <degree_adv start="-1" position="32" modifier_word_position="34" modifier_word_length="2" end="-1">到处</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“”</punctuation>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="如同中国海军参与打击索马里海域的海盗，不必冠名为“插手索马里事务”，而是以积极方式维护国际海运秩序，中国海运安全，不在国际海运安全之外，而是国际海运安全的一个部分、一个体现。">
+            <S_no>第7段第5句标注</S_no>
+            <Segmented_S> 如同/v  中国/ns  海军/n  参与/v  打击/v  索马里/ns  海域/n  的/u  海盗/n  ，/w  不必/d  冠/v  名/Ng  为/v  “/w  插手/v  索马里/ns  事务/n  ”/w  ，/w  而是/c  以/p  积极/a  方式/n  维护/v  国际/n  海运/vn  秩序/n  ，/w  中国/ns  海运/v  安全/a  ，/w  不/d  在/v  国际/n  海运/vn  安全/an  之/u  外/f  ，/w  而/c  是/v  国际/n  海运/vn  安全/an  的/u  一个/m  部分/m  、/w  一个/m  体现/v  。</Segmented_S>
+            <S_Length>87</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.7">打击</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">海盗</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">插手</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">积极</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">维护</Keywords>
+            <Keywords start="-1" position="54" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">安全</Keywords>
+            <Keywords start="-1" position="63" end="-1" Surprise="0" Sorrow="0" POS="an" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">安全</Keywords>
+            <Keywords start="-1" position="74" end="-1" Surprise="0" Sorrow="0" POS="an" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">安全</Keywords>
+            <noword start="-1" position="19" modifier_word_position="21" modifier_word_length="2" end="-1">不必</noword>
+            <E_conjunction start="-1" position="34" next_position="34" modifier_word_position="36" modifier_word_length="20" end="-1">而是</E_conjunction>
+            <E_conjunction start="-1" position="57" next_position="57" modifier_word_position="58" modifier_word_length="9" end="-1">不</E_conjunction>
+            <E_conjunction start="-1" position="68" next_position="68" modifier_word_position="69" modifier_word_length="17" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第8段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.4</Anger>
+        <Expect>0.8</Expect>
+        <Topic>君子</Topic>
+        <Summarize_Sentences>8</Summarize_Sentences>
+        <sentence S="　　作为一个大国而存在，需要对世界上其他大国有正常的认识。">
+            <S_no>第8段第1句标注</S_no>
+            <Segmented_S>　/n  　/v  作为/p  一个/m  大国/n  而/c  存在/v  ，/w  需要/v  对/p  世界/n  上/f  其他/r  大国/n  有/v  正常/a  的/u  认识/n  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">存在</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">需要</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="任何一个大国都有对世界秩序的设想，也有其承担责任的义务与需要。">
+            <S_no>第8段第2句标注</S_no>
+            <Segmented_S> 任何/r  一个/m  大国/n  都/d  有对/v  世界/n  秩序/n  的/u  设想/vn  ，/w  也/d  有/v  其/r  承担/v  责任/n  的/u  义务/n  与/p  需要/v  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">设想</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">承担</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">义务</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">需要</Keywords>
+            <E_conjunction start="-1" position="17" next_position="17" modifier_word_position="18" modifier_word_length="12" end="-1">也</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="大国之间各有利益，但更多的是共同利益。">
+            <S_no>第8段第3句标注</S_no>
+            <Segmented_S> 大国/n  之/u  间/f  各/r  有/v  利益/n  ，/w  但/c  更/d  多/a  的/u  是/v  共同/b  利益/n  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">利益</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">利益</Keywords>
+            <degree_adv start="-1" position="10" modifier_word_position="11" modifier_word_length="2" end="-1">更</degree_adv>
+            <E_conjunction start="-1" position="9" next_position="9" modifier_word_position="10" modifier_word_length="8" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.5</Expect>
+        </sentence>
+        <sentence S="大国应当是维护世界和平、秩序与发展的伙伴，而不是挑动世界动荡的根源，或者共同欺压小国的寡头关系。">
+            <S_no>第8段第4句标注</S_no>
+            <Segmented_S> 大国/n  应当/v  是/v  维护/v  世界/n  和平/a  、/w  秩序/n  与/c  发展/vn  的/u  伙伴/n  ，/w  而/c  不/d  是/v  挑动/n  世界/n  动荡/a  的/u  根源/n  ，/w  或者/c  共同/d  欺压/v  小国/n  的/u  寡头/n  关系/v  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">应当</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">维护</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">和平</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">发展</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">动荡</Keywords>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">欺压</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">寡头</Keywords>
+            <degree_adv start="-1" position="36" modifier_word_position="38" modifier_word_length="2" end="-1">共同</degree_adv>
+            <noword start="-1" position="22" modifier_word_position="24" modifier_word_length="2" end="-1">不</noword>
+            <E_conjunction start="-1" position="21" next_position="21" modifier_word_position="22" modifier_word_length="25" end="-1">而</E_conjunction>
+            <E_conjunction start="-1" position="34" next_position="34" modifier_word_position="36" modifier_word_length="11" end="-1">或者</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="大国之间和大国自身，行为都应当基于理性而非冲动的热血。">
+            <S_no>第8段第5句标注</S_no>
+            <Segmented_S> 大国/n  之/u  间/f  和/c  大国/n  自身/r  ，/w  行为/n  都/d  应当/v  基于/p  理性/n  而/c  非/Vg  冲动/a  的/u  热血/n  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">应当</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">理性</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0.6" Anger="0">冲动</Keywords>
+            <degree_adv start="-1" position="12" modifier_word_position="13" modifier_word_length="2" end="-1">都</degree_adv>
+            <noword start="-1" position="20" modifier_word_position="21" modifier_word_length="5" end="-1">非</noword>
+            <E_conjunction start="-1" position="19" next_position="19" modifier_word_position="20" modifier_word_length="6" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="套用中国古代的说法，大国应当体现王道而不是霸道，比喻并不贴切，意思差可理会。">
+            <S_no>第8段第6句标注</S_no>
+            <Segmented_S> 套用/v  中国/ns  古代/t  的/u  说法/n  ，/w  大国/n  应当/v  体现/v  王道/n  而/c  不/d  是/v  霸道/v  ，/w  比喻/v  并不/d  贴切/a  ，/w  意思/n  差/a  可/v  理会/v  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">应当</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">体现</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">王道</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">霸道</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">贴切</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0.6" Anxiety="0" Anger="0">理会</Keywords>
+            <noword start="19" position="19" modifier_word_position="21" modifier_word_length="2" end="20">不</noword>
+            <noword start="27" position="26" modifier_word_position="0" modifier_word_length="1" end="27">并不</noword>
+            <E_conjunction start="-1" position="18" next_position="18" modifier_word_position="19" modifier_word_length="4" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="大国之大，不在于以力压人，而在于以力助人，助人就是助己。">
+            <S_no>第8段第7句标注</S_no>
+            <Segmented_S> 大国/n  之/u  大/a  ，/w  不/d  在于/v  以/p  力/n  压/v  人/n  ，/w  而/c  在于/v  以/p  力/n  助人/v  ，/w  助人/v  就/d  是/v  助/v  己/r  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">压</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">助人</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">助人</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">助</Keywords>
+            <E_conjunction start="0" position="5" next_position="5" modifier_word_position="6" modifier_word_length="6" end="0">不</E_conjunction>
+            <E_conjunction start="0" position="13" next_position="13" modifier_word_position="14" modifier_word_length="13" end="0">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+        <sentence S="大国是勇健谦和的君子，而非武艺高强的泼皮。">
+            <S_no>第8段第8句标注</S_no>
+            <Segmented_S> 大国/n  是/v  勇健/n  谦和/a  的/u  君子/n  ，/w  而/c  非/Vg  武艺高强/h  的/u  泼皮/n  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">勇健</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">谦和</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">君子</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="h" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">武艺高强</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">泼皮</Keywords>
+            <noword start="-1" position="12" modifier_word_position="13" modifier_word_length="7" end="-1">非</noword>
+            <E_conjunction start="-1" position="11" next_position="11" modifier_word_position="12" modifier_word_length="8" end="-1">而</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第9段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.4</Anger>
+        <Expect>0.8</Expect>
+        <Topic>胸襟 情怀</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="　　作为大国的公民，不应该由国家之大而增加睥睨天下的底气、豪霸天下的雄心，而是由国家的成长而增加担当道义的胸襟、理解世界的情怀。">
+            <S_no>第9段第1句标注</S_no>
+            <Segmented_S>　/n  　/v  作为/p  大国/n  的/u  公民/n  ，/w  不/d  应该/v  由/p  国家/n  之/u  大/a  而/c  增加/v  睥睨/m  天下/n  的/u  底气/n  、/w  豪/n  霸/Ng  天下/n  的/u  雄心/n  ，/w  而是/c  由/p  国家/n  的/u  成长/vn  而/c  增加/v  担当/v  道义/n  的/u  胸襟/n  、/w  理解/v  世界/n  的/u  情怀/n  。</Segmented_S>
+            <S_Length>64</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">应该</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="m" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.6">睥睨</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">雄心</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">成长</Keywords>
+            <Keywords start="-1" position="50" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">道义</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">胸襟</Keywords>
+            <Keywords start="-1" position="56" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">理解</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">情怀</Keywords>
+            <E_conjunction start="-1" position="10" next_position="10" modifier_word_position="11" modifier_word_length="25" end="-1">不</E_conjunction>
+            <E_conjunction start="-1" position="18" next_position="18" modifier_word_position="19" modifier_word_length="17" end="-1">而</E_conjunction>
+            <E_conjunction start="-1" position="37" next_position="37" modifier_word_position="39" modifier_word_length="24" end="-1">而是</E_conjunction>
+            <E_conjunction start="-1" position="45" next_position="45" modifier_word_position="46" modifier_word_length="17" end="-1">而</E_conjunction>
+            <E_phrase start="29" position="29" end="32" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">豪</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="国家的强也好，大也好，根本上讲，不是国民自豪感的来源，国民自豪感的来源在于国家在国民手中，并服务于国民的成长。">
+            <S_no>第9段第2句标注</S_no>
+            <Segmented_S> 国家/n  的/u  强/a  也/d  好/a  ，/w  大/d  也好/v  ，/w  根本/d  上/v  讲/v  ，/w  不/d  是/v  国民/n  自豪感/n  的/u  来源/n  ，/w  国民/n  自豪感/n  的/u  来源/n  在于/v  国家/n  在/p  国民/n  手中/s  ，/w  并/c  服务于/v  国民/n  的/u  成长/vn  。</Segmented_S>
+            <S_Length>55</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">强</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="9" position="8" end="9" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">也好</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">自豪感</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">自豪感</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">服务于</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0.6" Anxiety="0" Anger="0">成长</Keywords>
+            <noword start="16" position="16" modifier_word_position="18" modifier_word_length="8" end="17">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="健全的大国国民，首先在于心智的成熟，既有承担的勇气，又去除狂躁的态度，能够基于普遍道义并中和地看待本国的利益，理性地与世界交往，而不是在一触即跳的夸张反应中翻滚。">
+            <S_no>第9段第3句标注</S_no>
+            <Segmented_S> 健全/v  的/u  大国/n  国民/n  ，/w  首先/c  在于/v  心智/n  的/u  成熟/a  ，/w  既/c  有/v  承担/v  的/u  勇气/n  ，/w  又/c  去除/v  狂躁/n  的/u  态度/n  ，/w  能够/v  基于/p  普遍/ad  道义/v  并/c  中/f  和/c  地/u  看待/v  本国/r  的/u  利益/n  ，/w  理性/n  地/u  与/p  世界/n  交往/v  ，/w  而/c  不/d  是/v  在/p  一触/n  即/d  跳/v  的/u  夸张/n  反应/v  中/j  翻滚/j  。</Segmented_S>
+            <S_Length>81</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0.0" Anxiety="0" Anger="0">健全</Keywords>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">成熟</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">勇气</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0.0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">狂躁</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0.5" Anxiety="0" Anger="0">能够</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">道义</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">利益</Keywords>
+            <Keywords start="-1" position="55" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">理性</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">交往</Keywords>
+            <Keywords start="-1" position="78" end="-1" Surprise="0" Sorrow="0" POS="j" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">翻滚</Keywords>
+            <noword start="65" position="65" modifier_word_position="78" modifier_word_length="2" end="66">不</noword>
+            <E_conjunction start="-1" position="8" next_position="8" modifier_word_position="10" modifier_word_length="70" end="0">首先</E_conjunction>
+            <E_conjunction start="-1" position="18" next_position="26" modifier_word_position="19" modifier_word_length="6" end="-1">既</E_conjunction>
+            <E_conjunction start="-1" position="26" next_position="18" modifier_word_position="27" modifier_word_length="7" end="-1">又</E_conjunction>
+            <E_conjunction start="-1" position="64" next_position="64" modifier_word_position="65" modifier_word_length="15" end="-1">而</E_conjunction>
+            <E_phrase start="68" position="68" end="71" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0.7" Anger="0">一触</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.5</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+</document>

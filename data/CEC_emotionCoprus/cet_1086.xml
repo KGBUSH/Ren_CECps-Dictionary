@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.4</Hate>
+    <Love>0.7</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>伞</Topic>
+    <title T="伞">
+        <Segmented_S>伞/n</Segmented_S>
+        <S_Length>1</S_Length>
+        <Opinion_Fact>fact</Opinion_Fact>
+        <Polarity>中性</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.4</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>伞</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="伞在雨中是非常诗意的。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>伞/n  在/p  雨中/n  是/v  非常/d  诗意/a  的/u  。</Segmented_S>
+            <S_Length>11</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">诗意</Keywords>
+            <degree_adv start="-1" position="5" modifier_word_position="7" modifier_word_length="2" end="-1">非常</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="六月以来雨天多于晴天，行进的路上偶见红伞下湿漉漉缓行的女孩，让人觉得塞北已同江南。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 六月/t  以来/f  雨天/n  多于/v  晴天/n  ，/w  行进/v  的/u  路上/s  偶/d  见/v  红伞/n  下/f  湿漉漉/v  缓/a  行/v  的/u  女孩/n  ，/w  让/v  人/n  觉得/v  塞北/n  已/d  同/p  江南/s  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="今天阳光普照，骤然高温，车里开着空调，不知车外苦衷。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 今天/t  阳光/n  普照/v  ，/w  骤然/d  高温/n  ，/w  车里/v  开/v  着/u  空调/n  ，/w  不知/v  车/n  外/f  苦衷/n  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">高温</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">苦衷</Keywords>
+            <E_phrase start="2" position="2" end="5" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">阳光</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="忽然眼前一片各色花伞，急行的各类人等，在暴晒下保留一片跟随自己的庇荫。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 忽然/d  眼/n  前/f  一/m  片/q  各色/n  花/v  伞/n  ，/w  急/v  行/a  的/u  各类/r  人/n  等/u  ，/w  在/p  暴晒/n  下/f  保留/v  一/m  片/q  跟随/v  自己/r  的/u  庇荫/n  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0.4" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">忽然</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">暴晒</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">庇荫</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.3</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.5</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>伞的功能</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="伞的功能于是让我诧异。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>伞/n  的/u  功能/n  于/p  是/v  让/v  我/r  诧异/v  。</Segmented_S>
+            <S_Length>11</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0.5" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">诧异</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.5</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="今天的伞更多用来防晒，不象我小时候，伞只用来防雨。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 今天/t  的/u  伞/n  更/d  多/a  用/Ng  来/v  防/v  晒/v  ，/w  不/d  象/v  我/r  小时候/t  ，/w  伞/n  只/d  用来/v  防雨/n  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那时，全国没一个人敢用伞来防晒，怕太阳晒不是身体问题，而是心理问题。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 那时/r  ，/w  全国/n  没/d  一个/m  人/n  敢/v  用/v  伞/n  来/v  防/v  晒/v  ，/w  怕/v  太阳/n  晒/v  不/d  是/v  身体/n  问题/n  ，/w  而是/c  心理/n  问题/n  。</Segmented_S>
+            <S_Length>34</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0.0" Anger="0">敢</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">怕</Keywords>
+            <noword start="-1" position="5" modifier_word_position="9" modifier_word_length="1" end="-1">没</noword>
+            <E_conjunction start="20" position="20" next_position="27" modifier_word_position="22" modifier_word_length="4" end="21">不</E_conjunction>
+            <E_conjunction start="-1" position="27" next_position="20" modifier_word_position="29" modifier_word_length="4" end="-1">而是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="轻则属资产阶级臭思想，重则是反对毛泽东思想；道理很简单，毛主席是我们心中的红太阳。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 轻/a  则/d  属/v  资产/n  阶级/n  臭/a  思想/n  ，/w  重/d  则/d  是/v  反对/v  毛泽东思想/n  ；/w  道理/n  很/d  简单/a  ，/w  毛/nr  主席/n  是/v  我们/r  心中/s  的/u  红太阳/n  。</Segmented_S>
+            <S_Length>41</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">臭</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">反对</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">红太阳</Keywords>
+            <degree_adv start="-1" position="24" modifier_word_position="25" modifier_word_length="2" end="-1">很</degree_adv>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>伞</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="今天的伞五花八门，形制小巧，适合携带，防晒防雨，物尽其用。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>今天/t  的/u  伞/n  五花/v  八/m  门/q  ，/w  形制/n  小巧/a  ，/w  适合/v  携带/v  ，/w  防/v  晒/v  防雨/n  ，/w  物尽/v  其用/n  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="4" position="4" end="7" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">五花</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">小巧</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">适合</Keywords>
+            <Keywords start="24" position="24" end="27" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">物尽</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="早年的伞，竹柄竹骨油布面，毛泽东当年去安源，腋下夹的就是这种油布伞，打开后充满了结构美。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 早年/t  的/u  伞/n  ，/w  竹/Ng  柄竹/n  骨/Ng  油/n  布面/n  ，/w  毛/nr  泽东/nr  当年/t  去/v  安源/ns  ，/w  腋下/v  夹/n  的/u  就/d  是/v  这种/r  油布伞/n  ，/w  打开/v  后/f  充满/v  了/u  结构美/n  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">结构美</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="所以，今天舞台上跳舞女孩手拿的也是这种伞，如拿一把折叠伞一定大煞风景，或者是个小品。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 所以/c  ，/w  今天/t  舞台/n  上/f  跳舞/v  女孩/n  手拿/n  的/u  也/d  是/v  这种/r  伞/n  ，/w  如/v  拿/v  一/m  把/q  折叠伞/n  一定/d  大煞风景/v  ，/w  或者/c  是/v  个/q  小品/n  。</Segmented_S>
+            <S_Length>42</S_Length>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">大煞风景</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="17" end="-1">所以</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这就是我们为什么要坚守文化的原因。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 这/r  就/d  是/v  我们/r  为什么/r  要/v  坚守/v  文化/n  的/u  原因/n  。</Segmented_S>
+            <S_Length>17</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">坚守</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>伞的历史</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="伞的历史很早，但早期并不用来遮风挡雨，起码唐朝以前是这样。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>伞/n  的/u  历史/n  很/d  早/a  ，/w  但/c  早期/f  并不/d  用/v  来/v  遮风挡雨/v  ，/w  起码/v  唐朝/t  以前/f  是/v  这样/r  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">遮风挡雨</Keywords>
+            <degree_adv start="-1" position="4" modifier_word_position="5" modifier_word_length="1" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="7" next_position="7" modifier_word_position="8" modifier_word_length="10" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="书上说唐朝就有伞了，估计还是华盖，仪式所用，要不然在唐诗中我怎么也想不起有关“伞”的记忆？">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 书/n  上/f  说/v  唐朝/t  就/d  有/v  伞/n  了/y  ，/w  估计/v  还是/d  华盖/v  ，/w  仪式/n  所/u  用/v  ，/w  要不然/c  在/p  唐诗/n  中/f  我/r  怎么/r  也/d  想/v  不/d  起/v  有关/p  “/w  伞/n  ”/w  的/u  记忆/n  ？</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">华盖</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="唐诗中都是斗笠，蓑衣，起源于诗经的“何蓑何笠”。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 唐诗/n  中都/n  是/v  斗笠/n  ，/w  蓑衣/v  ，/w  起源/v  于/p  诗经/n  的/u  “/w  何/nr  蓑/nr  何/nr  笠/nr  ”/w  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="孤舟蓑笠翁，独钓寒江雪。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 孤舟/n  蓑笠/v  翁/nr  ，/w  独/d  钓/v  寒江/n  雪/n  。</Segmented_S>
+            <S_Length>12</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="宋朝伞就普及了，我老说中国人今天的生活方式与宋相近，与唐以前相差较远，伞亦如此。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>宋朝/n  伞/v  就/d  普及/v  了/u  ，/w  我/r  老/a  说/v  中国/ns  人/n  今天/t  的/u  生活/vn  方式/n  与/p  宋/nr  相近/nr  ，/w  与/p  唐/nr  以前/nr  相差/f  较/d  远/a  ，/w  伞/n  亦/d  如此/r  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">普及</Keywords>
+            <degree_adv start="-1" position="32" modifier_word_position="33" modifier_word_length="1" end="-1">较</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="伞在宋人眼中不仅仅是防雨工具，还有精神寄托；杨万里的小诗“略略烟痕草许低，初初雨影伞先知”就表达了这层意思。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 伞/n  在/p  宋/nr  人/nr  眼中/n  不仅仅/d  是/v  防/v  雨/n  工具/n  ，/w  还有/v  精神/n  寄托/v  ；/w  杨万里/n  的/u  小诗/n  “/w  略略/n  烟痕/d  草/n  许/nr  低/nr  ，/w  初/d  初/f  雨影/v  伞/n  先知/v  ”/w  就/d  表达/v  了/u  这/r  层/q  意思/n  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">寄托</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

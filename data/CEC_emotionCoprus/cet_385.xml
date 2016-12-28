@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.6</Joy>
+    <Hate>0.4</Hate>
+    <Love>0.6</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.5</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.8</Expect>
+    <Topic>希望 拭目以待</Topic>
+    <title T="有了善始，希望善终">
+        <Segmented_S>有/v  了/u  善始/n  ，/w  希望/v  善终/n</Segmented_S>
+        <S_Length>9</S_Length>
+        <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">善始</Keywords>
+        <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">希望</Keywords>
+        <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">善终</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.5</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.7</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>慈善 捐赠</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="台湾鸿海集团董事长郭台铭，富可敌国，既是商业运作的高手，也是一个娱乐明星。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>台湾/ns  鸿海/n  集团/n  董事长/n  郭/nr  台铭/nr  ，/w  富可敌国/v  ，/w  既/c  是/v  商业/n  运作/v  的/u  高手/n  ，/w  也/d  是/v  一个/m  娱乐/vn  明星/n  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">富可敌国</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">高手</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">明星</Keywords>
+            <E_conjunction start="-1" position="18" next_position="28" modifier_word_position="19" modifier_word_length="8" end="-1">既</E_conjunction>
+            <E_conjunction start="-1" position="28" next_position="18" modifier_word_position="29" modifier_word_length="7" end="-1">也</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="最近他在年近花甲梅开二度，重做新郎的大喜之际，干了件喜上加喜的事，宣布捐出９成财产，用于慈善事业。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 最近/t  他/r  在/p  年近花甲/n  梅开二度/v  ，/w  重做/v  新郎/n  的/u  大喜/n  之际/f  ，/w  干/v  了/u  件/q  喜/v  上/f  加喜/v  的/u  事/n  ，/w  宣布/v  捐/v  出/v  ９/n  成/v  财产/n  ，/w  用于/v  慈善/a  事业/n  。</Segmented_S>
+            <S_Length>49</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">梅开二度</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">大喜</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">慈善</Keywords>
+            <E_phrase start="26" position="26" end="29" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">喜</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="郭台铭俭朴的婚礼和巨额的捐赠，引来一面倒的赞誉，真是一派与人为善者，人人善待之的大好局面。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 郭/nr  台铭/nr  俭朴/v  的/u  婚礼/n  和/c  巨额/b  的/u  捐赠/vn  ，/w  引来/v  一面倒/n  的/u  赞誉/vn  ，/w  真是/v  一派/b  与人为善/i  者/k  ，/w  人人/n  善待/v  之/u  的/u  大好/a  局面/n  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">俭朴</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0.7" Sorrow="0" POS="b" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">巨额</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">捐赠</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">赞誉</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">与人为善</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">善待</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">大好</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="微弱的不同意见，来自上海的台商，认为郭台铭有炒作之嫌，并且指出他的资产已经大幅度缩水，有不少项目资金没有到位。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 微弱/a  的/u  不同/a  意见/n  ，/w  来自/v  上海/ns  的/u  台商/n  ，/w  认为/v  郭/nr  台铭/nr  有/v  炒作/v  之/u  嫌/Ng  ，/w  并且/c  指出/v  他/r  的/u  资产/n  已经/d  大幅度/d  缩水/v  ，/w  有不少/v  项目/n  资金/n  没有/d  到位/v  。</Segmented_S>
+            <S_Length>55</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0.3" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">微弱</Keywords>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">炒作</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">缩水</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">到位</Keywords>
+            <degree_adv start="-1" position="37" modifier_word_position="40" modifier_word_length="2" end="-1">大幅度</degree_adv>
+            <noword start="-1" position="50" modifier_word_position="52" modifier_word_length="2" end="-1">没有</noword>
+            <E_conjunction start="-1" position="27" next_position="27" modifier_word_position="29" modifier_word_length="25" end="-1">并且</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="13" end="-1">台商</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.8</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>可疑</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="经验告诉我们，一面倒或者异口同声的夸奖和贬斥，都很可疑。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>经验/n  告诉我/n  们/k  ，/w  一面倒/v  或者/c  异口/v  同声/n  的/u  夸奖/vn  和/c  贬斥/n  ，/w  都/d  很/d  可疑/a  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">一面倒</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">夸奖</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">贬斥</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">可疑</Keywords>
+            <degree_adv start="-1" position="23" modifier_word_position="24" modifier_word_length="3" end="-1">都</degree_adv>
+            <degree_adv start="-1" position="24" modifier_word_position="25" modifier_word_length="2" end="-1">很</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="远不如“誉满天下，谤亦随之”来得正常。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 远不如/n  “/w  誉满天下/n  ，/w  谤/v  亦/d  随之/d  ”/w  来得/v  正常/a  。</Segmented_S>
+            <S_Length>19</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">誉满天下</Keywords>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">正常</Keywords>
+            <noword start="1" position="0" modifier_word_position="16" modifier_word_length="2" end="2">远不如</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="高兴">“”</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="比尔&#183;盖茨捐出了全部财产，但今日之无量功德，并不能抹去他曾是“微软帝国的暴君，心狠手辣的竞争者，寡廉鲜耻的抄袭者，永不道歉的垄断者”的事实。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 比尔&#183;盖茨/nr  捐/v  出/v  了/u  全部/m  财产/n  ，/w  但/c  今日/t  之/u  无量/n  功德/n  ，/w  并不/d  能/v  抹/v  去/v  他/r  曾/d  是/v  “/w  微软/nt  帝国/n  的/u  暴君/n  ，/w  心狠/v  手辣/n  的/u  竞争者/n  ，/w  寡廉鲜耻/v  的/u  抄袭者/n  ，/w  永不/d  道歉/v  的/u  垄断者/n  ”/w  的/u  事实/n  。</Segmented_S>
+            <S_Length>70</S_Length>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">暴君</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">心狠</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">手辣</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">寡廉鲜耻</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">抄袭者</Keywords>
+            <Keywords start="-1" position="59" end="-1" Surprise="0" Sorrow="0.5" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">道歉</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">垄断者</Keywords>
+            <noword start="23" position="22" modifier_word_position="25" modifier_word_length="2" end="24">并不</noword>
+            <noword start="-1" position="57" modifier_word_position="59" modifier_word_length="2" end="-1">永不</noword>
+            <E_conjunction start="-1" position="13" next_position="13" modifier_word_position="14" modifier_word_length="7" end="-1">但</E_conjunction>
+            <E_phrase start="17" position="17" end="20" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">无量</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="憎恨">“”</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="对郭台铭，也应当作如是观。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 对/p  郭/nr  台铭/nr  ，/w  也/d  应当/v  作如/v  是/v  观/Vg  。</Segmented_S>
+            <S_Length>13</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">应当</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.3</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.8</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.7</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>暴发户 狰狞</Topic>
+        <Summarize_Sentences>2</Summarize_Sentences>
+        <sentence S="郭台铭爆得大名，起于他旗下的企业被指为“血汗工厂”。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>郭/nr  台铭/nr  爆/v  得/u  大名/n  ，/w  起/v  于/p  他/r  旗下/n  的/u  企业/n  被/p  指/v  为/p  “/w  血汗/n  工厂/n  ”/w  。</Segmented_S>
+            <S_Length>26</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">爆</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">血汗</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">“”</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="当时他企图用钞票捆扎成砖头，砸死人的劲头，让我自今历历在目，暴发户嘴脸之狰狞，一时无两。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 当时/t  他/r  企图/v  用/p  钞票/n  捆扎/v  成/v  砖头/n  ，/w  砸死/v  人/n  的/u  劲头/n  ，/w  让/v  我/r  自/r  今/Tg  历历在目/Tg  ，/w  暴发户/v  嘴脸/n  之/u  狰狞/n  ，/w  一时/t  无两/v  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0.3" Anxiety="0" Anger="0">企图</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">砸死</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="Tg" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">历历在目</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">暴发户</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">狰狞</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="当然他的善于审时度势，也确实卓尔不群&#8212;&#8212;血汗工厂风波渐息后，借势以富豪的身份，混迹于娱乐圈，高调出镜，如鱼得水，与商界传统不搭调，现代气息扑鼻，倒也颇显精于算计的风姿。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 当然/d  他/r  的/u  善于/v  审时度势/i  ，/w  也/d  确实/ad  卓尔/v  不/d  群/Ng  &#8212;&#8212;/w  血汗/n  工厂/n  风波/n  渐/d  息/Ng  后/f  ，/w  借/p  势/Ng  以/p  富豪/n  的/u  身份/n  ，/w  混迹/v  于/p  娱乐圈/n  ，/w  高调/v  出/v  镜/Ng  ，/w  如鱼得水/i  ，/w  与/p  商界/n  传统/a  不/d  搭/v  调/v  ，/w  现代/t  气息/n  扑鼻/v  ，/w  倒/d  也/d  颇显/v  精于/n  算计/v  的/u  风姿/n  。</Segmented_S>
+            <S_Length>84</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.3" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">善于</Keywords>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">审时度势</Keywords>
+            <Keywords start="14" position="14" end="17" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">卓尔</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">血汗</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">风波</Keywords>
+            <Keywords start="30" position="30" end="31" Surprise="0" Sorrow="0" POS="p" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0" Anger="0">借</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">混迹</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">高调</Keywords>
+            <Keywords start="-1" position="51" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">如鱼得水</Keywords>
+            <Keywords start="62" position="62" end="63" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">搭</Keywords>
+            <Keywords start="-1" position="78" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">算计</Keywords>
+            <Keywords start="-1" position="81" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">风姿</Keywords>
+            <noword start="-1" position="61" modifier_word_position="62" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="结合他的自负和狂妄，以及自创经营哲学中将人才当奴才之类的传闻，如果他是女性，堪称集天使和魔鬼于一身的“双面娇娃”。">
+            <S_no>第3段第4句标注</S_no>
+            <Segmented_S> 结合/v  他/r  的/u  自负/n  和/c  狂妄/n  ，/w  以及/c  自创/n  经营/v  哲学/n  中/f  将/d  人才/n  当/v  奴才/n  之类/r  的/u  传闻/n  ，/w  如果/c  他/r  是/v  女性/n  ，/w  堪称/v  集/Vg  天使/n  和/c  魔鬼/n  于/p  一身/n  的/u  “/w  双面/b  娇娃/v  ”/w  。</Segmented_S>
+            <S_Length>57</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">自负</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.8" Expect="0" Anxiety="0" Anger="0">狂妄</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">人才</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">奴才</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">天使</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">魔鬼</Keywords>
+            <E_conjunction start="-1" position="10" next_position="10" modifier_word_position="12" modifier_word_length="18" end="-1">以及</E_conjunction>
+            <E_conjunction start="-1" position="31" next_position="31" modifier_word_position="33" modifier_word_length="4" end="-1">如果</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="焦虑">“”</punctuation>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.8</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="如此一来，大喜之日的善举，饱受作秀之讥，也就不奇怪了。">
+            <S_no>第3段第5句标注</S_no>
+            <Segmented_S> 如此/r  一/m  来/v  ，/w  大喜之日/v  的/u  善举/n  ，/w  饱受/v  作/v  秀/Ag  之/u  讥/n  ，/w  也/d  就/d  不/d  奇怪/v  了/y  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.9" Hate="0" Expect="0" Anxiety="0" Anger="0">大喜之日</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">善举</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">饱受</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">奇怪</Keywords>
+            <noword start="-1" position="22" modifier_word_position="23" modifier_word_length="2" end="-1">不</noword>
+            <E_phrase start="15" position="15" end="18" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">作</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.4</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.6</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>拭目以待</Topic>
+        <Summarize_Sentences>7</Summarize_Sentences>
+        <sentence S="其实，只要不触犯法律，作啥秀都是可以容忍的。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>其实/d  ，/w  只/d  要/v  不/d  触犯/v  法律/n  ，/w  作/v  啥/r  秀/Ag  都/d  是/v  可以/v  容忍/v  的/u  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="6" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">触犯</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">容忍</Keywords>
+            <noword start="-1" position="5" modifier_word_position="6" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="作秀常常被人诟病，是在于其内在的不真实。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 作/v  秀/Ag  常常/d  被/p  人/n  诟/v  病/n  ，/w  是/v  在于/v  其/r  内在/b  的/u  不/d  真实/a  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Keywords start="6" position="6" end="7" Surprise="0" Sorrow="0.0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">诟</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">真实</Keywords>
+            <noword start="-1" position="16" modifier_word_position="17" modifier_word_length="2" end="-1">不</noword>
+            <E_phrase start="0" position="0" end="1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">作</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="所以，哪怕郭台铭是要利用捐出大部分财富为自己的婚礼增色，只要他宣布的慈善行为，在未来得以变成现实，质疑他作秀的人就应当感到惭愧。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 所以/c  ，/w  哪怕/c  郭/nr  台铭/nr  是/v  要/v  利用/v  捐/v  出/v  大部分/m  财富/n  为/v  自己/r  的/u  婚礼/n  增色/v  ，/w  只/d  要/v  他/r  宣布/v  的/u  慈善/a  行为/n  ，/w  在/p  未来/t  得以/v  变成/v  现实/n  ，/w  质疑/v  他/r  作秀/v  的/u  人/n  就/d  应当/v  感到/v  惭愧/a  。</Segmented_S>
+            <S_Length>64</S_Length>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.3" Hate="0" Expect="0" Anxiety="0" Anger="0">婚礼</Keywords>
+            <Keywords start="-1" position="25" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">增色</Keywords>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">慈善</Keywords>
+            <Keywords start="-1" position="49" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">质疑</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">作秀</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">惭愧</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="60" end="-1">所以</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="华人世界优秀的慈善传统和业绩举世公认，但富人特别是大陆的富人们的慈善行为离世界先进水平还有很大差距。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 华人/n  世界/n  优秀/a  的/u  慈善/a  传统/a  和/c  业绩/n  举世/n  公认/v  ，/w  但/c  富人/n  特别/d  是/v  大陆/n  的/u  富人/n  们/k  的/u  慈善/a  行为/n  离/v  世界/n  先进/a  水平/n  还有/v  很/d  大/a  差距/n  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">优秀</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">慈善</Keywords>
+            <Keywords start="14" position="14" end="17" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">举世</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">慈善</Keywords>
+            <Keywords start="-1" position="39" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">先进</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">差距</Keywords>
+            <degree_adv start="-1" position="45" modifier_word_position="46" modifier_word_length="3" end="-1">很</degree_adv>
+            <E_conjunction start="-1" position="19" next_position="19" modifier_word_position="20" modifier_word_length="29" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.7</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="所以，郭台铭的善举值得鼓掌欢迎和高声鼓励，有了善始，希望他善终。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 所以/c  ，/w  郭/nr  台铭/nr  的/u  善举/n  值得/v  鼓掌/v  欢迎/v  和/c  高声/n  鼓励/v  ，/w  有/v  了/u  善始/n  ，/w  希望/v  他/r  善终/v  。</Segmented_S>
+            <S_Length>32</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">善举</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">值得</Keywords>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">鼓掌</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.9" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">欢迎</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">鼓励</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">善始</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">希望</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">善终</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="3" modifier_word_length="28" end="-1">所以</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="至于他何时兑现，毕竟不能要求所有慈善家都走比尔&#183;盖茨，巴菲特那样未雨绸缪、一切都搞定后才宣布的路径。">
+            <S_no>第4段第6句标注</S_no>
+            <Segmented_S> 至于/p  他/r  何时/r  兑现/v  ，/w  毕竟/d  不/d  能/v  要求/v  所有/b  慈善家/n  都/d  走/v  比尔&#183;盖茨/n  ，/w  巴菲特/v  那样/r  未/d  雨/n  绸缪/v  、/w  一切/r  都/d  搞/v  定/v  后/f  才/d  宣布/v  的/u  路径/n  。</Segmented_S>
+            <S_Length>50</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">兑现</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">要求</Keywords>
+            <Keywords start="32" position="32" end="35" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">未</Keywords>
+            <noword start="10" position="10" modifier_word_position="12" modifier_word_length="2" end="11">不</noword>
+            <E_phrase start="40" position="40" end="41" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">搞</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+        <sentence S="虽然过程漫长而良宵苦短，但我们可以耐心地拭目以待。">
+            <S_no>第4段第7句标注</S_no>
+            <Segmented_S> 虽然/c  过程/n  漫长/a  而/c  良宵/v  苦/a  短/a  ，/w  但/c  我们/r  可以/v  耐心/ad  地/u  拭目以待/v  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="4" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">漫长</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">良宵</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">耐心</Keywords>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.8" Anxiety="0" Anger="0">拭目以待</Keywords>
+            <E_conjunction start="-1" position="0" next_position="12" modifier_word_position="2" modifier_word_length="9" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="12" next_position="0" modifier_word_position="13" modifier_word_length="11" end="-1">但</E_conjunction>
+            <E_phrase start="9" position="9" end="10" Surprise="0" Sorrow="0.6" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">苦</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+    </paragraph>
+</document>

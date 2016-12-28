@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.0</Joy>
+    <Hate>0.8</Hate>
+    <Love>0.0</Love>
+    <Sorrow>0.5</Sorrow>
+    <Anxiety>0.6</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.7</Anger>
+    <Expect>0.0</Expect>
+    <Topic>误机</Topic>
+    <title T="误机奇闻">
+        <Segmented_S>误/v  机/n  奇闻/n</Segmented_S>
+        <S_Length>4</S_Length>
+        <Keywords start="-1" position="2" end="-1" Surprise="0.6" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">奇闻</Keywords>
+        <E_phrase start="0" position="0" end="1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">误</E_phrase>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>消极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.6</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.5</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.6</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>误机</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我有过无数次误机的经历，每次都有其原因，可今天如此离奇的飞行经历，尚属首次。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>我有/n  过/u  无数/m  次/q  误/v  机/n  的/u  经历/n  ，/w  每次/r  都/d  有/v  其/r  原因/n  ，/w  可/v  今天/t  如此/r  离奇/a  的/u  飞行/vn  经历/n  ，/w  尚/d  属/v  首次/m  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="25" end="-1" Surprise="0.6" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">离奇</Keywords>
+            <degree_adv start="-1" position="23" modifier_word_position="25" modifier_word_length="2" end="-1">如此</degree_adv>
+            <E_phrase start="6" position="6" end="7" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">误</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.6</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我问了一下机组人员，年纪很大的空姐对我说，她也是平生第一次。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 我问/n  了/y  一下/u  机组/m  人员/n  ，/w  年纪/n  很/d  大/a  的/u  空姐/n  对/p  我/r  说/v  ，/w  她/r  也/d  是/v  平生/n  第一/m  次/q  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <degree_adv start="-1" position="12" modifier_word_position="13" modifier_word_length="1" end="-1">很</degree_adv>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="15" end="-1">空姐</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.6</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.5</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>登机</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="我们陶瓷文化之旅一行，乘ＣＡ１８８８航班由景德镇市飞往北京。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>我们/r  陶瓷/n  文化/n  之旅/n  一行/n  ，/w  乘/v  ＣＡ１８８８/n  航班/n  由/p  景德镇市/n  飞往/v  北京/ns  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="景德镇机场的安检人员认真负责得近乎混乱，只此一个航班，就让每个安检人员手忙脚乱，其业务生疏得让人奇怪。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 景德镇/ns  机场/n  的/u  安检/n  人员/n  认真/ad  负责/v  得/u  近乎/v  混乱/a  ，/w  只此/v  一个/m  航班/n  ，/w  就/d  让/v  每个/r  安检/n  人员/n  手忙脚乱/i  ，/w  其/r  业务/n  生疏/n  得/u  让/v  人/n  奇怪/v  。</Segmented_S>
+            <S_Length>51</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">认真</Keywords>
+            <Keywords start="-1" position="12" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">负责</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">混乱</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">手忙脚乱</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">生疏</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0.5" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">奇怪</Keywords>
+            <degree_adv start="-1" position="15" modifier_word_position="17" modifier_word_length="2" end="-1">近乎</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.5</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="勉强飞机正点登机，在暑热中，每个人都徒步经停机坪走向飞机。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 勉强/ad  飞机/n  正点/n  登机/v  ，/w  在/p  暑/n  热中/v  ，/w  每个/r  人/n  都/d  徒步/d  经/v  停机坪/vn  走向/n  飞机/v  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">勉强</Keywords>
+            <Keywords start="10" position="10" end="11" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">暑</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.6</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.5</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="飞机８点开始滑行。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>飞机/n  ８点/n  开始/v  滑行/v  。</Segmented_S>
+            <S_Length>9</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我闭上眼睛等候起飞，忽然飞机转掉机头，羞羞答答地返回停机坪。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 我/r  闭/v  上/f  眼睛/n  等候/v  起飞/v  ，/w  忽然/d  飞机/n  转/v  掉/v  机头/n  ，/w  羞羞答答/v  地/u  返回/v  停机坪/n  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.2" Anxiety="0" Anger="0">等候</Keywords>
+            <Keywords start="-1" position="10" end="-1" Surprise="0.5" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">忽然</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">羞羞答答</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.4</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.5</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="空姐随即告诉我们，由于机票超售，飞机上被迫下去了一位乘客，但他在飞机上留有一件行李，按照规定，必须卸下此件行李。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 空姐/n  随即/d  告诉我/v  们/k  ，/w  由于/p  机票/n  超/v  售/v  ，/w  飞机/n  上/f  被迫/d  下去/v  了/y  一/m  位/q  乘客/n  ，/w  但/c  他/r  在/p  飞机/n  上/f  留/v  有/v  一/m  件/q  行李/n  ，/w  按照/p  规定/n  ，/w  必须/d  卸下/v  此/r  件/q  行李/n  。</Segmented_S>
+            <S_Length>56</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">被迫</Keywords>
+            <E_conjunction start="-1" position="29" next_position="29" modifier_word_position="30" modifier_word_length="11" end="-1">但</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.8</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.6</Anger>
+        <Expect>0.0</Expect>
+        <Topic>扯皮</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="下面就完全陷于一种扯皮，机组与机场之间互相推诿指责，我们弄不清楚，只好旁观。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>下面/f  就/d  完全/ad  陷于/v  一/m  种/q  扯皮/v  ，/w  机组/n  与/c  机场/n  之/u  间/f  互相推诿/v  指责/v  ，/w  我们/r  弄/v  不/d  清楚/a  ，/w  只好/d  旁观/v  。</Segmented_S>
+            <S_Length>38</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">陷于</Keywords>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">扯皮</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.7" Expect="0" Anxiety="0" Anger="0">互相推诿</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.3">指责</Keywords>
+            <noword start="-1" position="29" modifier_word_position="30" modifier_word_length="2" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.7</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="飞机上的气温越来越高，闷热使许多乘客失去耐心，分头与机组人员交涉讯问。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 飞机/n  上/f  的/u  气温/n  越来越/d  高/a  ，/w  闷热/a  使/v  许多/m  乘客/n  失去/v  耐心/a  ，/w  分头/d  与/p  机组/n  人员/n  交涉/v  讯问/n  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">闷热</Keywords>
+            <degree_adv start="-1" position="6" modifier_word_position="9" modifier_word_length="1" end="-1">越来越</degree_adv>
+            <E_phrase start="18" position="18" end="21" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">失去</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="机组人员说正在寻找那件行李，此举只为了大家的安全。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 机组/n  人员/n  说/v  正在/d  寻找/v  那件/n  行李/n  ，/w  此举/r  只/d  为了/p  大家/r  的/u  安全/an  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0.3" Anxiety="0.0" Anger="0">寻找</Keywords>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="0" position="0" end="3">机组</Opinion_holder>
+            <Opinion_target start="-1" position="11" end="-1">行李</Opinion_target>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.3</Expect>
+        </sentence>
+        <sentence S="这个道理谁都懂，谁都惜命，不敢拿生命开玩笑。">
+            <S_no>第4段第4句标注</S_no>
+            <Segmented_S> 这/r  个/q  道理/n  谁/r  都/d  懂/v  ，/w  谁/r  都/d  惜/Vg  命/n  ，/w  不/d  敢/v  拿/v  生命/n  开玩笑/v  。</Segmented_S>
+            <S_Length>22</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="Vg" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">惜</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">敢</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.1" Hate="0" Expect="0" Anxiety="0" Anger="0">开玩笑</Keywords>
+            <noword start="-1" position="13" modifier_word_position="14" modifier_word_length="1" end="-1">不</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.5</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="可两个小时过去了，个别乘客开始暴怒，要下飞机回家。">
+            <S_no>第4段第5句标注</S_no>
+            <Segmented_S> 可/c  两/m  个/q  小时/n  过去/v  了/y  ，/w  个别/a  乘客/n  开始/v  暴怒/v  ，/w  要/v  下/v  飞机/n  回家/v  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="-1" position="15" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="1" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0.9">暴怒</Keywords>
+            <E_conjunction start="-1" position="0" next_position="0" modifier_word_position="1" modifier_word_length="7" end="-1">可</E_conjunction>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Opinion_holder start="-1" position="11" end="-1">乘客</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.7</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这时机长发话了：由于机场方面无法辨认已下飞机的那位乘客的行李，全体乘客必须拎着自己的手提行李，下飞机自己去辨认。">
+            <S_no>第4段第6句标注</S_no>
+            <Segmented_S> 这时/r  机长/n  发话/v  了/u  ：/w  由于/p  机场/n  方面/n  无法/v  辨认/v  已/d  下/v  飞机/n  的/u  那位/r  乘客/n  的/u  行李/n  ，/w  全体/n  乘客/n  必须/d  拎/v  着/u  自己/r  的/u  手提/n  行李/n  ，/w  下飞机/v  自己/r  去/v  辨认/v  。</Segmented_S>
+            <S_Length>56</S_Length>
+            <noword start="-1" position="14" modifier_word_position="16" modifier_word_length="2" end="-1">无法</noword>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.3</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.7</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.5</Sorrow>
+        <Anxiety>0.6</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>无奈 没补偿</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="全体１２３位乘客在无奈中下了飞机，松散地站在停机坪上叽叽喳喳，此时虽已深夜，但仍闷热，我的衣服顿时又湿了一片。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>全体/n  １２３/n  位/Ng  乘客/n  在/p  无奈/a  中下/n  了/y  飞机/u  ，/w  松散地/v  站/n  在/p  停机坪/n  上/f  叽叽喳喳/v  ，/w  此时/r  虽/c  已/d  深夜/v  ，/w  但/c  仍/d  闷热/a  ，/w  我/r  的/u  衣服/n  顿时/d  又/d  湿/a  了/y  一/m  片/q  。</Segmented_S>
+            <S_Length>55</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0.5" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">无奈</Keywords>
+            <Keywords start="-1" position="26" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.2" Expect="0" Anxiety="0" Anger="0">叽叽喳喳</Keywords>
+            <Keywords start="-1" position="40" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">闷热</Keywords>
+            <E_conjunction start="-1" position="33" next_position="38" modifier_word_position="34" modifier_word_length="3" end="-1">虽</E_conjunction>
+            <E_conjunction start="-1" position="38" next_position="33" modifier_word_position="39" modifier_word_length="3" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.6</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.5</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="正在茫然不知今晚凶吉时，空姐突然匆匆宣布重新登机，知情者说：飞机上并未坐满，２３Ｂ空位，那位走了的乘客回来又登机了。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 正在茫然不知/n  今晚/t  凶/t  吉时/n  ，/w  空姐/n  突然/ad  匆匆/v  宣布/v  重新/d  登机/v  ，/w  知情者/n  说/v  ：/w  飞机/n  上/f  并未/d  坐/v  满/a  ，/w  ２３/v  Ｂ/n  空位/v  ，/w  那位/r  走/v  了/u  的/u  乘客/n  回来/v  又/d  登机/v  了/u  。</Segmented_S>
+            <S_Length>58</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">匆匆</Keywords>
+            <noword start="-1" position="33" modifier_word_position="35" modifier_word_length="2" end="-1">并未</noword>
+            <E_phrase start="2" position="0" end="3" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.6" Anger="0">正在茫然不知</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.6</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="三小时后，飞机正式起飞，没有补偿；按规定，误机四小时每人补偿７００元。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 三/m  小时/n  后/f  ，/w  飞机/n  正式/ad  起飞/v  ，/w  没有/v  补偿/vn  ；/w  按/p  规定/n  ，/w  误/v  机/n  四/m  小时/n  每人/r  补偿/v  ７００/v  元/q  。</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="vn" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">补偿</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.2" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">补偿</Keywords>
+            <noword start="-1" position="12" modifier_word_position="14" modifier_word_length="2" end="-1">没有</noword>
+            <E_phrase start="0" position="21" end="0" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">误</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.5</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+</document>

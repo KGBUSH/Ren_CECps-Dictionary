@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.8</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.9</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.4</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.8</Expect>
+    <Topic>伟大 壮观 祝福 北京奥运</Topic>
+    <title T="伟大的北京奥运！">
+        <Segmented_S>伟大/a  的/u  北京/ns  奥运/j  ！/w</Segmented_S>
+        <S_Length>8</S_Length>
+        <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <punctuation E_type="喜爱">！</punctuation>
+        <Polarity>积极</Polarity>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.8</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.9</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>完美 北京奥运 开幕式</Topic>
+        <Summarize_Sentences>3</Summarize_Sentences>
+        <sentence S="嗨，你们好，我是希恩！">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>嗨/n  ，/w  你们/r  好/a  ，/w  我/r  是/v  希/j  恩/n  ！</Segmented_S>
+            <S_Length>11</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我刚刚看完北京奥运开幕式，我简直被这个壮观的开幕式给震傻了！">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 我/r  刚刚/d  看/v  完/v  北京/ns  奥运/j  开幕式/n  ，/w  我/r  简直/d  被/p  这/r  个/q  壮观/a  的/u  开幕式/n  给/p  震/v  傻/a  了/y  ！</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">壮观</Keywords>
+            <E_phrase start="26" position="26" end="28" Surprise="0.5" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">震</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="喜爱">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">我</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.7</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我从来没有见过这么强大的开幕式，鸟巢看上去是如此完美，现场的氛围也是令人振奋。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 我/r  从来/d  没有/d  见/v  过/u  这么/r  强大/a  的/u  开幕式/n  ，/w  鸟巢/v  看/v  上去/v  是/v  如此/r  完美/a  ，/w  现场/s  的/u  氛围/n  也/d  是/v  令/v  人/n  振奋/v  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">强大</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">完美</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">振奋</Keywords>
+            <degree_adv start="-1" position="7" modifier_word_position="9" modifier_word_length="2" end="-1">这么</degree_adv>
+            <noword start="-1" position="3" modifier_word_position="5" modifier_word_length="2" end="-1">没有</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">我</Opinion_holder>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.9</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="之前我去鸟巢参观的时候，我还曾经担心过，开幕式之前它是否能够顺利完工，现在看来，我的担心完全是多余的。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 之/r  前/f  我去/v  鸟巢/n  参观/v  的/u  时候/n  ，/w  我还/v  曾经/d  担心/v  过/v  ，/w  开幕式/n  之/u  前/f  它/r  是否/v  能够/v  顺利/ad  完工/v  ，/w  现在看来/v  ，/w  我的/v  担心/v  完全/ad  是/v  多余/a  的/u  。</Segmented_S>
+            <S_Length>51</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.7" Anger="0">担心</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">顺利</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">担心</Keywords>
+            <Keywords start="-1" position="47" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">多余</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>开幕式 深刻的印象</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="我知道这个开幕式对于中国来说有多么重要，对于他们来说，这是向世界重新介绍中国悠久历史和伟大传统的机会，我肯定全世界观看了这场开幕式的人们，也都会留下深刻的印象。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>我知道/n  这个/r  开幕式/n  对于/p  中国/ns  来说/u  有/v  多么/d  重要/a  ，/w  对于/p  他们/r  来说/u  ，/w  这/r  是/v  向/p  世界/n  重新/d  介绍/v  中国/ns  悠久/a  历史/n  和/c  伟大/a  传统/a  的/u  机会/n  ，/w  我/r  肯定/d  全/a  世界/n  观看/v  了/u  这/r  场/q  开幕式/n  的/u  人们/n  ，/w  也都/v  会/n  留下/v  深刻/a  的/u  印象/n  。</Segmented_S>
+            <S_Length>80</S_Length>
+            <Keywords start="-1" position="38" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">悠久</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+            <degree_adv start="-1" position="15" modifier_word_position="17" modifier_word_length="2" end="-1">多么</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.9</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>高兴 姚明 旗手</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我由衷的为我的好朋友姚明感到高兴，我知道他能被选为旗手有多么自豪。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>我/r  由衷/d  的/u  为我/n  的/u  好/a  朋友/n  姚明/v  感到/v  高兴/a  ，/w  我知道/v  他/r  能/v  被/p  选/v  为/v  旗手/n  有/v  多么/d  自豪/a  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="1" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">由衷</Keywords>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">朋友</Keywords>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.8" Hate="0" Expect="0" Anxiety="0" Anger="0">高兴</Keywords>
+            <Keywords start="-1" position="30" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">自豪</Keywords>
+            <degree_adv start="-1" position="28" modifier_word_position="30" modifier_word_length="2" end="-1">多么</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">我</Opinion_holder>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="和姚明一起走在中国代表团前面的那个小男孩，是四川地震中鼓励同学逃生的小英雄，这同样是一个令人鼓舞的故事。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 和/p  姚明/n  一起/d  走/v  在/p  中国/ns  代表团/n  前面/f  的/u  那个/r  小男孩/n  ，/w  是/v  四川/ns  地震/n  中/f  鼓励/v  同学/n  逃生/n  的/u  小/a  英雄/n  ，/w  这/r  同样/d  是/v  一个/m  令人鼓舞/l  的/u  故事/n  。</Segmented_S>
+            <S_Length>52</S_Length>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">鼓励</Keywords>
+            <Keywords start="-1" position="31" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">逃生</Keywords>
+            <Keywords start="-1" position="44" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">令人鼓舞</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="看上去，能和姚明一起走在中国代表团前面他很开心，我不知道他是否理解这个场合有多么的盛大重要，不过他表现的很好。">
+            <S_no>第3段第3句标注</S_no>
+            <Segmented_S> 看/v  上去/v  ，/w  能/v  和/p  姚明/n  一起/d  走/v  在/p  中国/ns  代表团/n  前面/f  他/r  很/d  开心/a  ，/w  我不/v  知道/v  他/r  是否/v  理解/v  这/r  个/q  场合/n  有/v  多么/d  的/u  盛大/b  重要/a  ，/w  不过/c  他/r  表现/v  的/u  很/d  好/a  。</Segmented_S>
+            <S_Length>55</S_Length>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">开心</Keywords>
+            <Keywords start="-1" position="29" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">是否</Keywords>
+            <Keywords start="-1" position="41" end="-1" Surprise="0" Sorrow="0" POS="b" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">盛大</Keywords>
+            <Keywords start="-1" position="53" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好</Keywords>
+            <degree_adv start="-1" position="20" modifier_word_position="21" modifier_word_length="2" end="-1">很</degree_adv>
+            <degree_adv start="-1" position="38" modifier_word_position="41" modifier_word_length="4" end="-1">多么</degree_adv>
+            <degree_adv start="-1" position="52" modifier_word_position="53" modifier_word_length="1" end="-1">很</degree_adv>
+            <noword start="25" position="24" modifier_word_position="26" modifier_word_length="2" end="25">我不</noword>
+            <E_conjunction start="-1" position="46" next_position="46" modifier_word_position="48" modifier_word_length="6" end="-1">不过</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.8</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.8</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>美妙 开幕式 创造性</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="开幕式的舞蹈和艺术表演看得我眼珠子都快掉下来了，整个开幕式是如此美妙，演员的执行力也是精确无比。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>开幕式/n  的/u  舞蹈/n  和/c  艺术/n  表演/vn  看/v  得/u  我/r  眼珠子/v  都/d  快/d  掉/v  下/v  来/v  了/y  ，/w  整个/b  开幕式/n  是/v  如此/r  美妙/a  ，/w  演员/n  的/u  执行力/n  也/d  是/v  精确/a  无比/z  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美妙</Keywords>
+            <E_phrase start="43" position="43" end="46" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">精确</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="可以想象，这样的演出经过了多少次严格刻苦的训练，我个人最喜欢的是舞台演员在画卷上画出山河和太阳的那一段，翩翩起舞的同时绘出精美的画卷，这简直太有创造性了！">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 可以想象/n  ，/w  这样/r  的/u  演出/vn  经过/v  了/u  多少次/n  严格/ad  刻苦/ad  的/u  训练/vn  ，/w  我/r  个人/n  最/d  喜欢/v  的/u  是/v  舞台/n  演员/n  在/p  画卷/n  上/f  画/v  出/v  山河/n  和/c  太阳/n  的/u  那/r  一/m  段/q  ，/w  翩翩起舞/v  的/u  同时/n  绘/v  出/v  精美/a  的/u  画卷/n  ，/w  这/r  简直/d  太/d  有/v  创造性/n  了/u  ！</Segmented_S>
+            <S_Length>77</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">严格</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="ad" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">刻苦</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">喜欢</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">翩翩起舞</Keywords>
+            <Keywords start="-1" position="61" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">精美</Keywords>
+            <degree_adv start="-1" position="27" modifier_word_position="28" modifier_word_length="2" end="-1">最</degree_adv>
+            <degree_adv start="-1" position="70" modifier_word_position="71" modifier_word_length="4" end="-1">太</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="24" end="-1">我</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.8</Expect>
+        <Topic>祝福 奥运会 充满期待</Topic>
+        <Summarize_Sentences>1</Summarize_Sentences>
+        <sentence S="我对奥运会的比赛充满期待，全世界的优秀运动员可以不分国界在一个舞台上同场竞技，虽然我会祝福中国队好运，但是奥运会期间我肯定会全力为我的同胞和美国代表团加油！">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>我对/n  奥运会/j  的/u  比赛/vn  充满/v  期待/v  ，/w  全世界/n  的/u  优秀/a  运动员/n  可以/v  不/d  分/v  国界/n  在/p  一个/m  舞台/n  上/f  同/p  场/Ng  竞技/vn  ，/w  虽然/c  我会/v  祝福/n  中国队/nt  好运/n  ，/w  但是/c  奥运会/j  期间/f  我/r  肯定/d  会/v  全力/d  为/p  我的/n  同胞/n  和/c  美国/ns  代表团/n  加油/v  ！</Segmented_S>
+            <S_Length>78</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">期待</Keywords>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">优秀</Keywords>
+            <Keywords start="-1" position="43" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">祝福</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">好运</Keywords>
+            <Keywords start="-1" position="62" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.5" Anxiety="0" Anger="0">全力</Keywords>
+            <Keywords start="-1" position="75" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.6" Anxiety="0" Anger="0">加油</Keywords>
+            <degree_adv start="-1" position="59" modifier_word_position="62" modifier_word_length="2" end="-1">肯定</degree_adv>
+            <noword start="-1" position="24" modifier_word_position="25" modifier_word_length="1" end="-1">不</noword>
+            <E_conjunction start="-1" position="39" next_position="51" modifier_word_position="41" modifier_word_length="9" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="51" next_position="39" modifier_word_position="53" modifier_word_length="24" end="-1">但是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.8</Expect>
+        </sentence>
+        <sentence S="我知道，中美两个伟大的国家之间将有一场激烈的奖牌之争，祝我们大家好运！">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 我/r  知道/v  ，/w  中/j  美/j  两/m  个/q  伟大/a  的/u  国家/n  之/u  间/f  将/d  有/v  一/m  场/q  激烈/a  的/u  奖牌/n  之争/n  ，/w  祝/nr  我们/r  大家/r  好运/v  ！</Segmented_S>
+            <S_Length>35</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">伟大</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">好运</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <punctuation E_type="期待">！</punctuation>
+            <Polarity>积极</Polarity>
+            <Opinion_holder start="-1" position="0" end="-1">我</Opinion_holder>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.7</Expect>
+        </sentence>
+    </paragraph>
+</document>

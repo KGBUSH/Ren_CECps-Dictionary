@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <Joy>0.7</Joy>
+    <Hate>0.0</Hate>
+    <Love>0.7</Love>
+    <Sorrow>0.0</Sorrow>
+    <Anxiety>0.0</Anxiety>
+    <Surprise>0.0</Surprise>
+    <Anger>0.0</Anger>
+    <Expect>0.0</Expect>
+    <Topic>好变化</Topic>
+    <title T="一路春风下安康">
+        <Segmented_S>一路/m  春风/n  下/f  安康/ns</Segmented_S>
+        <S_Length>7</S_Length>
+        <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">春风</Keywords>
+        <Opinion_Fact>opinion</Opinion_Fact>
+        <Polarity>积极</Polarity>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+    </title>
+    <paragraph>
+        <P_no>第1段情感标注</P_no>
+        <Joy>0.5</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="初春时节，乍暖还寒。">
+            <S_no>第1段第1句标注</S_no>
+            <Segmented_S>初春/t  时节/n  ，/w  乍暖还寒/l  。</Segmented_S>
+            <S_Length>10</S_Length>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0.2" POS="l" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">乍暖还寒</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.4</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="冬天正在悄悄溜走，春意已经冉冉而来。">
+            <S_no>第1段第2句标注</S_no>
+            <Segmented_S> 冬天/t  正在/d  悄悄/z  溜走/v  ，/w  春意/n  已经/d  冉冉/v  而/c  来/v  。</Segmented_S>
+            <S_Length>18</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0.0" Hate="0" Expect="0" Anxiety="0" Anger="0">春意</Keywords>
+            <Keywords start="-1" position="13" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">冉冉</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="小康高速公路即将竣工，公路作协组织作家去建设工地采风，于是，我又一次扑向魂牵梦绕的陕南。">
+            <S_no>第1段第3句标注</S_no>
+            <Segmented_S> 小康/n  高速公路/n  即将/d  竣工/v  ，/w  公路/n  作协/n  组织/v  作家/n  去/v  建设/v  工地/n  采风/v  ，/w  于是/c  ，/w  我/r  又/d  一次/v  扑/n  向/p  魂牵梦绕/n  的/u  陕南/ns  。</Segmented_S>
+            <S_Length>44</S_Length>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.8" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">魂牵梦绕</Keywords>
+            <E_conjunction start="-1" position="27" next_position="27" modifier_word_position="30" modifier_word_length="13" end="-1">于是</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.8</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="越野车在高速公路上疾驶，如同离弦的箭，向前飞去，射入秦岭山中。">
+            <S_no>第1段第4句标注</S_no>
+            <Segmented_S> 越野车/n  在/p  高速公路/n  上/f  疾驶/v  ，/w  如同/v  离/v  弦/n  的/u  箭/n  ，/w  向前/v  飞/v  去/v  ，/w  射/v  入/v  秦岭山/n  中/f  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="我的思想也进入时光隧道，急速向后退去，回到记忆的谷地。">
+            <S_no>第1段第5句标注</S_no>
+            <Segmented_S> 我的/n  思想/n  也/d  进入/v  时光/n  隧道/n  ，/w  急速/z  向/p  后/f  退/v  去/v  ，/w  回到/v  记忆/n  的/u  谷地/n  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Rhetoric E_type="期待">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第2段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.6</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>以往旅途艰辛</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="从家乡安康到省城西安的公路，我不知往返了多少次。">
+            <S_no>第2段第1句标注</S_no>
+            <Segmented_S>从/p  家乡/n  安康/ns  到/p  省城/n  西安/ns  的/u  公路/n  ，/w  我/r  不知/v  往返/v  了/u  多少/r  次/q  。</Segmented_S>
+            <S_Length>24</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.4</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="最早是求学，后来是工作，再后来是探亲，每年都要亲吻它那翻山越岭、曲折多弯、坎坷不平的路面。">
+            <S_no>第2段第2句标注</S_no>
+            <Segmented_S> 最早/d  是/v  求学/v  ，/w  后来/t  是/v  工作/vn  ，/w  再/d  后来/t  是/v  探亲/v  ，/w  每年/r  都/d  要/v  亲吻/v  它/r  那/r  翻山越岭/i  、/w  曲折/a  多/a  弯/Ng  、/w  坎坷不平/n  的/u  路面/n  。</Segmented_S>
+            <S_Length>45</S_Length>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">亲吻</Keywords>
+            <Keywords start="-1" position="27" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">翻山越岭</Keywords>
+            <Keywords start="-1" position="32" end="-1" Surprise="0" Sorrow="0.3" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">曲折</Keywords>
+            <Keywords start="-1" position="37" end="-1" Surprise="0" Sorrow="0.6" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">坎坷不平</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.3</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="最初的记忆是上个世纪七十年代未期，我背着被卷儿，搭乘长途汽车到西安上大学。">
+            <S_no>第2段第3句标注</S_no>
+            <Segmented_S> 最初/d  的/u  记忆/n  是/v  上/f  个/q  世纪/n  七十/m  年代/n  未/d  期/v  ，/w  我/r  背着/v  被/p  卷儿/v  ，/w  搭乘/v  长途汽车/l  到/v  西安/ns  上/f  大学/n  。</Segmented_S>
+            <S_Length>37</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.2</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="那时候，天不亮就得起来，赶到车站坐进笨重的大客车里，摇摇晃晃地越过汉江，向北驶入山区狭窄的公路。">
+            <S_no>第2段第4句标注</S_no>
+            <Segmented_S> 那/r  时候/n  ，/w  天/n  不/d  亮/v  就/d  得/v  起来/v  ，/w  赶到/v  车站/n  坐/v  进/v  笨重/a  的/u  大客车/n  里/f  ，/w  摇摇/v  晃晃/n  地/u  越过/v  汉江/ns  ，/w  向北/v  驶入/n  山区/v  狭窄/n  的/u  公路/n  。</Segmented_S>
+            <S_Length>48</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.3" Expect="0" Anxiety="0" Anger="0">笨重</Keywords>
+            <Keywords start="-1" position="42" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.2" Expect="0" Anxiety="0" Anger="0">狭窄</Keywords>
+            <noword start="-1" position="5" modifier_word_position="6" modifier_word_length="1" end="-1">不</noword>
+            <E_phrase start="26" position="26" end="29" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">摇摇</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.2</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="几个小时后，车到汉阴县城，停下来吃午饭。">
+            <S_no>第2段第5句标注</S_no>
+            <Segmented_S> 几/m  个/q  小时/n  后/f  ，/w  车/n  到/v  汉阴县/n  城/n  ，/w  停下来/v  吃/v  午饭/n  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="然后再出发，经石泉、两河关，天黑前到宁陕县城，住下，不走了，车要保养人要休息。">
+            <S_no>第2段第6句标注</S_no>
+            <Segmented_S> 然后/c  再/d  出发/v  ，/w  经/p  石泉/n  、/w  两/m  河/n  关/n  ，/w  天黑/t  前/f  到/v  宁陕/n  县城/n  ，/w  住下/v  ，/w  不/d  走/v  了/u  ，/w  车/n  要/v  保养/v  人/n  要/v  休息/v  。</Segmented_S>
+            <S_Length>39</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="第二天早早又出发，开始翻越月河梁、平河梁、秦岭梁三座大山。">
+            <S_no>第2段第7句标注</S_no>
+            <Segmented_S> 第二/m  天/q  早早/d  又/d  出发/v  ，/w  开始/v  翻越/v  月/n  河/n  梁/nr  、/w  平/a  河/n  梁/nr  、/w  秦岭/ns  梁/nr  三座大山/nr  。</Segmented_S>
+            <S_Length>29</S_Length>
+            <Keywords start="-1" position="3" end="-1" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">早早</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.3</Expect>
+        </sentence>
+        <sentence S="汽车先是轰隆隆慢慢地爬到山顶，然后再疯一样地拐来转去滑下谷底，满车的人翻肠倒肚不舒服，不少人吐得一塌糊涂。">
+            <S_no>第2段第8句标注</S_no>
+            <Segmented_S> 汽车/n  先是/d  轰隆隆/v  慢慢/d  地/u  爬/v  到/v  山顶/n  ，/w  然后/c  再/d  疯/v  一样/a  地/u  拐/v  来/v  转去/v  滑下/n  谷底/v  ，/w  满/a  车/n  的/u  人/n  翻肠倒肚不舒服/v  ，/w  不少/m  人/n  吐/v  得/u  一塌/i  糊涂/a  。</Segmented_S>
+            <S_Length>53</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.4" Anger="0">疯</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">翻肠倒肚不舒服</Keywords>
+            <E_conjunction start="-1" position="15" next_position="15" modifier_word_position="17" modifier_word_length="13" end="-1">然后</E_conjunction>
+            <E_phrase start="48" position="48" end="51" Surprise="0" Sorrow="0.8" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">一塌</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.4</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="如此上上下下反复数次，大山翻完了，人也被折磨地精疲力竭了，这才出了沣峪口，上了平路，再驶几个小时，终于看见了西安古城墙的影子。">
+            <S_no>第2段第9句标注</S_no>
+            <Segmented_S> 如此/r  上上下下/l  反复/d  数/v  次/m  ，/w  大山/n  翻/v  完/v  了/u  ，/w  人/n  也/d  被/p  折磨/v  地/u  精疲力竭/v  了/u  ，/w  这才/v  出/v  了/u  沣/n  峪口/v  ，/w  上/f  了/u  平路/n  ，/w  再/d  驶/Vg  几/m  个/q  小时/n  ，/w  终于/d  看见/v  了/u  西安/ns  古城/n  墙/n  的/u  影子/n  。</Segmented_S>
+            <S_Length>63</S_Length>
+            <Keywords start="-1" position="20" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">折磨</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0.8" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">精疲力竭</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第3段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="想到这儿，我便觉得心头难受，抬眼看时，今天才出发半个小时，汽车已钻进终南山隧道。">
+            <S_no>第3段第1句标注</S_no>
+            <Segmented_S>想到/v  这儿/r  ，/w  我便/v  觉得/v  心头/s  难受/n  ，/w  抬/v  眼/n  看/v  时/Ng  ，/w  今天/t  才/d  出发/v  半/m  个/q  小时/n  ，/w  汽车/n  已/d  钻/v  进/v  终南山/n  隧道/n  。</Segmented_S>
+            <S_Length>40</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">难受</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.6</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这个隧道１８公里长，号称亚洲第一公路长隧，但车在山腹间穿行，并不觉得沉闷单调，原因是隧道内进行了特殊灯光带景观设计，两边有绿色的草坪，高大的树木，还有盛开的仿生塑料花卉，抬头望去，“蓝天白云”向车后滑动，人仿佛置身于大自然中。">
+            <S_no>第3段第2句标注</S_no>
+            <Segmented_S> 这/r  个/q  隧道/n  １８/n  公里/q  长/a  ，/w  号称/v  亚洲/ns  第一/m  公路/n  长隧/n  ，/w  但/c  车/n  在山/n  腹/Ng  间/f  穿行/v  ，/w  并/c  不/d  觉得/v  沉闷/n  单调/a  ，/w  原因/n  是/v  隧道/n  内/f  进行/v  了/u  特殊/a  灯光/n  带/v  景观/n  设计/v  ，/w  两边/f  有/v  绿色/n  的/u  草坪/n  ，/w  高大/a  的/u  树木/n  ，/w  还有/v  盛开/v  的/u  仿生/n  塑料/n  花卉/n  ，/w  抬头/v  望/v  去/v  ，/w  “/w  蓝天/n  白云/n  ”/w  向/p  车/n  后/f  滑动/v  ，/w  人/n  仿佛/d  置身/v  于/p  大自然/n  中/f  。</Segmented_S>
+            <S_Length>113</S_Length>
+            <Keywords start="-1" position="34" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">沉闷</Keywords>
+            <Keywords start="-1" position="36" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.4" Expect="0" Anxiety="0" Anger="0">单调</Keywords>
+            <Keywords start="-1" position="108" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.3" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">大自然</Keywords>
+            <noword start="-1" position="31" modifier_word_position="32" modifier_word_length="6" end="-1">不</noword>
+            <E_conjunction start="-1" position="21" next_position="21" modifier_word_position="22" modifier_word_length="16" end="-1">但</E_conjunction>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第4段情感标注</P_no>
+        <Joy>0.6</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="车出长隧，已是秦岭南麓，但见绿草招手，山桃花笑脸相迎。">
+            <S_no>第4段第1句标注</S_no>
+            <Segmented_S>车/n  出/v  长隧/n  ，/w  已/d  是/v  秦岭/ns  南麓/f  ，/w  但/c  见/v  绿/a  草/n  招/v  手/n  ，/w  山桃花/v  笑脸/n  相迎/v  。</Segmented_S>
+            <S_Length>27</S_Length>
+            <Keywords start="-1" position="22" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">笑脸</Keywords>
+            <Rhetoric E_type="高兴">拟人</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="公路沿着河谷平展地往前延伸，两边是峻秀如画的山峰。">
+            <S_no>第4段第2句标注</S_no>
+            <Segmented_S> 公路/n  沿着/p  河谷/n  平展/n  地/u  往/p  前/f  延伸/v  ，/w  两边/f  是/v  峻/n  秀/Ag  如/v  画/n  的/u  山峰/n  。</Segmented_S>
+            <S_Length>25</S_Length>
+            <Keywords start="17" position="17" end="18" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">峻</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="西康高速路所经过的国家级牛背梁自然保护区，环境优美，植被丰富，乘着汽车在山谷间飞驰，便交通和旅游兼收并蓄了。">
+            <S_no>第4段第3句标注</S_no>
+            <Segmented_S> 西康/ns  高速路/n  所/u  经过/v  的/u  国家级/b  牛/n  背/v  梁/nr  自然/nr  保护区/n  ，/w  环境/n  优美/a  ，/w  植被/n  丰富/a  ，/w  乘/v  着/u  汽车/n  在/p  山谷/n  间/f  飞驰/v  ，/w  便/d  交通/n  和/c  旅游/vn  兼收并蓄/n  了/y  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">优美</Keywords>
+            <Keywords start="-1" position="28" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">丰富</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">兼收并蓄</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.5</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第5段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.0</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.5</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="不知不觉已两个小时，我们来到了包家山隧道。">
+            <S_no>第5段第1句标注</S_no>
+            <Segmented_S>不知不觉/i  已/d  两/m  个/q  小时/n  ，/w  我们/r  来到/v  了/u  包/v  家山/n  隧道/n  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0.4" Hate="0" Expect="0" Anxiety="0" Anger="0">不知不觉</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="它全长１１．２公里，属中国第三长大公路隧道，虽然比终南山隧道短一些，但由于地下水发育旺盛，水文地质条件极差，包含着溶岩、断层、暗河、软土带等几十种地质灾害，所以施工难度很大。">
+            <S_no>第5段第2句标注</S_no>
+            <Segmented_S> 它/r  全长/n  １１．２/m  公里/q  ，/w  属/v  中国/ns  第三/m  长大/v  公路/n  隧道/n  ，/w  虽然/c  比/p  终南山/n  隧道/n  短/a  一些/m  ，/w  但/c  由于/p  地下水/n  发育/v  旺盛/a  ，/w  水文/n  地质/n  条件/n  极/d  差/a  ，/w  包含/v  着/u  溶岩/n  、/w  断层/n  、/w  暗河/n  、/w  软土/n  带/v  等/u  几十/m  种/q  地质/n  灾害/n  ，/w  所以/c  施工/vn  难度/n  很/d  大/a  。</Segmented_S>
+            <S_Length>87</S_Length>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">差</Keywords>
+            <Keywords start="-1" position="75" end="-1" Surprise="0" Sorrow="0.5" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">灾害</Keywords>
+            <degree_adv start="-1" position="51" modifier_word_position="52" modifier_word_length="1" end="-1">极</degree_adv>
+            <E_conjunction start="-1" position="22" next_position="34" modifier_word_position="24" modifier_word_length="9" end="-1">虽然</E_conjunction>
+            <E_conjunction start="-1" position="34" next_position="22" modifier_word_position="35" modifier_word_length="51" end="-1">但</E_conjunction>
+            <E_conjunction start="-1" position="35" next_position="78" modifier_word_position="37" modifier_word_length="16" end="-1">由于</E_conjunction>
+            <E_conjunction start="-1" position="78" next_position="35" modifier_word_position="80" modifier_word_length="6" end="-1">所以</E_conjunction>
+            <E_phrase start="0" position="82" end="0" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">难度</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.7</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="工人们经过艰苦奋战，穿越３７条断层，克服了１４６次强弱涌水，清理了１４８次大小塌方，只用了４个月时间，就打通了隧道，并且创造了零伤亡的施工记录。">
+            <S_no>第5段第3句标注</S_no>
+            <Segmented_S> 工人/n  们/k  经过/v  艰苦/a  奋战/vn  ，/w  穿越/v  ３７/n  条/q  断层/n  ，/w  克服/v  了/u  １４６/n  次/a  强弱/n  涌水/n  ，/w  清理/v  了/u  １４８/n  次/a  大小/n  塌方/v  ，/w  只/d  用了/v  ４/n  个/q  月/n  时间/n  ，/w  就/d  打通/v  了/u  隧道/n  ，/w  并且/c  创造/v  了/u  零/m  伤亡/v  的/u  施工/vn  记录/n  。</Segmented_S>
+            <S_Length>72</S_Length>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">克服</Keywords>
+            <E_conjunction start="-1" position="58" next_position="58" modifier_word_position="60" modifier_word_length="11" end="-1">并且</E_conjunction>
+            <E_phrase start="5" position="5" end="8" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.7" Anxiety="0" Anger="0">艰苦</E_phrase>
+            <E_phrase start="63" position="63" end="65" Surprise="0" Sorrow="0" POS="m" Opinionholder="0" Love="0" Joy="0.5" Hate="0" Expect="0" Anxiety="0" Anger="0">零</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="眼下的山洞内机器轰鸣，烟雾弥漫，正在进行后期清理和装饰。">
+            <S_no>第5段第4句标注</S_no>
+            <Segmented_S> 眼下/t  的/u  山洞/n  内/f  机器/n  轰鸣/v  ，/w  烟雾弥漫/l  ，/w  正在/d  进行/v  后期/f  清理/vn  和/c  装饰/vn  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Keywords start="-1" position="11" end="-1" Surprise="0" Sorrow="0" POS="l" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.3" Anger="0">烟雾弥漫</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.3</Expect>
+        </sentence>
+        <sentence S="我们看到车轮前道路泥泞，地面中间的渠道里流水哗哗，灰暗的灯光下工人们在紧张地作业，洞内空气质量极差，缺氧难受。">
+            <S_no>第5段第5句标注</S_no>
+            <Segmented_S> 我们/r  看到/v  车轮/n  前/f  道路/n  泥泞/a  ，/w  地面/n  中/f  间/f  的/u  渠道/n  里/f  流水/n  哗哗/n  ，/w  灰暗/v  的/u  灯光/n  下工/n  人们/n  在/p  紧张/a  地/u  作业/v  ，/w  洞/n  内/f  空气/n  质量/n  极/d  差/a  ，/w  缺氧/v  难受/n  。</Segmented_S>
+            <S_Length>55</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.5" Expect="0" Anxiety="0" Anger="0">泥泞</Keywords>
+            <Keywords start="-1" position="35" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0.5" Anger="0">紧张</Keywords>
+            <Keywords start="-1" position="48" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0" Hate="0.6" Expect="0" Anxiety="0" Anger="0">差</Keywords>
+            <Keywords start="-1" position="52" end="-1" Surprise="0" Sorrow="0.7" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">难受</Keywords>
+            <degree_adv start="-1" position="47" modifier_word_position="48" modifier_word_length="1" end="-1">极</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.6</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="在施工机车的带领下，我们的越野车东拐西让，终于走出隧道。">
+            <S_no>第5段第6句标注</S_no>
+            <Segmented_S> 在/p  施工/vn  机车/n  的/u  带领/v  下/f  ，/w  我们/r  的/u  越野车/n  东/f  拐/v  西/f  让/v  ，/w  终于/d  走/v  出/v  隧道/n  。</Segmented_S>
+            <S_Length>28</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>消极</Polarity>
+            <Joy>0.2</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第6段情感标注</P_no>
+        <Joy>0.7</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.0</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="打开车窗，长吸一口新鲜空气，肺腑顿时舒畅起来。">
+            <S_no>第6段第1句标注</S_no>
+            <Segmented_S>打开/v  车窗/n  ，/w  长/a  吸/v  一/m  口/q  新鲜/a  空气/n  ，/w  肺腑/n  顿时/d  舒畅/v  起来/v  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Keywords start="-1" position="9" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">新鲜</Keywords>
+            <Keywords start="-1" position="18" end="-1" Surprise="0" Sorrow="0" POS="v" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">舒畅</Keywords>
+            <degree_adv start="-1" position="16" modifier_word_position="18" modifier_word_length="2" end="-1">顿时</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.6</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="以前只知道飞奔在高速公路上的惬意，现在终于懂得了美丽是怎样创造的。">
+            <S_no>第6段第2句标注</S_no>
+            <Segmented_S> 以前/f  只/d  知道/v  飞奔/v  在/p  高速公路/n  上/f  的/u  惬意/n  ，/w  现在/t  终于/d  懂得/v  了/u  美丽/a  是/v  怎样/r  创造/v  的/u  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="14" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0.7" Hate="0" Expect="0" Anxiety="0" Anger="0">惬意</Keywords>
+            <Keywords start="-1" position="24" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="过了包家山隧道，渐渐接近陕南首府安康市，春色的煊染也越来越浓。">
+            <S_no>第6段第3句标注</S_no>
+            <Segmented_S> 过/v  了/u  包/v  家山/n  隧道/n  ，/w  渐渐/d  接近/v  陕南/ns  首府/n  安康市/ns  ，/w  春色/n  的/u  煊/n  染/v  也/d  越来越/d  浓/a  。</Segmented_S>
+            <S_Length>31</S_Length>
+            <Keywords start="23" position="23" end="24" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">煊</Keywords>
+            <E_phrase start="0" position="26" end="0" Surprise="0" Sorrow="0" POS="d" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">越来越</E_phrase>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="小康高速公路的目标是“建设成为一条生态路、科技路、人文路”，隧道道口实现“零进洞”、“无洞门”，路基边坡取消实体护面墙、加强生态防护，排水采用可植草绿化的“碟形边沟”，极大可能的实现路与自然的和谐统一。">
+            <S_no>第6段第4句标注</S_no>
+            <Segmented_S> 小康/n  高速公路/n  的/u  目标/n  是/v  “/w  建设/v  成为/v  一/m  条/q  生态/n  路/n  、/w  科技/n  路/n  、/w  人文/n  路/n  ”/w  ，/w  隧道/n  道口/n  实现/v  “/w  零/m  进/v  洞/n  ”/w  、/w  “/w  无/v  洞门/n  ”/w  ，/w  路基/n  边坡/n  取消/v  实体/n  护面墙/n  、/w  加强/v  生态/n  防护/vn  ，/w  排水/v  采用/v  可植/n  草/n  绿化/v  的/u  “/w  碟形/n  边沟/v  ”/w  ，/w  极/d  大/a  可能/n  的/u  实现/vn  路/n  与/c  自然/n  的/u  和谐/a  统一/a  。</Segmented_S>
+            <S_Length>101</S_Length>
+            <Keywords start="-1" position="7" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0.4" Anxiety="0" Anger="0">目标</Keywords>
+            <Keywords start="-1" position="96" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0" Joy="0.6" Hate="0" Expect="0" Anxiety="0" Anger="0">和谐</Keywords>
+            <degree_adv start="-1" position="84" modifier_word_position="85" modifier_word_length="1" end="-1">极</degree_adv>
+            <noword start="-1" position="43" modifier_word_position="44" modifier_word_length="2" end="-1">无</noword>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="路边出现了南方的矫健植物竹林，那一排排修长的枝影下夹杂着各色花种。">
+            <S_no>第6段第5句标注</S_no>
+            <Segmented_S> 路边/s  出现/v  了/u  南方/f  的/u  矫健/n  植物/n  竹林/n  ，/w  那/r  一排排/m  修长/n  的/u  枝/vn  影/Ng  下/f  夹杂/v  着/u  各色/n  花种/v  。</Segmented_S>
+            <S_Length>33</S_Length>
+            <Keywords start="-1" position="8" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">矫健</Keywords>
+            <Keywords start="-1" position="19" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">修长</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="近处的房屋白墙灰瓦，呈现出徽派建筑特色，让人感觉来到了江南。">
+            <S_no>第6段第6句标注</S_no>
+            <Segmented_S> 近处/n  的/u  房屋/n  白/nr  墙灰/nr  瓦/n  ，/w  呈现/v  出/v  徽/n  派/v  建筑/n  特色/n  ，/w  让/v  人/n  感觉/v  来到/v  了/u  江南/s  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="17" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.5" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">特色</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="行驶在这条路上，我知道了什么叫公路文化。">
+            <S_no>第6段第7句标注</S_no>
+            <Segmented_S> 行驶/v  在/p  这/r  条/q  路上/s  ，/w  我/r  知道/v  了/u  什么/r  叫/v  公路/n  文化/n  。</Segmented_S>
+            <S_Length>20</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.6</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="西康高速路在尹家营安康枢纽互通式立交桥上结束。">
+            <S_no>第6段第8句标注</S_no>
+            <Segmented_S> 西康/ns  高速路/n  在/p  尹/nr  家/n  营/n  安康/ns  枢纽/n  互通式/v  立交桥/n  上/f  结束/v  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Opinion_Fact>fact</Opinion_Fact>
+            <Polarity>中性</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="这座立交桥像个巨大的美丽的句号，划在大地上也划在我们的心中。">
+            <S_no>第6段第9句标注</S_no>
+            <Segmented_S> 这/r  座/q  立交桥/n  像个/v  巨大/a  的/u  美丽/a  的/u  句号/n  ，/w  划/v  在/p  大地/n  上/f  也/d  划/v  在/p  我们/r  的/u  心中/s  。</Segmented_S>
+            <S_Length>30</S_Length>
+            <Keywords start="-1" position="10" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.7" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美丽</Keywords>
+            <Rhetoric E_type="喜爱">比喻</Rhetoric>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="今天只用了两个半小时，我就回到了故乡安康。">
+            <S_no>第6段第10句标注</S_no>
+            <Segmented_S> 今天/t  只用/v  了/u  两/m  个/q  半小时/n  ，/w  我就/v  回到/v  了/u  故乡/n  安康/ns  。</Segmented_S>
+            <S_Length>21</S_Length>
+            <Keywords start="-1" position="16" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.4" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">故乡</Keywords>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.4</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="感觉中仿佛是打了个盹儿做了一个梦，醒来就到了。">
+            <S_no>第6段第11句标注</S_no>
+            <Segmented_S> 感觉/v  中/f  仿佛/d  是/v  打/v  了/u  个/q  盹儿/n  做/v  了/u  一个/m  梦/n  ，/w  醒来/v  就/d  到/v  了/u  。</Segmented_S>
+            <S_Length>23</S_Length>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.5</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+        <sentence S="站在清莹的汉江岸边，想着过去翻越秦岭的两天辛苦奔波，想着现在的两个多小时的春风穿行，觉得真是不可思议的变化。">
+            <S_no>第6段第12句标注</S_no>
+            <Segmented_S> 站/v  在/p  清莹/n  的/u  汉江/ns  岸边/s  ，/w  想着/v  过去/t  翻越/v  秦岭/ns  的/u  两/m  天/q  辛苦/v  奔波/v  ，/w  想/v  着/u  现在/t  的/u  两/m  个/q  多/m  小时/n  的/u  春风/n  穿行/v  ，/w  觉得/v  真是/v  不可思议/i  的/u  变化/vn  。</Segmented_S>
+            <S_Length>54</S_Length>
+            <Keywords start="-1" position="2" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">清莹</Keywords>
+            <Keywords start="-1" position="21" end="-1" Surprise="0" Sorrow="0.6" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">辛苦</Keywords>
+            <Keywords start="-1" position="23" end="-1" Surprise="0" Sorrow="0.7" POS="v" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">奔波</Keywords>
+            <Keywords start="-1" position="46" end="-1" Surprise="0.7" Sorrow="0" POS="i" Opinionholder="0" Love="0" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">不可思议</Keywords>
+            <degree_adv start="-1" position="44" modifier_word_position="46" modifier_word_length="4" end="-1">真是</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.7</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.0</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.0</Expect>
+        </sentence>
+    </paragraph>
+    <paragraph>
+        <P_no>第7段情感标注</P_no>
+        <Joy>0.0</Joy>
+        <Hate>0.0</Hate>
+        <Love>0.7</Love>
+        <Sorrow>0.0</Sorrow>
+        <Anxiety>0.0</Anxiety>
+        <Surprise>0.0</Surprise>
+        <Anger>0.0</Anger>
+        <Expect>0.6</Expect>
+        <Topic>----段落主题未标注-----</Topic>
+        <Summarize_Sentences>---本段无主题句---</Summarize_Sentences>
+        <sentence S="故乡越来越美了，以后我会常回来。">
+            <S_no>第7段第1句标注</S_no>
+            <Segmented_S>故乡/n  越来越/d  美/a  了/y  ，/w  以后/f  我会/v  常/d  回来/v  。</Segmented_S>
+            <S_Length>16</S_Length>
+            <Keywords start="-1" position="0" end="-1" Surprise="0" Sorrow="0" POS="n" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">故乡</Keywords>
+            <Keywords start="-1" position="5" end="-1" Surprise="0" Sorrow="0" POS="a" Opinionholder="0" Love="0.6" Joy="0" Hate="0" Expect="0" Anxiety="0" Anger="0">美</Keywords>
+            <degree_adv start="-1" position="2" modifier_word_position="5" modifier_word_length="1" end="-1">越来越</degree_adv>
+            <Opinion_Fact>opinion</Opinion_Fact>
+            <Polarity>积极</Polarity>
+            <Joy>0.0</Joy>
+            <Hate>0.0</Hate>
+            <Love>0.7</Love>
+            <Sorrow>0.0</Sorrow>
+            <Anxiety>0.0</Anxiety>
+            <Surprise>0.0</Surprise>
+            <Anger>0.0</Anger>
+            <Expect>0.6</Expect>
+        </sentence>
+    </paragraph>
+</document>
